@@ -19,6 +19,15 @@ The most popular achievement in 2009 was the creation of ImageNet. ImageNet is a
     </item>
     
     <item>
+      <title>100 &#43; Data Science, Deep Learning, AI &amp; Machine Learning Cheat Sheet PDF</title>
+      <link>/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>A Gentle Introduction to Anomaly Detection with Autoencoders</title>
       <link>/post/2021-11-14-a-gentle-introduction-to-anomaly-detection-with-autoencoders/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
@@ -221,18 +230,6 @@ Link</description>
       <description>Given about 7000 experimental datapoints, we want to understand which parameters influence the metric we want to optimize: valid ppl. How can HiPlot help?
   On the parallel plot, each line represents one datapoint. Slicing on the valid ppl axis reveals that higher values for lr lead to better models.
   We will focus on higher values for the lr then. Un-slice the valid ppl axis by clicking on the axis, but outside of the current slice.</description>
-    </item>
-    
-    <item>
-      <title>How to fine-tune BERT to classify your Slack chats without coding</title>
-      <link>/post/2021-11-14-how-to-fine-tune-bert-to-classify-your-slack-chats-without-coding/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-how-to-fine-tune-bert-to-classify-your-slack-chats-without-coding/</guid>
-      <description>Slack chats can become messy with time, proving difficult to extract meaningful information.
-In this article, I want to present a quick codeless way of fine-tuning and deploying the commonly used BERT classifier to do conversational analysis.
-We will use that system to extract tasks, facts, and other valuable information from our Slack conversations.
-It could be easily extended for categorizing any other textual data, like support requests, emails, etc.</description>
     </item>
     
   </channel>
