@@ -1,45 +1,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deep-learning on If you torture the data long enough, it will confess ©</title>
-    <link>post/tags/deep-learning/</link>
+    <link>/tags/deep-learning/</link>
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="post/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugging Face Transformer Inference Under 1 Millisecond Latency</title>
-      <link>post/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</link>
+      <link>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</guid>
+      <guid>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/hugging-face-transformer-inference-under-1-millisecond-latency-e1be0057a51c&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MODELZOO</title>
-      <link>post/post/12021-11-14-modelzoo/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>post/post/12021-11-14-modelzoo/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/image.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://modelzoo.co/frameworks&#34;&gt;Browse Frameworks&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://modelzoo.co/categories&#34;&gt;Browse Categories&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vision-Store - Computer Vision models with tutorials</title>
-      <link>post/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>post/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/image.png&#34; alt=&#34;&amp;ldquo;AI Vision model store&amp;rdquo;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.augmentedstartups.com/visionstore&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

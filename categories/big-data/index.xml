@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>big-data on If you torture the data long enough, it will confess ©</title>
-    <link>post/categories/big-data/</link>
+    <link>/categories/big-data/</link>
     <description>Recent content in big-data on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="post/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Lake diagram </title>
-      <link>post/post/2021-11-14-data-lake-diagram/</link>
+      <link>/post/2021-11-14-data-lake-diagram/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-data-lake-diagram/</guid>
+      <guid>/post/2021-11-14-data-lake-diagram/</guid>
       <description>&lt;p&gt;Semantix Data Platform&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;images/1635649667555.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>

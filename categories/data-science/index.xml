@@ -1,31 +1,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data-science on If you torture the data long enough, it will confess ©</title>
-    <link>post/categories/data-science/</link>
+    <link>/categories/data-science/</link>
     <description>Recent content in data-science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="post/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>100 &#43; Data Science, Deep Learning, AI &amp; Machine Learning Cheat Sheet PDF</title>
-      <link>post/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</link>
+      <link>/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</guid>
+      <guid>/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bento ML</title>
-      <link>post/post/2021-11-14-bento-ml/</link>
+      <link>/post/2021-11-14-bento-ml/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-bento-ml/</guid>
+      <guid>/post/2021-11-14-bento-ml/</guid>
       <description>&lt;p&gt;BentoML is a flexible, high-performance framework for serving, managing, and deploying machine learning models.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;

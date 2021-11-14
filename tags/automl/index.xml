@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>automl on If you torture the data long enough, it will confess ©</title>
-    <link>post/tags/automl/</link>
+    <link>/tags/automl/</link>
     <description>Recent content in automl on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="post/tags/automl/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/automl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bento ML</title>
-      <link>post/post/2021-11-14-bento-ml/</link>
+      <link>/post/2021-11-14-bento-ml/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-bento-ml/</guid>
+      <guid>/post/2021-11-14-bento-ml/</guid>
       <description>&lt;p&gt;BentoML is a flexible, high-performance framework for serving, managing, and deploying machine learning models.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -37,40 +37,12 @@
     
     <item>
       <title>Developing and Deploying a Machine Learning Model on Vertex AI using Python</title>
-      <link>post/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</link>
+      <link>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</guid>
+      <guid>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</guid>
       <description>&lt;p&gt;Write ML Pipelines that will make your MLOps team happy: follow a clean separation of responsibility between model code and ops code. This article show you how to do that.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python-865b535814f8&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>EvalML</title>
-      <link>post/post/2021-11-14-evalml/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>post/post/2021-11-14-evalml/</guid>
-      <description>&lt;p&gt;EvalML is an AutoML library which builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.&lt;/p&gt;
-&lt;p&gt;Key Functionality&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Automation - Makes machine learning easier. Avoid training and tuning models by hand. Includes data quality checks, cross-validation and more.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Data Checks - Catches and warns of problems with your data and problem setup before modeling.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;End-to-end - Constructs and optimizes pipelines that include state-of-the-art preprocessing, feature engineering, feature selection, and a variety of modeling techniques.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Model Understanding - Provides tools to understand and introspect on models, to learn how they&amp;rsquo;ll behave in your problem domain.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Domain-specific - Includes repository of domain-specific objective functions and an interface to define your own.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

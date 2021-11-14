@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Other on If you torture the data long enough, it will confess ©</title>
-    <link>post/categories/other/</link>
+    <link>/categories/other/</link>
     <description>Recent content in Other on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-        <atom:link href="post/categories/other/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/categories/other/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cloud on If you torture the data long enough, it will confess ©</title>
-    <link>post/tags/cloud/</link>
+    <link>/tags/cloud/</link>
     <description>Recent content in cloud on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="post/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Developing and Deploying a Machine Learning Model on Vertex AI using Python</title>
-      <link>post/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</link>
+      <link>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</guid>
+      <guid>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</guid>
       <description>&lt;p&gt;Write ML Pipelines that will make your MLOps team happy: follow a clean separation of responsibility between model code and ops code. This article show you how to do that.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python-865b535814f8&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>

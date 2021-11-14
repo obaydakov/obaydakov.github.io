@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Engineering on If you torture the data long enough, it will confess ©</title>
-    <link>post/categories/software-engineering/</link>
+    <link>/categories/software-engineering/</link>
     <description>Recent content in Software Engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-        <atom:link href="post/categories/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/categories/software-engineering/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

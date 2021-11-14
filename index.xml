@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</title>
-    <link>post/</link>
+    <link>/</link>
     <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>100 &#43; Data Science, Deep Learning, AI &amp; Machine Learning Cheat Sheet PDF</title>
-      <link>post/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</link>
+      <link>/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</guid>
+      <guid>/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</guid>
       <description>Link</description>
     </item>
     
     <item>
       <title>Bento ML</title>
-      <link>post/post/2021-11-14-bento-ml/</link>
+      <link>/post/2021-11-14-bento-ml/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-bento-ml/</guid>
+      <guid>/post/2021-11-14-bento-ml/</guid>
       <description>BentoML is a flexible, high-performance framework for serving, managing, and deploying machine learning models.
   Supports Multiple ML frameworks, including Tensorflow, PyTorch, Keras, XGBoost and more
   Cloud native deployment with Docker, Kubernetes, AWS, Azure and many more
@@ -32,10 +32,10 @@
     
     <item>
       <title>Cookiecutters (Django &#43; Vue &#43; GraphQL &#43; FastAPI &#43; React &#43; pyTorch)</title>
-      <link>post/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</link>
+      <link>/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</guid>
+      <guid>/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</guid>
       <description>1.Django + Vue + GraphQL + AWS Cookiecutter
 2.Cookiecutter Pipeline for SAM based Serverless App
 3.Cookiecutter Python Microservice
@@ -48,39 +48,39 @@
     
     <item>
       <title>Create An Awesome Streamlit App &amp; Deploy it With Docker</title>
-      <link>post/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</link>
+      <link>/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</guid>
+      <guid>/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</guid>
       <description>This article is a comprehensive overview of a step-by-step guide to deploy a simple sentiment analysis application using streamlit and Docker
 Link</description>
     </item>
     
     <item>
       <title>Data Lake diagram </title>
-      <link>post/post/2021-11-14-data-lake-diagram/</link>
+      <link>/post/2021-11-14-data-lake-diagram/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-data-lake-diagram/</guid>
+      <guid>/post/2021-11-14-data-lake-diagram/</guid>
       <description>Semantix Data Platform</description>
     </item>
     
     <item>
       <title>Developing and Deploying a Machine Learning Model on Vertex AI using Python</title>
-      <link>post/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</link>
+      <link>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</guid>
+      <guid>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</guid>
       <description>Write ML Pipelines that will make your MLOps team happy: follow a clean separation of responsibility between model code and ops code. This article show you how to do that.
 Link</description>
     </item>
     
     <item>
       <title>DJANGO COOKIECUTTER</title>
-      <link>post/post/2021-11-14-django-cookiecutter/</link>
+      <link>/post/2021-11-14-django-cookiecutter/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-django-cookiecutter/</guid>
+      <guid>/post/2021-11-14-django-cookiecutter/</guid>
       <description>1.Cookiecutter Django
 2.Jumpstart your Django Project with Cookiecutter
 3.Using django cookiecutter cloud storage (GCP)
@@ -93,81 +93,49 @@ Link</description>
     </item>
     
     <item>
-      <title>EvalML</title>
-      <link>post/post/2021-11-14-evalml/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>post/post/2021-11-14-evalml/</guid>
-      <description>EvalML is an AutoML library which builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.
-Key Functionality
-  Automation - Makes machine learning easier. Avoid training and tuning models by hand. Includes data quality checks, cross-validation and more.
-  Data Checks - Catches and warns of problems with your data and problem setup before modeling.
-  End-to-end - Constructs and optimizes pipelines that include state-of-the-art preprocessing, feature engineering, feature selection, and a variety of modeling techniques.</description>
-    </item>
-    
-    <item>
       <title>Hugging Face Transformer Inference Under 1 Millisecond Latency</title>
-      <link>post/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</link>
+      <link>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</guid>
+      <guid>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</guid>
       <description>Link</description>
     </item>
     
     <item>
       <title>ML app design</title>
-      <link>post/post/2021-11-14-ml-app-design/</link>
+      <link>/post/2021-11-14-ml-app-design/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>post/post/2021-11-14-ml-app-design/</guid>
+      <guid>/post/2021-11-14-ml-app-design/</guid>
       <description>Build and Deploy Data Science Products : A Practical Guide to Building a Machine Translation Application This journey is going to be a 8 steps.
 In this series we will take a use case, understand the solution landscape and its evolution, explore different architecture choices, look under the hood of the architecture to understand the nuts and bolts, build a prototype, convert the prototype into production ready code, build an application from the production ready code and finally understand the process for deploying the application .</description>
     </item>
     
     <item>
-      <title>MODELZOO</title>
-      <link>post/post/12021-11-14-modelzoo/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>post/post/12021-11-14-modelzoo/</guid>
-      <description>Browse Frameworks
-Browse Categories</description>
-    </item>
-    
-    <item>
-      <title>Vision-Store - Computer Vision models with tutorials</title>
-      <link>post/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>post/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
       <title>Colophon - How does this Blog Work?</title>
-      <link>post/colophon/</link>
+      <link>/colophon/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>post/colophon/</guid>
+      <guid>/colophon/</guid>
       <description>I have already written about my experiences running this blog. Here is a current overview of the technology behind this data science blog:
    Technology Implementation     Static Website Generator Hugo with Mainroad theme   Commenting System Staticman with Heroku hosting   Mailing List Zoho   Hosting/Deployment/DNS Netlify   Forms Netlify and Google   Blog Posts Blogdown   Cookie Bar cookieBAR: a free and easy cookie law plugin   Mailing List Zoho    </description>
     </item>
     
     <item>
       <title>Find out which type of data scientist you are</title>
-      <link>post/which-type-of-data-scientist-are-you/</link>
+      <link>/which-type-of-data-scientist-are-you/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>post/which-type-of-data-scientist-are-you/</guid>
+      <guid>/which-type-of-data-scientist-are-you/</guid>
       <description>Here&amp;rsquo;s your unique download link for learning about the different types of data scientists out there and where you fit in.</description>
     </item>
     
     <item>
       <title>Data Science Glossary</title>
-      <link>post/data-science-glossary/</link>
+      <link>/data-science-glossary/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>post/data-science-glossary/</guid>
+      <guid>/data-science-glossary/</guid>
       <description>This data science glossary contains the most important terms, structured into three categories:
 Machine LearningSoftware EngineeringStatistics/Data VisualizationMachine Learning GlossaryThe machine learning glossary is structured into:
 General termsReinforcement-learning termsSupervised-learning termsUnsupervised-learning termsGeneral Terms
@@ -176,29 +144,29 @@ Browse Categories</description>
     
     <item>
       <title>How Can I Contribute to This Blog?</title>
-      <link>post/contribute-to-datascienceblog/</link>
+      <link>/contribute-to-datascienceblog/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>post/contribute-to-datascienceblog/</guid>
+      <guid>/contribute-to-datascienceblog/</guid>
       <description>I&amp;rsquo;m always looking for original and high-quality contributions to this blog. If you&amp;rsquo;re interested in collaborating, please feel free to contact me. I&amp;rsquo;m particularly interested in the following types of content:
  Guest blog posts on data science topics Interviews with data scientists and companies that utilize data science Presentations of projects/startups/companies related to data science  Interested? Loading...</description>
     </item>
     
     <item>
       <title>Recommended Resources for Data Science and R</title>
-      <link>post/recommended-resources-data-science-and-r/</link>
+      <link>/recommended-resources-data-science-and-r/</link>
       <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>post/recommended-resources-data-science-and-r/</guid>
+      <guid>/recommended-resources-data-science-and-r/</guid>
       <description>Data Science  An excellent essay on the data science field by David Donoho The Stats Geek: a blog on statistics Cross Validated: probably the largest forum for discussing anything related to statistics and machine learning Data Camp: a great resource for training in data science Data Science Reader: an aggregator for data science content DataTau: a data science forum Data Science Hiring Guide: a practical guide on what to consider when hiring data scientists  R  RStudio Blog: keep up to date with the newest developments in RStudio develOverflow Bioconductor: the repository for R packages relating to bioinformatics R-bloggers: an aggregator for blog posts about R Tidyverse: a highly useful collection of R package designed for data science of which ggplot2 and dplyr are probably the most notable members Awesome R: ever wondered what great R packages are out there that you are not using?</description>
     </item>
     
     <item>
       <title>Datenschutzerklärung</title>
-      <link>post/datenschutz/</link>
+      <link>/datenschutz/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>post/datenschutz/</guid>
+      <guid>/datenschutz/</guid>
       <description>1. Datenschutz auf einen BlickAllgemeine Hinweise Die folgenden Hinweise geben äeinen einfachen &amp;Uuml;berblick dar&amp;uuml;ber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie pers&amp;ouml;nlich identifiziert werden k&amp;ouml;nnen. Ausf&amp;uuml;hrliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgef&amp;uuml;hrten Datenschutzerkl&amp;auml;rung.
 Datenerfassung auf unserer Website Wer ist verantwortlich f&amp;uuml;r die Datenerfassung auf dieser Website?
 Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber.</description>
@@ -206,10 +174,10 @@ Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber.</de
     
     <item>
       <title>Impressum</title>
-      <link>post/impressum/</link>
+      <link>/impressum/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>post/impressum/</guid>
+      <guid>/impressum/</guid>
       <description>Angaben gem&amp;auml;&amp;szlig; &amp;sect; 5 TMG Dr. Matthias D&amp;ouml;ring
 Liebigstr. 56
 60323 Frankfurt/Main

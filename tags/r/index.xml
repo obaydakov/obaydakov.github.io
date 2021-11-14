@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R for applications in data science on If you torture the data long enough, it will confess ©</title>
-    <link>post/tags/r/</link>
+    <link>/tags/r/</link>
     <description>Recent content in R for applications in data science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-        <atom:link href="post/tags/r/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
