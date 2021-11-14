@@ -5,10 +5,19 @@
     <description>Recent content in Categories on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Nov 2021 10:42:38 +0200</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>deep-learning</title>
+      <link>/categories/deep-learning/</link>
+      <pubDate>Sun, 14 Nov 2021 10:42:38 +0200</pubDate>
+      
+      <guid>/categories/deep-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>big-data</title>
@@ -25,15 +34,6 @@
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/data-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>/categories/deep-learning/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/deep-learning/</guid>
       <description></description>
     </item>
     

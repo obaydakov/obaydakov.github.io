@@ -5,10 +5,19 @@
     <description>Recent content in Tags on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Nov 2021 10:42:38 +0200</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>computer-vision</title>
+      <link>/tags/computer-vision/</link>
+      <pubDate>Sun, 14 Nov 2021 10:42:38 +0200</pubDate>
+      
+      <guid>/tags/computer-vision/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>apps</title>
@@ -47,29 +56,11 @@
     </item>
     
     <item>
-      <title>books</title>
-      <link>/tags/books/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cloud</title>
       <link>/tags/cloud/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/cloud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>computer-vision</title>
-      <link>/tags/computer-vision/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/computer-vision/</guid>
       <description></description>
     </item>
     

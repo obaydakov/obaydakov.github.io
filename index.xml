@@ -6,20 +6,11 @@
     <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>100 &#43; Data Science, Deep Learning, AI &amp; Machine Learning Cheat Sheet PDF</title>
-      <link>/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</guid>
-      <description>Link</description>
-    </item>
-    
+    <lastBuildDate>Sun, 14 Nov 2021 10:42:38 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Complete Intuitive Guide To Transfer Learning </title>
       <link>/post/2021-11-14-a-complete-intuitive-guide-to-transfer-learning/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Nov 2021 10:42:38 +0200</pubDate>
       
       <guid>/post/2021-11-14-a-complete-intuitive-guide-to-transfer-learning/</guid>
       <description>Advancements in deep learning have been rapid over the past decade.
@@ -233,6 +224,15 @@ Link</description>
 In this article, I want to present a quick codeless way of fine-tuning and deploying the commonly used BERT classifier to do conversational analysis.
 We will use that system to extract tasks, facts, and other valuable information from our Slack conversations.
 It could be easily extended for categorizing any other textual data, like support requests, emails, etc.</description>
+    </item>
+    
+    <item>
+      <title>Hugging Face Transformer Inference Under 1 Millisecond Latency</title>
+      <link>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</guid>
+      <description>Link</description>
     </item>
     
   </channel>
