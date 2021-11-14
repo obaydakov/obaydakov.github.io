@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nlp on If you torture the data long enough, it will confess ©</title>
+    <link>/tags/nlp/</link>
+    <description>Recent content in nlp on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Visual Guide to Using BERT for the First Time</title>
+      <link>/post/2021-11-14-a-visual-guide-to-using-bert-for-the-first-time/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-a-visual-guide-to-using-bert-for-the-first-time/</guid>
+      <description>&lt;p&gt;This post is a simple tutorial for how to use a variant of BERT to classify sentences.&lt;/p&gt;
+&lt;p&gt;This is an example that is basic enough as a first intro, yet advanced enough to showcase some of the key concepts involved.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to fine-tune BERT to classify your Slack chats without coding</title>
+      <link>/post/2021-11-14-how-to-fine-tune-bert-to-classify-your-slack-chats-without-coding/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-how-to-fine-tune-bert-to-classify-your-slack-chats-without-coding/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/lifecycle.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Slack chats can become messy with time, proving difficult to extract meaningful information.&lt;/p&gt;
+&lt;p&gt;In this article, I want to present a quick codeless way of fine-tuning and deploying the commonly used BERT classifier to do conversational analysis.&lt;/p&gt;
+&lt;p&gt;We will use that system to extract tasks, facts, and other valuable information from our Slack conversations.&lt;/p&gt;
+&lt;p&gt;It could be easily extended for categorizing any other textual data, like support requests, emails, etc.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-finetune-bert-to-classify-your-slack-chats-without-coding-3a7002936bcf&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 

@@ -1,0 +1,64 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer-vision on If you torture the data long enough, it will confess ©</title>
+    <link>/tags/computer-vision/</link>
+    <description>Recent content in computer-vision on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Complete Intuitive Guide To Transfer Learning </title>
+      <link>/post/2021-11-14-a-complete-intuitive-guide-to-transfer-learning/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-a-complete-intuitive-guide-to-transfer-learning/</guid>
+      <description>&lt;p&gt;Advancements in deep learning have been rapid over the past decade.&lt;/p&gt;
+&lt;p&gt;While the discovery of neural networks happened almost six decades ago with the invention of the first artificial neural network in 1958 by psychologist Frank Rosenblatt (called the &amp;ldquo;perceptron&amp;rdquo;), the developments in the field did not gain true popularity until about a decade ago.&lt;/p&gt;
+&lt;p&gt;The most popular achievement in 2009 was the creation of ImageNet. ImageNet is a humungous visual dataset that has led to some of the best modern-day deep learning and computer vision projects.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.paperspace.com/transfer-learning-explained/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BMW TechOffice MUNICH</title>
+      <link>/post/2021-11-14-bmw-techoffice-munich/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-bmw-techoffice-munich/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/repo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This organization contains software for realtime computer vision published by the members, partners and friends of the BMW TechOffice MUNICH and InnovationLab.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/BMW-InnovationLab&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Face Verification With Keras and Streamlit</title>
+      <link>/post/2021-11-14-face-verification-with-keras-and-streamlit/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-face-verification-with-keras-and-streamlit/</guid>
+      <description>&lt;p&gt;Streamlit enables data scientists and machine learning practitioners to build data and machine learning applications quickly.&lt;/p&gt;
+&lt;p&gt;In this piece, we will look at how we can use Streamlit to build a face verification application.&lt;/p&gt;
+&lt;p&gt;However, before we can start verifying faces, we have to detect them. In computer vision, face detection is the task of locating and localizing faces in an image. Face verification is the process of comparing the similarity of two or more images.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.paperspace.com/face-verification-with-keras/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vision Transformers Explained</title>
+      <link>/post/2021-11-14-vision-transformers-explained/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-vision-transformers-explained/</guid>
+      <description>&lt;p&gt;Introduced in the paper, An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, Vision Transformers (ViT) are the new talk of the town for SOTA image classification.&lt;/p&gt;
+&lt;p&gt;Experts feel this is only the tip of the iceberg when it comes to Transformer architectures replacing their convolutional counterparts for upstream/downstream tasks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.paperspace.com/vision-transformers/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 

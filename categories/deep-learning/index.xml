@@ -1,0 +1,105 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep-learning on If you torture the data long enough, it will confess ©</title>
+    <link>/categories/deep-learning/</link>
+    <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Complete Intuitive Guide To Transfer Learning </title>
+      <link>/post/2021-11-14-a-complete-intuitive-guide-to-transfer-learning/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-a-complete-intuitive-guide-to-transfer-learning/</guid>
+      <description>&lt;p&gt;Advancements in deep learning have been rapid over the past decade.&lt;/p&gt;
+&lt;p&gt;While the discovery of neural networks happened almost six decades ago with the invention of the first artificial neural network in 1958 by psychologist Frank Rosenblatt (called the &amp;ldquo;perceptron&amp;rdquo;), the developments in the field did not gain true popularity until about a decade ago.&lt;/p&gt;
+&lt;p&gt;The most popular achievement in 2009 was the creation of ImageNet. ImageNet is a humungous visual dataset that has led to some of the best modern-day deep learning and computer vision projects.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.paperspace.com/transfer-learning-explained/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Gentle Introduction to Anomaly Detection with Autoencoders</title>
+      <link>/post/2021-11-14-a-gentle-introduction-to-anomaly-detection-with-autoencoders/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-a-gentle-introduction-to-anomaly-detection-with-autoencoders/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/autoencoder.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Anomagram is an interactive visualization tool for exploring how a deep learning model can be applied to the task of anomaly detection (on stationary data).&lt;/p&gt;
+&lt;p&gt;Given an ECG signal sample, an autoencoder model (running live in your browser) can predict if it is normal or abnormal.&lt;/p&gt;
+&lt;p&gt;To try it out, click any of the test ECG signals from the ECG5000 dataset below, or better still, draw a signal to see the model&amp;rsquo;s prediction!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://anomagram.fastforwardlabs.com/#/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Visual Guide to Using BERT for the First Time</title>
+      <link>/post/2021-11-14-a-visual-guide-to-using-bert-for-the-first-time/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-a-visual-guide-to-using-bert-for-the-first-time/</guid>
+      <description>&lt;p&gt;This post is a simple tutorial for how to use a variant of BERT to classify sentences.&lt;/p&gt;
+&lt;p&gt;This is an example that is basic enough as a first intro, yet advanced enough to showcase some of the key concepts involved.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BMW TechOffice MUNICH</title>
+      <link>/post/2021-11-14-bmw-techoffice-munich/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-bmw-techoffice-munich/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/repo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This organization contains software for realtime computer vision published by the members, partners and friends of the BMW TechOffice MUNICH and InnovationLab.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/BMW-InnovationLab&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Face Verification With Keras and Streamlit</title>
+      <link>/post/2021-11-14-face-verification-with-keras-and-streamlit/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-face-verification-with-keras-and-streamlit/</guid>
+      <description>&lt;p&gt;Streamlit enables data scientists and machine learning practitioners to build data and machine learning applications quickly.&lt;/p&gt;
+&lt;p&gt;In this piece, we will look at how we can use Streamlit to build a face verification application.&lt;/p&gt;
+&lt;p&gt;However, before we can start verifying faces, we have to detect them. In computer vision, face detection is the task of locating and localizing faces in an image. Face verification is the process of comparing the similarity of two or more images.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.paperspace.com/face-verification-with-keras/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to fine-tune BERT to classify your Slack chats without coding</title>
+      <link>/post/2021-11-14-how-to-fine-tune-bert-to-classify-your-slack-chats-without-coding/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-how-to-fine-tune-bert-to-classify-your-slack-chats-without-coding/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/lifecycle.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Slack chats can become messy with time, proving difficult to extract meaningful information.&lt;/p&gt;
+&lt;p&gt;In this article, I want to present a quick codeless way of fine-tuning and deploying the commonly used BERT classifier to do conversational analysis.&lt;/p&gt;
+&lt;p&gt;We will use that system to extract tasks, facts, and other valuable information from our Slack conversations.&lt;/p&gt;
+&lt;p&gt;It could be easily extended for categorizing any other textual data, like support requests, emails, etc.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-finetune-bert-to-classify-your-slack-chats-without-coding-3a7002936bcf&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vision Transformers Explained</title>
+      <link>/post/2021-11-14-vision-transformers-explained/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-vision-transformers-explained/</guid>
+      <description>&lt;p&gt;Introduced in the paper, An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, Vision Transformers (ViT) are the new talk of the town for SOTA image classification.&lt;/p&gt;
+&lt;p&gt;Experts feel this is only the tip of the iceberg when it comes to Transformer architectures replacing their convolutional counterparts for upstream/downstream tasks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.paperspace.com/vision-transformers/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 

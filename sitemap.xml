@@ -13,6 +13,22 @@
   
 
       <url>
+        <loc>/post/2021-11-14-a-complete-intuitive-guide-to-transfer-learning/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-11-14-a-gentle-introduction-to-anomaly-detection-with-autoencoders/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/post/2021-11-15-a-guide-to-production-level-deep-learning/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
@@ -21,7 +37,23 @@
   
 
       <url>
+        <loc>/post/2021-11-14-a-visual-guide-to-using-bert-for-the-first-time/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/tags/apps/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/autoencoders/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -69,6 +101,14 @@
   
 
       <url>
+        <loc>/post/2021-11-14-bmw-techoffice-munich/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/tags/books/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
@@ -86,6 +126,14 @@
 
       <url>
         <loc>/tags/cloud/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/computer-vision/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -141,6 +189,14 @@
   
 
       <url>
+        <loc>/categories/deep-learning/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/tags/design/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
@@ -181,6 +237,46 @@
   
 
       <url>
+        <loc>/post/2021-11-14-face-verification-with-keras-and-streamlit/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-11-14-from-model-inception-to-deployment/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-11-14-get-faster-pandas-with-modin-even-on-your-laptops/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-11-14-hiplot-demonstration/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-11-14-how-to-fine-tune-bert-to-classify-your-slack-chats-without-coding/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
@@ -206,6 +302,14 @@
 
       <url>
         <loc>/post/12021-11-14-modelzoo/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/nlp/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -245,7 +349,23 @@
   
 
       <url>
+        <loc>/post/2021-11-14-vision-transformers-explained/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/visualization/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     

@@ -68,5 +68,16 @@
 </description>
     </item>
     
+    <item>
+      <title>From model inception to deployment</title>
+      <link>/post/2021-11-14-from-model-inception-to-deployment/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-from-model-inception-to-deployment/</guid>
+      <description>&lt;p&gt;Machine Learning model training &amp;amp; scalable deployment with Flask, Nginx &amp;amp; Gunicorn wrapped in a Docker Container&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.datadriveninvestor.com/from-model-inception-to-deployment-adce1f5ed9d6&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss> 

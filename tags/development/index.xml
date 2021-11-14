@@ -11,6 +11,18 @@
     
     
     <item>
+      <title>Get faster pandas with Modin, even on your laptops</title>
+      <link>/post/2021-11-14-get-faster-pandas-with-modin-even-on-your-laptops/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-get-faster-pandas-with-modin-even-on-your-laptops/</guid>
+      <description>&lt;p&gt;Modin is an early-stage project at UC Berkeley’s RISELab designed to facilitate the use of distributed computing for Data Science.&lt;/p&gt;
+&lt;p&gt;It is a multiprocess Dataframe library with an identical API to pandas that allows users to speed up their Pandas workflows.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ML app design</title>
       <link>/post/2021-11-14-ml-app-design/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>

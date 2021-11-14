@@ -17,6 +17,28 @@
     </item>
     
     <item>
+      <title>A Complete Intuitive Guide To Transfer Learning </title>
+      <link>/post/2021-11-14-a-complete-intuitive-guide-to-transfer-learning/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-a-complete-intuitive-guide-to-transfer-learning/</guid>
+      <description>Advancements in deep learning have been rapid over the past decade.
+While the discovery of neural networks happened almost six decades ago with the invention of the first artificial neural network in 1958 by psychologist Frank Rosenblatt (called the &amp;ldquo;perceptron&amp;rdquo;), the developments in the field did not gain true popularity until about a decade ago.
+The most popular achievement in 2009 was the creation of ImageNet. ImageNet is a humungous visual dataset that has led to some of the best modern-day deep learning and computer vision projects.</description>
+    </item>
+    
+    <item>
+      <title>A Gentle Introduction to Anomaly Detection with Autoencoders</title>
+      <link>/post/2021-11-14-a-gentle-introduction-to-anomaly-detection-with-autoencoders/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-a-gentle-introduction-to-anomaly-detection-with-autoencoders/</guid>
+      <description>Anomagram is an interactive visualization tool for exploring how a deep learning model can be applied to the task of anomaly detection (on stationary data).
+Given an ECG signal sample, an autoencoder model (running live in your browser) can predict if it is normal or abnormal.
+To try it out, click any of the test ECG signals from the ECG5000 dataset below, or better still, draw a signal to see the model&amp;rsquo;s prediction!</description>
+    </item>
+    
+    <item>
       <title>A Guide to Production Level Deep Learning</title>
       <link>/post/2021-11-15-a-guide-to-production-level-deep-learning/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
@@ -24,6 +46,17 @@
       <guid>/post/2021-11-15-a-guide-to-production-level-deep-learning/</guid>
       <description>Deploying deep learning models in production can be challenging, as it is far beyond training models with good performance.
 Several distinct components need to be designed and developed in order to deploy a production level deep learning system (seen below):
+Link</description>
+    </item>
+    
+    <item>
+      <title>A Visual Guide to Using BERT for the First Time</title>
+      <link>/post/2021-11-14-a-visual-guide-to-using-bert-for-the-first-time/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-a-visual-guide-to-using-bert-for-the-first-time/</guid>
+      <description>This post is a simple tutorial for how to use a variant of BERT to classify sentences.
+This is an example that is basic enough as a first intro, yet advanced enough to showcase some of the key concepts involved.
 Link</description>
     </item>
     
@@ -60,6 +93,16 @@ Link</description>
   High-Performance online API serving and offline batch serving
   Web dashboards and APIs for model registry and deployment management
   Link</description>
+    </item>
+    
+    <item>
+      <title>BMW TechOffice MUNICH</title>
+      <link>/post/2021-11-14-bmw-techoffice-munich/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-bmw-techoffice-munich/</guid>
+      <description>This organization contains software for realtime computer vision published by the members, partners and friends of the BMW TechOffice MUNICH and InnovationLab.
+Link</description>
     </item>
     
     <item>
@@ -138,41 +181,58 @@ Key Functionality
     </item>
     
     <item>
-      <title>Hugging Face Transformer Inference Under 1 Millisecond Latency</title>
-      <link>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</link>
+      <title>Face Verification With Keras and Streamlit</title>
+      <link>/post/2021-11-14-face-verification-with-keras-and-streamlit/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</guid>
-      <description>Link</description>
+      <guid>/post/2021-11-14-face-verification-with-keras-and-streamlit/</guid>
+      <description>Streamlit enables data scientists and machine learning practitioners to build data and machine learning applications quickly.
+In this piece, we will look at how we can use Streamlit to build a face verification application.
+However, before we can start verifying faces, we have to detect them. In computer vision, face detection is the task of locating and localizing faces in an image. Face verification is the process of comparing the similarity of two or more images.</description>
     </item>
     
     <item>
-      <title>ML app design</title>
-      <link>/post/2021-11-14-ml-app-design/</link>
+      <title>From model inception to deployment</title>
+      <link>/post/2021-11-14-from-model-inception-to-deployment/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-ml-app-design/</guid>
-      <description>Build and Deploy Data Science Products : A Practical Guide to Building a Machine Translation Application This journey is going to be a 8 steps.
-In this series we will take a use case, understand the solution landscape and its evolution, explore different architecture choices, look under the hood of the architecture to understand the nuts and bolts, build a prototype, convert the prototype into production ready code, build an application from the production ready code and finally understand the process for deploying the application .</description>
+      <guid>/post/2021-11-14-from-model-inception-to-deployment/</guid>
+      <description>Machine Learning model training &amp;amp; scalable deployment with Flask, Nginx &amp;amp; Gunicorn wrapped in a Docker Container
+Link</description>
     </item>
     
     <item>
-      <title>MODELZOO</title>
-      <link>/post/12021-11-14-modelzoo/</link>
+      <title>Get faster pandas with Modin, even on your laptops</title>
+      <link>/post/2021-11-14-get-faster-pandas-with-modin-even-on-your-laptops/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/12021-11-14-modelzoo/</guid>
-      <description>Browse Frameworks
-Browse Categories</description>
+      <guid>/post/2021-11-14-get-faster-pandas-with-modin-even-on-your-laptops/</guid>
+      <description>Modin is an early-stage project at UC Berkeley’s RISELab designed to facilitate the use of distributed computing for Data Science.
+It is a multiprocess Dataframe library with an identical API to pandas that allows users to speed up their Pandas workflows.
+Link</description>
     </item>
     
     <item>
-      <title>Vision-Store - Computer Vision models with tutorials</title>
-      <link>/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</link>
+      <title>HiPlot demonstration</title>
+      <link>/post/2021-11-14-hiplot-demonstration/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</guid>
-      <description>Link</description>
+      <guid>/post/2021-11-14-hiplot-demonstration/</guid>
+      <description>Given about 7000 experimental datapoints, we want to understand which parameters influence the metric we want to optimize: valid ppl. How can HiPlot help?
+  On the parallel plot, each line represents one datapoint. Slicing on the valid ppl axis reveals that higher values for lr lead to better models.
+  We will focus on higher values for the lr then. Un-slice the valid ppl axis by clicking on the axis, but outside of the current slice.</description>
+    </item>
+    
+    <item>
+      <title>How to fine-tune BERT to classify your Slack chats without coding</title>
+      <link>/post/2021-11-14-how-to-fine-tune-bert-to-classify-your-slack-chats-without-coding/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-how-to-fine-tune-bert-to-classify-your-slack-chats-without-coding/</guid>
+      <description>Slack chats can become messy with time, proving difficult to extract meaningful information.
+In this article, I want to present a quick codeless way of fine-tuning and deploying the commonly used BERT classifier to do conversational analysis.
+We will use that system to extract tasks, facts, and other valuable information from our Slack conversations.
+It could be easily extended for categorizing any other textual data, like support requests, emails, etc.</description>
     </item>
     
   </channel>
