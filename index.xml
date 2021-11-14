@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</title>
+    <link>/</link>
+    <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>100 &#43; Data Science, Deep Learning, AI &amp; Machine Learning Cheat Sheet PDF</title>
+      <link>/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Bento ML</title>
+      <link>/post/2021-11-14-bento-ml/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-bento-ml/</guid>
+      <description>BentoML is a flexible, high-performance framework for serving, managing, and deploying machine learning models.
+  Supports Multiple ML frameworks, including Tensorflow, PyTorch, Keras, XGBoost and more
+  Cloud native deployment with Docker, Kubernetes, AWS, Azure and many more
+  High-Performance online API serving and offline batch serving
+  Web dashboards and APIs for model registry and deployment management
+  Link</description>
+    </item>
+    
+    <item>
+      <title>Data Lake diagram </title>
+      <link>/post/2021-11-14-data-lake-diagram/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-data-lake-diagram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing and Deploying a Machine Learning Model on Vertex AI using Python</title>
+      <link>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</guid>
+      <description>Write ML Pipelines that will make your MLOps team happy: follow a clean separation of responsibility between model code and ops code. This article show you how to do that.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Hugging Face Transformer Inference Under 1 Millisecond Latency</title>
+      <link>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Colophon - How does this Blog Work?</title>
+      <link>/colophon/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/colophon/</guid>
+      <description>I have already written about my experiences running this blog. Here is a current overview of the technology behind this data science blog:
+   Technology Implementation     Static Website Generator Hugo with Mainroad theme   Commenting System Staticman with Heroku hosting   Mailing List Zoho   Hosting/Deployment/DNS Netlify   Forms Netlify and Google   Blog Posts Blogdown   Cookie Bar cookieBAR: a free and easy cookie law plugin   Mailing List Zoho    </description>
+    </item>
+    
+    <item>
+      <title>Find out which type of data scientist you are</title>
+      <link>/which-type-of-data-scientist-are-you/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/which-type-of-data-scientist-are-you/</guid>
+      <description>Here&amp;rsquo;s your unique download link for learning about the different types of data scientists out there and where you fit in.</description>
+    </item>
+    
+    <item>
+      <title>Data Science Glossary</title>
+      <link>/data-science-glossary/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/data-science-glossary/</guid>
+      <description>This data science glossary contains the most important terms, structured into three categories:
+Machine LearningSoftware EngineeringStatistics/Data VisualizationMachine Learning GlossaryThe machine learning glossary is structured into:
+General termsReinforcement-learning termsSupervised-learning termsUnsupervised-learning termsGeneral Terms
+Data PointData WranglingMachine LearningModel ComplexityModelReinforcement LearningSupervised LearningUnsupervised LearningReinforcement Learning</description>
+    </item>
+    
+    <item>
+      <title>How Can I Contribute to This Blog?</title>
+      <link>/contribute-to-datascienceblog/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/contribute-to-datascienceblog/</guid>
+      <description>I&amp;rsquo;m always looking for original and high-quality contributions to this blog. If you&amp;rsquo;re interested in collaborating, please feel free to contact me. I&amp;rsquo;m particularly interested in the following types of content:
+ Guest blog posts on data science topics Interviews with data scientists and companies that utilize data science Presentations of projects/startups/companies related to data science  Interested? Loading...</description>
+    </item>
+    
+    <item>
+      <title>Recommended Resources for Data Science and R</title>
+      <link>/recommended-resources-data-science-and-r/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/recommended-resources-data-science-and-r/</guid>
+      <description>Data Science  An excellent essay on the data science field by David Donoho The Stats Geek: a blog on statistics Cross Validated: probably the largest forum for discussing anything related to statistics and machine learning Data Camp: a great resource for training in data science Data Science Reader: an aggregator for data science content DataTau: a data science forum Data Science Hiring Guide: a practical guide on what to consider when hiring data scientists  R  RStudio Blog: keep up to date with the newest developments in RStudio develOverflow Bioconductor: the repository for R packages relating to bioinformatics R-bloggers: an aggregator for blog posts about R Tidyverse: a highly useful collection of R package designed for data science of which ggplot2 and dplyr are probably the most notable members Awesome R: ever wondered what great R packages are out there that you are not using?</description>
+    </item>
+    
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>/datenschutz/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/datenschutz/</guid>
+      <description>1. Datenschutz auf einen BlickAllgemeine Hinweise Die folgenden Hinweise geben äeinen einfachen &amp;Uuml;berblick dar&amp;uuml;ber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie pers&amp;ouml;nlich identifiziert werden k&amp;ouml;nnen. Ausf&amp;uuml;hrliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgef&amp;uuml;hrten Datenschutzerkl&amp;auml;rung.
+Datenerfassung auf unserer Website Wer ist verantwortlich f&amp;uuml;r die Datenerfassung auf dieser Website?
+Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>/impressum/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/impressum/</guid>
+      <description>Angaben gem&amp;auml;&amp;szlig; &amp;sect; 5 TMG Dr. Matthias D&amp;ouml;ring
+Liebigstr. 56
+60323 Frankfurt/Main
+Kontakt E-Mail: matthias-doering@gmx.de
+Verantwortlich f&amp;uuml;r den Inhalt nach &amp;sect; 55 Abs. 2 RStV Dr. Matthias D&amp;ouml;ring
+Liebigstr. 56
+60323 Frankfurt/Main
+Haftung f&amp;uuml;r Inhalte Als Diensteanbieter sind wir gem&amp;auml;&amp;szlig; &amp;sect; 7 Abs.1 TMG f&amp;uuml;r eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach &amp;sect;&amp;sect; 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, &amp;uuml;bermittelte oder gespeicherte fremde Informationen zu &amp;uuml;berwachen oder nach Umst&amp;auml;nden zu forschen, die auf eine rechtswidrige T&amp;auml;tigkeit hinweisen.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,218 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on If you torture the data long enough, it will confess ©</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>big-data</title>
+      <link>/categories/big-data/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-science</title>
+      <link>/categories/data-science/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/categories/machine-learning/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/machine-learning/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;!--script src=&#34;https://infograph.venngage.com/js/embed/v1/embed.js&#34; data-vg-id=&#34;u34x7Gx704&#34; data-title=&#34;A Brief History of Machine Learning&#34; data-w=&#34;816&#34; data-h=&#34;1056&#34; data-multipage=&#34;true&#34;&gt;&lt;/script--&gt;
+&lt;p&gt;&lt;img src=&#34;machine_learning_cover.jpg&#34; alt=&#34;Machine learning&#34; width = &#34;1000&#34; height = &#34;668&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Machine learning is a field of artificial intelligence (AI) that is concerned with learning from data. Machine learning has three components:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/tags/supervised-learning/&#34;&gt;Supervised learning&lt;/a&gt;: Fitting predictive models using data for which outcomes are available.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/tags/unsupervised-learning/&#34;&gt;Unsupervised learning&lt;/a&gt;: Transforming and partitioning data where outcomes are not available.&lt;/li&gt;
+&lt;li&gt;Reinforcement learning: on-line learning in environments where not all events are observable. Reinforcement learning is frequently applied in robotics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&#34;posts-on-machine-learning&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts on machine learning&lt;/h2&gt;
+&lt;p&gt;In the following posts, machine learning is applied to solve problems using R.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Basic Statistical Concepts for Data Science</title>
+      <link>/categories/basic-statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/basic-statistics/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;basic-statistics_avatar.jpg&#34; alt=&#34;Basic statistics&#34; width = &#34;1000&#34; height = &#34;667&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As a data scientist, it is important to have a deep understanding of statistics. Here, I introduce basic statistical concepts and quantities.&lt;/p&gt;
+&lt;div id=&#34;types-of-measurements-and-variables&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Types of measurements and variables&lt;/h2&gt;
+&lt;p&gt;Important statistical concepts include the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Types of measurement scales&lt;/li&gt;
+&lt;li&gt;Nomenclature for variables: dependent vs independent variables&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;statistical-quantities&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Statistical quantities&lt;/h2&gt;
+&lt;p&gt;You should definitely know about the following, frequently used statistical quantities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Centrality measures: &lt;a href=&#34;/post/basic-statistics/mean_vs_median/&#34;&gt;mean and median&lt;/a&gt;, mode&lt;/li&gt;
+&lt;li&gt;Measure of dispersion: standard deviation, variance, covariance, interquartile-range&lt;/li&gt;
+&lt;li&gt;Interval estimates: confidence intervals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;probability-distributions&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Probability distributions&lt;/h2&gt;
+&lt;p&gt;Commonly occuring probability distributions are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uniform distribution: all values are equally likely&lt;/li&gt;
+&lt;li&gt;Normal distribution: a bell-shaped curve, typical for many population characteristics (e.g. IQs, heights)&lt;/li&gt;
+&lt;li&gt;Poisson distribution: an integer distribution that is ideal for count data&lt;/li&gt;
+&lt;li&gt;Exponential distribution: a heavy-tailed distribution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;posts-on-basic-statistics&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts on basic statistics&lt;/h2&gt;
+&lt;p&gt;You can find eplanations of basic statistical concepts and their use in R in the following posts.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Commentary</title>
+      <link>/categories/commentary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/commentary/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;commentary_avatar.jpeg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;In this section of the blog, I discuss topics related to data science, AI, and academia.&lt;/p&gt;
+&lt;div id=&#34;posts-on-software-engineering&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts on software engineering&lt;/h2&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>/categories/data-visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/data-visualization/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;data-visualization_avatar.jpg&#34; alt=&#34;Data visualization&#34; width = &#34;1500&#34; height = &#34;585&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Humans are visual creatures. Thus, visualization is one of the most important tools for conveying information and data scientists should be adapt at selecting appropriate visualizations.&lt;/p&gt;
+&lt;div id=&#34;which-plot-is-appropriate&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Which plot is appropriate?&lt;/h2&gt;
+&lt;p&gt;Choosing an appropriate plot for a given set of data can be hard because there are so many types of plots such as scatter plots, box plots, and histograms. Fortunately, I have created an &lt;a href=&#34;/tags/plot/&#34;&gt;overview of the most important plots, when they are appropriate, and how they can be used in R&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;posts-about-data-visualization&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts about data visualization&lt;/h2&gt;
+&lt;p&gt;The following posts deal with topics from data visualization.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>/categories/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/other/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;other_avatar.jpg&#34; alt = &#34;Other topics&#34; width = &#34;1000&#34; height = &#34;667&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Need a holiday from data science? Then this page is for you because this category encompasses all the posts that are not directly associated with data science. Until now, these posts have mostly dealt with blogging with Hugo but let’s see what the future brings. Anyway, I don’t plan to stray too far away from the intended focus of the blog, so there should never be too many posts under this category.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>/categories/software-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/software-engineering/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;software_engineering_avatar.jpg&#34; /&gt;&lt;/p&gt;
+&lt;div id=&#34;posts-on-software-engineering&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts on software engineering&lt;/h2&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical Significance Tests</title>
+      <link>/categories/statistical-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/statistical-test/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;roulette-roulette-wheel-ball-turn_avatar.jpg&#34;/ alt = &#34;Statistical tests&#34; width = &#34;1125&#34; height = &#34;750&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Using statistical tests, it is possible to make a statement about the significance of a set of measurements by calculating a test statistic. If it is unlikely to obtain a test statistic at least as extreme as the observed value, then the result is significant. For example, at a significance level of 5%, the probability of a false positive test result would be bounded by roughly 5%.&lt;/p&gt;
+&lt;div id=&#34;parametric-vs-non-parametric-tests&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Parametric vs non-parametric tests&lt;/h2&gt;
+&lt;p&gt;There is a multitude of tests for determining statistical significance. These tests can be differentiated into two categories: parametric and non-parametric tests. While parametric tests make assumptions on the distribution of the data, non-parametric tests do not rely on such assumptions. For example, the parametric t-test compares the means of two groups because it assumes that the data have a normal distribution.&lt;/p&gt;
+&lt;p&gt;The non-parametric Wilcoxon rank sum test (Mann-Whitney U test), on the other hand, considers the medians of the groups instead. If the assumptions of parametric tests are met, they are generally more capable of detecting an effect than non-parametric tests. If this is not the case, however, non-parametric tests should be preferred.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;choosing-an-appropriate-significance-test&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Choosing an appropriate significance test&lt;/h2&gt;
+&lt;p&gt;To find an appropriate statistical test, the structure of the data should be considered. Before starting an analysis, one should ask the following questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How many dependent/independent variables are there?&lt;/li&gt;
+&lt;li&gt;What are the types of the variables?&lt;/li&gt;
+&lt;li&gt;Are the measurements in some way associated (i.e. &lt;a href=&#34;/tags/matched-data/&#34;&gt;matched&lt;/a&gt;)?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;what-is-there-besides-significance&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What is there besides significance?&lt;/h2&gt;
+&lt;p&gt;Once you have found an appropriate test, you may want to look into topics that go beyond mere significance, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How can I use effect sizes to describe the extent of an effect?&lt;/li&gt;
+&lt;li&gt;How can I use power analysis to identify the likelihood that a test detects an effect if it exists?&lt;/li&gt;
+&lt;li&gt;How can I interpret measurements using other quantities such as confidence intervals?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;posts-on-statistical-testing&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts on statistical testing&lt;/h2&gt;
+&lt;p&gt;You can find answers to these questions (and more) in the following posts on statistical testing.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 

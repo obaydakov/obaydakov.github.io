@@ -1,0 +1,543 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on If you torture the data long enough, it will confess ©</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>automl</title>
+      <link>/tags/automl/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/automl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>/tags/books/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>/tags/cloud/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spark</title>
+      <link>/tags/spark/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian methods</title>
+      <link>/tags/bayesian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bayesian/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Bayesian methods make use of Bayes’ theorem to perform statistical inference. Bayes’ law states that a conditional probability can be decomposed in the following way:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[P(A | B) = \frac{P(B|A) P(A)}{P(B)}\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;where &lt;span class=&#34;math inline&#34;&gt;\(A\)&lt;/span&gt; and &lt;span class=&#34;math inline&#34;&gt;\(B\)&lt;/span&gt; indicate two events. The following terms are assigned to each of the quantities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(P(A|B)\)&lt;/span&gt; is the posterior probability&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(P(B|A)\)&lt;/span&gt; is the likelihood of &lt;span class=&#34;math inline&#34;&gt;\(B\)&lt;/span&gt; given &lt;span class=&#34;math inline&#34;&gt;\(A\)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(P(A)\)&lt;/span&gt; and &lt;span class=&#34;math inline&#34;&gt;\(P(B)\)&lt;/span&gt; are the marginal probabilities for &lt;span class=&#34;math inline&#34;&gt;\(A\)&lt;/span&gt; and &lt;span class=&#34;math inline&#34;&gt;\(B\)&lt;/span&gt;, respectively&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In statistical modeling, another parameterization is typically used. Let &lt;span class=&#34;math inline&#34;&gt;\(X\)&lt;/span&gt; indicate the data and &lt;span class=&#34;math inline&#34;&gt;\(\Theta\)&lt;/span&gt; indicate the model parameters. Then Bayes’ rule can be formulated as follows:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[P(\Theta | X) = \frac{P(X | \Theta) P(\Theta)}{P(X)}\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;These quantities are interpreted as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(P(\Theta | X)\)&lt;/span&gt; is the posterior probability of the model given the data&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(P(X|\Theta)\)&lt;/span&gt; is the likelihood of the data given the model&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(P(\Theta)\)&lt;/span&gt; gives the prior probabilities for the model parameters&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(P(X)\)&lt;/span&gt; indicates the probability of the data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The proability of the data, &lt;span class=&#34;math inline&#34;&gt;\(P(X)\)&lt;/span&gt; can be ignored when we are interested in &lt;span class=&#34;math inline&#34;&gt;\(P(\Theta | X)\)&lt;/span&gt; merely for model selection since &lt;span class=&#34;math inline&#34;&gt;\(P(X)\)&lt;/span&gt; is independent of the model.&lt;/p&gt;
+&lt;p&gt;Due to the use of prior knowledge, Bayesian approaches are always parametric in the sense that these methods specify models based on assumptions about the data generation process. A challenge of Bayesian methods is that the posterior distribution may be very hard to compute explicitly, which is why Markov chain monte carlo (MCMC) is often used to sample from the posterior distribution.&lt;/p&gt;
+&lt;div id=&#34;inference-vs-prediction&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Inference vs prediction&lt;/h2&gt;
+&lt;p&gt;Bayesian methods are concerned with statistical inference rather than prediction. Inference is concerned with learning how the observed outcomes are generated as a function of the data. Prediction, on the other hand, is concerned with building a model that can estimate the outcome for unseen data. Note that there are methods that can be used for both tasks. For example, logistic regression can be used to measure the impact of individual features on the outcome (inference) and to estimate the outcome for new observations (prediction).&lt;/p&gt;
+&lt;p&gt;In essence, the difference between inference and prediction boils down to model interpretability. If a model is interpretable (i.e. you can understand how the predictions are formed) it probably performs inference, while models that are hard to interpret probably perform prediction. To make the distinction clearer, consider the following examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inference methods: all Bayesian methods; to a certain extent some machine learning methods (e.g. linear regression or logistic regression)&lt;/li&gt;
+&lt;li&gt;Prediction methods: all machine learning models, particularly those that are non-parametric (e.g. decision trees, neural networks, or non-linear support vector machines)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To obtain a better intuition about the differences in the way that Bayesian thinking is different, &lt;a href=&#34;https://stats.stackexchange.com/a/73180&#34;&gt;you should read this great post at Stats Exchange&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;posts-about-bayesian-methods&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts about Bayesian methods&lt;/h2&gt;
+&lt;p&gt;The following posts are concerned with Bayesian methods:&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>/tags/analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/analysis/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;analysis_avatar.jpg&#34; alt = &#34;Data analysis&#34; width = &#34;1000&#34; height = &#34;564&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Although all posts in this blog are somehow concerned with analyzing data, not all of them lead to new insights. Posts in the analysis series exhibit at least one of the following two properties:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The analysis of the data is comprehensive (i.e. involving multiple approaches)&lt;/li&gt;
+&lt;li&gt;The analysis leads to new insights&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&#34;posts-in-the-analysis-series&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts in the analysis series&lt;/h2&gt;
+&lt;p&gt;The following posts are concerned with the analysis of individual data sets.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Handling matched data</title>
+      <link>/tags/matched-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/matched-data/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;matched-data_avatar.jpg&#34; alt = &#34;Matched data&#34; width = &#34;1500&#34; height = &#34;1000&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In contrast to independent measurements, matched data consist of measurements that should be considered together. For example, matching can be used in clinical studies. Here, patients that exhibit similar characteristics are paired in order to remove confounding effects. Matched data can also arise naturally when multiple measurements are performed on the same entity. For example, matched data can arise when a clinical marker is measured once before and once after a
+treatment intervention. Irrespective of how the matched data were generated, &lt;a href=&#34;/post/statistical_test/paired_vs_unpaired_tests/&#34;&gt;their structure should be taken into account&lt;/a&gt; through the use of appropriate statistical tests.&lt;/p&gt;
+&lt;div id=&#34;paired-data&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Paired data&lt;/h2&gt;
+&lt;p&gt;The most common type of matched data are paired measurements, which consist of two data points. For this type of data, the following significance tests are available:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Type of dependent variable&lt;/th&gt;
+&lt;th&gt;Tests&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;a href=&#34;/post/statistical_test/signed_wilcox_rank_test/&#34;&gt;Quantitative&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Paired t-test, Wilcoxon signed rank test&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;a href=&#34;/post/statistical_test/mcnemars_test/&#34;&gt;Categorical&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;McNemar’s test&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Click on a variable type in the table to obtain more information on how to use the corresponding significance tests in R.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;repeated-measures-data&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Repeated-measures data&lt;/h2&gt;
+&lt;p&gt;If you have more than two matched measurements, then you are dealing with repeated-measures data. An example of a significance test that handles such data is &lt;a href=&#34;https://www.graphpad.com/guides/prism/7/statistics/index.htm?stat_checklist_1wayanova_rm.htm&#34;&gt;repeated-measures one-way ANOVA&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;posts-that-deal-with-matched-data&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts that deal with matched data&lt;/h2&gt;
+&lt;p&gt;In the following posts, you can find more specific information on how you can handle matched data.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hugo/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;/post/other/blogdown_hugo_avatar.png&#34; alt = &#34;Hugo&#34; width = &#34;500&#34; height = &#34;566&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is a tool for creating &lt;em&gt;static websites&lt;/em&gt;. &lt;em&gt;How is this different from a dynamic website?&lt;/em&gt; you may be wondering. While a static website is delivered to clients in the same way that is stored, dynamic websites build pages using an application server. As a consequence, static and dynamic web pages have contrasting properties:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Criterion&lt;/th&gt;
+&lt;th&gt;Static&lt;/th&gt;
+&lt;th&gt;Dynamic&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Loading Times&lt;/td&gt;
+&lt;td&gt;Fast&lt;/td&gt;
+&lt;td&gt;Slow&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Required Expertise for Maintenance&lt;/td&gt;
+&lt;td&gt;High&lt;/td&gt;
+&lt;td&gt;Low&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Security&lt;/td&gt;
+&lt;td&gt;High&lt;/td&gt;
+&lt;td&gt;Potentially Low&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Potential for User Interaction&lt;/td&gt;
+&lt;td&gt;Low&lt;/td&gt;
+&lt;td&gt;High&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Let’s take a look at these aspects in more detail.&lt;/p&gt;
+&lt;div id=&#34;loading-times&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Loading times&lt;/h3&gt;
+&lt;p&gt;Static websites can typically be loaded much faster. Why? Displaying a static page essentially only requires loading the associated HTML file as well as any additional resources (images etc). For a dynamic site, the same data have to be loaded but the dynamic content has to be loaded additionally. Since this type of content typically requires interacting with a database, it takes some time until the data have been loaded and the final page is ready.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;required-expertise&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Required expertise&lt;/h3&gt;
+&lt;p&gt;Maintaining a static site is slightly harder than maintaining a dynamic site. This is because dynamic websites are usually based on content management systems (CMSs) such as &lt;a href=&#34;https://wordpress.org/&#34;&gt;WordPress&lt;/a&gt;. CMSs are very easy to use because content can be created in what-you-see-is-what-you-get editors. For static websites, on the other hand, such editors are not available and it is necessary to work with data in a more raw format such as Markdown, which merely specifies how the content is supposed to
+look. So, if you are not a person that shies away from some technicalities, static web pages are fine. But if you don’t like the idea of working in some form of code editor, then a static site is not for you.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;security&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Security&lt;/h3&gt;
+&lt;p&gt;With regard to security, static sites are definitely the safer alternative. Since dynamic web sites rely on several applications that run in unison (e.g. CMS, database, additional scripts) it is more likely that one of them is vulnerable to attacks. For example, &lt;a href=&#34;https://www.cvedetails.com/vulnerability-list/vendor_id-2337/product_id-4096/&#34;&gt;there is a long list of security vulnerabilities for Wordpress&lt;/a&gt;, so it is key to continually update the software to stay safe. With static sites, on the other hand, there is no software that is running in the background, so there are no vulnerabilities and it is not necessary to continually update.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;potential-for-user-interaction&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Potential for User Interaction&lt;/h3&gt;
+&lt;p&gt;The low potential for user interaction is the biggest downside to static websites. For example, a dynamic website may display the five most popular posts, show a poll where users can participate, or may ask for users to upload their own content. These dynamic elements can hardly be integrated into static websites. For example, for something simple as a commenting systems, many static web sites rely on external services such as &lt;a href=&#34;https://disqus.com/&#34;&gt;Disqus&lt;/a&gt;. However, there
+are also &lt;a href=&#34;https://gohugo.io/content-management/comments/&#34;&gt;alternatives&lt;/a&gt; such as &lt;a href=&#34;https://staticman.net/&#34;&gt;Staticman&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;posts-about-hugo&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts about Hugo&lt;/h2&gt;
+&lt;p&gt;Since this blog has been created with Hugo, the following posts deal with the framework.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linear Prediction Models</title>
+      <link>/tags/linear-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/linear-model/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;linear-model_avatar.png&#34; alt = &#34;Linear models&#34; width = &#34;1120&#34; height = &#34;923&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Linear prediction models assume that there is a linear relationship between the independent variables and the dependent variable. Therefore, these models exhibit high bias and low variance.&lt;/p&gt;
+&lt;p&gt;The high bias of these models is due to the assumption of nonlinearity. If this assumption does not sufficiently represent the data, then linear models will be inaccurate.&lt;/p&gt;
+&lt;p&gt;On the other hand, linear models also have a low variance. This means that if several linear models would be trained using different data, they would perform similarly on the same test data set. This is because linear models are inflexible because there are few parameters to be tuned.&lt;/p&gt;
+&lt;p&gt;Thus, linear models are interpretable and robust. However, if their assumptions are not met, they willl perform poorly.&lt;/p&gt;
+&lt;div id=&#34;when-do-use-linear-models&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;When do use linear models?&lt;/h2&gt;
+&lt;p&gt;Linear models excel under the following circumstances:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;There are few data available, which would lead to overfitting with more complex models.&lt;/li&gt;
+&lt;li&gt;There are indications for a linear association between features and outcome.&lt;/li&gt;
+&lt;li&gt;Interpretation rather than predictive performance alone is important.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;popular-linear-models&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Popular linear models&lt;/h2&gt;
+&lt;p&gt;The following linear models are frequently used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/post/machine-learning/linear_models/&#34;&gt;Linear regression&lt;/a&gt;: the most basic linear model for regression.&lt;/li&gt;
+&lt;li&gt;Logistic regression: a linear model that is suitable for classification.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/machine-learning/interpreting_generalized_linear_models/&#34;&gt;Generalized linear models&lt;/a&gt;: for specific applications other linear models such as Poisson regression may be appropriate.&lt;/li&gt;
+&lt;li&gt;Ridge regression: a linear model for regression that is regularized using an &lt;span class=&#34;math inline&#34;&gt;\(L_2\)&lt;/span&gt; norm.&lt;/li&gt;
+&lt;li&gt;Lasso regression: a linear model for regression that is regularized using an &lt;span class=&#34;math inline&#34;&gt;\(L_1\)&lt;/span&gt; norm.&lt;/li&gt;
+&lt;li&gt;Support vector machines (SVMs): SVMs based on linear kernel functions correspond to linear, &lt;span class=&#34;math inline&#34;&gt;\(L_2\)&lt;/span&gt; regularized models relying on a hinge loss.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;posts-about-linear-models&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts about linear models&lt;/h2&gt;
+&lt;p&gt;The following posts deal with linear models for prediction.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Non-Parametric Significance Tests</title>
+      <link>/tags/non-parametric-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/non-parametric-test/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;non_parametric_avatar.jpg&#34; alt = &#34;Non-parametric tests&#34; width = &#34;1000&#34; height = &#34;958&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The benefit of non-parametric tests over &lt;a href=&#34;/tags/parametric-test/&#34;&gt;parametric tests&lt;/a&gt; is that they not make any assumptions about the data. Thus, they are well-suited in situations where the assumptions of parametric tests are not met, which is typically the case for small sample sizes.&lt;/p&gt;
+&lt;div id=&#34;popular-non-parametric-test&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Popular non-parametric test&lt;/h2&gt;
+&lt;p&gt;This table gives an overview over popular non-parametric tests:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Test&lt;/th&gt;
+&lt;th&gt;Test for what?&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Wilcoxon rank sum test&lt;/td&gt;
+&lt;td&gt;Difference in medians&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;a href=&#34;/post/statistical_test/signed_wilcox_rank_test/&#34;&gt;Wilcoxon signed-rank test&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Difference in paired means&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;a href=&#34;/post/statistical_test/contingency_table_tests/&#34;&gt;Fisher’s exact test&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Independence in contingency tables&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;a href=&#34;/post/statistical_test/anova_one_way/&#34;&gt;Kruskal-Wallis test&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Difference of multiple medians&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;posts-about-non-parametric-significance-testing&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts about Non-Parametric Significance Testing&lt;/h2&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parametric Significance Tests</title>
+      <link>/tags/parametric-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/parametric-test/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;normal_distribution.png&#34; alt = &#34;Parametric significance tests&#34; width = &#34;720&#34; height = &#34;460&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Parametric significance tests assume that the data follow a specific distribution (typically the normal distribution). If their assumptions are met, they have greater power than non-parametric test. Otherwise, &lt;a href=&#34;/tags/non-parametric-test/&#34;&gt;non-parametric tests&lt;/a&gt; should be used. Thus, parametric tests should only be used after carefully evaluating whether the assumptions of the test are sufficiently fulfilled.&lt;/p&gt;
+&lt;p&gt;This table gives an overview of the most popular parametric tests:&lt;/p&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;33%&#34; /&gt;
+&lt;col width=&#34;66%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Test&lt;/th&gt;
+&lt;th&gt;Test for what?&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Student’s t-test, &lt;a href=&#34;/post/statistical_test/signed_wilcox_rank_test/&#34;&gt;Paired Student’s t-test&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Difference in paired means and means&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;a href=&#34;/post/statistical_test/contingency_table_tests/&#34;&gt;Chi-squared test&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Independence of group counts&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;a href=&#34;/post/statistical_test/anova_one_way/&#34;&gt;One-way ANOVA&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Difference in means of several independent variables&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div id=&#34;posts-about-parametric-significance-testing&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts about Parametric Significance Testing&lt;/h2&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performance Measures</title>
+      <link>/tags/performance-measure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/performance-measure/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;performance-measure_avatar.jpg&#34; alt = &#34;Performance measures for supervised learning&#34; width = &#34;1500&#34; height = &#34;844&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Besides interpretability, predictive performance is the most important property of machine learning models. Here, I provide an overview of available performance measures and discuss under which circumstances they are appropriate.&lt;/p&gt;
+&lt;div id=&#34;performance-measures-for-regression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Performance measures for regression&lt;/h2&gt;
+&lt;p&gt;For regression, the most popular performance measures are &lt;a href=&#34;/post/machine-learning/performance-measures-model-selection/&#34;&gt;R squared and the root mean squared error (RMSE)&lt;/a&gt;. &lt;span class=&#34;math inline&#34;&gt;\(R^2\)&lt;/span&gt; has the advantage that it is typically in the interval &lt;span class=&#34;math inline&#34;&gt;\([0,1]\)&lt;/span&gt;, which makes it more interpretable than the RMSE, whose value is on the scale of the outcome.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;performance-measures-for-classification&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Performance measures for classification&lt;/h2&gt;
+&lt;p&gt;The performance of models for binary classification is evaluated on the basis of confusion matrices, which indicate true positives, false positives, true negatives, and false negatives. Based on these quantities, the performance measures of &lt;a href=&#34;/post/machine-learning/performance-measures-model-selection&#34;&gt;sensitivity and specificity (balanced accuracy)&lt;/a&gt; are derived.
+In specific circumstances, it is worthwhile to consider &lt;a href=&#34;/post/machine-learning/specificity-vs-precision/&#34;&gt;recall and precision (the F1 score)&lt;/a&gt; rather than sensitivity and specificity.&lt;/p&gt;
+&lt;p&gt;For scoring classifiers, the area under the receiver operating characterstic curve (AUC) can be used to measure the sensitivity-specificity tradeoff for different classification thresholds.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;performance-measures-for-feature-selection&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Performance measures for feature selection&lt;/h2&gt;
+&lt;p&gt;When comparing models with different number of features, model complexity should be taken into account through &lt;a href=&#34;/post/machine-learning/performance-measures-feature-selection/&#34;&gt;measures such as the adjusted &lt;span class=&#34;math inline&#34;&gt;\(R^2\)&lt;/span&gt; or the Akaike information criterion (AIC)&lt;/a&gt;. Alternatively, to curb overfitting, model performance can be determined on an independent test set (e.g. via cross validation).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;posts-about-performance-measures&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts about performance measures&lt;/h2&gt;
+&lt;p&gt;The following posts discuss performance leasures for supervised learning and how they can be computed using R.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plots</title>
+      <link>/tags/plot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/plot/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;plots_avatar.jpg&#34; alt = &#34;Plots&#34; width = &#34;1000&#34; height = &#34;662&#34;&gt;&lt;/p&gt;
+&lt;p&gt;There is a large number of different types of plots for visualizing data.&lt;/p&gt;
+&lt;div id=&#34;basic-plots&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Basic plots&lt;/h2&gt;
+&lt;p&gt;The following plots are frequently used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;/post/data-visualization/barplot/&#34;&gt;bar plot&lt;/a&gt; shows the extent of values according to the height of bars. If the data are normally distributed, they can be display variation by including error bars.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;/post/data-visualization/boxplot/&#34;&gt;box plot&lt;/a&gt; indicates variation by showing the most frequently observed measurements in terms of the first, second, and third quartile.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;/post/data-visualization/histogram/&#34;&gt;histogram&lt;/a&gt; consists of bars that indicate the frequency of measurements and is ideal for showing the distribution of a variable.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;/post/data-visualization/line-plot/&#34;&gt;line plot&lt;/a&gt; connects individual measurements using lines. It is most suited for time-series data.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;/post/data-visualization/scatterplot/&#34;&gt;scatter plot&lt;/a&gt; shows the value of two variables as points and is ideal for identifying correlated variables.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;further-plots&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Further plots&lt;/h2&gt;
+&lt;p&gt;The following plots are less frequently used than the basic plots. Nevertheless, these plots may be very useful for specific applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;/post/data-visualization/boxplot_alternatives/&#34;&gt;beeswarm plot&lt;/a&gt; is an alternative to the box plot that draws individual data points in a well-defined manner.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;/post/statistical_test/signed_wilcox_rank_test/&#34;&gt;Q-Q plot&lt;/a&gt; can be used to compare whether two samples have similar distributions.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;/post/data-visualization/radar-plot/&#34;&gt;radar plot&lt;/a&gt; shows the values of several properties in a circular layout.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;/post/data-visualization/boxplot_alternatives/&#34;&gt;violin plot&lt;/a&gt; is an alternative to the box plot that shows a density estimate.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;/post/machine-learning/dimensionality-reduction/&#34;&gt;geospatial plot&lt;/a&gt; is concerned with drawing the locations of entities on a map.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;posts-about-plots&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts about plots&lt;/h2&gt;
+&lt;p&gt;The following posts exemplify the use of plots in R.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R for applications in data science</title>
+      <link>/tags/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;figure&gt;
+&lt;img src=&#34;/tags/r/r_avatar.png&#34; width = &#34;991&#34; height = &#34;768&#34; alt = &#34;R logo&#34;&gt;
+&lt;figcaption&gt;
+The R logo, licensed under &lt;a href=&#34;https://de.wikipedia.org/wiki/Datei:R_logo.svg&#34;&gt;CC-BY-SA 4.0&lt;/a&gt;.
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;All posts with the &lt;em&gt;R&lt;/em&gt; tag deal with applications of &lt;a href=&#34;https://www.r-project.org/&#34;&gt;the statistical programming language R&lt;/a&gt; in the data science setting.&lt;/p&gt;
+&lt;div id=&#34;posts-about-r&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts about R&lt;/h2&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Supervised Learning</title>
+      <link>/tags/supervised-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/supervised-learning/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;supervised-learning_avatar.png&#34; alt = &#34;Supervised learning&#34; width = &#34;389&#34; height = &#34;282&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Supervised learning is concerned with models for predicting the outcome for new data points.&lt;/p&gt;
+&lt;div id=&#34;models-for-supervised-learning&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Models for supervised learning&lt;/h2&gt;
+&lt;p&gt;The following supervised learning models are important:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/tags/linear-model&#34;&gt;Linear models&lt;/a&gt;: models that assume the existence of a linear relationship between the independent variables and the outcome.&lt;/li&gt;
+&lt;li&gt;Support vector machines: models that deal with non-linear associations by transforming the data to another space via kernel functions.&lt;/li&gt;
+&lt;li&gt;Neural networks: models that emulate the interaction of neurons in the nervous system.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(k\)&lt;/span&gt;-nearest neighbors: a model that classifies a new data point according to its &lt;span class=&#34;math inline&#34;&gt;\(k\)&lt;/span&gt; nearest neighbors in the training data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;posts-on-supervised-learning&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts on supervised learning&lt;/h2&gt;
+&lt;p&gt;The following posts discuss the use of supervised learning in R.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Learning</title>
+      <link>/tags/unsupervised-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/unsupervised-learning/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;unsupervised-learning_avatar.png&#34; alt = &#34;Unsupervised learning&#34; width = &#34;208&#34; height = &#34;201&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Unsupervised learning is the aspect of machine learning that is concerned with approaches for learning from data where the outcomes are not available. The main goal of many unsupervised methods is to improve the interpretability of the data.&lt;/p&gt;
+&lt;div id=&#34;clustering&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Clustering&lt;/h2&gt;
+&lt;p&gt;The goal of clustering is to assign each observation in a data set to a group based on the observed values associated with each observation. Different clustering approaches rely on different target functions and therefore lead to different cluster assignments. The following clustering algorithms are frequently used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;k-means: assigns samples to &lt;em&gt;k&lt;/em&gt; clusters such that the distance to the mean value of the cluster is minimized.&lt;/li&gt;
+&lt;li&gt;k-medoids: a clustering algorithm that is related to k-means that is more robust by relying on medoids rather than means.&lt;/li&gt;
+&lt;li&gt;Spectral clustering: a clustering algorithm that represents samples as a graph.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;dimensionality-reduction&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Dimensionality reduction&lt;/h2&gt;
+&lt;p&gt;Unsupservised dimensionality reduction techniques aim at reducing the number of features while retaining as much information as possible. The following unsupervised dimensionality reduction methods are frequently used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/post/machine-learning/dimensionality-reduction/&#34;&gt;Principal component analysis (PCA)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/machine-learning/dimensionality-reduction/&#34;&gt;Kernel PCA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/machine-learning/dimensionality-reduction/&#34;&gt;t-SNE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;posts-on-unsupervised-learning&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts on unsupervised learning&lt;/h2&gt;
+&lt;p&gt;The following posts discuss the use of unsupervised learning in R.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 
