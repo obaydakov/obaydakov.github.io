@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on If you torture the data long enough, it will confess ©</title>
-    <link>/post/</link>
+    <link>post/post/</link>
     <description>Recent content in Posts on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="post/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>100 &#43; Data Science, Deep Learning, AI &amp; Machine Learning Cheat Sheet PDF</title>
-      <link>/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</link>
+      <link>post/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</guid>
+      <guid>post/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</guid>
       <description>Link</description>
     </item>
     
     <item>
       <title>Bento ML</title>
-      <link>/post/2021-11-14-bento-ml/</link>
+      <link>post/post/2021-11-14-bento-ml/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-bento-ml/</guid>
+      <guid>post/post/2021-11-14-bento-ml/</guid>
       <description>BentoML is a flexible, high-performance framework for serving, managing, and deploying machine learning models.
   Supports Multiple ML frameworks, including Tensorflow, PyTorch, Keras, XGBoost and more
   Cloud native deployment with Docker, Kubernetes, AWS, Azure and many more
@@ -32,10 +32,10 @@
     
     <item>
       <title>Cookiecutters (Django &#43; Vue &#43; GraphQL &#43; FastAPI &#43; React &#43; pyTorch)</title>
-      <link>/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</link>
+      <link>post/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</guid>
+      <guid>post/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</guid>
       <description>1.Django + Vue + GraphQL + AWS Cookiecutter
 2.Cookiecutter Pipeline for SAM based Serverless App
 3.Cookiecutter Python Microservice
@@ -48,39 +48,39 @@
     
     <item>
       <title>Create An Awesome Streamlit App &amp; Deploy it With Docker</title>
-      <link>/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</link>
+      <link>post/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</guid>
+      <guid>post/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</guid>
       <description>This article is a comprehensive overview of a step-by-step guide to deploy a simple sentiment analysis application using streamlit and Docker
 Link</description>
     </item>
     
     <item>
       <title>Data Lake diagram </title>
-      <link>/post/2021-11-14-data-lake-diagram/</link>
+      <link>post/post/2021-11-14-data-lake-diagram/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-data-lake-diagram/</guid>
+      <guid>post/post/2021-11-14-data-lake-diagram/</guid>
       <description>Semantix Data Platform</description>
     </item>
     
     <item>
       <title>Developing and Deploying a Machine Learning Model on Vertex AI using Python</title>
-      <link>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</link>
+      <link>post/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</guid>
+      <guid>post/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</guid>
       <description>Write ML Pipelines that will make your MLOps team happy: follow a clean separation of responsibility between model code and ops code. This article show you how to do that.
 Link</description>
     </item>
     
     <item>
       <title>DJANGO COOKIECUTTER</title>
-      <link>/post/2021-11-14-django-cookiecutter/</link>
+      <link>post/post/2021-11-14-django-cookiecutter/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-django-cookiecutter/</guid>
+      <guid>post/post/2021-11-14-django-cookiecutter/</guid>
       <description>1.Cookiecutter Django
 2.Jumpstart your Django Project with Cookiecutter
 3.Using django cookiecutter cloud storage (GCP)
@@ -94,10 +94,10 @@ Link</description>
     
     <item>
       <title>EvalML</title>
-      <link>/post/2021-11-14-evalml/</link>
+      <link>post/post/2021-11-14-evalml/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-evalml/</guid>
+      <guid>post/post/2021-11-14-evalml/</guid>
       <description>EvalML is an AutoML library which builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.
 Key Functionality
   Automation - Makes machine learning easier. Avoid training and tuning models by hand. Includes data quality checks, cross-validation and more.
@@ -107,39 +107,39 @@ Key Functionality
     
     <item>
       <title>Hugging Face Transformer Inference Under 1 Millisecond Latency</title>
-      <link>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</link>
+      <link>post/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</guid>
+      <guid>post/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</guid>
       <description>Link</description>
     </item>
     
     <item>
       <title>ML app design</title>
-      <link>/post/2021-11-14-ml-app-design/</link>
+      <link>post/post/2021-11-14-ml-app-design/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-ml-app-design/</guid>
+      <guid>post/post/2021-11-14-ml-app-design/</guid>
       <description>Build and Deploy Data Science Products : A Practical Guide to Building a Machine Translation Application This journey is going to be a 8 steps.
 In this series we will take a use case, understand the solution landscape and its evolution, explore different architecture choices, look under the hood of the architecture to understand the nuts and bolts, build a prototype, convert the prototype into production ready code, build an application from the production ready code and finally understand the process for deploying the application .</description>
     </item>
     
     <item>
       <title>MODELZOO</title>
-      <link>/post/12021-11-14-modelzoo/</link>
+      <link>post/post/12021-11-14-modelzoo/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/12021-11-14-modelzoo/</guid>
+      <guid>post/post/12021-11-14-modelzoo/</guid>
       <description>Browse Frameworks
 Browse Categories</description>
     </item>
     
     <item>
       <title>Vision-Store - Computer Vision models with tutorials</title>
-      <link>/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</link>
+      <link>post/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</guid>
+      <guid>post/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</guid>
       <description>Link</description>
     </item>
     

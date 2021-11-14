@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on If you torture the data long enough, it will confess ©</title>
-    <link>/categories/machine-learning/</link>
+    <link>post/categories/machine-learning/</link>
     <description>Recent content in Machine Learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="post/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Developing and Deploying a Machine Learning Model on Vertex AI using Python</title>
-      <link>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</link>
+      <link>post/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</guid>
+      <guid>post/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</guid>
       <description>&lt;p&gt;Write ML Pipelines that will make your MLOps team happy: follow a clean separation of responsibility between model code and ops code. This article show you how to do that.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python-865b535814f8&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -23,10 +23,10 @@
     
     <item>
       <title>EvalML</title>
-      <link>/post/2021-11-14-evalml/</link>
+      <link>post/post/2021-11-14-evalml/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-evalml/</guid>
+      <guid>post/post/2021-11-14-evalml/</guid>
       <description>&lt;p&gt;EvalML is an AutoML library which builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.&lt;/p&gt;
 &lt;p&gt;Key Functionality&lt;/p&gt;
 &lt;ul&gt;
@@ -51,20 +51,20 @@
     
     <item>
       <title>Hugging Face Transformer Inference Under 1 Millisecond Latency</title>
-      <link>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</link>
+      <link>post/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</guid>
+      <guid>post/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/hugging-face-transformer-inference-under-1-millisecond-latency-e1be0057a51c&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ML app design</title>
-      <link>/post/2021-11-14-ml-app-design/</link>
+      <link>post/post/2021-11-14-ml-app-design/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-ml-app-design/</guid>
+      <guid>post/post/2021-11-14-ml-app-design/</guid>
       <description>&lt;h3 id=&#34;build-and-deploy-data-science-products--a-practical-guide-to-building-a-machine-translation-application&#34;&gt;Build and Deploy Data Science Products : A Practical Guide to Building a Machine Translation Application&lt;/h3&gt;
 &lt;p&gt;This journey is going to be a 8 steps.&lt;/p&gt;
 &lt;p&gt;In this series we will take a use case, understand the solution landscape and its evolution, 
@@ -103,10 +103,10 @@ and finally understand the process for deploying the application .&lt;/p&gt;
     
     <item>
       <title>MODELZOO</title>
-      <link>/post/12021-11-14-modelzoo/</link>
+      <link>post/post/12021-11-14-modelzoo/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/12021-11-14-modelzoo/</guid>
+      <guid>post/post/12021-11-14-modelzoo/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;images/image.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://modelzoo.co/frameworks&#34;&gt;Browse Frameworks&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://modelzoo.co/categories&#34;&gt;Browse Categories&lt;/a&gt;&lt;/p&gt;
@@ -115,10 +115,10 @@ and finally understand the process for deploying the application .&lt;/p&gt;
     
     <item>
       <title>Vision-Store - Computer Vision models with tutorials</title>
-      <link>/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</link>
+      <link>post/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</guid>
+      <guid>post/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;images/image.png&#34; alt=&#34;&amp;ldquo;AI Vision model store&amp;rdquo;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.augmentedstartups.com/visionstore&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>

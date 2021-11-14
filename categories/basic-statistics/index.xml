@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Basic Statistical Concepts for Data Science on If you torture the data long enough, it will confess ©</title>
-    <link>/categories/basic-statistics/</link>
+    <link>post/categories/basic-statistics/</link>
     <description>Recent content in Basic Statistical Concepts for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-        <atom:link href="/categories/basic-statistics/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="post/categories/basic-statistics/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

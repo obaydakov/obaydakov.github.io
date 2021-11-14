@@ -1,49 +1,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on If you torture the data long enough, it will confess ©</title>
-    <link>/categories/</link>
+    <link>post/categories/</link>
     <description>Recent content in Categories on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="post/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>big-data</title>
-      <link>/categories/big-data/</link>
+      <link>post/categories/big-data/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/big-data/</guid>
+      <guid>post/categories/big-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data-science</title>
-      <link>/categories/data-science/</link>
+      <link>post/categories/data-science/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/data-science/</guid>
+      <guid>post/categories/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>/categories/machine-learning/</link>
+      <link>post/categories/machine-learning/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/machine-learning/</guid>
+      <guid>post/categories/machine-learning/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;post/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;!--script src=&#34;https://infograph.venngage.com/js/embed/v1/embed.js&#34; data-vg-id=&#34;u34x7Gx704&#34; data-title=&#34;A Brief History of Machine Learning&#34; data-w=&#34;816&#34; data-h=&#34;1056&#34; data-multipage=&#34;true&#34;&gt;&lt;/script--&gt;
 &lt;p&gt;&lt;img src=&#34;machine_learning_cover.jpg&#34; alt=&#34;Machine learning&#34; width = &#34;1000&#34; height = &#34;668&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Machine learning is a field of artificial intelligence (AI) that is concerned with learning from data. Machine learning has three components:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/tags/supervised-learning/&#34;&gt;Supervised learning&lt;/a&gt;: Fitting predictive models using data for which outcomes are available.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/tags/unsupervised-learning/&#34;&gt;Unsupervised learning&lt;/a&gt;: Transforming and partitioning data where outcomes are not available.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;post/tags/supervised-learning/&#34;&gt;Supervised learning&lt;/a&gt;: Fitting predictive models using data for which outcomes are available.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;post/tags/unsupervised-learning/&#34;&gt;Unsupervised learning&lt;/a&gt;: Transforming and partitioning data where outcomes are not available.&lt;/li&gt;
 &lt;li&gt;Reinforcement learning: on-line learning in environments where not all events are observable. Reinforcement learning is frequently applied in robotics.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div id=&#34;posts-on-machine-learning&#34; class=&#34;section level2&#34;&gt;
@@ -55,21 +55,21 @@
     
     <item>
       <title>python</title>
-      <link>/categories/python/</link>
+      <link>post/categories/python/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/python/</guid>
+      <guid>post/categories/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basic Statistical Concepts for Data Science</title>
-      <link>/categories/basic-statistics/</link>
+      <link>post/categories/basic-statistics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/basic-statistics/</guid>
+      <guid>post/categories/basic-statistics/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;post/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;&lt;img src=&#34;basic-statistics_avatar.jpg&#34; alt=&#34;Basic statistics&#34; width = &#34;1000&#34; height = &#34;667&#34;&gt;&lt;/p&gt;
@@ -86,7 +86,7 @@
 &lt;h2&gt;Statistical quantities&lt;/h2&gt;
 &lt;p&gt;You should definitely know about the following, frequently used statistical quantities:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Centrality measures: &lt;a href=&#34;/post/basic-statistics/mean_vs_median/&#34;&gt;mean and median&lt;/a&gt;, mode&lt;/li&gt;
+&lt;li&gt;Centrality measures: &lt;a href=&#34;post/post/basic-statistics/mean_vs_median/&#34;&gt;mean and median&lt;/a&gt;, mode&lt;/li&gt;
 &lt;li&gt;Measure of dispersion: standard deviation, variance, covariance, interquartile-range&lt;/li&gt;
 &lt;li&gt;Interval estimates: confidence intervals&lt;/li&gt;
 &lt;/ul&gt;
@@ -110,12 +110,12 @@
     
     <item>
       <title>Commentary</title>
-      <link>/categories/commentary/</link>
+      <link>post/categories/commentary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/commentary/</guid>
+      <guid>post/categories/commentary/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;post/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;&lt;img src=&#34;commentary_avatar.jpeg&#34; /&gt;&lt;/p&gt;
@@ -128,19 +128,19 @@
     
     <item>
       <title>Data Visualization</title>
-      <link>/categories/data-visualization/</link>
+      <link>post/categories/data-visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/data-visualization/</guid>
+      <guid>post/categories/data-visualization/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;post/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;&lt;img src=&#34;data-visualization_avatar.jpg&#34; alt=&#34;Data visualization&#34; width = &#34;1500&#34; height = &#34;585&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Humans are visual creatures. Thus, visualization is one of the most important tools for conveying information and data scientists should be adapt at selecting appropriate visualizations.&lt;/p&gt;
 &lt;div id=&#34;which-plot-is-appropriate&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Which plot is appropriate?&lt;/h2&gt;
-&lt;p&gt;Choosing an appropriate plot for a given set of data can be hard because there are so many types of plots such as scatter plots, box plots, and histograms. Fortunately, I have created an &lt;a href=&#34;/tags/plot/&#34;&gt;overview of the most important plots, when they are appropriate, and how they can be used in R&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Choosing an appropriate plot for a given set of data can be hard because there are so many types of plots such as scatter plots, box plots, and histograms. Fortunately, I have created an &lt;a href=&#34;post/tags/plot/&#34;&gt;overview of the most important plots, when they are appropriate, and how they can be used in R&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;posts-about-data-visualization&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Posts about data visualization&lt;/h2&gt;
@@ -151,12 +151,12 @@
     
     <item>
       <title>Other</title>
-      <link>/categories/other/</link>
+      <link>post/categories/other/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/other/</guid>
+      <guid>post/categories/other/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;post/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;&lt;img src=&#34;other_avatar.jpg&#34; alt = &#34;Other topics&#34; width = &#34;1000&#34; height = &#34;667&#34;&gt;&lt;/p&gt;
@@ -166,12 +166,12 @@
     
     <item>
       <title>Software Engineering</title>
-      <link>/categories/software-engineering/</link>
+      <link>post/categories/software-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/software-engineering/</guid>
+      <guid>post/categories/software-engineering/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;post/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;&lt;img src=&#34;software_engineering_avatar.jpg&#34; /&gt;&lt;/p&gt;
@@ -183,12 +183,12 @@
     
     <item>
       <title>Statistical Significance Tests</title>
-      <link>/categories/statistical-test/</link>
+      <link>post/categories/statistical-test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/statistical-test/</guid>
+      <guid>post/categories/statistical-test/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;post/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;&lt;img src=&#34;roulette-roulette-wheel-ball-turn_avatar.jpg&#34;/ alt = &#34;Statistical tests&#34; width = &#34;1125&#34; height = &#34;750&#34;&gt;&lt;/p&gt;
@@ -204,7 +204,7 @@
 &lt;ul&gt;
 &lt;li&gt;How many dependent/independent variables are there?&lt;/li&gt;
 &lt;li&gt;What are the types of the variables?&lt;/li&gt;
-&lt;li&gt;Are the measurements in some way associated (i.e. &lt;a href=&#34;/tags/matched-data/&#34;&gt;matched&lt;/a&gt;)?&lt;/li&gt;
+&lt;li&gt;Are the measurements in some way associated (i.e. &lt;a href=&#34;post/tags/matched-data/&#34;&gt;matched&lt;/a&gt;)?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;what-is-there-besides-significance&#34; class=&#34;section level2&#34;&gt;

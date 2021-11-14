@@ -5,7 +5,7 @@
   
 
       <url>
-        <loc>/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</loc>
+        <loc>post/post/2021-11-14-100-data-science-deep-learning-ai-machine-learning-cheat-sheet-pdf/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -13,7 +13,7 @@
   
 
       <url>
-        <loc>/tags/apps/</loc>
+        <loc>post/tags/apps/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -21,7 +21,7 @@
   
 
       <url>
-        <loc>/tags/automl/</loc>
+        <loc>post/tags/automl/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -29,7 +29,7 @@
   
 
       <url>
-        <loc>/post/2021-11-14-bento-ml/</loc>
+        <loc>post/post/2021-11-14-bento-ml/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -37,7 +37,7 @@
   
 
       <url>
-        <loc>/categories/big-data/</loc>
+        <loc>post/categories/big-data/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -45,7 +45,7 @@
   
 
       <url>
-        <loc>/tags/books/</loc>
+        <loc>post/tags/books/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -53,7 +53,7 @@
   
 
       <url>
-        <loc>/categories/</loc>
+        <loc>post/categories/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -61,7 +61,7 @@
   
 
       <url>
-        <loc>/tags/cloud/</loc>
+        <loc>post/tags/cloud/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -69,7 +69,7 @@
   
 
       <url>
-        <loc>/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</loc>
+        <loc>post/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +77,7 @@
   
 
       <url>
-        <loc>/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</loc>
+        <loc>post/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -85,7 +85,7 @@
   
 
       <url>
-        <loc>/post/2021-11-14-data-lake-diagram/</loc>
+        <loc>post/post/2021-11-14-data-lake-diagram/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -93,7 +93,7 @@
   
 
       <url>
-        <loc>/categories/data-science/</loc>
+        <loc>post/categories/data-science/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -101,7 +101,7 @@
   
 
       <url>
-        <loc>/</loc>
+        <loc>post/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -109,7 +109,7 @@
   
 
       <url>
-        <loc>/tags/deep-learning/</loc>
+        <loc>post/tags/deep-learning/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -117,7 +117,7 @@
   
 
       <url>
-        <loc>/tags/design/</loc>
+        <loc>post/tags/design/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -125,7 +125,7 @@
   
 
       <url>
-        <loc>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</loc>
+        <loc>post/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -133,7 +133,7 @@
   
 
       <url>
-        <loc>/tags/development/</loc>
+        <loc>post/tags/development/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -141,7 +141,7 @@
   
 
       <url>
-        <loc>/post/2021-11-14-django-cookiecutter/</loc>
+        <loc>post/post/2021-11-14-django-cookiecutter/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -149,7 +149,7 @@
   
 
       <url>
-        <loc>/post/2021-11-14-evalml/</loc>
+        <loc>post/post/2021-11-14-evalml/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -157,7 +157,7 @@
   
 
       <url>
-        <loc>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</loc>
+        <loc>post/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -165,7 +165,7 @@
   
 
       <url>
-        <loc>/categories/machine-learning/</loc>
+        <loc>post/categories/machine-learning/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -173,7 +173,7 @@
   
 
       <url>
-        <loc>/post/2021-11-14-ml-app-design/</loc>
+        <loc>post/post/2021-11-14-ml-app-design/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -181,7 +181,7 @@
   
 
       <url>
-        <loc>/post/12021-11-14-modelzoo/</loc>
+        <loc>post/post/12021-11-14-modelzoo/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -189,7 +189,7 @@
   
 
       <url>
-        <loc>/post/</loc>
+        <loc>post/post/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -197,7 +197,7 @@
   
 
       <url>
-        <loc>/categories/python/</loc>
+        <loc>post/categories/python/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -205,7 +205,7 @@
   
 
       <url>
-        <loc>/tags/spark/</loc>
+        <loc>post/tags/spark/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -213,7 +213,7 @@
   
 
       <url>
-        <loc>/tags/</loc>
+        <loc>post/tags/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -221,7 +221,7 @@
   
 
       <url>
-        <loc>/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</loc>
+        <loc>post/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -229,7 +229,7 @@
   
 
       <url>
-        <loc>/colophon/</loc>
+        <loc>post/colophon/</loc>
         <lastmod>2020-08-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -239,7 +239,7 @@
   
 
       <url>
-        <loc>/data-science-glossary/</loc>
+        <loc>post/data-science-glossary/</loc>
         <lastmod>2020-07-31T00:00:00+00:00</lastmod>
     </url>
     
@@ -247,7 +247,7 @@
   
 
       <url>
-        <loc>/contribute-to-datascienceblog/</loc>
+        <loc>post/contribute-to-datascienceblog/</loc>
         <lastmod>2018-10-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -255,7 +255,7 @@
   
 
       <url>
-        <loc>/recommended-resources-data-science-and-r/</loc>
+        <loc>post/recommended-resources-data-science-and-r/</loc>
         <lastmod>2018-10-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -267,126 +267,126 @@
   
 
       <url>
-        <loc>/categories/basic-statistics/</loc>
+        <loc>post/categories/basic-statistics/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/tags/bayesian/</loc>
+        <loc>post/tags/bayesian/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/categories/commentary/</loc>
+        <loc>post/categories/commentary/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/tags/analysis/</loc>
+        <loc>post/tags/analysis/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/categories/data-visualization/</loc>
+        <loc>post/categories/data-visualization/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/tags/matched-data/</loc>
+        <loc>post/tags/matched-data/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/tags/hugo/</loc>
+        <loc>post/tags/hugo/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/tags/linear-model/</loc>
+        <loc>post/tags/linear-model/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/tags/non-parametric-test/</loc>
+        <loc>post/tags/non-parametric-test/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/categories/other/</loc>
+        <loc>post/categories/other/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/tags/parametric-test/</loc>
+        <loc>post/tags/parametric-test/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/tags/performance-measure/</loc>
+        <loc>post/tags/performance-measure/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/tags/plot/</loc>
+        <loc>post/tags/plot/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/tags/r/</loc>
+        <loc>post/tags/r/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/categories/software-engineering/</loc>
+        <loc>post/categories/software-engineering/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/categories/statistical-test/</loc>
+        <loc>post/categories/statistical-test/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/tags/supervised-learning/</loc>
+        <loc>post/tags/supervised-learning/</loc>
     </url>
     
   
   
 
       <url>
-        <loc>/tags/unsupervised-learning/</loc>
+        <loc>post/tags/unsupervised-learning/</loc>
     </url>
     
   
