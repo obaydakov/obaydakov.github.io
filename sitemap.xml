@@ -53,6 +53,14 @@
   
 
       <url>
+        <loc>/tags/articles/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/tags/autoencoders/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
@@ -285,7 +293,31 @@
   
 
       <url>
+        <loc>/categories/javascript/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-11-14-loguru-is-a-library-which-aims-to-bring-enjoyable-logging-in-python/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/categories/machine-learning/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-11-14-mermaid-lets-you-create-diagrams-and-visualizations-using-text-and-code/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -366,6 +398,14 @@
 
       <url>
         <loc>/tags/visualization/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-11-14-what-are-the-best-regularly-updated-machine-learning-blogs-or-resources-available/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     

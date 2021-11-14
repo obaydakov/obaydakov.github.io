@@ -36,5 +36,40 @@
 </description>
     </item>
     
+    <item>
+      <title>Mermaid lets you create diagrams and visualizations using text and code.</title>
+      <link>/post/2021-11-14-mermaid-lets-you-create-diagrams-and-visualizations-using-text-and-code/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-mermaid-lets-you-create-diagrams-and-visualizations-using-text-and-code/</guid>
+      <description>&lt;p&gt;It is a Javascript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mermaid-js/mermaid-live-editor&#34;&gt;mermaid-live-editor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/Tutorials?id=python-integration-with-mermaid-js&#34;&gt;Python Integration with mermaid-js&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Example:&lt;/p&gt;
+&lt;p&gt;sequenceDiagram&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;participant Alice
+
+participant Bob
+
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+
+loop Healthcheck
+
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+
+Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail!
+
+John--&amp;gt;&amp;gt;Alice: Great!
+
+John-&amp;gt;&amp;gt;Bob: How about you?
+
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;images/sequence.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss> 
