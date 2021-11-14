@@ -22,6 +22,34 @@
     </item>
     
     <item>
+      <title>EvalML</title>
+      <link>/post/2021-11-14-evalml/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-evalml/</guid>
+      <description>&lt;p&gt;EvalML is an AutoML library which builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.&lt;/p&gt;
+&lt;p&gt;Key Functionality&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Automation - Makes machine learning easier. Avoid training and tuning models by hand. Includes data quality checks, cross-validation and more.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data Checks - Catches and warns of problems with your data and problem setup before modeling.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;End-to-end - Constructs and optimizes pipelines that include state-of-the-art preprocessing, feature engineering, feature selection, and a variety of modeling techniques.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Model Understanding - Provides tools to understand and introspect on models, to learn how they&amp;rsquo;ll behave in your problem domain.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Domain-specific - Includes repository of domain-specific objective functions and an interface to define your own.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hugging Face Transformer Inference Under 1 Millisecond Latency</title>
       <link>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
@@ -70,6 +98,29 @@ and finally understand the process for deploying the application .&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;img src=&#34;images/image-8.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MODELZOO</title>
+      <link>/post/12021-11-14-modelzoo/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/12021-11-14-modelzoo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/image.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://modelzoo.co/frameworks&#34;&gt;Browse Frameworks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://modelzoo.co/categories&#34;&gt;Browse Categories&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vision-Store - Computer Vision models with tutorials</title>
+      <link>/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/image.png&#34; alt=&#34;&amp;ldquo;AI Vision model store&amp;rdquo;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.augmentedstartups.com/visionstore&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
