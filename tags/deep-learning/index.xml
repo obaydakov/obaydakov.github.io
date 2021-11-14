@@ -11,6 +11,19 @@
     
     
     <item>
+      <title>A Guide to Production Level Deep Learning</title>
+      <link>/post/2021-11-15-a-guide-to-production-level-deep-learning/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-15-a-guide-to-production-level-deep-learning/</guid>
+      <description>&lt;p&gt;Deploying deep learning models in production can be challenging, as it is far beyond training models with good performance.&lt;/p&gt;
+&lt;p&gt;Several distinct components need to be designed and developed in order to deploy a production level deep learning system (seen below):&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/alirezadir/Production-Level-Deep-Learning&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/components.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hugging Face Transformer Inference Under 1 Millisecond Latency</title>
       <link>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>

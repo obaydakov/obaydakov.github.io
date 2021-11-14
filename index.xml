@@ -17,6 +17,38 @@
     </item>
     
     <item>
+      <title>A Guide to Production Level Deep Learning</title>
+      <link>/post/2021-11-15-a-guide-to-production-level-deep-learning/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-15-a-guide-to-production-level-deep-learning/</guid>
+      <description>Deploying deep learning models in production can be challenging, as it is far beyond training models with good performance.
+Several distinct components need to be designed and developed in order to deploy a production level deep learning system (seen below):
+Link</description>
+    </item>
+    
+    <item>
+      <title>Awesome production machine learning</title>
+      <link>/post/2021-11-15-awesome-production-machine-learning/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-15-awesome-production-machine-learning/</guid>
+      <description>This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Awesome Software Engineering for Machine Learning</title>
+      <link>/post/2021-11-14-awesome-software-engineering-for-machine-learning/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-awesome-software-engineering-for-machine-learning/</guid>
+      <description>Software Engineering for Machine Learning are techniques and guidelines for building ML applications that do not concern the core ML problem &amp;ndash; e.g. the development of new algorithms &amp;ndash; but rather the surrounding activities like data ingestion, coding, testing, versioning, deployment, quality control, and team collaboration.
+Good software engineering practices enhance development, deployment and maintenance of production level applications using machine learning components.
+Link</description>
+    </item>
+    
+    <item>
       <title>Bento ML</title>
       <link>/post/2021-11-14-bento-ml/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
@@ -191,33 +223,6 @@ Browse Categories</description>
       
       <guid>/recommended-resources-data-science-and-r/</guid>
       <description>Data Science  An excellent essay on the data science field by David Donoho The Stats Geek: a blog on statistics Cross Validated: probably the largest forum for discussing anything related to statistics and machine learning Data Camp: a great resource for training in data science Data Science Reader: an aggregator for data science content DataTau: a data science forum Data Science Hiring Guide: a practical guide on what to consider when hiring data scientists  R  RStudio Blog: keep up to date with the newest developments in RStudio develOverflow Bioconductor: the repository for R packages relating to bioinformatics R-bloggers: an aggregator for blog posts about R Tidyverse: a highly useful collection of R package designed for data science of which ggplot2 and dplyr are probably the most notable members Awesome R: ever wondered what great R packages are out there that you are not using?</description>
-    </item>
-    
-    <item>
-      <title>Datenschutzerklärung</title>
-      <link>/datenschutz/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/datenschutz/</guid>
-      <description>1. Datenschutz auf einen BlickAllgemeine Hinweise Die folgenden Hinweise geben äeinen einfachen &amp;Uuml;berblick dar&amp;uuml;ber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie pers&amp;ouml;nlich identifiziert werden k&amp;ouml;nnen. Ausf&amp;uuml;hrliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgef&amp;uuml;hrten Datenschutzerkl&amp;auml;rung.
-Datenerfassung auf unserer Website Wer ist verantwortlich f&amp;uuml;r die Datenerfassung auf dieser Website?
-Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber.</description>
-    </item>
-    
-    <item>
-      <title>Impressum</title>
-      <link>/impressum/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/impressum/</guid>
-      <description>Angaben gem&amp;auml;&amp;szlig; &amp;sect; 5 TMG Dr. Matthias D&amp;ouml;ring
-Liebigstr. 56
-60323 Frankfurt/Main
-Kontakt E-Mail: matthias-doering@gmx.de
-Verantwortlich f&amp;uuml;r den Inhalt nach &amp;sect; 55 Abs. 2 RStV Dr. Matthias D&amp;ouml;ring
-Liebigstr. 56
-60323 Frankfurt/Main
-Haftung f&amp;uuml;r Inhalte Als Diensteanbieter sind wir gem&amp;auml;&amp;szlig; &amp;sect; 7 Abs.1 TMG f&amp;uuml;r eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach &amp;sect;&amp;sect; 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, &amp;uuml;bermittelte oder gespeicherte fremde Informationen zu &amp;uuml;berwachen oder nach Umst&amp;auml;nden zu forschen, die auf eine rechtswidrige T&amp;auml;tigkeit hinweisen.</description>
     </item>
     
   </channel>

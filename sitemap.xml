@@ -13,6 +13,14 @@
   
 
       <url>
+        <loc>/post/2021-11-15-a-guide-to-production-level-deep-learning/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/tags/apps/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
@@ -22,6 +30,22 @@
 
       <url>
         <loc>/tags/automl/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-11-15-awesome-production-machine-learning/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-11-14-awesome-software-engineering-for-machine-learning/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
