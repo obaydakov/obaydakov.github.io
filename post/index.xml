@@ -124,5 +124,24 @@ Key Functionality
 In this series we will take a use case, understand the solution landscape and its evolution, explore different architecture choices, look under the hood of the architecture to understand the nuts and bolts, build a prototype, convert the prototype into production ready code, build an application from the production ready code and finally understand the process for deploying the application .</description>
     </item>
     
+    <item>
+      <title>MODELZOO</title>
+      <link>/post/2021-11-14-modelzoo/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-modelzoo/</guid>
+      <description>Browse Frameworks
+Browse Categories</description>
+    </item>
+    
+    <item>
+      <title>Vision-Store - Computer Vision models with tutorials</title>
+      <link>/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-vision-store-computer-vision-models-with-tutorials/</guid>
+      <description>Link</description>
+    </item>
+    
   </channel>
 </rss>
