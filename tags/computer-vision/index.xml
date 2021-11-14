@@ -49,6 +49,18 @@
     </item>
     
     <item>
+      <title>Streamlit Demo: The Udacity Self-driving Car Image Browser</title>
+      <link>/post/2021-11-14-streamlit-demo-the-udacity-self-driving-car-image-browser/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-streamlit-demo-the-udacity-self-driving-car-image-browser/</guid>
+      <description>&lt;p&gt;This project demonstrates the Udacity self-driving-car dataset and YOLO object detection into an interactive Streamlit app.&lt;/p&gt;
+&lt;p&gt;The complete demo is implemented in less than 300 lines of Python and illustrates all the major building blocks of Streamlit.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/streamlit/demo-self-driving&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Vision Transformers Explained</title>
       <link>/post/2021-11-14-vision-transformers-explained/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>

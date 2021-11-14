@@ -172,6 +172,15 @@ Key Functionality
     </item>
     
     <item>
+      <title>Explain Yourself - A Primer on ML Interpretability &amp; Explainability</title>
+      <link>/post/2021-11-14-explain-yourself-a-primer-on-ml-interpretability-explainability/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-explain-yourself-a-primer-on-ml-interpretability-explainability/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Face Verification With Keras and Streamlit</title>
       <link>/post/2021-11-14-face-verification-with-keras-and-streamlit/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
@@ -224,15 +233,6 @@ Link</description>
 In this article, I want to present a quick codeless way of fine-tuning and deploying the commonly used BERT classifier to do conversational analysis.
 We will use that system to extract tasks, facts, and other valuable information from our Slack conversations.
 It could be easily extended for categorizing any other textual data, like support requests, emails, etc.</description>
-    </item>
-    
-    <item>
-      <title>Hugging Face Transformer Inference Under 1 Millisecond Latency</title>
-      <link>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</guid>
-      <description>Link</description>
     </item>
     
   </channel>
