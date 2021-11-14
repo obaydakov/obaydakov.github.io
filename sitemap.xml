@@ -13,6 +13,14 @@
   
 
       <url>
+        <loc>/tags/apps/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/tags/automl/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
@@ -61,6 +69,14 @@
   
 
       <url>
+        <loc>/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
@@ -101,7 +117,31 @@
   
 
       <url>
+        <loc>/tags/design/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/development/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-11-14-django-cookiecutter/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -126,6 +166,14 @@
 
       <url>
         <loc>/categories/machine-learning/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-11-14-ml-app-design/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     

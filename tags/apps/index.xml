@@ -1,0 +1,49 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apps on If you torture the data long enough, it will confess ©</title>
+    <link>/tags/apps/</link>
+    <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cookiecutters (Django &#43; Vue &#43; GraphQL &#43; FastAPI &#43; React &#43; pyTorch)</title>
+      <link>/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</guid>
+      <description>&lt;p&gt;1.&lt;a href=&#34;https://github.com/grantmcconnaughey/cookiecutter-django-vue-graphql-aws&#34;&gt;Django + Vue + GraphQL + AWS Cookiecutter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;a href=&#34;https://github.com/aws-samples/cookiecutter-aws-sam-pipeline&#34;&gt;Cookiecutter Pipeline for SAM based Serverless App&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;a href=&#34;https://github.com/python-microservices/cookiecutter-pyms&#34;&gt;Cookiecutter Python Microservice&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.&lt;a href=&#34;https://github.com/Buuntu/fastapi-react&#34;&gt;A cookiecutter template for bootstrapping a FastAPI and React project using a modern stack.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5.&lt;a href=&#34;https://github.com/khornlund/cookiecutter-pytorch&#34;&gt;Cookiecutter for pyTorch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;6.&lt;a href=&#34;https://github.com/crmne/cookiecutter-modern-datascience&#34;&gt;Cookiecutter for Data Science 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;7.&lt;a href=&#34;https://drivendata.github.io/cookiecutter-data-science/#getting-started&#34;&gt;Cookiecutter for Data Science 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;8.&lt;a href=&#34;https://github.com/docker-science/cookiecutter-docker-science#quick-start&#34;&gt;Cookiecutter for Data Science 3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DJANGO COOKIECUTTER</title>
+      <link>/post/2021-11-14-django-cookiecutter/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-django-cookiecutter/</guid>
+      <description>&lt;p&gt;1.&lt;a href=&#34;https://github.com/pydanny/cookiecutter-django&#34;&gt;Cookiecutter Django&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;a href=&#34;https://www.youtube.com/watch?v=RVLzZc3GUrk&amp;amp;ab_channel=SixFeetUpCorp&#34;&gt;Jumpstart your Django Project with Cookiecutter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;a href=&#34;https://ahhda.github.io/cloud/gce/django/2019/03/12/using-django-cookiecutter-cloud-storage.html&#34;&gt;Using django cookiecutter cloud storage (GCP)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.&lt;a href=&#34;https://msaizar.com/blog/blue-green-deployments-aws-and-docker/&#34;&gt;AWS Blue Green deployment&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5.&lt;a href=&#34;https://pythonrepo.com/repo/cookiecutter-flask-cookiecutter-flask-python-flask-utilities&#34;&gt;Cookiecutter Flask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;6.&lt;a href=&#34;https://github.com/tarsil/cookiecutter-django&#34;&gt;Cookiecutter Django + PostGres + Docker + DramatiQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;7.&lt;a href=&#34;https://github.com/vintasoftware/django-react-boilerplate&#34;&gt;Django + React&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;8.&lt;a href=&#34;https://blog.appseed.us/django-react-boilerplate/&#34;&gt;Django + React example&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;9.&lt;a href=&#34;https://saasitive.com/django-react/boilerplate/&#34;&gt;Django + React tutorial&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 

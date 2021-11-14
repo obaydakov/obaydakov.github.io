@@ -31,6 +31,22 @@
     </item>
     
     <item>
+      <title>Cookiecutters (Django &#43; Vue &#43; GraphQL &#43; FastAPI &#43; React &#43; pyTorch)</title>
+      <link>/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</guid>
+      <description>1.Django + Vue + GraphQL + AWS Cookiecutter
+2.Cookiecutter Pipeline for SAM based Serverless App
+3.Cookiecutter Python Microservice
+4.A cookiecutter template for bootstrapping a FastAPI and React project using a modern stack.
+5.Cookiecutter for pyTorch
+6.Cookiecutter for Data Science 1
+7.Cookiecutter for Data Science 2
+8.Cookiecutter for Data Science 3</description>
+    </item>
+    
+    <item>
       <title>Create An Awesome Streamlit App &amp; Deploy it With Docker</title>
       <link>/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
@@ -46,7 +62,7 @@ Link</description>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/post/2021-11-14-data-lake-diagram/</guid>
-      <description></description>
+      <description>Semantix Data Platform</description>
     </item>
     
     <item>
@@ -57,6 +73,23 @@ Link</description>
       <guid>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</guid>
       <description>Write ML Pipelines that will make your MLOps team happy: follow a clean separation of responsibility between model code and ops code. This article show you how to do that.
 Link</description>
+    </item>
+    
+    <item>
+      <title>DJANGO COOKIECUTTER</title>
+      <link>/post/2021-11-14-django-cookiecutter/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-django-cookiecutter/</guid>
+      <description>1.Cookiecutter Django
+2.Jumpstart your Django Project with Cookiecutter
+3.Using django cookiecutter cloud storage (GCP)
+4.AWS Blue Green deployment
+5.Cookiecutter Flask
+6.Cookiecutter Django + PostGres + Docker + DramatiQ
+7.Django + React
+8.Django + React example
+9.Django + React tutorial</description>
     </item>
     
     <item>
@@ -79,6 +112,16 @@ Key Functionality
       
       <guid>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</guid>
       <description>Link</description>
+    </item>
+    
+    <item>
+      <title>ML app design</title>
+      <link>/post/2021-11-14-ml-app-design/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-ml-app-design/</guid>
+      <description>Build and Deploy Data Science Products : A Practical Guide to Building a Machine Translation Application This journey is going to be a 8 steps.
+In this series we will take a use case, understand the solution landscape and its evolution, explore different architecture choices, look under the hood of the architecture to understand the nuts and bolts, build a prototype, convert the prototype into production ready code, build an application from the production ready code and finally understand the process for deploying the application .</description>
     </item>
     
     <item>
