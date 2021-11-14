@@ -61,6 +61,14 @@
   
 
       <url>
+        <loc>/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/post/2021-11-14-data-lake-diagram/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
@@ -101,6 +109,14 @@
   
 
       <url>
+        <loc>/post/2021-11-14-evalml/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/post/2021-11-14-hugging-face-transformer-inference-under-1-millisecond-latency/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
@@ -118,6 +134,14 @@
 
       <url>
         <loc>/post/</loc>
+        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/python/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     

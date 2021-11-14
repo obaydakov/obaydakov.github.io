@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on If you torture the data long enough, it will confess ©</title>
+    <link>/categories/python/</link>
+    <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Create An Awesome Streamlit App &amp; Deploy it With Docker</title>
+      <link>/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</guid>
+      <description>&lt;p&gt;This article is a comprehensive overview of a step-by-step guide to deploy a simple sentiment analysis application using streamlit and Docker&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/create-an-awesome-streamlit-app-deploy-it-with-docker-a3d202a636e8&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 
