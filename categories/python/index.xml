@@ -5,10 +5,23 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3 Python Tools You Need to Try</title>
+      <link>/post/2021-11-15-3-python-tools-you-need-to-try/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-15-3-python-tools-you-need-to-try/</guid>
+      <description>&lt;h4 id=&#34;mito--a-spreadsheet-interface-for-python&#34;&gt;Mito — A spreadsheet interface for Python&lt;/h4&gt;
+&lt;h4 id=&#34;lux--automated-visualization-suggestions-and-generation&#34;&gt;Lux — Automated Visualization Suggestions and Generation&lt;/h4&gt;
+&lt;h4 id=&#34;bokeh--create-interactive-visualizations-in-python&#34;&gt;Bokeh — Create Interactive Visualizations in Python&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/trymito/3-python-tools-you-need-to-try-72c3380974db&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cookiecutters (Django &#43; Vue &#43; GraphQL &#43; FastAPI &#43; React &#43; pyTorch)</title>

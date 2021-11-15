@@ -6,7 +6,16 @@
     <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 10:42:38 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 Python Tools You Need to Try</title>
+      <link>/post/2021-11-15-3-python-tools-you-need-to-try/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-15-3-python-tools-you-need-to-try/</guid>
+      <description>Mito — A spreadsheet interface for Python Lux — Automated Visualization Suggestions and Generation Bokeh — Create Interactive Visualizations in Python Link</description>
+    </item>
+    
     <item>
       <title>A Complete Intuitive Guide To Transfer Learning </title>
       <link>/post/2021-11-14-a-complete-intuitive-guide-to-transfer-learning/</link>
@@ -219,17 +228,6 @@ Link</description>
       <description>Modin is an early-stage project at UC Berkeley’s RISELab designed to facilitate the use of distributed computing for Data Science.
 It is a multiprocess Dataframe library with an identical API to pandas that allows users to speed up their Pandas workflows.
 Link</description>
-    </item>
-    
-    <item>
-      <title>HiPlot demonstration</title>
-      <link>/post/2021-11-14-hiplot-demonstration/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-hiplot-demonstration/</guid>
-      <description>Given about 7000 experimental datapoints, we want to understand which parameters influence the metric we want to optimize: valid ppl. How can HiPlot help?
-  On the parallel plot, each line represents one datapoint. Slicing on the valid ppl axis reveals that higher values for lr lead to better models.
-  We will focus on higher values for the lr then. Un-slice the valid ppl axis by clicking on the axis, but outside of the current slice.</description>
     </item>
     
   </channel>
