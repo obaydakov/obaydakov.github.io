@@ -6,7 +6,38 @@
     <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Spark Monitoring: How to Use Spark API and Open Source Libraries to Get Better Data Observability of Your Application</title>
+      <link>/post/2021-11-24-apache-spark-monitoring-how-to-use-spark-api-and-open-source-libraries-to-get-better-data-observability-of-your-application/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-24-apache-spark-monitoring-how-to-use-spark-api-and-open-source-libraries-to-get-better-data-observability-of-your-application/</guid>
+      <description>See how to use Listener APIs and data quality libraries to get different levels of data observability for Apache Spark.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Gartner Top Strategic Technology Trends for 2022</title>
+      <link>/post/2021-11-24-gartner-top-strategic-technology-trends-for-2022/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-24-gartner-top-strategic-technology-trends-for-2022/</guid>
+      <description>Gartner expects these 12 technology trends to act as force multipliers of digital business and innovation over the next three to five years. Here’s your quick guide to what the technologies are and why they’re valuable.
+Link</description>
+    </item>
+    
+    <item>
+      <title>What is Metaflow</title>
+      <link>/post/2021-11-24-what-is-metaflow/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-11-24-what-is-metaflow/</guid>
+      <description>Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix to boost the productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.
+Metaflow provides a unified API to the infrastructure stack that is required to execute data science projects, from prototype to production.
+Link</description>
+    </item>
+    
     <item>
       <title>3 Python Tools You Need to Try</title>
       <link>/post/2021-11-15-3-python-tools-you-need-to-try/</link>
@@ -196,38 +227,6 @@ Key Functionality
       
       <guid>/post/2021-11-14-explain-yourself-a-primer-on-ml-interpretability-explainability/</guid>
       <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Face Verification With Keras and Streamlit</title>
-      <link>/post/2021-11-14-face-verification-with-keras-and-streamlit/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-face-verification-with-keras-and-streamlit/</guid>
-      <description>Streamlit enables data scientists and machine learning practitioners to build data and machine learning applications quickly.
-In this piece, we will look at how we can use Streamlit to build a face verification application.
-However, before we can start verifying faces, we have to detect them. In computer vision, face detection is the task of locating and localizing faces in an image. Face verification is the process of comparing the similarity of two or more images.</description>
-    </item>
-    
-    <item>
-      <title>From model inception to deployment</title>
-      <link>/post/2021-11-14-from-model-inception-to-deployment/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-from-model-inception-to-deployment/</guid>
-      <description>Machine Learning model training &amp;amp; scalable deployment with Flask, Nginx &amp;amp; Gunicorn wrapped in a Docker Container
-Link</description>
-    </item>
-    
-    <item>
-      <title>Get faster pandas with Modin, even on your laptops</title>
-      <link>/post/2021-11-14-get-faster-pandas-with-modin-even-on-your-laptops/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-get-faster-pandas-with-modin-even-on-your-laptops/</guid>
-      <description>Modin is an early-stage project at UC Berkeley’s RISELab designed to facilitate the use of distributed computing for Data Science.
-It is a multiprocess Dataframe library with an identical API to pandas that allows users to speed up their Pandas workflows.
-Link</description>
     </item>
     
   </channel>

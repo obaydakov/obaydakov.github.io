@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>What is Metaflow - If you torture the data long enough, it will confess ©</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="What is Metaflow" />
+<meta property="og:description" content="Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix to boost the productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.
+Metaflow provides a unified API to the infrastructure stack that is required to execute data science projects, from prototype to production.
+Link" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/post/2021-11-24-what-is-metaflow/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2021-11-24T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-11-24T00:00:00+00:00" />
+
+
+		<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="What is Metaflow"/>
+<meta name="twitter:description" content="Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix to boost the productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.
+Metaflow provides a unified API to the infrastructure stack that is required to execute data science projects, from prototype to production.
+Link"/>
+
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/custom.css"><link rel="stylesheet" href="/css/poll.css"><link rel="stylesheet" href="/css/social_share.css">
+	<link rel="shortcut icon" href="/favicon.ico">
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?theme=flying&always=1&showNoConsent=1"></script>
+    
+    
+    <script type="text/javascript">
+    cookieValue = document.cookie.match(/(;)?cookiebar=([^;]*);?/)[2];
+    </script>
+    <script type="text/javascript">
+    cookieValue = document.cookie.match(/(;)?cookiebar=([^;]*);?/)[2];
+    if (cookieValue == 'CookieAllowed') {
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        ga('create', 'UA-174459384-1', 'auto');
+        ga('send', 'pageview');
+    }
+    </script>
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
+    
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container">
+		<div class="logo" role="banner">
+			<a class="logo__link" href="/" title="If you torture the data long enough, it will confess ©" rel="home">
+				        <div class="logo__title">
+                        If you torture the data long enough, it will confess ©
+                        </div><div class="logo__tagline">Understand. Implement. Succeed.</div>
+			</a>
+		</div>
+	</div>
+	
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/">
+				
+				<span class="menu__text">Home</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/post/">
+				
+				<span class="menu__text">Posts</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="http://tech.datascienceblog.net">
+				
+				<span class="menu__text">Tech Radar</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/data-science-glossary/">
+				
+				<span class="menu__text">Glossary</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/contribute-to-datascienceblog/">
+				
+				<span class="menu__text">Contribute!</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="https://www.linkedin.com/in/ippromek/">
+				
+				<span class="menu__text">About</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/recommended-resources-data-science-and-r/">
+				
+				<span class="menu__text">Resources</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/post/index.xml">
+				
+				<span class="menu__text">RSS Feed</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+</header>
+
+		<div class="wrapper flex">
+			<div class="primary">
+			
+
+<script src="/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">What is Metaflow</h1>
+			<div class="post__meta meta"><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/machine-learning/" rel="category">Machine Learning</a>, <a class="meta__link" href="/categories/python/" rel="category">python</a>
+	</span>
+</div><div class="meta__item-comments meta__item">
+	<svg class="meta__icon icon icon-comments" width="20" height="20" viewBox="0 0 20 20">
+    <path d="M14.999,8.543c0,0.229-0.188,0.417-0.416,0.417H5.417C5.187,8.959,5,8.772,5,8.543s0.188-0.417,0.417-0.417h9.167C14.812,8.126,14.999,8.314,14.999,8.543 M12.037,10.213H5.417C5.187,10.213,5,10.4,5,10.63c0,0.229,0.188,0.416,0.417,0.416h6.621c0.229,0,0.416-0.188,0.416-0.416C12.453,10.4,12.266,10.213,12.037,10.213 M14.583,6.046H5.417C5.187,6.046,5,6.233,5,6.463c0,0.229,0.188,0.417,0.417,0.417h9.167c0.229,0,0.416-0.188,0.416-0.417C14.999,6.233,14.812,6.046,14.583,6.046 M17.916,3.542v10c0,0.229-0.188,0.417-0.417,0.417H9.373l-2.829,2.796c-0.117,0.116-0.71,0.297-0.71-0.296v-2.5H2.5c-0.229,0-0.417-0.188-0.417-0.417v-10c0-0.229,0.188-0.417,0.417-0.417h15C17.729,3.126,17.916,3.313,17.916,3.542 M17.083,3.959H2.917v9.167H6.25c0.229,0,0.417,0.187,0.417,0.416v1.919l2.242-2.215c0.079-0.077,0.184-0.12,0.294-0.12h7.881V3.959z"></path></svg>
+    
+	<span class="meta__text">0</span>
+</div>
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2021-11-24T00:00:00Z">November 24, 2021</time></div></div>
+		</header>
+
+		<div class="content post__content clearfix">
+			<p>Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix to boost the productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.</p>
+<p>Metaflow provides a unified API to the infrastructure stack that is required to execute data science projects, from prototype to production.</p>
+<p><a href="https://docs.metaflow.org/introduction/what-is-metaflow">Link</a></p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/automl/" rel="tag">automl</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+  
+  
+  
+
+  <section class="social-share">
+    <ul class="share-icons">
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?hashtags=codingnconcepts&amp;url=%2fpost%2f2021-11-24-what-is-metaflow%2f&amp;text=What%20is%20Metaflow" target="_blank" rel="noopener" aria-label="Share on Twitter" class="share-btn twitter">
+          <svg class="widget-social__link-icon icon icon-twitter" width="24" height="24" viewBox="0 0 384 312"><path d="m384 36.9c-14.1 6.3-29.3 10.5-45.2 12.4 16.3-9.7 28.8-25.2 34.6-43.6-15.2 9-32.1 15.6-50 19.1-14.4-15.2-34.9-24.8-57.5-24.8-43.5 0-78.8 35.3-78.8 78.8 0 6.2.7 12.2 2 17.9-65.5-3.3-123.5-34.6-162.4-82.3-6.7 11.6-10.6 25.2-10.6 39.6 0 27.3 13.9 51.4 35 65.6-12.9-.4-25.1-4-35.7-9.9v1c0 38.2 27.2 70 63.2 77.2-6.6 1.8-13.6 2.8-20.8 2.8-5.1 0-10-.5-14.8-1.4 10 31.3 39.1 54.1 73.6 54.7-27 21.1-60.9 33.7-97.8 33.7-6.4 0-12.6-.4-18.8-1.1 34.9 22.4 76.3 35.4 120.8 35.4 144.9 0 224.1-120 224.1-224.1 0-3.4-.1-6.8-.2-10.2 15.4-11.1 28.7-25 39.3-40.8z"/></svg>
+          <p>Twitter</p>
+          </a>
+      </li>
+      
+
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=%2fpost%2f2021-11-24-what-is-metaflow%2f" target="_blank" rel="noopener" aria-label="Share on Facebook" class="share-btn facebook">
+          <svg class="widget-social__link-icon icon icon-facebook" width="24" height="24" viewBox="0 0 352 352"><path d="m0 32v288c0 17.5 14.5 32 32 32h288c17.5 0 32-14.5 32-32v-288c0-17.5-14.5-32-32-32h-288c-17.5 0-32 14.5-32 32zm320 0v288h-83v-108h41.5l6-48h-47.5v-31c0-14 3.5-23.5 23.5-23.5h26v-43.5c-4.4-.6-19.8-1.5-37.5-1.5-36.9 0-62 22.2-62 63.5v36h-42v48h42v108h-155v-288z"/></svg>
+          <p>Facebook</p>
+          </a>
+      </li>
+      
+
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2f2021-11-24-what-is-metaflow%2f&amp;source=%2fpost%2f2021-11-24-what-is-metaflow%2f&amp;title=What%20is%20Metaflow&amp;summary=What%20is%20Metaflow" target="_blank" rel="noopener" aria-label="Share on LinkedIn" class="share-btn linkedin">
+          <svg class="widget-social__link-icon icon icon-linkedin" width="24" height="24" viewBox="0 0 352 352"><path d="M0,40v272c0,21.9,18.1,40,40,40h272c21.9,0,40-18.1,40-40V40c0-21.9-18.1-40-40-40H40C18.1,0,0,18.1,0,40z M312,32 c4.6,0,8,3.4,8,8v272c0,4.6-3.4,8-8,8H40c-4.6,0-8-3.4-8-8V40c0-4.6,3.4-8,8-8H312z M59.5,87c0,15.2,12.3,27.5,27.5,27.5 c15.2,0,27.5-12.3,27.5-27.5c0-15.2-12.3-27.5-27.5-27.5C71.8,59.5,59.5,71.8,59.5,87z M187,157h-1v-21h-45v152h47v-75 c0-19.8,3.9-39,28.5-39c24.2,0,24.5,22.4,24.5,40v74h47v-83.5c0-40.9-8.7-72-56.5-72C208.5,132.5,193.3,145.1,187,157z M64,288h47.5 V136H64V288z"/></svg>
+            <p>LinkedIn</p>
+          </a>
+      </li>
+      
+
+      
+      
+      <li>
+        <a href="whatsapp://send?text=What%20is%20Metaflow%2c%20by%20If%20you%20torture%20the%20data%20long%20enough%2c%20it%20will%20confess%20%c2%a9%0a%0a%0a%2fpost%2f2021-11-24-what-is-metaflow%2f%0a" target="_blank" class="share-btn whatsapp">
+          <svg class="widget-social__link-icon icon icon-whatsapp" width="24" height="24" viewBox="0 0 24 24"><path d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"/></svg>
+
+          <p>Email</p>
+        </a>
+      </li>
+      
+
+      
+      
+      <li>
+        <a href="mailto:?subject=If%20you%20torture%20the%20data%20long%20enough%2c%20it%20will%20confess%20%c2%a9 - What%20is%20Metaflow.&amp;body=What%20is%20Metaflow%2c%20by%20If%20you%20torture%20the%20data%20long%20enough%2c%20it%20will%20confess%20%c2%a9%0a%0a%0a%2fpost%2f2021-11-24-what-is-metaflow%2f%0a" target="_blank" class="share-btn email">
+          <svg class="widget-social__link-icon icon icon-mail" width="24" height="24" viewBox="0 0 416 288"><path d="m0 16v256 16h16 384 16v-16-256-16h-16-384-16zm347 16-139 92.5-139-92.5zm-148 125.5 9 5.5 9-5.5 167-111.5v210h-352v-210z"/></svg>
+          <p>Email</p>
+        </a>
+      </li>
+    </ul>
+  </section>
+  
+
+
+<div class="authorbox clearfix">
+	<figure class="authorbox__avatar">
+		<img alt="Oleg Baydakov avatar" src="/img/photo.png" class="avatar" height="90" width="90">
+	</figure>
+	<div class="authorbox__header">
+		<span class="authorbox__name"></span>
+	</div>
+	<div class="authorbox__description">
+		Oleg Baydakov is a data engineer and AI architect.
+	</div>
+</div>
+<div style = "text-align:right">
+
+
+ 
+
+</div>
+<br>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/post/2021-11-15-3-python-tools-you-need-to-try/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">3 Python Tools You Need to Try</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/post/2021-11-24-gartner-top-strategic-technology-trends-for-2022/" rel="next">
+			<span class="pager__subtitle">Next&thinsp;»</span>
+			<p class="pager__title">Gartner Top Strategic Technology Trends for 2022</p>
+		</a>
+	</div>
+</nav>
+
+
+	
+
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<section class="post-comments">
+  <h2>Comments</h2>
+  
+    <p>There aren't any comments yet. Be the first to comment!</p>
+  
+  <form id="write_comment" class="post-comment" method="POST" action="https://staticmanbot.herokuapp.com/v2/entry/rbind/data-blog/master/comments">
+    Please enter your information. Your email address will not be published.
+    
+    <input type="hidden" name="options[reCaptcha][siteKey]" value="6LdZJ8MUAAAAAK5m-4z53KjV4rWTk8kY4FXtHwV4">
+    <input type="hidden" name="options[reCaptcha][secret]" value="D3kdrm7o9shsl4ZemXYKwCiQz3pvsTP/VcxiKklVPgLzIXQjrTSdxQuXaP6IPOZ0n9Ooe4osJ2xgduO7smEgXD8zcICJjvW9fRdSUdxhUdn7bwlGygA/LYqZqal9snO1rPlPIdmLdnFO19QD2Pz7UoUwcKsbwR5ZwFzmZFSwGUTaqkwlzdZe7saQ5/RM&#43;SmhquOD&#43;wylZSiPJW66yYGavMPmi4abn6sDfTnC7fgXlu75TtvMEEYNd2EvpjxkvzHxAzrb7u3IxqKYRkp5p0fN4rwV6tUzVmvdkDpOt4&#43;QsmPQDFHWPoZTztuXB6WSAp9QLTyokwW7a4ZHaB4chPz7ZA==">
+    <input type="hidden" name="options[redirect]" value="/post/2021-11-24-what-is-metaflow/#comment-submitted">
+    <input type="hidden" name="options[redirectError]" value="/post/2021-11-24-what-is-metaflow/#post-error">
+    <input type="hidden" name="options[entryId]" value="0953c33771c791545ee888811c03a11a">
+    <input name="fields[path]" type="hidden" value="post\2021-11-24-what-is-metaflow\index.md">
+    <input name="fields[name]" type="text" class="post-comment-field" placeholder="Your name" title = "Name">
+    <input name="fields[email]" type="email" class="post-comment-field" placeholder="Your email address" title = "Email">
+    <textarea name="fields[message]" class="post-comment-field" placeholder="Your message. Feel free to use Markdown." rows="3" title = "Comment"></textarea>
+    <div class="g-recaptcha" data-sitekey="6LdZJ8MUAAAAAK5m-4z53KjV4rWTk8kY4FXtHwV4"></div>
+    <input id = "commentSubmitButton" type="submit" class="post-comment-field btn" value="Submit" onclick="changeCommentButton()">
+  </form>
+
+<script>
+
+function validate(form) {
+   getRecaptchaToken(form) 
+}
+
+function getRecaptchaToken(form) {
+    grecaptcha.ready(function() {
+        grecaptcha.execute('6LdDs8YUAAAAAAgheyTlk-d1ejvfJYhliB4L6Tg-', {action: 'comment'}).then(function(token) {
+            gRecaptchaResponse.value = token 
+            validateRecaptcha().then(val => {
+                if (val) {
+                    form.submit(); 
+                } else {
+                    alert("Sorry, but your comment was not submitted because you seem to be a robot.")
+                }
+            });
+        });
+    });
+}
+
+
+
+
+</script>
+
+</section>
+<div id="comment-submitted" class="dialog">
+<h3>Thank you</h3>
+  <p>Your comment has been submitted and will be published once it has been approved.</p>
+  <p><button class="btn" onclick="goBackToOrigin()">OK</button></p>
+</div>
+<div id="post-error" class="dialog">
+    <h3>Sorry</h3>
+    <p>Your post has not been submitted. Please return to the form and make sure that all fields are entered. Thank You!</p>
+    <p><button class="btn" onclick="goBackToOrigin()">OK</button></p>
+</div> 
+
+
+
+
+			</div>
+			<aside class="sidebar"><div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
+		<label>
+			<input class="widget-search__field" type="search" placeholder="SEARCH..." value="" name="q" aria-label="SEARCH...">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">
+		<input type="hidden" name="sitesearch" value="/" />
+	</form>
+</div>
+<div class="widget-recent widget">
+	<h4 class="widget__title">Recent Posts</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/post/2021-11-24-apache-spark-monitoring-how-to-use-spark-api-and-open-source-libraries-to-get-better-data-observability-of-your-application/">Apache Spark Monitoring: How to Use Spark API and Open Source Libraries to Get Better Data Observability of Your Application</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2021-11-24-gartner-top-strategic-technology-trends-for-2022/">Gartner Top Strategic Technology Trends for 2022</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2021-11-24-what-is-metaflow/">What is Metaflow</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2021-11-15-3-python-tools-you-need-to-try/">3 Python Tools You Need to Try</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2021-11-14-a-complete-intuitive-guide-to-transfer-learning/">A Complete Intuitive Guide To Transfer Learning </a></li>
+		</ul>
+	</div>
+</div>
+<div class="widget-categories widget">
+	<h4 class="widget__title">Categories</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/big-data/">big-data</a>
+			</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/data-science/">data-science</a>
+			</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/deep-learning/">deep-learning</a>
+			</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/javascript/">javascript</a>
+			</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/machine-learning/">Machine Learning</a>
+			</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/python/">python</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="widget-taglist widget">
+	<h4 class="widget__title">Tags</h4>
+	<div class="widget__content">
+		<a class="widget-taglist__link widget__link btn" href="/tags/apps/" title="apps">apps</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/articles/" title="articles">articles</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/autoencoders/" title="autoencoders">autoencoders</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/automl/" title="automl">automl</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/books/" title="books">books</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/cloud/" title="cloud">cloud</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/computer-vision/" title="computer-vision">computer-vision</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/deep-learning/" title="deep-learning">deep-learning</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/design/" title="design">design</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/development/" title="development">development</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/nlp/" title="nlp">nlp</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/spark/" title="spark">spark</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/visualization/" title="visualization">visualization</a>
+	</div>
+</div>
+<div class="widget-social widget">
+	<h4 class="widget-social__title widget__title">Social</h4>
+	<div class="widget-social__content widget__content">
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="LinkedIn" rel="noopener noreferrer" href="https://linkedin.com/in/ippromek" target="_blank">
+				<svg class="widget-social__link-icon icon icon-linkedin" width="24" height="24" viewBox="0 0 352 352"><path d="M0,40v272c0,21.9,18.1,40,40,40h272c21.9,0,40-18.1,40-40V40c0-21.9-18.1-40-40-40H40C18.1,0,0,18.1,0,40z M312,32 c4.6,0,8,3.4,8,8v272c0,4.6-3.4,8-8,8H40c-4.6,0-8-3.4-8-8V40c0-4.6,3.4-8,8-8H312z M59.5,87c0,15.2,12.3,27.5,27.5,27.5 c15.2,0,27.5-12.3,27.5-27.5c0-15.2-12.3-27.5-27.5-27.5C71.8,59.5,59.5,71.8,59.5,87z M187,157h-1v-21h-45v152h47v-75 c0-19.8,3.9-39,28.5-39c24.2,0,24.5,22.4,24.5,40v74h47v-83.5c0-40.9-8.7-72-56.5-72C208.5,132.5,193.3,145.1,187,157z M64,288h47.5 V136H64V288z"/></svg>
+				<span>LinkedIn</span>
+			</a>
+		</div>
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="GitHub" rel="noopener noreferrer" href="https://github.com/obaydakov" target="_blank">
+				<svg class="widget-social__link-icon icon icon-github" width="24" height="24" viewBox="0 0 384 374"><path d="m192 0c-106.1 0-192 85.8-192 191.7 0 84.7 55 156.6 131.3 181.9 9.6 1.8 13.1-4.2 13.1-9.2 0-4.6-.2-16.6-.3-32.6-53.4 11.6-64.7-25.7-64.7-25.7-8.7-22.1-21.3-28-21.3-28-17.4-11.9 1.3-11.6 1.3-11.6 19.3 1.4 29.4 19.8 29.4 19.8 17.1 29.3 44.9 20.8 55.9 15.9 1.7-12.4 6.7-20.8 12.2-25.6-42.6-4.8-87.5-21.3-87.5-94.8 0-20.9 7.5-38 19.8-51.4-2-4.9-8.6-24.3 1.9-50.7 0 0 16.1-5.2 52.8 19.7 15.3-4.2 31.7-6.4 48.1-6.5 16.3.1 32.7 2.2 48.1 6.5 36.7-24.8 52.8-19.7 52.8-19.7 10.5 26.4 3.9 45.9 1.9 50.7 12.3 13.4 19.7 30.5 19.7 51.4 0 73.7-44.9 89.9-87.7 94.6 6.9 5.9 13 17.6 13 35.5 0 25.6-.2 46.3-.2 52.6 0 5.1 3.5 11.1 13.2 9.2 76.2-25.5 131.2-97.3 131.2-182 0-105.9-86-191.7-192-191.7z"/></svg>
+				<span>GitHub</span>
+			</a>
+		</div>
+
+		
+	</div>
+</div>
+</aside>
+		</div>
+		
+
+<script type="text/javascript" src="https://zc1.maillist-manage.eu/js/optin.min.js" onload="setupSF('sf70d03e7086d236fbf557966bf1e680c87e194c9c6b4ca86e','ZCFORMVIEW',false,'light',false,'0')"></script>
+<script type="text/javascript">
+	function runOnFormSubmit_sf70d03e7086d236fbf557966bf1e680c87e194c9c6b4ca86e(th){
+		 
+	};
+</script>
+
+<style>
+#customForm.quick_form_6_css * {
+    -webkit-box-sizing: border-box !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    overflow-wrap: break-word
+}
+@media only screen and (max-width: 200px) {.quick_form_6_css[name="SIGNUP_BODY"] { width: 100% !important; min-width: 100% !important; margin: 0px auto !important; padding: 0px !important } }
+@media screen and (min-width: 320px) and (max-width: 580px) and (orientation: portrait) {.quick_form_6_css[name="SIGNUP_BODY"] { max-width: 300px !important; margin: 0px auto !important; padding: 0px !important } }
+@media only screen and (max-device-width: 1024px) {.quick_form_6_css[name="SIGNUP_BODY"] { max-width: 500px !important; margin: 0px auto !important } }
+@media only screen and (max-device-width: 1024px) and (orientation: landscape) {.quick_form_6_css[name="SIGNUP_BODY"] { max-width: 700px !important; margin: 0px auto !important } }
+@media screen and (min-width: 475px) and (max-width: 980px) and (orientation: landscape) {.quick_form_6_css[name="SIGNUP_BODY"] { max-width: 400px !important; margin: 0px auto !important; padding: 0px !important } }
+</style>
+
+
+
+<div id="sf70d03e7086d236fbf557966bf1e680c87e194c9c6b4ca86e" data-type="signupform" style="opacity: 1;">
+	<div id="customForm">
+		<div class="quick_form_6_css" style="background-color: rgb(255, 255, 255); width: 500px; z-index: 2; font-family: &quot;Arial&quot;; border: 1px solid rgb(206, 206, 206); overflow: hidden" name="SIGNUP_BODY">
+			<div>
+				<div style="font-size: 14px; font-family: &quot;Arial&quot;; font-weight: bold; color: rgb(85, 85, 85); text-align: left; margin: 15px 15px 5px; width: 100%; display: block" id="SIGNUP_HEADING">Join Our Newsletter</div>
+				<div style="position:relative;">
+					<div id="Zc_SignupSuccess" style="display:none;position:absolute;margin-left:4%;width:90%;background-color: white; padding: 3px; border: 3px solid rgb(194, 225, 154);  margin-top: 10px;margin-bottom:10px;word-break:break-all">
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+							<tbody>
+								<tr>
+									<td width="10%">
+										<img class="successicon" src="https://zc1.maillist-manage.eu/images/challangeiconenable.jpg" align="absmiddle">
+									</td>
+									<td>
+										<span id="signupSuccessMsg" style="color: rgb(73, 140, 132); font-family: sans-serif; font-size: 14px;word-break:break-word">&nbsp;&nbsp;Thank you for Signing Up</span>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<form method="POST" id="zcampaignOptinForm" style="margin: 0px; width: 100%; text-align: center" action="https://maillist-manage.eu/weboptin.zc" target="_zcSignup">
+					<div style="background-color: rgb(255, 235, 232); padding: 10px; color: rgb(210, 0, 0); font-size: 11px; margin: 20px 10px 0px; border: 1px solid rgb(255, 217, 211); opacity: 1; display: none" id="errorMsgDiv">Please correct the marked field(s) below.</div>
+					<div style="position: relative; width: 170px; height: 28px; display: inline-block">
+						<div id="Zc_SignupSuccess" style="position: absolute; width: 87%; background-color: white; padding: 3px; border: 3px solid rgb(194, 225, 154); margin-bottom: 10px; word-break: break-all; opacity: 1; display: none">
+							<div style="width: 20px; padding: 5px; display: table-cell">
+								<img class="successicon" src="https://campaigns.zoho.com/images/challangeiconenable.jpg" style="width: 20px">
+							</div>
+							<div style="display: table-cell">
+								<span id="signupSuccessMsg" style="color: rgb(73, 140, 132); font-family: sans-serif; font-size: 14px; line-height: 30px; display: block"></span>
+							</div>
+						</div>
+						<div style="padding: 5px 0px; color: rgb(85, 85, 85); font-size: 12px; font-family: Arial; display: block; text-align: left">Email</div>
+						<input type="text" style="font-size: 12px; border-width: 1px; border-color: rgb(214, 205, 205); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: rgb(113, 106, 106); text-align: left; font-family: &quot;Arial&quot;; border-radius: 4px; background-color: rgb(246, 246, 246); box-sizing: border-box" changeitem="SIGNUP_FORM_FIELD" name="CONTACT_EMAIL" id="EMBED_FORM_EMAIL_LABEL">
+					</div>
+					<div style="position: relative; margin: 5px 0 40px 10px; width: 170px; height: 28px; display: inline-block">
+						<div style="padding: 5px 0px; color: rgb(85, 85, 85); font-size: 12px; font-family: Arial; display: block; text-align: left">Name</div>
+						<input type="text" style="font-size: 12px; border-width: 1px; border-color: rgb(214, 205, 205); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: rgb(113, 106, 106); text-align: left; font-family: &quot;Arial&quot;; border-radius: 4px; background-color: rgb(246, 246, 246); box-sizing: border-box" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
+					</div>
+					<div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block">
+						<input type="button" style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px none; color: rgb(255, 255, 255); cursor: pointer; outline: currentcolor none medium; font-size: 14px; background-color: rgb(226, 45, 48); border-radius: 4px" name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Join Now">
+					</div>
+					<input type="hidden" id="fieldBorder" value="">
+					<input type="hidden" id="submitType" name="submitType" value="optinCustomView">
+					<input type="hidden" id="emailReportId" name="emailReportId" value="">
+					<input type="hidden" id="formType" name="formType" value="QuickForm">
+					<input type="hidden" name="zx" id="cmpZuid" value="14ac624c65">
+					<input type="hidden" name="zcvers" value="2.0">
+					<input type="hidden" name="oldListIds" id="allCheckedListIds" value="">
+					<input type="hidden" id="mode" name="mode" value="OptinCreateView">
+					<input type="hidden" id="zcld" name="zcld" value="1c7f7d19bd436d5">
+					<input type="hidden" id="document_domain" value="">
+					<input type="hidden" id="zc_Url" value="zc1.maillist-manage.eu">
+					<input type="hidden" id="new_optin_response_in" value="0">
+					<input type="hidden" id="duplicate_optin_response_in" value="0">
+					<input type="hidden" name="zc_trackCode" id="zc_trackCode" value="ZCFORMVIEW">
+					<input type="hidden" id="zc_formIx" name="zc_formIx" value="70d03e7086d236fbf557966bf1e680c87e194c9c6b4ca86e">
+					<input type="hidden" id="viewFrom" value="URL_ACTION">
+					<span style="display: none" id="dt_CONTACT_EMAIL">1,true,6,Contact Email,2</span>
+					<span style="display: none" id="dt_FIRSTNAME">1,false,1,First Name,2</span>
+					<span style="display: none" id="dt_LASTNAME">1,false,1,Last Name,2</span>
+				</form>
+			</div>
+		</div>
+	</div>
+	<img src="https://zc1.maillist-manage.eu/images/spacer.gif" id="refImage" onload="referenceSetter(this)" style="display:none;">
+</div>
+<input type="hidden" id="signupFormType" value="QuickForm_Horizontal">
+<div id="zcOptinOverLay" oncontextmenu="return false" style="display:none;text-align: center; background-color: rgb(0, 0, 0); opacity: 0.5; z-index: 100; position: fixed; width: 100%; top: 0px; left: 0px; height: 988px;"></div>
+<div id="zcOptinSuccessPopup" style="display:none;z-index: 9999;width: 800px; height: 40%;top: 84px;position: fixed; left: 26%;background-color: #FFFFFF;border-color: #E6E6E6; border-style: solid; border-width: 1px;  box-shadow: 0 1px 10px #424242;padding: 35px;">
+	<span style="position: absolute;top: -16px;right:-14px;z-index:99999;cursor: pointer;" id="closeSuccess">
+		<img src="https://zc1.maillist-manage.eu/images/videoclose.png">
+	</span>
+	<div id="zcOptinSuccessPanel"></div>
+</div>
+
+
+<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 If you torture the data long enough, it will confess ©.
+			<span class="footer__copyright-credits"><!--LICENSE--> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> <!--LICENSE_END--> <a href="/colophon">Colophon</a> | <a href="/impressum">Impressum</a> |  <a href="/datenschutz">Datenschutzerklärung</a></span>
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script type="text/javascript" id="ZC_Forms_Popup" src="https://campaigns.zoho.eu/js/optin.min.js" onload="loadZCPopup('270d03e7086d236fbbc35e3a58b78c572fb14bfad9d4be9ab','ZCFORMVIEW','284e19868ac2005832bb3b22b0b798a78')" onreadystatechange="loadZCPopup('270d03e7086d236fbbc35e3a58b78c572fb14bfad9d4be9ab','ZCFORMVIEW','284e19868ac2005832bb3b22b0b798a78')"></script>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.3.1/underscore-min.js"></script><script src="/js/highlight.pack.js"></script><script src="/js/polls.js"></script><script src="/js/scripts.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+</body>
+</html>

@@ -5,33 +5,15 @@
     <description>Recent content in Categories on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>python</title>
-      <link>/categories/python/</link>
-      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>/categories/deep-learning/</link>
-      <pubDate>Sun, 14 Nov 2021 10:42:38 +0200</pubDate>
-      
-      <guid>/categories/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>big-data</title>
       <link>/categories/big-data/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/big-data/</guid>
       <description></description>
@@ -40,25 +22,16 @@
     <item>
       <title>data-science</title>
       <link>/categories/data-science/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/data-science/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>javascript</title>
-      <link>/categories/javascript/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Machine Learning</title>
       <link>/categories/machine-learning/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/machine-learning/</guid>
       <description>
@@ -78,6 +51,33 @@
 &lt;p&gt;In the following posts, machine learning is applied to solve problems using R.&lt;/p&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>/categories/python/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>/categories/deep-learning/</link>
+      <pubDate>Sun, 14 Nov 2021 10:42:38 +0200</pubDate>
+      
+      <guid>/categories/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>/categories/javascript/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/javascript/</guid>
+      <description></description>
     </item>
     
     <item>
