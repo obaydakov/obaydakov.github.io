@@ -5,7 +5,7 @@
     <description>Recent content in Categories on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>big-data</title>
       <link>/categories/big-data/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/big-data/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>data-science</title>
       <link>/categories/data-science/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/data-science/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>Machine Learning</title>
       <link>/categories/machine-learning/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/machine-learning/</guid>
       <description>
@@ -54,9 +54,18 @@
     </item>
     
     <item>
+      <title>math</title>
+      <link>/categories/math/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>python</title>
       <link>/categories/python/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/python/</guid>
       <description></description>

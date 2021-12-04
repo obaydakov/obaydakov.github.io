@@ -5,10 +5,45 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Are You Still Using Pandas to Process Big Data in 2021?</title>
+      <link>/post/2021-12-04-are-you-still-using-pandas-to-process-big-data-in-2021/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-are-you-still-using-pandas-to-process-big-data-in-2021/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Dask&lt;/strong&gt; provides advanced parallelism for analytics, enabling performance at scale for the tools you love. This includes numpy, pandas and sklearn. It is open-source and freely available. It uses existing Python APIs and data structures to make it easy to switch between Dask-powered equivalents.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vaex&lt;/strong&gt; is a high-performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. It can calculate basic statistics for more than a billion rows per second. It supports multiple visualizations allowing interactive exploration of big data.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dask&lt;/strong&gt; and &lt;strong&gt;Vaex&lt;/strong&gt; Dataframes are not fully compatible with Pandas Dataframes but some most common “data wrangling” operations are supported by both tools. Dask is more focused on scaling the code to compute clusters, while Vaex makes it easier to work with large datasets on a single machine.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/are-you-still-using-pandas-to-process-big-data-in-2021-850ab26ad919&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring Google Analytics Realtime Data with Python</title>
+      <link>/post/2021-12-04-exploring-google-analytics-realtime-data-with-python/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-exploring-google-analytics-realtime-data-with-python/</guid>
+      <description>&lt;p&gt;Take full advantage of all the Google Analytics features and data using its REST API and Python&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/exploring-google-analytics-realtime-data-with-python-8625849c7d7a&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to process a DataFrame with millions of rows in seconds?</title>
+      <link>/post/2021-12-04-how-to-process-a-dataframe-with-millions-of-rows-in-seconds/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-how-to-process-a-dataframe-with-millions-of-rows-in-seconds/</guid>
+      <description>&lt;p&gt;Terality is a Serverless Data Processing Engine that processes the data in the Cloud. There is no need to manage infrastructure as Terality takes care of scaling compute resources. Its target audiences are Engineers and Data Scientists.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-process-a-dataframe-with-millions-of-rows-in-seconds-fe7065b8f986&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What is Metaflow</title>

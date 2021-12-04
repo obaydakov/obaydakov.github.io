@@ -5,16 +5,16 @@
   
 
       <url>
-        <loc>/post/2021-11-24-apache-spark-monitoring-how-to-use-spark-api-and-open-source-libraries-to-get-better-data-observability-of-your-application/</loc>
-        <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+        <loc>/tags/apps/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
     </url>
     
   
   
 
       <url>
-        <loc>/tags/apps/</loc>
-        <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+        <loc>/post/2021-12-04-are-you-still-using-pandas-to-process-big-data-in-2021/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -22,6 +22,182 @@
 
       <url>
         <loc>/tags/articles/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/big-data/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/books/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-04-building-a-knowledge-graph-for-job-search-using-bert/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-science/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-04-exploring-google-analytics-realtime-data-with-python/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-04-graph-machine-learning-with-python-part-1-basics-metrics-and-algorithms/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-04-graph-machine-learning-with-python-part-2-random-graphs-and-diffusion-models-of-cryptopunks-trading/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/graphs/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-04-how-to-build-a-knowledge-graph-with-neo4j-and-transformers/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-04-how-to-create-and-deploy-a-simple-sentiment-analysis-app-via-api/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-04-how-to-process-a-dataframe-with-millions-of-rows-in-seconds/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-04-huberman-lab/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/machine-learning/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/math/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/nlp/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/python/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-04-what-is-the-square-root-of-two-the-fundamental-theorem-of-galois-theory/</loc>
+        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-11-24-apache-spark-monitoring-how-to-use-spark-api-and-open-source-libraries-to-get-better-data-observability-of-your-application/</loc>
         <lastmod>2021-11-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -37,71 +213,7 @@
   
 
       <url>
-        <loc>/categories/big-data/</loc>
-        <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/</loc>
-        <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/data-science/</loc>
-        <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/</loc>
-        <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2021-11-24-gartner-top-strategic-technology-trends-for-2022/</loc>
-        <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/machine-learning/</loc>
-        <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/post/</loc>
-        <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/python/</loc>
-        <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/</loc>
         <lastmod>2021-11-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -222,14 +334,6 @@
 
       <url>
         <loc>/post/2021-11-14-bmw-techoffice-munich/</loc>
-        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/books/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -406,14 +510,6 @@
 
       <url>
         <loc>/post/12021-11-14-modelzoo/</loc>
-        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/nlp/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     

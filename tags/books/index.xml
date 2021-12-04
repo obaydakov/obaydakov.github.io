@@ -5,10 +5,21 @@
     <description>Recent content in books on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/books/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Huberman Lab</title>
+      <link>/post/2021-12-04-huberman-lab/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-huberman-lab/</guid>
+      <description>&lt;p&gt;PODCAST EPISODES&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hubermanlab.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>100 &#43; Data Science, Deep Learning, AI &amp; Machine Learning Cheat Sheet PDF</title>

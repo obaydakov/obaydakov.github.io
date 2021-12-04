@@ -6,7 +6,110 @@
     <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are You Still Using Pandas to Process Big Data in 2021?</title>
+      <link>/post/2021-12-04-are-you-still-using-pandas-to-process-big-data-in-2021/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-are-you-still-using-pandas-to-process-big-data-in-2021/</guid>
+      <description>Dask provides advanced parallelism for analytics, enabling performance at scale for the tools you love. This includes numpy, pandas and sklearn. It is open-source and freely available. It uses existing Python APIs and data structures to make it easy to switch between Dask-powered equivalents.
+Vaex is a high-performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. It can calculate basic statistics for more than a billion rows per second.</description>
+    </item>
+    
+    <item>
+      <title>Building a Knowledge Graph for Job Search Using BERT</title>
+      <link>/post/2021-12-04-building-a-knowledge-graph-for-job-search-using-bert/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-building-a-knowledge-graph-for-job-search-using-bert/</guid>
+      <description>In this tutorial, we will build a job recommendation and skill discovery script that will take unstructured text as input, and will then output job recommendations and skill suggestions based on entities such as skills, years of experience, diploma, and major.
+We will extract entities and relations from job descriptions using the BERT model and we will attempt to build a knowledge graph from skills and years of experience.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Exploring Google Analytics Realtime Data with Python</title>
+      <link>/post/2021-12-04-exploring-google-analytics-realtime-data-with-python/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-exploring-google-analytics-realtime-data-with-python/</guid>
+      <description>Take full advantage of all the Google Analytics features and data using its REST API and Python
+Link</description>
+    </item>
+    
+    <item>
+      <title>Graph Machine Learning with Python Part 1: Basics, Metrics, and Algorithms</title>
+      <link>/post/2021-12-04-graph-machine-learning-with-python-part-1-basics-metrics-and-algorithms/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-graph-machine-learning-with-python-part-1-basics-metrics-and-algorithms/</guid>
+      <description>An introduction to networks via key metrics and algorithms on a Football dataset
+Link</description>
+    </item>
+    
+    <item>
+      <title>Graph Machine Learning with Python Part 2: Random Graphs and Diffusion Models of CryptoPunks Trading</title>
+      <link>/post/2021-12-04-graph-machine-learning-with-python-part-2-random-graphs-and-diffusion-models-of-cryptopunks-trading/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-graph-machine-learning-with-python-part-2-random-graphs-and-diffusion-models-of-cryptopunks-trading/</guid>
+      <description>Simulating and modeling the CryptoPunks trading data via a graph
+Link</description>
+    </item>
+    
+    <item>
+      <title>How to Build a Knowledge Graph with Neo4J and Transformers</title>
+      <link>/post/2021-12-04-how-to-build-a-knowledge-graph-with-neo4j-and-transformers/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-how-to-build-a-knowledge-graph-with-neo4j-and-transformers/</guid>
+      <description>How to build a knowledge graph from job descriptions using fine-tuned transformer-based Named Entity Recognition (NER) and spacy’s relation extraction models. The method described here can be used in any different field such as biomedical, finance, healthcare, etc.
+Below are the steps we are going to take:
+  Load our fine-tuned transformer NER and spacy relation extraction model in google colab
+  Create a Neo4j Sandbox and add our entities and relations</description>
+    </item>
+    
+    <item>
+      <title>How to Create and Deploy a Simple Sentiment Analysis App via API</title>
+      <link>/post/2021-12-04-how-to-create-and-deploy-a-simple-sentiment-analysis-app-via-api/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-how-to-create-and-deploy-a-simple-sentiment-analysis-app-via-api/</guid>
+      <description>FastAPI might be able to help. FastAPI is FastAPI is a web framework for building APIs with Python. We will use FastAPI in this article to build a REST API to service an NLP model which can be queried via GET request and can dole out responses to those queries.
+For this example, we will skip the building of our own model, and instead leverage the Pipeline class of the HuggingFace Transformers library.</description>
+    </item>
+    
+    <item>
+      <title>How to process a DataFrame with millions of rows in seconds?</title>
+      <link>/post/2021-12-04-how-to-process-a-dataframe-with-millions-of-rows-in-seconds/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-how-to-process-a-dataframe-with-millions-of-rows-in-seconds/</guid>
+      <description>Terality is a Serverless Data Processing Engine that processes the data in the Cloud. There is no need to manage infrastructure as Terality takes care of scaling compute resources. Its target audiences are Engineers and Data Scientists.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Huberman Lab</title>
+      <link>/post/2021-12-04-huberman-lab/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-huberman-lab/</guid>
+      <description>PODCAST EPISODES
+Link</description>
+    </item>
+    
+    <item>
+      <title>What is the square root of two? | The Fundamental Theorem of Galois Theory</title>
+      <link>/post/2021-12-04-what-is-the-square-root-of-two-the-fundamental-theorem-of-galois-theory/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-what-is-the-square-root-of-two-the-fundamental-theorem-of-galois-theory/</guid>
+      <description>This video is an introduction to Galois Theory, which spells out a beautiful correspondence between fields and their symmetry groups.
+Link</description>
+    </item>
+    
     <item>
       <title>Apache Spark Monitoring: How to Use Spark API and Open Source Libraries to Get Better Data Observability of Your Application</title>
       <link>/post/2021-11-24-apache-spark-monitoring-how-to-use-spark-api-and-open-source-libraries-to-get-better-data-observability-of-your-application/</link>
@@ -108,125 +211,6 @@ Link</description>
       <guid>/post/2021-11-15-awesome-production-machine-learning/</guid>
       <description>This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning.
 Link</description>
-    </item>
-    
-    <item>
-      <title>Awesome Software Engineering for Machine Learning</title>
-      <link>/post/2021-11-14-awesome-software-engineering-for-machine-learning/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-awesome-software-engineering-for-machine-learning/</guid>
-      <description>Software Engineering for Machine Learning are techniques and guidelines for building ML applications that do not concern the core ML problem &amp;ndash; e.g. the development of new algorithms &amp;ndash; but rather the surrounding activities like data ingestion, coding, testing, versioning, deployment, quality control, and team collaboration.
-Good software engineering practices enhance development, deployment and maintenance of production level applications using machine learning components.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Bento ML</title>
-      <link>/post/2021-11-14-bento-ml/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-bento-ml/</guid>
-      <description>BentoML is a flexible, high-performance framework for serving, managing, and deploying machine learning models.
-  Supports Multiple ML frameworks, including Tensorflow, PyTorch, Keras, XGBoost and more
-  Cloud native deployment with Docker, Kubernetes, AWS, Azure and many more
-  High-Performance online API serving and offline batch serving
-  Web dashboards and APIs for model registry and deployment management
-  Link</description>
-    </item>
-    
-    <item>
-      <title>BMW TechOffice MUNICH</title>
-      <link>/post/2021-11-14-bmw-techoffice-munich/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-bmw-techoffice-munich/</guid>
-      <description>This organization contains software for realtime computer vision published by the members, partners and friends of the BMW TechOffice MUNICH and InnovationLab.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Cookiecutters (Django &#43; Vue &#43; GraphQL &#43; FastAPI &#43; React &#43; pyTorch)</title>
-      <link>/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-cookiecutters-django-vue-graphql-fastapi-react-pytorch/</guid>
-      <description>1.Django + Vue + GraphQL + AWS Cookiecutter
-2.Cookiecutter Pipeline for SAM based Serverless App
-3.Cookiecutter Python Microservice
-4.A cookiecutter template for bootstrapping a FastAPI and React project using a modern stack.
-5.Cookiecutter for pyTorch
-6.Cookiecutter for Data Science 1
-7.Cookiecutter for Data Science 2
-8.Cookiecutter for Data Science 3</description>
-    </item>
-    
-    <item>
-      <title>Create An Awesome Streamlit App &amp; Deploy it With Docker</title>
-      <link>/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-create-an-awesome-streamlit-app-deploy-it-with-docker/</guid>
-      <description>This article is a comprehensive overview of a step-by-step guide to deploy a simple sentiment analysis application using streamlit and Docker
-Link</description>
-    </item>
-    
-    <item>
-      <title>Data Lake diagram </title>
-      <link>/post/2021-11-14-data-lake-diagram/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-data-lake-diagram/</guid>
-      <description>Semantix Data Platform</description>
-    </item>
-    
-    <item>
-      <title>Developing and Deploying a Machine Learning Model on Vertex AI using Python</title>
-      <link>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</guid>
-      <description>Write ML Pipelines that will make your MLOps team happy: follow a clean separation of responsibility between model code and ops code. This article show you how to do that.
-Link</description>
-    </item>
-    
-    <item>
-      <title>DJANGO COOKIECUTTER</title>
-      <link>/post/2021-11-14-django-cookiecutter/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-django-cookiecutter/</guid>
-      <description>1.Cookiecutter Django
-2.Jumpstart your Django Project with Cookiecutter
-3.Using django cookiecutter cloud storage (GCP)
-4.AWS Blue Green deployment
-5.Cookiecutter Flask
-6.Cookiecutter Django + PostGres + Docker + DramatiQ
-7.Django + React
-8.Django + React example
-9.Django + React tutorial</description>
-    </item>
-    
-    <item>
-      <title>EvalML</title>
-      <link>/post/2021-11-14-evalml/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-evalml/</guid>
-      <description>EvalML is an AutoML library which builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.
-Key Functionality
-  Automation - Makes machine learning easier. Avoid training and tuning models by hand. Includes data quality checks, cross-validation and more.
-  Data Checks - Catches and warns of problems with your data and problem setup before modeling.
-  End-to-end - Constructs and optimizes pipelines that include state-of-the-art preprocessing, feature engineering, feature selection, and a variety of modeling techniques.</description>
-    </item>
-    
-    <item>
-      <title>Explain Yourself - A Primer on ML Interpretability &amp; Explainability</title>
-      <link>/post/2021-11-14-explain-yourself-a-primer-on-ml-interpretability-explainability/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-14-explain-yourself-a-primer-on-ml-interpretability-explainability/</guid>
-      <description>Link</description>
     </item>
     
   </channel>

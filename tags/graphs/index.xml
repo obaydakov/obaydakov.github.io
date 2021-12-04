@@ -1,0 +1,85 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>graphs on If you torture the data long enough, it will confess ©</title>
+    <link>/tags/graphs/</link>
+    <description>Recent content in graphs on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/graphs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building a Knowledge Graph for Job Search Using BERT</title>
+      <link>/post/2021-12-04-building-a-knowledge-graph-for-job-search-using-bert/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-building-a-knowledge-graph-for-job-search-using-bert/</guid>
+      <description>&lt;p&gt;In this tutorial, we will build a job recommendation and skill discovery script that will take unstructured text as input, and will then output job recommendations and skill suggestions based on entities such as skills, years of experience, diploma, and major.&lt;/p&gt;
+&lt;p&gt;We will extract entities and relations from job descriptions using the BERT model and we will attempt to build a knowledge graph from skills and years of experience.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kdnuggets.com/2021/06/knowledge-graph-job-search-bert.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graph Machine Learning with Python Part 1: Basics, Metrics, and Algorithms</title>
+      <link>/post/2021-12-04-graph-machine-learning-with-python-part-1-basics-metrics-and-algorithms/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-graph-machine-learning-with-python-part-1-basics-metrics-and-algorithms/</guid>
+      <description>&lt;p&gt;An introduction to networks via key metrics and algorithms on a Football dataset&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/graph-machine-learning-with-python-pt-1-basics-metrics-and-algorithms-cc40972de113&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graph Machine Learning with Python Part 2: Random Graphs and Diffusion Models of CryptoPunks Trading</title>
+      <link>/post/2021-12-04-graph-machine-learning-with-python-part-2-random-graphs-and-diffusion-models-of-cryptopunks-trading/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-graph-machine-learning-with-python-part-2-random-graphs-and-diffusion-models-of-cryptopunks-trading/</guid>
+      <description>&lt;p&gt;Simulating and modeling the CryptoPunks trading data via a graph&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/graph-machine-learning-with-python-pt-2-random-graphs-and-diffusion-models-of-cryptopunks-trading-99cd5170b5ea&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Build a Knowledge Graph with Neo4J and Transformers</title>
+      <link>/post/2021-12-04-how-to-build-a-knowledge-graph-with-neo4j-and-transformers/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-how-to-build-a-knowledge-graph-with-neo4j-and-transformers/</guid>
+      <description>&lt;p&gt;How to build a knowledge graph from job descriptions using fine-tuned transformer-based Named Entity Recognition (NER) and spacy’s relation extraction models. The method described here can be used in any different field such as biomedical, finance, healthcare, etc.&lt;/p&gt;
+&lt;p&gt;Below are the steps we are going to take:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Load our fine-tuned transformer NER and spacy relation extraction model in google colab&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create a Neo4j Sandbox and add our entities and relations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Query our graph to find the highest job match to a target resume, find the three most popular skills and highest skills co-occurrence&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kdnuggets.com/2021/11/build-knowledge-graph-neo4j-transformers.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Create and Deploy a Simple Sentiment Analysis App via API</title>
+      <link>/post/2021-12-04-how-to-create-and-deploy-a-simple-sentiment-analysis-app-via-api/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-04-how-to-create-and-deploy-a-simple-sentiment-analysis-app-via-api/</guid>
+      <description>&lt;p&gt;FastAPI might be able to help. FastAPI is FastAPI is a web framework for building APIs with Python. We will use FastAPI in this article to build a REST API to service an NLP model which can be queried via GET request and can dole out responses to those queries.&lt;/p&gt;
+&lt;p&gt;For this example, we will skip the building of our own model, and instead leverage the Pipeline class of the HuggingFace Transformers library. Transformers is full of SOTA NLP models which can be used out of the box as-is, as well as fine-tuned for specific uses and high performance. The library&amp;rsquo;s pipelines can be summed up as:&lt;/p&gt;
+&lt;p&gt;The pipelines are a great and easy way to use models for inference. These pipelines are objects that abstract most of the complex code from the library, offering a simple API dedicated to several tasks, including Named Entity Recognition, Masked Language Modeling, Sentiment Analysis, Feature Extraction and Question Answering.&lt;/p&gt;
+&lt;p&gt;Using the Transformers library, FastAPI, and astonishingly little code, we are going to create and deploy a very simple sentiment analysis app. We will also see how extending this same approach to a more complex app would be quite straightforward.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kdnuggets.com/2021/06/create-deploy-sentiment-analysis-app-api.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 
