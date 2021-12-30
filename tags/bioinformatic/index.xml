@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bioinformatic on If you torture the data long enough, it will confess ©</title>
+    <link>/tags/bioinformatic/</link>
+    <description>Recent content in bioinformatic on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/bioinformatic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> AlphaFold2 Talk</title>
+      <link>/post/2021-12-30-alphafold2-talk/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-30-alphafold2-talk/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/BurkovBA/AlphaFold2-talk&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A powerful and flexible machine learning platform for drug discovery</title>
+      <link>/post/2021-12-30-a-powerful-and-flexible-machine-learning-platform-for-drug-discovery/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-30-a-powerful-and-flexible-machine-learning-platform-for-drug-discovery/</guid>
+      <description>&lt;p&gt;TorchDrug is a machine learning platform designed for drug discovery, covering techniques from graph machine learning (graph neural networks, geometric deep learning &amp;amp; knowledge graphs), deep generative models to reinforcement learning. It provides a comprehensive and flexible interface to support rapid prototyping of drug discovery models in PyTorch.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://torchdrug.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data.</title>
+      <link>/post/2021-12-30-pyg-pytorch-geometric-is-a-library-built-upon-pytorch-to-easily-write-and-train-graph-neural-networks-gnns-for-a-wide-range-of-applications-related-to-structured-data/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-30-pyg-pytorch-geometric-is-a-library-built-upon-pytorch-to-easily-write-and-train-graph-neural-networks-gnns-for-a-wide-range-of-applications-related-to-structured-data/</guid>
+      <description>&lt;p&gt;It consists of various methods for deep learning on graphs and other irregular structures, also known as geometric deep learning, from a variety of published papers. In addition, it consists of easy-to-use mini-batch loaders for operating on many small and single giant graphs, multi GPU-support, distributed graph learning via Quiver, a large number of common benchmark datasets (based on simple interfaces to create your own), the GraphGym experiment manager, and helpful transforms, both for learning on arbitrary graphs as well as on 3D meshes or point clouds.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pytorch-geometric.readthedocs.io/en/latest/index.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 

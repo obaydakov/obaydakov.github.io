@@ -5,10 +5,84 @@
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 10:42:38 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> AlphaFold2 Talk</title>
+      <link>/post/2021-12-30-alphafold2-talk/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-30-alphafold2-talk/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/BurkovBA/AlphaFold2-talk&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A powerful and flexible machine learning platform for drug discovery</title>
+      <link>/post/2021-12-30-a-powerful-and-flexible-machine-learning-platform-for-drug-discovery/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-30-a-powerful-and-flexible-machine-learning-platform-for-drug-discovery/</guid>
+      <description>&lt;p&gt;TorchDrug is a machine learning platform designed for drug discovery, covering techniques from graph machine learning (graph neural networks, geometric deep learning &amp;amp; knowledge graphs), deep generative models to reinforcement learning. It provides a comprehensive and flexible interface to support rapid prototyping of drug discovery models in PyTorch.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://torchdrug.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geometric Deep Learing</title>
+      <link>/post/2021-12-30-geometric-deep-learing/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-30-geometric-deep-learing/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://geometricdeeplearning.com/lectures/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graph ML in 2022: Where Are We Now?</title>
+      <link>/post/2021-12-30-graph-ml-in-2022-where-are-we-now/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-30-graph-ml-in-2022-where-are-we-now/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/graph-ml-in-2022-where-are-we-now-f7f8242599e0&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KG Course 2021</title>
+      <link>/post/2021-12-30-kg-course-2021/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-30-kg-course-2021/</guid>
+      <description>&lt;p&gt;Курс по графам знаний (Knowledge Graphs) и как их готовить в 2021 году.
+На русском языке.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://migalkin.github.io/kgcourse2021/#syllabus&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data.</title>
+      <link>/post/2021-12-30-pyg-pytorch-geometric-is-a-library-built-upon-pytorch-to-easily-write-and-train-graph-neural-networks-gnns-for-a-wide-range-of-applications-related-to-structured-data/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-30-pyg-pytorch-geometric-is-a-library-built-upon-pytorch-to-easily-write-and-train-graph-neural-networks-gnns-for-a-wide-range-of-applications-related-to-structured-data/</guid>
+      <description>&lt;p&gt;It consists of various methods for deep learning on graphs and other irregular structures, also known as geometric deep learning, from a variety of published papers. In addition, it consists of easy-to-use mini-batch loaders for operating on many small and single giant graphs, multi GPU-support, distributed graph learning via Quiver, a large number of common benchmark datasets (based on simple interfaces to create your own), the GraphGym experiment manager, and helpful transforms, both for learning on arbitrary graphs as well as on 3D meshes or point clouds.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pytorch-geometric.readthedocs.io/en/latest/index.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyKEEN is a Python package for reproducible, facile knowledge graph embeddings.</title>
+      <link>/post/2021-12-30-pykeen-is-a-python-package-for-reproducible-facile-knowledge-graph-embeddings/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-30-pykeen-is-a-python-package-for-reproducible-facile-knowledge-graph-embeddings/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://pykeen.readthedocs.io/en/stable/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Complete Intuitive Guide To Transfer Learning </title>

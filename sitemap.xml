@@ -5,16 +5,24 @@
   
 
       <url>
-        <loc>/tags/apps/</loc>
-        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+        <loc>/post/2021-12-30-alphafold2-talk/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
     </url>
     
   
   
 
       <url>
-        <loc>/post/2021-12-04-are-you-still-using-pandas-to-process-big-data-in-2021/</loc>
-        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+        <loc>/post/2021-12-30-a-powerful-and-flexible-machine-learning-platform-for-drug-discovery/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/apps/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -22,6 +30,150 @@
 
       <url>
         <loc>/tags/articles/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/bioinformatic/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/courses/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-science/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/deep-learning/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-30-geometric-deep-learing/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-30-graph-ml-in-2022-where-are-we-now/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/graphs/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-30-kg-course-2021/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-30-pyg-pytorch-geometric-is-a-library-built-upon-pytorch-to-easily-write-and-train-graph-neural-networks-gnns-for-a-wide-range-of-applications-related-to-structured-data/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-30-pykeen-is-a-python-package-for-reproducible-facile-knowledge-graph-embeddings/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/python/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-30-the-most-interesting-data-science-articles-in-2021/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-30-top-10-python-frameworks-for-web-development-in-2022/</loc>
+        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2021-12-04-are-you-still-using-pandas-to-process-big-data-in-2021/</loc>
         <lastmod>2021-12-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -53,30 +205,6 @@
   
 
       <url>
-        <loc>/categories/</loc>
-        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/data-science/</loc>
-        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/</loc>
-        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2021-12-04-exploring-google-analytics-realtime-data-with-python/</loc>
         <lastmod>2021-12-04T00:00:00+00:00</lastmod>
     </url>
@@ -94,14 +222,6 @@
 
       <url>
         <loc>/post/2021-12-04-graph-machine-learning-with-python-part-2-random-graphs-and-diffusion-models-of-cryptopunks-trading/</loc>
-        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/graphs/</loc>
         <lastmod>2021-12-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -158,30 +278,6 @@
 
       <url>
         <loc>/tags/nlp/</loc>
-        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/post/</loc>
-        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/python/</loc>
-        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/</loc>
         <lastmod>2021-12-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -254,14 +350,6 @@
 
       <url>
         <loc>/tags/computer-vision/</loc>
-        <lastmod>2021-11-14T10:42:38+02:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/deep-learning/</loc>
         <lastmod>2021-11-14T10:42:38+02:00</lastmod>
     </url>
     
