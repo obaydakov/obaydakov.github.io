@@ -1,0 +1,45 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud on If you torture the data long enough, it will confess ©</title>
+    <link>/categories/cloud/</link>
+    <description>Recent content in cloud on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Terraform: Building out an Application Environment in AWS</title>
+      <link>/post/2022-02-19-terraform-building-out-an-application-environment-in-aws/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-terraform-building-out-an-application-environment-in-aws/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/cloud-tidbits/terraform-building-out-an-aws-application-environment-1993539a2b37&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terraform: Process Kinesis Data Stream Records with AWS Lambda</title>
+      <link>/post/2022-02-19-terraform-process-kinesis-data-stream-records-with-aws-lambda/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-terraform-process-kinesis-data-stream-records-with-aws-lambda/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/cloud-tidbits/terraform-process-kinesis-data-stream-records-with-aws-lambda-2c796aa58787&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terraforming and Connecting to an AWS Redshift Cluster</title>
+      <link>/post/2022-02-19-terraforming-and-connecting-to-an-aws-redshift-cluster/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-terraforming-and-connecting-to-an-aws-redshift-cluster/</guid>
+      <description>&lt;p&gt;This article will create a new VPC and the necessary resources to stand up a Redshift cluster in the new VPC. That way, we can blow this all away without affecting the state of our environment pre-tutorial.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/cloud-tidbits/terraforming-and-connecting-to-your-aws-redshift-cluster-16f93ddd41cc&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 

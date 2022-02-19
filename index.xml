@@ -6,7 +6,157 @@
     <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>7 Useful Examples of Python’s itertools</title>
+      <link>/post/2022-02-19-7-useful-examples-of-python-s-itertools/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-7-useful-examples-of-python-s-itertools/</guid>
+      <description>The Python itertools library is provides extremely useful utility functions for dealing with iterables.
+By becoming fluent in the itertools functions, you can combine them in new ways and use them as building blocks for tackling complex problems in very few lines of code. In this article, you will see 7 practical examples of the applications of itertools functions.
+Link</description>
+    </item>
+    
+    <item>
+      <title>dtreeviz : Decision Tree Visualization</title>
+      <link>/post/2022-02-19-dtreeviz-decision-tree-visualization/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-dtreeviz-decision-tree-visualization/</guid>
+      <description>A python library for decision tree visualization and model interpretation. Currently supports scikit-learn, XGBoost, Spark MLlib, and LightGBM trees.
+Link</description>
+    </item>
+    
+    <item>
+      <title>free-for.dev</title>
+      <link>/post/2022-02-19-free-for-dev/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-free-for-dev/</guid>
+      <description>Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
+This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic.</description>
+    </item>
+    
+    <item>
+      <title>From life to molecular biophysics</title>
+      <link>/post/2022-02-19-from-life-to-molecular-biophysics/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-from-life-to-molecular-biophysics/</guid>
+      <description>Molecular Biophysics - all lectures and concepts
+Link</description>
+    </item>
+    
+    <item>
+      <title>Integrating Pythonic visual reports into ML pipelines</title>
+      <link>/post/2022-02-19-integrating-pythonic-visual-reports-into-ml-pipelines/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-integrating-pythonic-visual-reports-into-ml-pipelines/</guid>
+      <description>Human-readable, visual reports for every ML pipeline Link</description>
+    </item>
+    
+    <item>
+      <title>Principles &amp; Best practices of REST API Design</title>
+      <link>/post/2022-02-19-principles-best-practices-of-rest-api-design/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-principles-best-practices-of-rest-api-design/</guid>
+      <description>This best-practices article intends for developers interested in creating RESTful Web services that provide high reliability and consistency across multiple service suites; following these guidelines; services are positioned for rapid, widespread, public adoption by internal and external clients.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Pypeln</title>
+      <link>/post/2022-02-19-pypeln/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-pypeln/</guid>
+      <description>Pypeln (pronounced as &amp;ldquo;pypeline&amp;rdquo;) is a simple yet powerful Python library for creating concurrent data pipelines.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Real-time face swap fpr PC streamig or video calls</title>
+      <link>/post/2022-02-19-real-time-face-swap-fpr-pc-streamig-or-video-calls/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-real-time-face-swap-fpr-pc-streamig-or-video-calls/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Terraform: Building out an Application Environment in AWS</title>
+      <link>/post/2022-02-19-terraform-building-out-an-application-environment-in-aws/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-terraform-building-out-an-application-environment-in-aws/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Terraform: Process Kinesis Data Stream Records with AWS Lambda</title>
+      <link>/post/2022-02-19-terraform-process-kinesis-data-stream-records-with-aws-lambda/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-terraform-process-kinesis-data-stream-records-with-aws-lambda/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Terraforming and Connecting to an AWS Redshift Cluster</title>
+      <link>/post/2022-02-19-terraforming-and-connecting-to-an-aws-redshift-cluster/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-terraforming-and-connecting-to-an-aws-redshift-cluster/</guid>
+      <description>This article will create a new VPC and the necessary resources to stand up a Redshift cluster in the new VPC. That way, we can blow this all away without affecting the state of our environment pre-tutorial.
+Link</description>
+    </item>
+    
+    <item>
+      <title>The Architectures Powering Machine Learning at Google, Facebook, Uber, LinkedIn</title>
+      <link>/post/2022-02-19-the-architectures-powering-machine-learning-at-google-facebook-uber-linkedin/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-the-architectures-powering-machine-learning-at-google-facebook-uber-linkedin/</guid>
+      <description>The challenge of establishing reference architectures for large-scale machine learning solutions is accentuated by two main factors:
+Machine learning frameworks and infrastructure have evolved considerably faster than the adoption of those technologies in mainstream environments.
+The lifecycle of machine learning solutions is fundamentally different from other software disciplines.
+Link</description>
+    </item>
+    
+    <item>
+      <title>The incredible pytorch</title>
+      <link>/post/2022-02-19-the-incredible-pytorch/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-the-incredible-pytorch/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Stacks project</title>
+      <link>/post/2022-02-19-the-stacks-project/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-the-stacks-project/</guid>
+      <description>An open source textbook and reference work on algebraic geometry
+Link</description>
+    </item>
+    
+    <item>
+      <title>What is Metaflow</title>
+      <link>/post/2022-02-19-what-is-metaflow/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-what-is-metaflow/</guid>
+      <description>Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects.
+Metaflow was originally developed at Netflix to boost the productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.
+Metaflow provides a unified API to the infrastructure stack that is required to execute data science projects, from prototype to production.</description>
+    </item>
+    
     <item>
       <title> AlphaFold2 Talk</title>
       <link>/post/2021-12-30-alphafold2-talk/</link>
@@ -51,155 +201,6 @@ Link</description>
       
       <guid>/post/2021-12-30-kg-course-2021/</guid>
       <description>Курс по графам знаний (Knowledge Graphs) и как их готовить в 2021 году. На русском языке.
-Link</description>
-    </item>
-    
-    <item>
-      <title>PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data.</title>
-      <link>/post/2021-12-30-pyg-pytorch-geometric-is-a-library-built-upon-pytorch-to-easily-write-and-train-graph-neural-networks-gnns-for-a-wide-range-of-applications-related-to-structured-data/</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-30-pyg-pytorch-geometric-is-a-library-built-upon-pytorch-to-easily-write-and-train-graph-neural-networks-gnns-for-a-wide-range-of-applications-related-to-structured-data/</guid>
-      <description>It consists of various methods for deep learning on graphs and other irregular structures, also known as geometric deep learning, from a variety of published papers. In addition, it consists of easy-to-use mini-batch loaders for operating on many small and single giant graphs, multi GPU-support, distributed graph learning via Quiver, a large number of common benchmark datasets (based on simple interfaces to create your own), the GraphGym experiment manager, and helpful transforms, both for learning on arbitrary graphs as well as on 3D meshes or point clouds.</description>
-    </item>
-    
-    <item>
-      <title>PyKEEN is a Python package for reproducible, facile knowledge graph embeddings.</title>
-      <link>/post/2021-12-30-pykeen-is-a-python-package-for-reproducible-facile-knowledge-graph-embeddings/</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-30-pykeen-is-a-python-package-for-reproducible-facile-knowledge-graph-embeddings/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>The most interesting data science articles in 2021</title>
-      <link>/post/2021-12-30-the-most-interesting-data-science-articles-in-2021/</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-30-the-most-interesting-data-science-articles-in-2021/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Top 10 Python Frameworks for Web Development in 2022</title>
-      <link>/post/2021-12-30-top-10-python-frameworks-for-web-development-in-2022/</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-30-top-10-python-frameworks-for-web-development-in-2022/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Are You Still Using Pandas to Process Big Data in 2021?</title>
-      <link>/post/2021-12-04-are-you-still-using-pandas-to-process-big-data-in-2021/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-04-are-you-still-using-pandas-to-process-big-data-in-2021/</guid>
-      <description>Dask provides advanced parallelism for analytics, enabling performance at scale for the tools you love. This includes numpy, pandas and sklearn. It is open-source and freely available. It uses existing Python APIs and data structures to make it easy to switch between Dask-powered equivalents.
-Vaex is a high-performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. It can calculate basic statistics for more than a billion rows per second.</description>
-    </item>
-    
-    <item>
-      <title>Building a Knowledge Graph for Job Search Using BERT</title>
-      <link>/post/2021-12-04-building-a-knowledge-graph-for-job-search-using-bert/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-04-building-a-knowledge-graph-for-job-search-using-bert/</guid>
-      <description>In this tutorial, we will build a job recommendation and skill discovery script that will take unstructured text as input, and will then output job recommendations and skill suggestions based on entities such as skills, years of experience, diploma, and major.
-We will extract entities and relations from job descriptions using the BERT model and we will attempt to build a knowledge graph from skills and years of experience.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Exploring Google Analytics Realtime Data with Python</title>
-      <link>/post/2021-12-04-exploring-google-analytics-realtime-data-with-python/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-04-exploring-google-analytics-realtime-data-with-python/</guid>
-      <description>Take full advantage of all the Google Analytics features and data using its REST API and Python
-Link</description>
-    </item>
-    
-    <item>
-      <title>Graph Machine Learning with Python Part 1: Basics, Metrics, and Algorithms</title>
-      <link>/post/2021-12-04-graph-machine-learning-with-python-part-1-basics-metrics-and-algorithms/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-04-graph-machine-learning-with-python-part-1-basics-metrics-and-algorithms/</guid>
-      <description>An introduction to networks via key metrics and algorithms on a Football dataset
-Link</description>
-    </item>
-    
-    <item>
-      <title>Graph Machine Learning with Python Part 2: Random Graphs and Diffusion Models of CryptoPunks Trading</title>
-      <link>/post/2021-12-04-graph-machine-learning-with-python-part-2-random-graphs-and-diffusion-models-of-cryptopunks-trading/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-04-graph-machine-learning-with-python-part-2-random-graphs-and-diffusion-models-of-cryptopunks-trading/</guid>
-      <description>Simulating and modeling the CryptoPunks trading data via a graph
-Link</description>
-    </item>
-    
-    <item>
-      <title>How to Build a Knowledge Graph with Neo4J and Transformers</title>
-      <link>/post/2021-12-04-how-to-build-a-knowledge-graph-with-neo4j-and-transformers/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-04-how-to-build-a-knowledge-graph-with-neo4j-and-transformers/</guid>
-      <description>How to build a knowledge graph from job descriptions using fine-tuned transformer-based Named Entity Recognition (NER) and spacy’s relation extraction models. The method described here can be used in any different field such as biomedical, finance, healthcare, etc.
-Below are the steps we are going to take:
-  Load our fine-tuned transformer NER and spacy relation extraction model in google colab
-  Create a Neo4j Sandbox and add our entities and relations</description>
-    </item>
-    
-    <item>
-      <title>How to Create and Deploy a Simple Sentiment Analysis App via API</title>
-      <link>/post/2021-12-04-how-to-create-and-deploy-a-simple-sentiment-analysis-app-via-api/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-04-how-to-create-and-deploy-a-simple-sentiment-analysis-app-via-api/</guid>
-      <description>FastAPI might be able to help. FastAPI is FastAPI is a web framework for building APIs with Python. We will use FastAPI in this article to build a REST API to service an NLP model which can be queried via GET request and can dole out responses to those queries.
-For this example, we will skip the building of our own model, and instead leverage the Pipeline class of the HuggingFace Transformers library.</description>
-    </item>
-    
-    <item>
-      <title>How to process a DataFrame with millions of rows in seconds?</title>
-      <link>/post/2021-12-04-how-to-process-a-dataframe-with-millions-of-rows-in-seconds/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-04-how-to-process-a-dataframe-with-millions-of-rows-in-seconds/</guid>
-      <description>Terality is a Serverless Data Processing Engine that processes the data in the Cloud. There is no need to manage infrastructure as Terality takes care of scaling compute resources. Its target audiences are Engineers and Data Scientists.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Huberman Lab</title>
-      <link>/post/2021-12-04-huberman-lab/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-04-huberman-lab/</guid>
-      <description>PODCAST EPISODES
-Link</description>
-    </item>
-    
-    <item>
-      <title>What is the square root of two? | The Fundamental Theorem of Galois Theory</title>
-      <link>/post/2021-12-04-what-is-the-square-root-of-two-the-fundamental-theorem-of-galois-theory/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-04-what-is-the-square-root-of-two-the-fundamental-theorem-of-galois-theory/</guid>
-      <description>This video is an introduction to Galois Theory, which spells out a beautiful correspondence between fields and their symmetry groups.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Apache Spark Monitoring: How to Use Spark API and Open Source Libraries to Get Better Data Observability of Your Application</title>
-      <link>/post/2021-11-24-apache-spark-monitoring-how-to-use-spark-api-and-open-source-libraries-to-get-better-data-observability-of-your-application/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-11-24-apache-spark-monitoring-how-to-use-spark-api-and-open-source-libraries-to-get-better-data-observability-of-your-application/</guid>
-      <description>See how to use Listener APIs and data quality libraries to get different levels of data observability for Apache Spark.
 Link</description>
     </item>
     

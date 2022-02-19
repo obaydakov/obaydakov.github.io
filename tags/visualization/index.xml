@@ -5,10 +5,44 @@
     <description>Recent content in visualization on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dtreeviz : Decision Tree Visualization</title>
+      <link>/post/2022-02-19-dtreeviz-decision-tree-visualization/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-dtreeviz-decision-tree-visualization/</guid>
+      <description>&lt;p&gt;A python library for decision tree visualization and model interpretation. Currently supports scikit-learn, XGBoost, Spark MLlib, and LightGBM trees.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/parrt/dtreeviz&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrating Pythonic visual reports into ML pipelines</title>
+      <link>/post/2022-02-19-integrating-pythonic-visual-reports-into-ml-pipelines/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-integrating-pythonic-visual-reports-into-ml-pipelines/</guid>
+      <description>&lt;p&gt;Human-readable, visual reports for every ML pipeline
+&lt;a href=&#34;https://towardsdatascience.com/integrating-pythonic-visual-reports-into-ml-pipelines-a163d150ed04&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is Metaflow</title>
+      <link>/post/2022-02-19-what-is-metaflow/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-what-is-metaflow/</guid>
+      <description>&lt;p&gt;Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects.&lt;/p&gt;
+&lt;p&gt;Metaflow was originally developed at Netflix to boost the productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.&lt;/p&gt;
+&lt;p&gt;Metaflow provides a unified API to the infrastructure stack that is required to execute data science projects, from prototype to production.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>3 Python Tools You Need to Try</title>

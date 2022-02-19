@@ -5,10 +5,91 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>7 Useful Examples of Python’s itertools</title>
+      <link>/post/2022-02-19-7-useful-examples-of-python-s-itertools/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-7-useful-examples-of-python-s-itertools/</guid>
+      <description>&lt;p&gt;The Python itertools library is provides extremely useful utility functions for dealing with iterables.&lt;/p&gt;
+&lt;p&gt;By becoming fluent in the itertools functions, you can combine them in new ways and use them as building blocks for tackling complex problems in very few lines of code. In this article, you will see 7 practical examples of the applications of itertools functions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/7-useful-examples-of-pythons-itertools-e561dc9f15ca&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>dtreeviz : Decision Tree Visualization</title>
+      <link>/post/2022-02-19-dtreeviz-decision-tree-visualization/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-dtreeviz-decision-tree-visualization/</guid>
+      <description>&lt;p&gt;A python library for decision tree visualization and model interpretation. Currently supports scikit-learn, XGBoost, Spark MLlib, and LightGBM trees.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/parrt/dtreeviz&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>free-for.dev</title>
+      <link>/post/2022-02-19-free-for-dev/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-free-for-dev/</guid>
+      <description>&lt;p&gt;Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.&lt;/p&gt;
+&lt;p&gt;This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.&lt;/p&gt;
+&lt;p&gt;The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It&amp;rsquo;s a bit of a grey line at times so this is a bit opinionated; do not be offended if I do not accept your contribution.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://free-for.dev/#/?id=free-fordev&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrating Pythonic visual reports into ML pipelines</title>
+      <link>/post/2022-02-19-integrating-pythonic-visual-reports-into-ml-pipelines/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-integrating-pythonic-visual-reports-into-ml-pipelines/</guid>
+      <description>&lt;p&gt;Human-readable, visual reports for every ML pipeline
+&lt;a href=&#34;https://towardsdatascience.com/integrating-pythonic-visual-reports-into-ml-pipelines-a163d150ed04&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Principles &amp; Best practices of REST API Design</title>
+      <link>/post/2022-02-19-principles-best-practices-of-rest-api-design/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-principles-best-practices-of-rest-api-design/</guid>
+      <description>&lt;p&gt;This best-practices article intends for developers interested in creating RESTful Web services that provide high reliability and consistency across multiple service suites; following these guidelines; services are positioned for rapid, widespread, public adoption by internal and external clients.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.devgenius.io/best-practice-and-cheat-sheet-for-rest-api-design-6a6e12dfa89f&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pypeln</title>
+      <link>/post/2022-02-19-pypeln/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-pypeln/</guid>
+      <description>&lt;p&gt;Pypeln (pronounced as &amp;ldquo;pypeline&amp;rdquo;) is a simple yet powerful Python library for creating concurrent data pipelines.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/cgarciae/pypeln/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is Metaflow</title>
+      <link>/post/2022-02-19-what-is-metaflow/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-what-is-metaflow/</guid>
+      <description>&lt;p&gt;Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects.&lt;/p&gt;
+&lt;p&gt;Metaflow was originally developed at Netflix to boost the productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.&lt;/p&gt;
+&lt;p&gt;Metaflow provides a unified API to the infrastructure stack that is required to execute data science projects, from prototype to production.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Top 10 Python Frameworks for Web Development in 2022</title>

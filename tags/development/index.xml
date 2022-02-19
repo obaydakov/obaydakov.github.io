@@ -5,10 +5,21 @@
     <description>Recent content in development on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pypeln</title>
+      <link>/post/2022-02-19-pypeln/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-pypeln/</guid>
+      <description>&lt;p&gt;Pypeln (pronounced as &amp;ldquo;pypeline&amp;rdquo;) is a simple yet powerful Python library for creating concurrent data pipelines.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/cgarciae/pypeln/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Get faster pandas with Modin, even on your laptops</title>

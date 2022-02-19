@@ -5,10 +5,34 @@
     <description>Recent content in design on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/design/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Principles &amp; Best practices of REST API Design</title>
+      <link>/post/2022-02-19-principles-best-practices-of-rest-api-design/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-principles-best-practices-of-rest-api-design/</guid>
+      <description>&lt;p&gt;This best-practices article intends for developers interested in creating RESTful Web services that provide high reliability and consistency across multiple service suites; following these guidelines; services are positioned for rapid, widespread, public adoption by internal and external clients.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.devgenius.io/best-practice-and-cheat-sheet-for-rest-api-design-6a6e12dfa89f&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Architectures Powering Machine Learning at Google, Facebook, Uber, LinkedIn</title>
+      <link>/post/2022-02-19-the-architectures-powering-machine-learning-at-google-facebook-uber-linkedin/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-the-architectures-powering-machine-learning-at-google-facebook-uber-linkedin/</guid>
+      <description>&lt;p&gt;The challenge of establishing reference architectures for large-scale machine learning solutions is accentuated by two main factors:&lt;/p&gt;
+&lt;p&gt;Machine learning frameworks and infrastructure have evolved considerably faster than the adoption of those technologies in mainstream environments.&lt;/p&gt;
+&lt;p&gt;The lifecycle of machine learning solutions is fundamentally different from other software disciplines.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@goutambiswas/the-architectures-powering-machine-learning-at-google-facebook-uber-linkedin-c28e8da9b782&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ML app design</title>

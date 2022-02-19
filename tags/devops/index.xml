@@ -1,0 +1,58 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devops on If you torture the data long enough, it will confess ©</title>
+    <link>/tags/devops/</link>
+    <description>Recent content in devops on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>free-for.dev</title>
+      <link>/post/2022-02-19-free-for-dev/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-free-for-dev/</guid>
+      <description>&lt;p&gt;Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.&lt;/p&gt;
+&lt;p&gt;This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.&lt;/p&gt;
+&lt;p&gt;The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It&amp;rsquo;s a bit of a grey line at times so this is a bit opinionated; do not be offended if I do not accept your contribution.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://free-for.dev/#/?id=free-fordev&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terraform: Building out an Application Environment in AWS</title>
+      <link>/post/2022-02-19-terraform-building-out-an-application-environment-in-aws/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-terraform-building-out-an-application-environment-in-aws/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/cloud-tidbits/terraform-building-out-an-aws-application-environment-1993539a2b37&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terraform: Process Kinesis Data Stream Records with AWS Lambda</title>
+      <link>/post/2022-02-19-terraform-process-kinesis-data-stream-records-with-aws-lambda/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-terraform-process-kinesis-data-stream-records-with-aws-lambda/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/cloud-tidbits/terraform-process-kinesis-data-stream-records-with-aws-lambda-2c796aa58787&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terraforming and Connecting to an AWS Redshift Cluster</title>
+      <link>/post/2022-02-19-terraforming-and-connecting-to-an-aws-redshift-cluster/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-terraforming-and-connecting-to-an-aws-redshift-cluster/</guid>
+      <description>&lt;p&gt;This article will create a new VPC and the necessary resources to stand up a Redshift cluster in the new VPC. That way, we can blow this all away without affecting the state of our environment pre-tutorial.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/cloud-tidbits/terraforming-and-connecting-to-your-aws-redshift-cluster-16f93ddd41cc&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 

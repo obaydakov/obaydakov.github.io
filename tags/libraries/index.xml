@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>libraries on If you torture the data long enough, it will confess ©</title>
+    <link>/tags/libraries/</link>
+    <description>Recent content in libraries on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/libraries/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>7 Useful Examples of Python’s itertools</title>
+      <link>/post/2022-02-19-7-useful-examples-of-python-s-itertools/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-19-7-useful-examples-of-python-s-itertools/</guid>
+      <description>&lt;p&gt;The Python itertools library is provides extremely useful utility functions for dealing with iterables.&lt;/p&gt;
+&lt;p&gt;By becoming fluent in the itertools functions, you can combine them in new ways and use them as building blocks for tackling complex problems in very few lines of code. In this article, you will see 7 practical examples of the applications of itertools functions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/7-useful-examples-of-pythons-itertools-e561dc9f15ca&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 

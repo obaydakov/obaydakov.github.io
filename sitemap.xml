@@ -5,6 +5,278 @@
   
 
       <url>
+        <loc>/post/2022-02-19-7-useful-examples-of-python-s-itertools/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/articles/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/biophysics/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/cloud/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/computer-vision/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/courses/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/deep-learning/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/deep-learning/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/design/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/development/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/devops/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-02-19-dtreeviz-decision-tree-visualization/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-02-19-free-for-dev/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-02-19-from-life-to-molecular-biophysics/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-02-19-integrating-pythonic-visual-reports-into-ml-pipelines/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/libraries/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/machine-learning/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/math/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-02-19-principles-best-practices-of-rest-api-design/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-02-19-pypeln/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/python/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-02-19-real-time-face-swap-fpr-pc-streamig-or-video-calls/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-02-19-terraform-building-out-an-application-environment-in-aws/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-02-19-terraform-process-kinesis-data-stream-records-with-aws-lambda/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-02-19-terraforming-and-connecting-to-an-aws-redshift-cluster/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-02-19-the-architectures-powering-machine-learning-at-google-facebook-uber-linkedin/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-02-19-the-incredible-pytorch/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-02-19-the-stacks-project/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/visualization/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-02-19-what-is-metaflow/</loc>
+        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/post/2021-12-30-alphafold2-talk/</loc>
         <lastmod>2021-12-30T00:00:00+00:00</lastmod>
     </url>
@@ -29,14 +301,6 @@
   
 
       <url>
-        <loc>/tags/articles/</loc>
-        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/tags/bioinformatic/</loc>
         <lastmod>2021-12-30T00:00:00+00:00</lastmod>
     </url>
@@ -45,39 +309,7 @@
   
 
       <url>
-        <loc>/categories/</loc>
-        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/courses/</loc>
-        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/categories/data-science/</loc>
-        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/</loc>
-        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/deep-learning/</loc>
         <lastmod>2021-12-30T00:00:00+00:00</lastmod>
     </url>
     
@@ -117,14 +349,6 @@
   
 
       <url>
-        <loc>/post/</loc>
-        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2021-12-30-pyg-pytorch-geometric-is-a-library-built-upon-pytorch-to-easily-write-and-train-graph-neural-networks-gnns-for-a-wide-range-of-applications-related-to-structured-data/</loc>
         <lastmod>2021-12-30T00:00:00+00:00</lastmod>
     </url>
@@ -134,22 +358,6 @@
 
       <url>
         <loc>/post/2021-12-30-pykeen-is-a-python-package-for-reproducible-facile-knowledge-graph-embeddings/</loc>
-        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/python/</loc>
-        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/</loc>
         <lastmod>2021-12-30T00:00:00+00:00</lastmod>
     </url>
     
@@ -261,22 +469,6 @@
   
 
       <url>
-        <loc>/categories/machine-learning/</loc>
-        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/math/</loc>
-        <lastmod>2021-12-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/tags/nlp/</loc>
         <lastmod>2021-12-04T00:00:00+00:00</lastmod>
     </url>
@@ -333,23 +525,7 @@
   
 
       <url>
-        <loc>/tags/visualization/</loc>
-        <lastmod>2021-11-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2021-11-14-a-complete-intuitive-guide-to-transfer-learning/</loc>
-        <lastmod>2021-11-14T10:42:38+02:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/computer-vision/</loc>
         <lastmod>2021-11-14T10:42:38+02:00</lastmod>
     </url>
     
@@ -461,31 +637,7 @@
   
 
       <url>
-        <loc>/tags/deep-learning/</loc>
-        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/design/</loc>
-        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2021-11-14-developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python/</loc>
-        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/development/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     
