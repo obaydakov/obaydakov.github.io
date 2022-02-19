@@ -1,0 +1,17 @@
+---
+title: "Data Visualization"
+thumbnail: "/categories/data-visualization/data-visualization_avatar.jpg"
+slug: "data-visualization"
+description: "Images say more than words is also true for data science. Learn about the best visualization techniques!"
+---
+<img src="data-visualization_avatar.jpg" alt="Data visualization" width = "1500" height = "585">
+
+Humans are visual creatures. Thus, visualization is one of the most important tools for conveying information and data scientists should be adapt at selecting appropriate visualizations. 
+
+## Which plot is appropriate?
+
+Choosing an appropriate plot for a given set of data can be hard because there are so many types of plots such as scatter plots, box plots, and histograms. Fortunately, I have created an [overview of the most important plots, when they are appropriate, and how they can be used in R](/tags/plot/).
+
+## Posts about data visualization
+
+The following posts deal with topics from data visualization.

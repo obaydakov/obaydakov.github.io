@@ -1,0 +1,699 @@
+---
+title: "Data Science Glossary"
+slug: "/data-science-glossary"
+date: 2020-07-31
+description: "There are many complicated data science terms. Use this glossary to resarch terms from statistics, machine learning, and software engineering."
+authorbox: true
+sidebar: true
+thumbnail: /img/glossary_avatar.png
+---
+
+This data science glossary contains the most important terms, structured into three categories:
+
+* [Machine Learning](#ml-glossary)
+* [Software Engineering](#software-engineering-glossary)
+* Statistics/Data Visualization
+
+
+```{r create_glossary_table, warning=FALSE, echo=FALSE, message=FALSE}
+library(tidyverse)
+library(kableExtra)
+options(kableExtra.html.bsTable = TRUE) # show bootstrap styling
+options(knitr.kable.NA = '') # hide NAs in table
+
+terms_to_table <- function(terms, ncol=3) {
+    # add markdown refs to anchor elements
+    tagged_terms = c()
+    for (term in terms) {
+        tag_id <- gsub(" ", "-", tolower(term))
+        tag <- paste0("[", term, "](#", tag_id, ")")
+        tagged_terms <- c(tagged_terms, tag)
+    }
+    o <- order(tagged_terms)
+    ordered.terms = tagged_terms[o]
+    # fill up the vector with blanks such that elements are not recycled
+    nrow <- ceiling(length(ordered.terms) / ncol)
+    length(ordered.terms) <- nrow*ncol
+    # output with kable
+    df <- data.frame(matrix(ordered.terms, ncol=ncol, byrow=TRUE))
+    df %>% knitr::kable(col.names = NULL, align = "c")%>% kable_styling(bootstrap_options=c("striped", "responsive"))
+}
+```
+
+```{r define_ml_terms, mesage = FALSE, echo = FALSE, warning = FALSE}
+general.ml.terms <- c("Data Point", "Machine Learning", "Model", "Model Complexity",
+           "Supervised Learning", "Reinforcement Learning", "Unsupervised Learning",
+           "Data Wrangling"
+         )
+unsupervised.terms <- c('Clustering', "Dimensionality Reduction", "k-means", "PCA")
+supervised.terms <- c("Confusion Matrix", "Dependent Variable", 
+           "Estimate", "Feature Engineering",
+           "Forecasting",
+           "Gold Standard", "Ground Truth",
+           "Independent Variable", "Inference",
+           "Interpretability", "Linear Model",
+           "Non-Linear Model", "Outcome", 
+           "Observation", "Prediction", "Inference",
+           "Sensitivity", "Specificity", "True Positive Rate",
+           "False Positive Rate", "AUC", "Classifier",
+           "Regressor", "Performance", "Class", "Categorical Outcome",
+           "Label", "Quantitative Outcome", "Model Validation",
+           "Cross-Validation", "Training Data", "Test Data",
+           "Validation Data"
+         )
+rl.terms <- c("Action", "Agent", "Observation", "Policy",
+           "Reward", "State", "Environment")
+
+all.ml.terms <- c(general.ml.terms, unsupervised.terms, supervised.terms, rl.terms)
+```
+
+```{r define_software_terms, mesage = FALSE, echo = FALSE, warning = FALSE}
+devops.terms <- c("Continuous Delivery", "CI/CD", "Continuous Integration", "Deployment",
+                  "Infrastructure as Code")
+scrum.terms <- c("Product Owner", "Development Team", "Scrum Master", "Daily",
+                 "Sprint Planning", "Sprint Retrospective", "Sprint Review", "Refinement",
+                 "Backlog", "Backlog Item")
+testing.terms <- c("Unit Test", "Integration Test", "End-to-End Test", "Types of Test")
+general.software.terms <- c("Behavior-Driven Development", "Test-Driven Development", 
+                            "Acceptance-Test-Driven Development", "Extreme Programming",
+                            "Pair Programming", "Mob Programming")
+all.software.terms <- c(testing.terms, general.software.terms)
+```
+
+
+```{r define_all_terms, mesage = FALSE, echo = FALSE, warning = FALSE}
+all.terms <- c(all.ml.terms, all.software.terms)  # TODO: extend
+```
+
+```{r create_word_cloud, warning=FALSE, echo=FALSE, message=FALSE, eval = FALSE }
+# eval = FALSE because cloud has to be adapted manually (whitespace)
+SHOULD_PLOT = FALSE
+# Load
+library("RColorBrewer")
+library("quanteda")
+# read this file
+text <- readLines('glossary.Rmd')
+##############
+# quanteda
+###########
+require(quanteda)
+# split all my names of interest:
+all.terms <- unlist(strsplit(all.terms, split = " "))
+# convert to document-feature matrix
+toks1 <- tokens(char_tolower(text), remove_punct = TRUE)
+toks2 <- tokens_select(toks1, paste0("*", tolower(all.terms), "*"))
+toks2 <- tokens_remove(toks2, "#*")
+
+toks3 <- tokens_ngrams(toks2, 1:2, concatenator = " ")
+freq.df <- dfm(toks3)
+#set.seed(1234)
+textplot_wordcloud(freq.df,
+    min_count = 6, random_order = FALSE, rotation = 0.20,
+    #max_words = 100,
+    color = RColorBrewer::brewer.pal(8, "Dark2"))
+```
+
+
+<!--## Statistics Glossary-->
+
+## Machine Learning Glossary {#ml-glossary}
+
+The machine learning glossary is structured into:
+
+* General terms
+* Reinforcement-learning terms
+* Supervised-learning terms
+* Unsupervised-learning terms
+
+**General Terms**
+
+```{r gen_ml_terms, warning=FALSE, echo=FALSE}
+terms_to_table(general.ml.terms)
+```
+
+**Reinforcement Learning**
+
+```{r rl_terms, warning=FALSE, echo=FALSE}
+terms_to_table(rl.terms)
+```
+
+**Supervised Learning**
+
+
+```{r sl_terms, warning=FALSE, echo=FALSE}
+terms_to_table(supervised.terms)
+```
+
+**Unsupervised Learning**
+
+```{r ul_terms, warning=FALSE, echo=FALSE}
+terms_to_table(unsupervised.terms)
+```
+
+### Action {#action}
+
+In [reinforcement learning](#reinforcement-learning), agents try to perform actions that maximize the [reward](#reward).
+Each action changes the learning [environment](#environment) and thus yields a new [state](#state).
+
+### Agent {#agent}
+
+In [reinforcement learning](#reinforcement-learning), an agent is the learner that interacts with the [environment](#enviroment).
+Based on a given [state](#state), the agent selects an appropriate [action](#action) by considering past earned [rewards](#reward).
+The [policy](#policy) of an agent determines the actions that should be executed for each state.
+### AUC {#auc}
+
+AUC means *area under the curve*. When evaluating [scoring classifiers](#classifier), the term *AUC* usually refers to the
+ROC (receiver operating characteristic)-AUC. The ROC curve determines the [true positive rate](#true-positive-rate) and
+[false positive rate](#false-positive-rate) for all cutoffs on the scores. When available, the ROC-AUC is [preferable to other measures such as
+sensitivity and specificity](/post/machine-learning/interpreting-roc-curves-auc/).
+
+### Categorical Outcome {#categorical-outcome}
+
+See [Outcome](#outcome).
+
+### Class {#class}
+
+See [categorical outcomes](#categorical-outcome]).
+
+### Classifier {#classifier}
+
+Classifiers (classification models) are used for the [prediction](#prediction) of [categorical outcomes](#categorical-outcomes).
+Classifiers that ouput [quantitative outcomes](#outcomes) are called *scoring classifiers* and are
+more [interpretable](#interpretability) than non-scoring classifiers.
+
+### Clustering {#clustering}
+
+Clustering, one of the main applications of [unsupervised learning](#unsupervised-learning), is used to assign each [sample](#sample)
+to a group of samples. These groups of samples are called *clusters*. Clustering can be used for the visual exploration of data or
+for the automated identification of outliers. One of the simplest and most well-known clustering algorithms is [k-means](#k-means).
+
+### Confusion Matrix {#confusion-matrix}
+
+The confusion matrix is used to evaluate the [predictive performance](#performance) of a [classifier](#classifier). The name *confusion matrix* stems from the fact
+that the table illustrates which predictions are confused among the two classes. For binary classifiers, which differentiate
+between a positive (`+1`) and a negative (`-1`) class, the confusion matrix is a 2x2 table of the following form:
+
+```{r, confusion_matrix, echo = FALSE}
+entries <- c("", "**+1**", "**-1**",
+             "**+1**", "TP", "FP", 
+             "**-1**", "FN", "TN")
+df <- data.frame(matrix(entries, nrow = 3, byrow = TRUE))
+colnames(df) <- NULL
+rownames(df) <- NULL
+#df %>% knitr::kable(col.names = NULL, align = "c")%>% kable_styling(bootstrap_options=c("striped", "responsive"), full_width=FALSE)
+library(htmlTable)
+htmlTable(df, cgroup = c("Predicted Class", "Ground Truth"),
+          n.cgroup = c(1, 2),
+          rnames = FALSE, cnames = FALSE)
+```
+
+The entries are defined as follows:
+
+* **TP:** The number of [samples](#sample) from the positive class that were correctly predicted
+* **FP:** The number of samples from the negative class that were falsely predicted
+* **FN:** The number of samples from the positive class that were falsely predicted
+* **TN:** The number of samples from the negative class that were correctly predicted
+
+From the confusion matrix, one can determine performance metrics such as [sensitivity](#sensitivity), [specificity](#specificity),
+and the [AUC](#auc).
+
+### Cross-Validation {#cross-validation}
+
+Cross-validation is a strategy for evaluating the [predictive performance](#performance) of a model.
+In *k-fold cross-validation*, the data set is split into k-folds such that each fold is used for training once,
+while the remaining data are used for testing. *Nested cross-validation* introduces another layer by introducing
+an additional fold that is used for selecting the model that is evaluated on the test fold.
+
+### Data Point {#data-point}
+
+See [Observation](#observation).
+
+### Data Wrangling {#data-wrangling}
+
+Data wrangling describes the unpopular task of transforming data into a machine-readable format. For example,
+data wrangling could entail transforming semi-structured data (e.g. from spreadsheets) to the CSV (comma-separated values) format.
+Data wrangling is often performed via automated scripts but may also involve manual steps.
+Note that data wrangling does not involve [feature engineering](#feature-engineering).
+
+### Dependent Variable {#dependent-variable}
+
+See [Feature](#feature).
+
+### Dimensionality Reduction {#dimensionality-reduction}
+
+In [dimensionality reduction](/post/machine-learning/dimensionality-reduction/), data are projected to a low-dimensional subspace.
+This is either done in order to obtain better data visualizations or during [feature engineering](#feature-engineering) in the context
+of [supervised learning](#supervised-learning).
+Dimensionality reduction techniques such as [PCA](#pca) are [unsupervised](#unsupervised-learning) methods.
+
+### Environment {#environment}
+
+In [reinforcement learning](#reinforcement-learning), the environment determines the observable [states](#state) and the [actions](#action)
+that an agent can perform. A popular framework for specifying environments is [OpenAI's Gym](https://gym.openai.com/).
+
+### Estimate {#estimate}
+
+See [Prediction](#prediction).
+
+### False Positive Rate {#false-positive-rate}
+
+Given a [classifier](#classifier), the false positive rate represents the ratio of false positive predictions among all [samples](#sample) from the negative class:
+
+```
+FPR = FP / (FP + TN)
+```
+
+See also [Confusion Matrix](#confusion-matrix).
+
+### Feature matrix {#feature-matrix}
+
+See [Features](#features).
+
+### Features {#features}
+
+Features are the *dependent variables* in the [supervised learning](#supervised-learning) scenario. The columns of a *feature matrix*,
+$$X \in \mathbb{R}^{n \times p}\,$$
+represent the values of the p features. For example, to predict the weather, two possible features are the level of precipitation
+and the cloudiness.
+
+### Feature Engineering {#feature-engineering}
+
+[Supervised learning](#supervised-learning) aims at learning the general associations betwen [features](#features)
+and [outcomes](#outcomes). However, in their original form, the input data are often not well-suited for this purpose.
+Feature engineering is concerned with transforming the data such that machine learning [models](#model) can easily
+learn from the data.
+
+### Forecasting {#forecasting}
+
+See [Prediction](#prediction).
+
+### Gold Standard {#gold-standard}
+
+See [Ground Truth](#ground-truth).
+
+### Ground Truth {#ground-truth}
+
+In order to perform supervised learning, it is necesary that the [outcome](#outcomes) for each data point is known.
+The measured outcome should reflect the ground truth. Otherwise, [models](#model) are optimized with respect
+to the wrong values, aka *garbage in, garbage out*.
+
+### Independent Variable {#independent-variable}
+
+See [Outcome](#outcome).
+
+### Inference {#inference}
+
+See [Prediction](#prediction).
+
+### Interpretability {#interpretability}
+
+Interpretability describes whether a model is able to produce results that humans can easily interpret.
+Interpretability is closely tied to [model complexity](#model-complexity) (i.e. the effective numbers of model parameters). Simple models
+such as linear models have few parameters and can easily be understood and interpreted. Complex models such as
+deep neural networks have large numbers of parameters, which makes them hard to understand and interpret.
+
+There are many application scenarios in which it is acceptable to sacrifice some [predictive performance](#predictive-performance) in
+favor of greater interpretability. This is because in machine learning applications such as
+decision support systems, it is key that human operators can understand the intentions of the model.
+
+### k-means
+
+k-means is a simple yet powerful [clustering](#clustering) algorithm that identifies *k* cluster centers in the data.
+The algorithm terminates when the cluster centers have converged.
+
+### Label {#label}
+
+In [classification](#classification), labels are the values that are used to differentiate between individual [classes](#class).
+For example, one could use `Sunny` and `Cloudy` as labels for observations that have been made on sunny and cloudy days, respectively.
+However, to apply supervised learning algorithms, numeric labels such as `+1` and `-1` would be necessary.
+
+### Linear Model {#linear-model}
+
+See [Model](#model).
+
+### Machine Learning {#machine-learning}
+
+Machine learning encompasses artificial intelligence approaches that are concerned with learning from data.
+There are three machine learning areas: [supervised learning](#supervised-learning), [unsupervised learning](#unsupervised-learning),
+and [reinforcement learning](#reinforcement-learning).
+
+Once a [model](#model) has been fitted to the data,
+it is possible to make [predictions](#prediction) given new [data points](#data-point) (supervised learning), structure data (unsupervised learning),
+or select optimal [actions](#action) in a dynamic [environment](#environment) (reinforcement learning).
+
+### Model {#model}
+
+Models are the mathematical approximation of real-world phenomena. In [supervised learning](#supervised-learning), models are constructed using
+pairs of input data and observed [outcomes](#outcomes). In [unsupervised learning](#unsupervised-learning), the outcomes are not available such that only the structure
+of the data is modeled. In [reinforcement learning](#reinforcement-learning), models are constructed according to [states](#state), [actions](#action), and [rewards](#reward).
+
+Besides these machine learning approaches, which use optimization algorithms to fit models to data, there is a host of
+other models that are useful for specific tasks, for example, hidden Markov models, epidemiological models, and [Bayesian models](/tags/bayesian/).
+
+It is possible to differentiate between linear and non-linear models. While linear models assume linear relationship between the
+[features](#features), non-linear models assume non-linear relationships.
+
+One should always remember the following famous quote from British statistican [George E.P. Box](https://en.wikipedia.org/wiki/George_E._P._Box):
+
+> All models are wrong but some are useful.
+
+### Model Complexity {#model-complexity}
+
+Model complexity is defined by the effective numbers of parameters that make up a [model](#model).
+For example, deep learning models with many parameters are more complex than simple models, such
+as linear models. Complex models should be avoided if there are not sufficient training data available.
+
+### Model Validation {#model-validation}
+
+Model validation entails the following steps:
+
+1. Fitting the model to a set of training data
+2. Tuning the hyperparameters of the model using a set of validation data
+3. Evaluating [predictive performance](#performance) on an independent test data set
+
+The two most popular approaches for validation are:
+
+1. Splitting the data into a training, validation, and test set
+2. Using [cross-validation](#cross-validation), in which the model is trained on various subsets of the data.
+
+### Non-Linear Model {#non-linear-model}
+
+See [Model](#model).
+
+### Outcome {#outcome}
+
+In [supervised learning](#supervised-learning), the outcome is a measurement of the [ground truth](#ground-truth).
+Principal types of outcomes are *categorical outcomes* (class labels) and *quantitative outcomes*. For example,
+when predicting the weather, `Sunny` and `Cloudy` would be categorical outcomes, while the amount of precipitation
+would be a quantitative outcome.
+
+The underlying variable associated with the outcome is called the *independent variable*.
+
+### Observation {#observation}
+
+In [supervised learning](#supervised-learning), observations are the rows of the [feature matrix](#feature-matrix).
+Observations are also called *data points* or *samples*. The number of observations is usually denoted by *N*.
+
+For the use of the term *observation* in [reinforcement learning](#reinforcement-learning), see [State](#state).
+
+### PCA {#pca}
+
+[Principal component analysis](/post/machine-learning/dimensionality-reduction/) (PCA) is a standard [dimensionality reduction](#dimensionality-reduction) technique.
+It is based on finding a projection to orthogonal coordinates that maintain as much variance as possible.
+
+### Policy {#policy}
+
+In [reinforcement learning](#reinforcement-learning), the policy of an agent is a mapping from states to actions. This means
+that the policy defines the behavior of the agent in the [environment](#environment). There are *on-policy* and *off-policy* reinforcement learning
+algorithms.
+
+### Performance {#performance}
+
+In [supervised learning](#supervised-learning), predictive performance is the ability of a model to correctly classify observations.
+To quantify predictive performance, metrics such as the [AUC](#auc) can be utilized.
+
+### Prediction {#prediction}
+
+Prediction is the act of applying a [model](#model) on a new data point in order to determine the estimated [outcome](#outcomes).
+Inference is often used synonymously, although [inference is geared towards learning about the data generation process](/post/commentary/inference-vs-prediction/). [Forecasting](/post/machine-learning/forecasting_vs_prediction/) is a special form of prediction in which time-series are used as the input.
+
+The term *estimate* is a synonym for *prediction* that is popular in the statistical community because it underlines the fact
+that predictions are only approximations of reality.
+
+### Quantitative Outcome {#quantitative-outcome}
+
+See [Outcome](#outcome).
+
+### Regressor {#regressor}
+
+Regressors (regression models) are used to predict the outcomes for [quantitative variables](#outcomes).
+Compared to [classifiers](#classifier), they allow for fine-grained predictions.
+
+### Reinforcement Learning {#reinforcement-learning}
+
+[Reinforcement learning](/tags/reinforcement-learning) (RL) is an area of machine learning in which one or multiple agents perform *actions* in an [environment](#environment),
+after observing the *state*. Once an action has been performed, the agent receives a *reward*. By balancing exploration (finding novel states) and
+exploitation (reaping rewards), RL agents can learn an optimal [policy](#policy), which identifies the best action to take for every state.
+
+In recent years, reinforcement learning has gained in popularity due to the emergence of deep RL, in which deep neural networks are used
+to learn which states are associated with the greatest rewards.
+
+### Reward {#reward}
+
+In [reinforcement learning](#reinforcement-learning), agents obtain rewards after performing an [action](#action).
+Agents adjust their [policy](#policy) in order to maximize the reward.
+
+### Sample {#sample}
+
+For its use in [supervised learning](#supervised-learning), see [Observation](#observation).
+
+### Sensitivity {#sensitivity}
+
+The [sensitivity](/post/machine-learning/specificity-vs-precision/) of a [classifier](#classifier) is defined by its [true positive rate](#true-positive-rate): 
+
+```
+sensitivity = TPR = TP/(TP+FN).
+```
+
+See also [Confusion Matrix](#confusion-matrix).
+
+### Specificity {#specificity}
+
+[Specificity](/post/machine-learning/specificity-vs-precision/) indicates the [true negative rate](#true-negative-rate) of a [classifier](#classifier):
+
+```
+specificity = 1 - TP / (TP + FP) = 1 - FPR
+```
+
+Since specificty considers the number of false positives (FP), it allows for conclusions about the [false positive rate (FPR)](#false-positive-rate).
+See also [Confusion Matrix](#confusion-matrix).
+
+### State {#state}
+
+In [reinforcement learning](#reinforcement-learning), the state indicates the observations that an agent has made at a given point in time.
+States are usually represented by numeric vectors or matrices. Crafting appropriate states is a form of [feature engineering](#feature-engineering).
+
+### Supervised Learning {#supervised-learning}
+
+[Supervised learning](/tags/supervised-learning/) is an area of machine learning that is concerned with learning from pairs of input data and associated
+[outcomes](#outcomes). Once a [model](#model) has been trained on a set of training data, it is tuned using a validation data set, and, finally, evaluated on an independent test data set.
+The application of a supervised learning model on new data is called [prediction](#prediction), [inference](#inference), or [forecasting](#forecasting).
+
+Models that are trained on labeled data (i.e. categorical outcomes) are called [classifiers](#classifier).
+Models that are trained on quantitative outcomes are called [regressors](#regression models).
+
+### Test Data {#test-data}
+
+*Test data* refers to the set of data that is used for evaluating the [predictive performance](#performance) of a [model](#model).
+
+### Training Data {#training-data}
+
+*Training data* refers to the set of data that is used for fitting a [model](#model).
+
+### True Positive Rate {#true-positive-rate}
+
+See [Sensitivity](#sensitivity).
+
+### Unsupervised Learning {#unsupervised-learning}
+
+[Unsupervised learning](/tags/unsupervised-learning/) is an area of machine learning that is concerned with the identification of [models](#model)
+that are capable to represent the properties of the data in a condensed manner, which allows for greater [interpretability](#interpretability).
+
+Evaluating the performance of unsupervised learning methods is more challenging than for supervised learning because there are no outcomes
+that provide the [ground truth](#ground-truth). Popular unsupervised methods include [k-means](#k-means) and *PCA*.
+
+### Validation Data {#validation-data}
+
+*Validation data* refers to the set of data that is used for tuning the hyperparameters of a [model](#model).
+
+## Software Engineering Glossary {#software-engineering-glossary}
+
+The software engineering glossary is structured into:
+
+* DevOps terms
+* General terms
+* Scrum terms
+* Testing terms
+
+**DevOps Terms**
+
+```{r gen_devops_terms, warning=FALSE, echo=FALSE}
+terms_to_table(devops.terms)
+```
+
+**General Terms**
+
+```{r gen_general_software_terms, warning=FALSE, echo=FALSE}
+terms_to_table(general.software.terms)
+```
+
+**Scrum Terms**
+
+```{r gen_scrum_terms, warning=FALSE, echo=FALSE}
+terms_to_table(scrum.terms)
+```
+
+**Testing Terms**
+
+```{r gen_testing_terms, warning=FALSE, echo=FALSE}
+terms_to_table(testing.terms)
+```
+
+c("Product Owner", "Development Team", "Scrum Master", "Daily",
+                 "Sprint Planning", "Sprint Retrospective", "Refinement",
+                 "Backlog", "Backlog Item")
+
+### Acceptance-Test-Driven Development {#acceptance-test-driven-development}
+
+Acceptance-test-driven development (ATDD) is based on the idea that automated acceptance tests
+should be specified before starting with the implementation of a new feature. Since the acceptance
+criteria typically reflect the requirements of the business stakeholders, these tests are typically
+formulated in such a way that they are understandable in layman's terms, for example, using
+[Cucumber](https://cucumber.io).
+
+### Backlog Item {#backlog-item}
+
+TODO
+
+### Behavior-Driven Development {#behavior-driven-development}
+
+Behavior-driven development (BDD) is related to acceptance-test-driven development (ATDD).
+BDD places a focus on the fact that the required behavior of the software is made explicit and is available
+in an easily understood manner, e.g. via [Cucumber](https://cucumber.io).
+
+### Backlog {#backlog}
+
+The backlog is a collection of backlog items (e.g. features, bugs, enablers) that are planned to be implemented
+by the development team. The *product backlog* contains all the backlog items that are relevant for the product,
+while the *sprint backlog* contains only those backlog items that are relevant for the current [sprint](#sprint).
+
+### CI/CD
+
+CI/CD is the shorthand for [continuous integration](#continuous-integration) and
+[continuous delivery](#continuous-delivery). CI/CD is realized through automated pipelines that trigger on
+code changes in the [version control system](#version-control-system). Such a pipeline implements CI
+through automated tests. If the tests are successful, CD is performed by deploying the software on a 
+staging area or even on production instances.
+
+### Continuous Delivery {#continuous-delivery}
+
+Continuous delivery (CD) refers to the ability to automatically deploy increments of software to a staging area.
+CD should not be confused with continuous deployment, which goes one step further by automatically deploying
+the software to the production instances.
+
+### Deployment {#deployment}
+
+Deployment refers to the release of a software in a non-local environment. Software is typically developed
+in the following environment:
+
+1. Development environment (e.g. local machines of developers)
+2. Staging area (a server similar to the production environment)
+3. The prouction instances running the software that is available to the customers
+
+In complex systems, multiple staging areas may be used.
+
+### Development Team {#development-team}
+
+The development team engineers the software according to the [product backlog](#backlog).
+
+### End-to-End Test {#end-to-end-test}
+
+End-to-end tests validate the functionality of full application workflows from a user perspective.
+
+For example, an end-to-end test for an e-commerce business could consist of the following steps:
+
+1. User login
+2. Adding products to the shopping basket
+3. Ordering the selected items
+4. Receiving the invoice through a confirmation email
+
+Ideally, end-to-end tests are implemented using a [behavior-driven development](#behavior-driven-development) approach.
+
+### Extreme Programming {#extreme-programming}
+
+Extreme programming (XP) refers to a collection of software engineering practices, most notably 
+[pair programming](#pair-programming). Since its inception, many of these practices have become an integral part
+of what is considered agile software development today.
+
+### Infrastructure as Code {#infrastructure-as-code}
+
+Infrastructure as code (IaC) is a practice in which a technical
+infrastructure is defined in terms of code such that the infrastructure can be maintained
+(e.g. reconfigured) by executing the code instead of manual interventions.
+
+Examples of IaC frameworks include [Ansible](https://www.ansible.com/), [Chef](https://www.chef.io/),
+and [Puppet](https://puppet.com/).
+
+### Integration Test {#integration-test}
+
+An integration test validates functional correctness across multiple
+application modules. See [Types of Tests](#types-of-tests) for a listing of all types of tests.
+
+### Mob Programming {#mob-programming}
+
+Mob programming extends the concept of [pair programming](#pair-programming) from pairs of developers to the entire team.
+This means that the entire team collaboratively works on the same piece of code. This coding practice
+is particularly useful when implementing complex program logic that requires the knowledge from various team members.
+
+### Pair Programming {#pair-programming}
+
+Pair programming is an [extreme programming](#extreme-programming) technique in which two developers
+collaboratively work on the same piece of code. One developer assumes the role of the *driver*, while
+the other assumes the role of the *navigator*.
+
+The developer acting as the driver writes the code,
+while the developer acting as the navigator guides the implementation efforts. Typically,
+the roles are switched continually (e.g. all thirty minutes).
+
+### Product Owner {#product-owner}
+
+In [Scrum](#scrum), the product owner (PO) is responsible for maximizing the value that is delivered
+by the development team. To achieve this goal, he has to prioritize backlog items by considering
+the value they offer to the customer as well as the technical complexity of the implementation.
+The development team informs the PO about new software features in the [sprint review meeting](#sprint-review).
+
+### Scrum {#scrum}
+
+TODO
+
+### Sprint {#sprint}
+
+In [Scrum](#scrum), a sprint refers to the period of time after which a new increment of software is produced.
+The duration of a sprint defines the interval in which the majority of Scrum meetings take place
+(e.g. [planning](#sprint-planning), [review](#sprint-review), [retrospective](#sprint-retrospective)) and determines the rhythm according to which
+software is developed. Typically, sprints have a length of two weeks.
+
+### Sprint Review {#sprint-review}
+
+In [Scrum](#scrum), the sprint review is a meeting in which the development team
+presents its progress on the [sprint backlog](#backlog) to the [product owner](#product-owner).
+
+### Test-Driven Development {#test-driven-development}
+
+Test-driven development (TDD) is a development practice that ensures that
+a sufficient number of varied unit tests are implemented during the development
+of a new functionality. The following pattern can be used for TDD:
+
+1. Write up the boilerplate for the functionality you want to test (e.g. class, function) but do not
+   implement the functionality yet.
+2. Write a failing test.
+3. Adapt the implementation such that the test is passed successfully.
+4. Continue with Step 2. Terminate the TDD process if you cannot think of any
+   additional tests that would demonstrate a failure in your implementation.
+
+### Types of Tests {#types-of-test}
+
+Software testing can be tested using the following types of tests:
+
+* [Unit tests](#unit-test)
+* [Integration tests](#integration-test)
+* [End-to-end tests](#end-to-end-test)
+
+These types of tests form the *test pyramid*. Most application tests are made up of
+a large number of unit tests, a small number of integration tests, and just a few end-to-end-tests.
+
+### Unit Test {#unit-test}
+
+Unit tests validate the functionality of a unit of application code. The term *unit* is not formally defined and could be a single, independent function, multiple functions, or a complete software module. A single unit test should test only a single type of functionality, if possible. This allows the precise identification of errors in the application. See [Types of Tests](#types-of-tests) for a listing of all types of tests.
+
+
