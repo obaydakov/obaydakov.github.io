@@ -1,0 +1,38 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tools on If you torture the data long enough, it will confess ©</title>
+    <link>/tags/tools/</link>
+    <description>Recent content in tools on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Integromat  - achieve more in less time with fewer people</title>
+      <link>/post/2022-02-26-integromat-achieve-more-in-less-time-with-fewer-people/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-26-integromat-achieve-more-in-less-time-with-fewer-people/</guid>
+      <description>&lt;p&gt;Integromat lets you connect apps and automate workflows in a few clicks. Move data between apps without effort so you can focus on growing your business.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.integromat.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Top 9 Jupyter Notebook extensions</title>
+      <link>/post/2022-02-26-top-9-jupyter-notebook-extensions/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-26-top-9-jupyter-notebook-extensions/</guid>
+      <description>&lt;p&gt;Jupyter Notebook is probably the most popular tool used by Data Scientists. It allows mixing code, text, and inspecting the output in one document.&lt;/p&gt;
+&lt;p&gt;This is something that is not possible with some other programming IDEs. However, the vanilla version of the Jupyter notebooks is not perfect.&lt;/p&gt;
+&lt;p&gt;In this article, we will show you how to make it slightly better by installing some useful extensions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/top-9-jupyter-notebook-extensions-7a5d30269bc8&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 

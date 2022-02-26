@@ -6,7 +6,39 @@
     <description>Recent content in Posts on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced exploratory data analysis (EDA) with Python</title>
+      <link>/post/2022-02-26-advanced-exploratory-data-analysis-eda-with-python/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-26-advanced-exploratory-data-analysis-eda-with-python/</guid>
+      <description>How to quickly get a handle on almost any tabular dataset
+Link</description>
+    </item>
+    
+    <item>
+      <title>Integromat  - achieve more in less time with fewer people</title>
+      <link>/post/2022-02-26-integromat-achieve-more-in-less-time-with-fewer-people/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-26-integromat-achieve-more-in-less-time-with-fewer-people/</guid>
+      <description>Integromat lets you connect apps and automate workflows in a few clicks. Move data between apps without effort so you can focus on growing your business.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Top 9 Jupyter Notebook extensions</title>
+      <link>/post/2022-02-26-top-9-jupyter-notebook-extensions/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-26-top-9-jupyter-notebook-extensions/</guid>
+      <description>Jupyter Notebook is probably the most popular tool used by Data Scientists. It allows mixing code, text, and inspecting the output in one document.
+This is something that is not possible with some other programming IDEs. However, the vanilla version of the Jupyter notebooks is not perfect.
+In this article, we will show you how to make it slightly better by installing some useful extensions.
+Link</description>
+    </item>
+    
     <item>
       <title>7 Useful Examples of Python’s itertools</title>
       <link>/post/2022-02-19-7-useful-examples-of-python-s-itertools/</link>
@@ -154,7 +186,8 @@ Link</description>
       <guid>/post/2022-02-19-what-is-metaflow/</guid>
       <description>Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects.
 Metaflow was originally developed at Netflix to boost the productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.
-Metaflow provides a unified API to the infrastructure stack that is required to execute data science projects, from prototype to production.</description>
+Metaflow provides a unified API to the infrastructure stack that is required to execute data science projects, from prototype to production.
+Link</description>
     </item>
     
     <item>
@@ -173,34 +206,6 @@ Metaflow provides a unified API to the infrastructure stack that is required to 
       
       <guid>/post/2021-12-30-a-powerful-and-flexible-machine-learning-platform-for-drug-discovery/</guid>
       <description>TorchDrug is a machine learning platform designed for drug discovery, covering techniques from graph machine learning (graph neural networks, geometric deep learning &amp;amp; knowledge graphs), deep generative models to reinforcement learning. It provides a comprehensive and flexible interface to support rapid prototyping of drug discovery models in PyTorch.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Geometric Deep Learing</title>
-      <link>/post/2021-12-30-geometric-deep-learing/</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-30-geometric-deep-learing/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Graph ML in 2022: Where Are We Now?</title>
-      <link>/post/2021-12-30-graph-ml-in-2022-where-are-we-now/</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-30-graph-ml-in-2022-where-are-we-now/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>KG Course 2021</title>
-      <link>/post/2021-12-30-kg-course-2021/</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-12-30-kg-course-2021/</guid>
-      <description>Курс по графам знаний (Knowledge Graphs) и как их готовить в 2021 году. На русском языке.
 Link</description>
     </item>
     
