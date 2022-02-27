@@ -5,10 +5,33 @@
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Flask Web App for Automatic Text Summarization Using SBERT</title>
+      <link>/post/2022-02-27-a-flask-web-app-for-automatic-text-summarization-using-sbert/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-27-a-flask-web-app-for-automatic-text-summarization-using-sbert/</guid>
+      <description>&lt;p&gt;In this blog, we will build a Flask web app that can input any long piece of information such as a blog or news article and summarize it into just five lines!&lt;/p&gt;
+&lt;p&gt;Text summarization is an NLP(Natural Language Processing) task. SBERT(Sentence-BERT) has been used to achieve the same.&lt;/p&gt;
+&lt;p&gt;By the end of the article, you will learn how to integrate AI models and specifically pre-trained BERT models with Flask web technology as well! I will be explaining the step-by-step implementation right from the setup.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.analyticsvidhya.com/blog/2022/02/a-flask-web-app-for-automatic-text-summarization-using-sbert/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What does 2022 hold for Geometric &amp; Graph ML?</title>
+      <link>/post/2022-02-27-what-does-2022-hold-for-geometric-graph-ml/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-27-what-does-2022-hold-for-geometric-graph-ml/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Real-time face swap fpr PC streamig or video calls</title>
