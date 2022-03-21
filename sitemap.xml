@@ -5,6 +5,286 @@
   
 
       <url>
+        <loc>/tags/articles/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-aws-serverless-application-repository-examples/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-beautiful-and-easy-data-visualization-and-storytelling/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-build-a-website-in-only-12-minutes-using-python-streamlit/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/cloud/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/deep-learning/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-deepchecks-suite/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/design/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/development/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-getting-started-with-streamlit-for-nlp/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-graph-neural-networks-beyond-weisfeiler-lehman-and-vanilla-message-passing/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-graph-based-fraud-detection-papers-and-resources/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/graphs/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-how-to-use-forms-in-streamlit-easy/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-how-to-use-streamlit-session-states-and-callback-functions/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/libraries/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-machine-learning-model-deployment-with-python-streamlit-mlflow/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/math/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/nlp/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-one-unified-api-one-billion-possibilities/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/python/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-pytorch-vae/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-simplifying-transformer-research-with-xformers-lightning/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-streamlit-demo-real-time-voice-cloning/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-swiss-army-knife-for-developers/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-the-best-way-to-build-web-apps-without-code/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/tools/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-vae-playground/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-visual-guide-to-transformer-neural-networks/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/visualization/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-03-21-yann-lecun-a-path-towards-autonomous-ai/</loc>
+        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/post/2022-02-27-a-flask-web-app-for-automatic-text-summarization-using-sbert/</loc>
         <lastmod>2022-02-27T00:00:00+00:00</lastmod>
     </url>
@@ -21,63 +301,7 @@
   
 
       <url>
-        <loc>/categories/</loc>
-        <lastmod>2022-02-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/</loc>
-        <lastmod>2022-02-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/tags/deep-learning/</loc>
-        <lastmod>2022-02-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/deep-learning/</loc>
-        <lastmod>2022-02-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/nlp/</loc>
-        <lastmod>2022-02-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/post/</loc>
-        <lastmod>2022-02-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/python/</loc>
-        <lastmod>2022-02-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/</loc>
         <lastmod>2022-02-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -109,14 +333,6 @@
   
 
       <url>
-        <loc>/tags/articles/</loc>
-        <lastmod>2022-02-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/categories/data-engineering/</loc>
         <lastmod>2022-02-26T00:00:00+00:00</lastmod>
     </url>
@@ -134,14 +350,6 @@
 
       <url>
         <loc>/post/2022-02-26-integromat-achieve-more-in-less-time-with-fewer-people/</loc>
-        <lastmod>2022-02-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/tools/</loc>
         <lastmod>2022-02-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -173,14 +381,6 @@
   
 
       <url>
-        <loc>/categories/cloud/</loc>
-        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/tags/computer-vision/</loc>
         <lastmod>2022-02-19T00:00:00+00:00</lastmod>
     </url>
@@ -190,22 +390,6 @@
 
       <url>
         <loc>/tags/courses/</loc>
-        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/design/</loc>
-        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/development/</loc>
         <lastmod>2022-02-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -253,23 +437,7 @@
   
 
       <url>
-        <loc>/tags/libraries/</loc>
-        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/categories/machine-learning/</loc>
-        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/math/</loc>
         <lastmod>2022-02-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -349,14 +517,6 @@
   
 
       <url>
-        <loc>/tags/visualization/</loc>
-        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-02-19-what-is-metaflow/</loc>
         <lastmod>2022-02-19T00:00:00+00:00</lastmod>
     </url>
@@ -398,14 +558,6 @@
 
       <url>
         <loc>/post/2021-12-30-graph-ml-in-2022-where-are-we-now/</loc>
-        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/graphs/</loc>
         <lastmod>2021-12-30T00:00:00+00:00</lastmod>
     </url>
     

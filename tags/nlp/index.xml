@@ -5,10 +5,52 @@
     <description>Recent content in nlp on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deepchecks Suite </title>
+      <link>/post/2022-03-21-deepchecks-suite/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-deepchecks-suite/</guid>
+      <description>&lt;p&gt;Deepchecks is the leading tool for validating your machine learning models and data, and it enables doing so with minimal effort. Deepchecks accompanies you through various validation needs such as verifying your data’s integrity, inspecting its distributions, validating data splits, evaluating your model and comparing between different models.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.deepchecks.com/en/stable/examples/guides/quickstart_in_5_minutes.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Streamlit for NLP</title>
+      <link>/post/2022-03-21-getting-started-with-streamlit-for-nlp/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-getting-started-with-streamlit-for-nlp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/getting-started-with-streamlit-for-nlp-75fe463821ec&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simplifying Transformer Research with xFormers &amp; Lightning</title>
+      <link>/post/2022-03-21-simplifying-transformer-research-with-xformers-lightning/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-simplifying-transformer-research-with-xformers-lightning/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://devblog.pytorchlightning.ai/part-i-simplifying-transformer-research-with-xformers-lightning-a715737b8ad4&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visual Guide to Transformer Neural Networks</title>
+      <link>/post/2022-03-21-visual-guide-to-transformer-neural-networks/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-visual-guide-to-transformer-neural-networks/</guid>
+      <description>&lt;p&gt;Visual Guide to Transformer Neural Networks (Series) - Step by Step Intuitive Explanation&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gJ9kaJsE78k&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Flask Web App for Automatic Text Summarization Using SBERT</title>

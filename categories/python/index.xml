@@ -5,10 +5,103 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build a Website in only 12 minutes using Python &amp; Streamlit</title>
+      <link>/post/2022-03-21-build-a-website-in-only-12-minutes-using-python-streamlit/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-build-a-website-in-only-12-minutes-using-python-streamlit/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VqgUkExPvLY&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Streamlit for NLP</title>
+      <link>/post/2022-03-21-getting-started-with-streamlit-for-nlp/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-getting-started-with-streamlit-for-nlp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/getting-started-with-streamlit-for-nlp-75fe463821ec&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Use Forms in Streamlit EASY </title>
+      <link>/post/2022-03-21-how-to-use-forms-in-streamlit-easy/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-how-to-use-forms-in-streamlit-easy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FwvesOnxP60&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to use Streamlit session states and callback functions</title>
+      <link>/post/2022-03-21-how-to-use-streamlit-session-states-and-callback-functions/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-how-to-use-streamlit-session-states-and-callback-functions/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5l9COMQ3acc&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Model Deployment with Python (Streamlit &#43; MLflow) </title>
+      <link>/post/2022-03-21-machine-learning-model-deployment-with-python-streamlit-mlflow/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-machine-learning-model-deployment-with-python-streamlit-mlflow/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RVMIibDbzaE&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One unified API. One billion possibilities.</title>
+      <link>/post/2022-03-21-one-unified-api-one-billion-possibilities/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-one-unified-api-one-billion-possibilities/</guid>
+      <description>&lt;p&gt;Covalent provides a unified API bringing visibility to billions of blockchain data points.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.covalenthq.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Streamlit Demo: Real-Time Voice Cloning</title>
+      <link>/post/2022-03-21-streamlit-demo-real-time-voice-cloning/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-streamlit-demo-real-time-voice-cloning/</guid>
+      <description>&lt;p&gt;This repository demonstrates how a simple voice transfer app can be created using Streamlit. The code for this demo is based on the repository for Real-Time-Voice-Cloning.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/datarootsio/rootslab-streamlit-demo&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Swiss Army knife for developers</title>
+      <link>/post/2022-03-21-swiss-army-knife-for-developers/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-swiss-army-knife-for-developers/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://devtoys.app/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The best way to build web apps without code</title>
+      <link>/post/2022-03-21-the-best-way-to-build-web-apps-without-code/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-the-best-way-to-build-web-apps-without-code/</guid>
+      <description>&lt;p&gt;Building tech is slow and expensive. Bubble is the most powerful no-code platform for creating digital products. Build better and faster.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bubble.io/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Working with Django and Celery</title>

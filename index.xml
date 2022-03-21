@@ -6,7 +6,190 @@
     <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Serverless Application Repository Examples</title>
+      <link>/post/2022-03-21-aws-serverless-application-repository-examples/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-aws-serverless-application-repository-examples/</guid>
+      <description>This project provides source code of example applications for people to get started using AWS Serverless Application Repository.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Beautiful and easy data visualization and storytelling</title>
+      <link>/post/2022-03-21-beautiful-and-easy-data-visualization-and-storytelling/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-beautiful-and-easy-data-visualization-and-storytelling/</guid>
+      <description>Easily turn your data into stunning charts, maps and interactive stories.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Build a Website in only 12 minutes using Python &amp; Streamlit</title>
+      <link>/post/2022-03-21-build-a-website-in-only-12-minutes-using-python-streamlit/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-build-a-website-in-only-12-minutes-using-python-streamlit/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deepchecks Suite </title>
+      <link>/post/2022-03-21-deepchecks-suite/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-deepchecks-suite/</guid>
+      <description>Deepchecks is the leading tool for validating your machine learning models and data, and it enables doing so with minimal effort. Deepchecks accompanies you through various validation needs such as verifying your data’s integrity, inspecting its distributions, validating data splits, evaluating your model and comparing between different models.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Streamlit for NLP</title>
+      <link>/post/2022-03-21-getting-started-with-streamlit-for-nlp/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-getting-started-with-streamlit-for-nlp/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Graph Neural Networks beyond Weisfeiler-Lehman and vanilla Message Passing</title>
+      <link>/post/2022-03-21-graph-neural-networks-beyond-weisfeiler-lehman-and-vanilla-message-passing/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-graph-neural-networks-beyond-weisfeiler-lehman-and-vanilla-message-passing/</guid>
+      <description>Physics-inspired continuous learning models on graphs allow to overcome the limitations of traditional GNNs
+The message-passing paradigm has been the “battle horse” of deep learning on graphs for several years, making graph neural networks a big success in a…
+Link</description>
+    </item>
+    
+    <item>
+      <title>Graph-based Fraud Detection Papers and Resources</title>
+      <link>/post/2022-03-21-graph-based-fraud-detection-papers-and-resources/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-graph-based-fraud-detection-papers-and-resources/</guid>
+      <description>A curated list of fraud detection papers using graph information or graph neural networks
+Link</description>
+    </item>
+    
+    <item>
+      <title>How to Use Forms in Streamlit EASY </title>
+      <link>/post/2022-03-21-how-to-use-forms-in-streamlit-easy/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-how-to-use-forms-in-streamlit-easy/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to use Streamlit session states and callback functions</title>
+      <link>/post/2022-03-21-how-to-use-streamlit-session-states-and-callback-functions/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-how-to-use-streamlit-session-states-and-callback-functions/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Model Deployment with Python (Streamlit &#43; MLflow) </title>
+      <link>/post/2022-03-21-machine-learning-model-deployment-with-python-streamlit-mlflow/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-machine-learning-model-deployment-with-python-streamlit-mlflow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>One unified API. One billion possibilities.</title>
+      <link>/post/2022-03-21-one-unified-api-one-billion-possibilities/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-one-unified-api-one-billion-possibilities/</guid>
+      <description>Covalent provides a unified API bringing visibility to billions of blockchain data points.
+Link</description>
+    </item>
+    
+    <item>
+      <title>PyTorch VAE</title>
+      <link>/post/2022-03-21-pytorch-vae/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-pytorch-vae/</guid>
+      <description>A collection of Variational AutoEncoders (VAEs) implemented in pytorch with focus on reproducibility.
+The aim of this project is to provide a quick and simple working example for many of the cool VAE models out there. All the models are trained on the CelebA dataset for consistency and comparison.
+The architecture of all the models are kept as similar as possible with the same layers, except for cases where the original paper necessitates a radically different architecture (Ex.</description>
+    </item>
+    
+    <item>
+      <title>Simplifying Transformer Research with xFormers &amp; Lightning</title>
+      <link>/post/2022-03-21-simplifying-transformer-research-with-xformers-lightning/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-simplifying-transformer-research-with-xformers-lightning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Streamlit Demo: Real-Time Voice Cloning</title>
+      <link>/post/2022-03-21-streamlit-demo-real-time-voice-cloning/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-streamlit-demo-real-time-voice-cloning/</guid>
+      <description>This repository demonstrates how a simple voice transfer app can be created using Streamlit. The code for this demo is based on the repository for Real-Time-Voice-Cloning.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Swiss Army knife for developers</title>
+      <link>/post/2022-03-21-swiss-army-knife-for-developers/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-swiss-army-knife-for-developers/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The best way to build web apps without code</title>
+      <link>/post/2022-03-21-the-best-way-to-build-web-apps-without-code/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-the-best-way-to-build-web-apps-without-code/</guid>
+      <description>Building tech is slow and expensive. Bubble is the most powerful no-code platform for creating digital products. Build better and faster.
+Link</description>
+    </item>
+    
+    <item>
+      <title>VAE Playground</title>
+      <link>/post/2022-03-21-vae-playground/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-vae-playground/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Visual Guide to Transformer Neural Networks</title>
+      <link>/post/2022-03-21-visual-guide-to-transformer-neural-networks/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-visual-guide-to-transformer-neural-networks/</guid>
+      <description>Visual Guide to Transformer Neural Networks (Series) - Step by Step Intuitive Explanation
+Link</description>
+    </item>
+    
+    <item>
+      <title>Yann LeCun: &#34;A Path Towards Autonomous AI&#34;</title>
+      <link>/post/2022-03-21-yann-lecun-a-path-towards-autonomous-ai/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-yann-lecun-a-path-towards-autonomous-ai/</guid>
+      <description>Link</description>
+    </item>
+    
     <item>
       <title>A Flask Web App for Automatic Text Summarization Using SBERT</title>
       <link>/post/2022-02-27-a-flask-web-app-for-automatic-text-summarization-using-sbert/</link>
@@ -16,196 +199,6 @@
       <description>In this blog, we will build a Flask web app that can input any long piece of information such as a blog or news article and summarize it into just five lines!
 Text summarization is an NLP(Natural Language Processing) task. SBERT(Sentence-BERT) has been used to achieve the same.
 By the end of the article, you will learn how to integrate AI models and specifically pre-trained BERT models with Flask web technology as well!</description>
-    </item>
-    
-    <item>
-      <title>What does 2022 hold for Geometric &amp; Graph ML?</title>
-      <link>/post/2022-02-27-what-does-2022-hold-for-geometric-graph-ml/</link>
-      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-27-what-does-2022-hold-for-geometric-graph-ml/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Working with Django and Celery</title>
-      <link>/post/2022-02-27-working-with-django-and-celery/</link>
-      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-27-working-with-django-and-celery/</guid>
-      <description>Automate workflows and deliver smooth user experiences with Django and Celery
-Link</description>
-    </item>
-    
-    <item>
-      <title>Advanced exploratory data analysis (EDA) with Python</title>
-      <link>/post/2022-02-26-advanced-exploratory-data-analysis-eda-with-python/</link>
-      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-26-advanced-exploratory-data-analysis-eda-with-python/</guid>
-      <description>How to quickly get a handle on almost any tabular dataset
-Link</description>
-    </item>
-    
-    <item>
-      <title>Integromat  - achieve more in less time with fewer people</title>
-      <link>/post/2022-02-26-integromat-achieve-more-in-less-time-with-fewer-people/</link>
-      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-26-integromat-achieve-more-in-less-time-with-fewer-people/</guid>
-      <description>Integromat lets you connect apps and automate workflows in a few clicks. Move data between apps without effort so you can focus on growing your business.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Top 9 Jupyter Notebook extensions</title>
-      <link>/post/2022-02-26-top-9-jupyter-notebook-extensions/</link>
-      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-26-top-9-jupyter-notebook-extensions/</guid>
-      <description>Jupyter Notebook is probably the most popular tool used by Data Scientists. It allows mixing code, text, and inspecting the output in one document.
-This is something that is not possible with some other programming IDEs. However, the vanilla version of the Jupyter notebooks is not perfect.
-In this article, we will show you how to make it slightly better by installing some useful extensions.
-Link</description>
-    </item>
-    
-    <item>
-      <title>7 Useful Examples of Python’s itertools</title>
-      <link>/post/2022-02-19-7-useful-examples-of-python-s-itertools/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-19-7-useful-examples-of-python-s-itertools/</guid>
-      <description>The Python itertools library is provides extremely useful utility functions for dealing with iterables.
-By becoming fluent in the itertools functions, you can combine them in new ways and use them as building blocks for tackling complex problems in very few lines of code. In this article, you will see 7 practical examples of the applications of itertools functions.
-Link</description>
-    </item>
-    
-    <item>
-      <title>dtreeviz : Decision Tree Visualization</title>
-      <link>/post/2022-02-19-dtreeviz-decision-tree-visualization/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-19-dtreeviz-decision-tree-visualization/</guid>
-      <description>A python library for decision tree visualization and model interpretation. Currently supports scikit-learn, XGBoost, Spark MLlib, and LightGBM trees.
-Link</description>
-    </item>
-    
-    <item>
-      <title>free-for.dev</title>
-      <link>/post/2022-02-19-free-for-dev/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-19-free-for-dev/</guid>
-      <description>Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
-This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
-The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic.</description>
-    </item>
-    
-    <item>
-      <title>From life to molecular biophysics</title>
-      <link>/post/2022-02-19-from-life-to-molecular-biophysics/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-19-from-life-to-molecular-biophysics/</guid>
-      <description>Molecular Biophysics - all lectures and concepts
-Link</description>
-    </item>
-    
-    <item>
-      <title>Integrating Pythonic visual reports into ML pipelines</title>
-      <link>/post/2022-02-19-integrating-pythonic-visual-reports-into-ml-pipelines/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-19-integrating-pythonic-visual-reports-into-ml-pipelines/</guid>
-      <description>Human-readable, visual reports for every ML pipeline Link</description>
-    </item>
-    
-    <item>
-      <title>Principles &amp; Best practices of REST API Design</title>
-      <link>/post/2022-02-19-principles-best-practices-of-rest-api-design/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-19-principles-best-practices-of-rest-api-design/</guid>
-      <description>This best-practices article intends for developers interested in creating RESTful Web services that provide high reliability and consistency across multiple service suites; following these guidelines; services are positioned for rapid, widespread, public adoption by internal and external clients.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Pypeln</title>
-      <link>/post/2022-02-19-pypeln/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-19-pypeln/</guid>
-      <description>Pypeln (pronounced as &amp;ldquo;pypeline&amp;rdquo;) is a simple yet powerful Python library for creating concurrent data pipelines.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Real-time face swap fpr PC streamig or video calls</title>
-      <link>/post/2022-02-19-real-time-face-swap-fpr-pc-streamig-or-video-calls/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-19-real-time-face-swap-fpr-pc-streamig-or-video-calls/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Terraform: Building out an Application Environment in AWS</title>
-      <link>/post/2022-02-19-terraform-building-out-an-application-environment-in-aws/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-19-terraform-building-out-an-application-environment-in-aws/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Terraform: Process Kinesis Data Stream Records with AWS Lambda</title>
-      <link>/post/2022-02-19-terraform-process-kinesis-data-stream-records-with-aws-lambda/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-19-terraform-process-kinesis-data-stream-records-with-aws-lambda/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Terraforming and Connecting to an AWS Redshift Cluster</title>
-      <link>/post/2022-02-19-terraforming-and-connecting-to-an-aws-redshift-cluster/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-19-terraforming-and-connecting-to-an-aws-redshift-cluster/</guid>
-      <description>This article will create a new VPC and the necessary resources to stand up a Redshift cluster in the new VPC. That way, we can blow this all away without affecting the state of our environment pre-tutorial.
-Link</description>
-    </item>
-    
-    <item>
-      <title>The Architectures Powering Machine Learning at Google, Facebook, Uber, LinkedIn</title>
-      <link>/post/2022-02-19-the-architectures-powering-machine-learning-at-google-facebook-uber-linkedin/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-19-the-architectures-powering-machine-learning-at-google-facebook-uber-linkedin/</guid>
-      <description>The challenge of establishing reference architectures for large-scale machine learning solutions is accentuated by two main factors:
-Machine learning frameworks and infrastructure have evolved considerably faster than the adoption of those technologies in mainstream environments.
-The lifecycle of machine learning solutions is fundamentally different from other software disciplines.
-Link</description>
-    </item>
-    
-    <item>
-      <title>The incredible pytorch</title>
-      <link>/post/2022-02-19-the-incredible-pytorch/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-19-the-incredible-pytorch/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>The Stacks project</title>
-      <link>/post/2022-02-19-the-stacks-project/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-02-19-the-stacks-project/</guid>
-      <description>An open source textbook and reference work on algebraic geometry
-Link</description>
     </item>
     
   </channel>

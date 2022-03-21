@@ -5,10 +5,98 @@
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deepchecks Suite </title>
+      <link>/post/2022-03-21-deepchecks-suite/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-deepchecks-suite/</guid>
+      <description>&lt;p&gt;Deepchecks is the leading tool for validating your machine learning models and data, and it enables doing so with minimal effort. Deepchecks accompanies you through various validation needs such as verifying your data’s integrity, inspecting its distributions, validating data splits, evaluating your model and comparing between different models.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.deepchecks.com/en/stable/examples/guides/quickstart_in_5_minutes.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graph Neural Networks beyond Weisfeiler-Lehman and vanilla Message Passing</title>
+      <link>/post/2022-03-21-graph-neural-networks-beyond-weisfeiler-lehman-and-vanilla-message-passing/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-graph-neural-networks-beyond-weisfeiler-lehman-and-vanilla-message-passing/</guid>
+      <description>&lt;p&gt;Physics-inspired continuous learning models on graphs allow to overcome the limitations of traditional GNNs&lt;/p&gt;
+&lt;p&gt;The message-passing paradigm has been the “battle horse” of deep learning on graphs for several years, making graph neural networks a big success in a…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/graph-neural-networks-beyond-weisfeiler-lehman-and-vanilla-message-passing-bc8605fa59a&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graph-based Fraud Detection Papers and Resources</title>
+      <link>/post/2022-03-21-graph-based-fraud-detection-papers-and-resources/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-graph-based-fraud-detection-papers-and-resources/</guid>
+      <description>&lt;p&gt;A curated list of fraud detection papers using graph information or graph neural networks&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/safe-graph/graph-fraud-detection-papers&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyTorch VAE</title>
+      <link>/post/2022-03-21-pytorch-vae/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-pytorch-vae/</guid>
+      <description>&lt;p&gt;A collection of Variational AutoEncoders (VAEs) implemented in pytorch with focus on reproducibility.&lt;/p&gt;
+&lt;p&gt;The aim of this project is to provide a quick and simple working example for many of the cool VAE models out there. All the models are trained on the CelebA dataset for consistency and comparison.&lt;/p&gt;
+&lt;p&gt;The architecture of all the models are kept as similar as possible with the same layers, except for cases where the original paper necessitates a radically different architecture (Ex. VQ VAE uses Residual layers and no Batch-Norm, unlike other models). Here are the results of each model.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/AntixK/PyTorch-VAE&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simplifying Transformer Research with xFormers &amp; Lightning</title>
+      <link>/post/2022-03-21-simplifying-transformer-research-with-xformers-lightning/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-simplifying-transformer-research-with-xformers-lightning/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://devblog.pytorchlightning.ai/part-i-simplifying-transformer-research-with-xformers-lightning-a715737b8ad4&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VAE Playground</title>
+      <link>/post/2022-03-21-vae-playground/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-vae-playground/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/reoneo97/vae-playground&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visual Guide to Transformer Neural Networks</title>
+      <link>/post/2022-03-21-visual-guide-to-transformer-neural-networks/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-visual-guide-to-transformer-neural-networks/</guid>
+      <description>&lt;p&gt;Visual Guide to Transformer Neural Networks (Series) - Step by Step Intuitive Explanation&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gJ9kaJsE78k&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yann LeCun: &#34;A Path Towards Autonomous AI&#34;</title>
+      <link>/post/2022-03-21-yann-lecun-a-path-towards-autonomous-ai/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-yann-lecun-a-path-towards-autonomous-ai/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DokLw1tILlw&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Flask Web App for Automatic Text Summarization Using SBERT</title>

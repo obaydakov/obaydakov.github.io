@@ -5,10 +5,34 @@
     <description>Recent content in libraries on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/libraries/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Graph-based Fraud Detection Papers and Resources</title>
+      <link>/post/2022-03-21-graph-based-fraud-detection-papers-and-resources/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-graph-based-fraud-detection-papers-and-resources/</guid>
+      <description>&lt;p&gt;A curated list of fraud detection papers using graph information or graph neural networks&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/safe-graph/graph-fraud-detection-papers&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyTorch VAE</title>
+      <link>/post/2022-03-21-pytorch-vae/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-pytorch-vae/</guid>
+      <description>&lt;p&gt;A collection of Variational AutoEncoders (VAEs) implemented in pytorch with focus on reproducibility.&lt;/p&gt;
+&lt;p&gt;The aim of this project is to provide a quick and simple working example for many of the cool VAE models out there. All the models are trained on the CelebA dataset for consistency and comparison.&lt;/p&gt;
+&lt;p&gt;The architecture of all the models are kept as similar as possible with the same layers, except for cases where the original paper necessitates a radically different architecture (Ex. VQ VAE uses Residual layers and no Batch-Norm, unlike other models). Here are the results of each model.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/AntixK/PyTorch-VAE&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>7 Useful Examples of Python’s itertools</title>

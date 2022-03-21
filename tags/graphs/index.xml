@@ -5,10 +5,22 @@
     <description>Recent content in graphs on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/graphs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Graph Neural Networks beyond Weisfeiler-Lehman and vanilla Message Passing</title>
+      <link>/post/2022-03-21-graph-neural-networks-beyond-weisfeiler-lehman-and-vanilla-message-passing/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-03-21-graph-neural-networks-beyond-weisfeiler-lehman-and-vanilla-message-passing/</guid>
+      <description>&lt;p&gt;Physics-inspired continuous learning models on graphs allow to overcome the limitations of traditional GNNs&lt;/p&gt;
+&lt;p&gt;The message-passing paradigm has been the “battle horse” of deep learning on graphs for several years, making graph neural networks a big success in a…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/graph-neural-networks-beyond-weisfeiler-lehman-and-vanilla-message-passing-bc8605fa59a&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Graph ML in 2022: Where Are We Now?</title>
