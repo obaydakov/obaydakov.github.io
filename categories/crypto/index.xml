@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crypto on If you torture the data long enough, it will confess ©</title>
+    <link>/categories/crypto/</link>
+    <description>Recent content in crypto on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/crypto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Persist data to the Ethereum blockchain using Python, Truffle and Ganache</title>
+      <link>/post/2022-04-09-persist-data-to-the-ethereum-blockchain-using-python-truffle-and-ganache/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-persist-data-to-the-ethereum-blockchain-using-python-truffle-and-ganache/</guid>
+      <description>&lt;p&gt;This tutorial will show how to update the contract to save some data in the blockchain as well as how to inspect the blockchain to see our transactions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dev.to/gcrsaldanha/persist-data-to-the-ethereum-blockchain-using-python-truffle-and-ganache-47lb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 

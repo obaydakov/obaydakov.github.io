@@ -5,10 +5,97 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>15 Open Source libraries for data quality improvement</title>
+      <link>/post/2022-04-09-15-open-source-libraries-for-data-quality-improvement/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-15-open-source-libraries-for-data-quality-improvement/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://telegra.ph/15-Open-Source-bibliotek-dlya-povysheniya-kachestva-dannyh-04-05-2&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>7 Tips To Maximize PyTorch Performance</title>
+      <link>/post/2022-04-09-7-tips-to-maximize-pytorch-performance/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-7-tips-to-maximize-pytorch-performance/</guid>
+      <description>&lt;p&gt;Throughout the last 10 months, while working on PyTorch Lightning, the team and I have been exposed to many styles of structuring PyTorch code and we have identified a few key places where we see people inadvertently introducing bottlenecks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/7-tips-for-squeezing-maximum-performance-from-pytorch-ca4a40951259&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Airtable</title>
+      <link>/post/2022-04-09-airtable/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-airtable/</guid>
+      <description>&lt;p&gt;Airtable’s intuitive yet powerful platform gives everyone the flexibility to create their own solution and make work flow faster.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.airtable.com/product&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automate without limits</title>
+      <link>/post/2022-04-09-automate-without-limits/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-automate-without-limits/</guid>
+      <description>&lt;p&gt;The workflow automation platform that doesn&amp;rsquo;t box you in, that you never outgrow&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://n8n.io/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build web apps with nothing but Python</title>
+      <link>/post/2022-04-09-build-web-apps-with-nothing-but-python/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-build-web-apps-with-nothing-but-python/</guid>
+      <description>&lt;p&gt;Build seriously powerful web apps with all the flexibility of Python.
+No web development experience required.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://anvil.works/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code, create, and learn together</title>
+      <link>/post/2022-04-09-code-create-and-learn-together/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-code-create-and-learn-together/</guid>
+      <description>&lt;p&gt;Use our free, collaborative, in-browser IDE to code in 50+ languages — without spending a second on setup.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://replit.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Connect APIs, remarkably fast.</title>
+      <link>/post/2022-04-09-connect-apis-remarkably-fast/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-connect-apis-remarkably-fast/</guid>
+      <description>&lt;p&gt;Stop writing boilerplate code, struggling with authentication and managing infrastructure. Start connecting APIs with code-level control when you need it — and no code when you don&amp;rsquo;t.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DevDocs combines multiple API documentations in a fast, organized, and searchable interface.</title>
+      <link>/post/2022-04-09-devdocs-combines-multiple-api-documentations-in-a-fast-organized-and-searchable-interface/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-devdocs-combines-multiple-api-documentations-in-a-fast-organized-and-searchable-interface/</guid>
+      <description>&lt;p&gt;DevDocs combines multiple API documentations in a fast, organized, and searchable interface. Here&amp;rsquo;s what you should know before you start:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://devdocs.io/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Integromat  - achieve more in less time with fewer people</title>

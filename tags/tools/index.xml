@@ -5,10 +5,21 @@
     <description>Recent content in tools on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TorchMetrics</title>
+      <link>/post/2022-04-09-torchmetrics/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-torchmetrics/</guid>
+      <description>&lt;p&gt;TorchMetrics is a really nice and convenient library that lets us compute the performance of models in an iterative fashion. It’s designed with PyTorch (and PyTorch Lightning) in mind, but it is a general-purpose library compatible with other libraries and workflows.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sebastianraschka.com/blog/2022/torchmetrics.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS Serverless Application Repository Examples</title>

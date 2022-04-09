@@ -5,10 +5,133 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>7 Tips To Maximize PyTorch Performance</title>
+      <link>/post/2022-04-09-7-tips-to-maximize-pytorch-performance/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-7-tips-to-maximize-pytorch-performance/</guid>
+      <description>&lt;p&gt;Throughout the last 10 months, while working on PyTorch Lightning, the team and I have been exposed to many styles of structuring PyTorch code and we have identified a few key places where we see people inadvertently introducing bottlenecks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/7-tips-for-squeezing-maximum-performance-from-pytorch-ca4a40951259&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Airtable</title>
+      <link>/post/2022-04-09-airtable/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-airtable/</guid>
+      <description>&lt;p&gt;Airtable’s intuitive yet powerful platform gives everyone the flexibility to create their own solution and make work flow faster.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.airtable.com/product&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automate without limits</title>
+      <link>/post/2022-04-09-automate-without-limits/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-automate-without-limits/</guid>
+      <description>&lt;p&gt;The workflow automation platform that doesn&amp;rsquo;t box you in, that you never outgrow&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://n8n.io/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build web apps with nothing but Python</title>
+      <link>/post/2022-04-09-build-web-apps-with-nothing-but-python/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-build-web-apps-with-nothing-but-python/</guid>
+      <description>&lt;p&gt;Build seriously powerful web apps with all the flexibility of Python.
+No web development experience required.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://anvil.works/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code, create, and learn together</title>
+      <link>/post/2022-04-09-code-create-and-learn-together/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-code-create-and-learn-together/</guid>
+      <description>&lt;p&gt;Use our free, collaborative, in-browser IDE to code in 50+ languages — without spending a second on setup.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://replit.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Connect APIs, remarkably fast.</title>
+      <link>/post/2022-04-09-connect-apis-remarkably-fast/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-connect-apis-remarkably-fast/</guid>
+      <description>&lt;p&gt;Stop writing boilerplate code, struggling with authentication and managing infrastructure. Start connecting APIs with code-level control when you need it — and no code when you don&amp;rsquo;t.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Persist data to the Ethereum blockchain using Python, Truffle and Ganache</title>
+      <link>/post/2022-04-09-persist-data-to-the-ethereum-blockchain-using-python-truffle-and-ganache/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-persist-data-to-the-ethereum-blockchain-using-python-truffle-and-ganache/</guid>
+      <description>&lt;p&gt;This tutorial will show how to update the contract to save some data in the blockchain as well as how to inspect the blockchain to see our transactions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dev.to/gcrsaldanha/persist-data-to-the-ethereum-blockchain-using-python-truffle-and-ganache-47lb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Star Admin Django</title>
+      <link>/post/2022-04-09-star-admin-django/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-star-admin-django/</guid>
+      <description>&lt;p&gt;Star Admin (Free Version) admin dashboard designed by BootstrapDash and coded in Django Framework with SQLite database, ORM, authentication and deploy scripts for Docker, Gunicon and Heroku.&lt;/p&gt;
+&lt;p&gt;Designed based on the Bootstrap framework, Star Admin is a powerful, feature-rich, and super flexible admin dashboard template. It serves as the perfect starting point for both simple and complex web development projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Peltarion cloud platform makes it easier to get started with, build, and deploy AI for whatever you do</title>
+      <link>/post/2022-04-09-the-peltarion-cloud-platform-makes-it-easier-to-get-started-with-build-and-deploy-ai-for-whatever-you-do/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-the-peltarion-cloud-platform-makes-it-easier-to-get-started-with-build-and-deploy-ai-for-whatever-you-do/</guid>
+      <description>&lt;p&gt;Our deep learning platform enables you to build and deploy AI models&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://peltarion.com/product&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The ultimate tools for web development</title>
+      <link>/post/2022-04-09-the-ultimate-tools-for-web-development/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-the-ultimate-tools-for-web-development/</guid>
+      <description>&lt;p&gt;Welcome to Web Code Tools; the best tools for web developers. Here, you’ll find code generators to help you with your front-end web projects.&lt;/p&gt;
+&lt;p&gt;If you don&amp;rsquo;t see something that you wish was here, send me an email and I&amp;rsquo;ll do my best to create a tool for you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://webcode.tools/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vercel</title>
+      <link>/post/2022-04-09-vercel/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-vercel/</guid>
+      <description>&lt;p&gt;Vercel combines the best developer experience with an obsessive focus on end-user performance.
+Our platform enables frontend teams to do their best work.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vercel.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Working with Django and Celery</title>

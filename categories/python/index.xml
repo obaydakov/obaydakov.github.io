@@ -5,10 +5,42 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Connect APIs, remarkably fast.</title>
+      <link>/post/2022-04-09-connect-apis-remarkably-fast/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-connect-apis-remarkably-fast/</guid>
+      <description>&lt;p&gt;Stop writing boilerplate code, struggling with authentication and managing infrastructure. Start connecting APIs with code-level control when you need it — and no code when you don&amp;rsquo;t.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FEDOT framework</title>
+      <link>/post/2022-04-09-fedot-framework/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-fedot-framework/</guid>
+      <description>&lt;p&gt;The folder contains jupyter notebooks with examples of FEDOT framework&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ITMO-NSS-team/fedot-examples&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Star Admin Django</title>
+      <link>/post/2022-04-09-star-admin-django/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-star-admin-django/</guid>
+      <description>&lt;p&gt;Star Admin (Free Version) admin dashboard designed by BootstrapDash and coded in Django Framework with SQLite database, ORM, authentication and deploy scripts for Docker, Gunicon and Heroku.&lt;/p&gt;
+&lt;p&gt;Designed based on the Bootstrap framework, Star Admin is a powerful, feature-rich, and super flexible admin dashboard template. It serves as the perfect starting point for both simple and complex web development projects.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build a Website in only 12 minutes using Python &amp; Streamlit</title>

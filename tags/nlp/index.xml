@@ -5,10 +5,55 @@
     <description>Recent content in nlp on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Asking the Right Questions: Training a T5 Transformer Model on a New task</title>
+      <link>/post/2022-04-09-asking-the-right-questions-training-a-t5-transformer-model-on-a-new-task/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-asking-the-right-questions-training-a-t5-transformer-model-on-a-new-task/</guid>
+      <description>&lt;p&gt;The T5 Transformer frames any NLP task as a text-to-text task enabling pre-trained models to easily learn new tasks. Let’s teach the old dog a new trick!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/asking-the-right-questions-training-a-t5-transformer-model-on-a-new-task-691ebba2d72c&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conversational AI Chatbot with Transformers in Python</title>
+      <link>/post/2022-04-09-conversational-ai-chatbot-with-transformers-in-python/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-conversational-ai-chatbot-with-transformers-in-python/</guid>
+      <description>&lt;p&gt;Learn how to use Huggingface transformers library to generate conversational responses with the pretrained DialoGPT model in Python.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.thepythoncode.com/article/conversational-ai-chatbot-with-huggingface-transformers-in-python&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conversational Chatbot using Transformers and Streamlit</title>
+      <link>/post/2022-04-09-conversational-chatbot-using-transformers-and-streamlit/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-conversational-chatbot-using-transformers-and-streamlit/</guid>
+      <description>&lt;p&gt;In this article, we are going to build a Conversational Chatbot app using Transformer (microsoft/DialoGPT-medium model), streamlit.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://chatbotslife.com/conversational-chatbot-using-transformers-and-streamlit-73d621afde9&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two minutes NLP — Quick Introduction to Haystack</title>
+      <link>/post/2022-04-09-two-minutes-nlp-quick-introduction-to-haystack/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-two-minutes-nlp-quick-introduction-to-haystack/</guid>
+      <description>&lt;p&gt;Question Answering, Semantic Search, and the Retriever-Reader pipeline&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/nlplanet/two-minutes-nlp-quick-introduction-to-haystack-da86d0402998&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/deepset-ai/haystack/issues/486&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deepchecks Suite </title>

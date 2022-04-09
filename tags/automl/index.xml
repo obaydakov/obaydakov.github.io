@@ -5,10 +5,21 @@
     <description>Recent content in automl on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/automl/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>End-to-End AutoML Pipeline with H2O AutoML, MLflow, FastAPI, and Streamlit</title>
+      <link>/post/2022-04-09-end-to-end-automl-pipeline-with-h2o-automl-mlflow-fastapi-and-streamlit/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-end-to-end-automl-pipeline-with-h2o-automl-mlflow-fastapi-and-streamlit/</guid>
+      <description>&lt;p&gt;An easy-to-follow comprehensive guide on using a stack of powerful tools to train and serve an AutoML pipeline for insurance cross-sell&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What is Metaflow</title>

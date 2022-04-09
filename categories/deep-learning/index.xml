@@ -5,10 +5,78 @@
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Conversational AI Chatbot with Transformers in Python</title>
+      <link>/post/2022-04-09-conversational-ai-chatbot-with-transformers-in-python/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-conversational-ai-chatbot-with-transformers-in-python/</guid>
+      <description>&lt;p&gt;Learn how to use Huggingface transformers library to generate conversational responses with the pretrained DialoGPT model in Python.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.thepythoncode.com/article/conversational-ai-chatbot-with-huggingface-transformers-in-python&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conversational Chatbot using Transformers and Streamlit</title>
+      <link>/post/2022-04-09-conversational-chatbot-using-transformers-and-streamlit/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-conversational-chatbot-using-transformers-and-streamlit/</guid>
+      <description>&lt;p&gt;In this article, we are going to build a Conversational Chatbot app using Transformer (microsoft/DialoGPT-medium model), streamlit.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://chatbotslife.com/conversational-chatbot-using-transformers-and-streamlit-73d621afde9&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graph Neural Networks: A learning journey since 2008 — Graph Attention Networks</title>
+      <link>/post/2022-04-09-graph-neural-networks-a-learning-journey-since-2008-graph-attention-networks/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-graph-neural-networks-a-learning-journey-since-2008-graph-attention-networks/</guid>
+      <description>&lt;p&gt;Today we’ll dive into the theory and implementation of the Graph Attention Network (GAT). 
+In a nutshell: attention rocks, graphs rock, GAT’s authors rock!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/graph-neural-networks-a-learning-journey-since-2008-graph-attention-networks-f8c39189e7fc&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Peltarion cloud platform makes it easier to get started with, build, and deploy AI for whatever you do</title>
+      <link>/post/2022-04-09-the-peltarion-cloud-platform-makes-it-easier-to-get-started-with-build-and-deploy-ai-for-whatever-you-do/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-the-peltarion-cloud-platform-makes-it-easier-to-get-started-with-build-and-deploy-ai-for-whatever-you-do/</guid>
+      <description>&lt;p&gt;Our deep learning platform enables you to build and deploy AI models&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://peltarion.com/product&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TorchMetrics</title>
+      <link>/post/2022-04-09-torchmetrics/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-torchmetrics/</guid>
+      <description>&lt;p&gt;TorchMetrics is a really nice and convenient library that lets us compute the performance of models in an iterative fashion. It’s designed with PyTorch (and PyTorch Lightning) in mind, but it is a general-purpose library compatible with other libraries and workflows.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sebastianraschka.com/blog/2022/torchmetrics.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two minutes NLP — Quick Introduction to Haystack</title>
+      <link>/post/2022-04-09-two-minutes-nlp-quick-introduction-to-haystack/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-04-09-two-minutes-nlp-quick-introduction-to-haystack/</guid>
+      <description>&lt;p&gt;Question Answering, Semantic Search, and the Retriever-Reader pipeline&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/nlplanet/two-minutes-nlp-quick-introduction-to-haystack-da86d0402998&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/deepset-ai/haystack/issues/486&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deepchecks Suite </title>
