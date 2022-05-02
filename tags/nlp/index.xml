@@ -5,10 +5,31 @@
     <description>Recent content in nlp on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CS224N: Natural Language Processing with Deep Learning | Winter 2021</title>
+      <link>/post/2022-05-02-cs224n-natural-language-processing-with-deep-learning-winter-2021/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-cs224n-natural-language-processing-with-deep-learning-winter-2021/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugging Face Transformers Amazon SageMaker Examples</title>
+      <link>/post/2022-05-02-hugging-face-transformers-amazon-sagemaker-examples/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-hugging-face-transformers-amazon-sagemaker-examples/</guid>
+      <description>&lt;p&gt;Example Jupyter notebooks that demonstrate how to build, train, and deploy Hugging Face Transformers using Amazon SageMaker and the Amazon SageMaker Python SDK.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/huggingface/notebooks/tree/main/sagemaker&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Asking the Right Questions: Training a T5 Transformer Model on a New task</title>

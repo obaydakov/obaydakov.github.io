@@ -5,10 +5,21 @@
     <description>Recent content in crypto on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/crypto/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kickstart Your Development Journey With the Smart Contract Starter Kit</title>
+      <link>/post/2022-05-02-kickstart-your-development-journey-with-the-smart-contract-starter-kit/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-kickstart-your-development-journey-with-the-smart-contract-starter-kit/</guid>
+      <description>&lt;p&gt;If you’re looking for a starting point to learn smart contract development, the Smart Contract Starter Kit is the place to go. You can access tests, scripts, deployments, and more, and it covers all of the key frameworks, including Brownie, dAppTools, Foundry, Hardhat, Solana, and Truffle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=PPiy23keMXs&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Persist data to the Ethereum blockchain using Python, Truffle and Ganache</title>

@@ -5,10 +5,42 @@
     <description>Recent content in bioinformatic on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/bioinformatic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bioinformatic 101</title>
+      <link>/post/2022-05-02-bioinformatic-101/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-bioinformatic-101/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mipt.lectoriy.ru/course/Biology-Bioinformatics-12L#lectures&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DeepChem Step-by-Step Tutorial</title>
+      <link>/post/2022-05-02-deepchem-step-by-step-tutorial/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-deepchem-step-by-step-tutorial/</guid>
+      <description>&lt;p&gt;In this tutorial series, you&amp;rsquo;ll learn how to use DeepChem to solve interesting and challenging problems in the life sciences. The tutorial acts as a introduction to DeepChem as well as application of DeepChem to a wide array of problems across domains like molecular machine learning, quantum chemistry, bioinformatics and material science. This tutorial series is continually updated with new DeepChem features and models as implemented and is designed to be accessible to beginners.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/deepchem/deepchem/tree/master/examples/tutorials&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyTorch and Monai for AI Healthcare Imaging - Python Machine Learning Course</title>
+      <link>/post/2022-05-02-pytorch-and-monai-for-ai-healthcare-imaging-python-machine-learning-course/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-pytorch-and-monai-for-ai-healthcare-imaging-python-machine-learning-course/</guid>
+      <description>&lt;p&gt;Learn how to use PyTorch, Monai, and Python for computer vision using machine learning. One practical use-case for artificial intelligence is healthcare imaging. In this course, you will improve your machine learning skills by creating an algorithm for automatic liver segmentation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=M3ZWfamWrBM&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title> AlphaFold2 Talk</title>

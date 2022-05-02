@@ -5,10 +5,21 @@
     <description>Recent content in computer-vision on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Advanced Computer Vision with Python - Full Course</title>
+      <link>/post/2022-05-02-advanced-computer-vision-with-python-full-course/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-advanced-computer-vision-with-python-full-course/</guid>
+      <description>&lt;p&gt;Learn advanced computer vision using Python in this full course. You will learn state of the art computer vision techniques by building five projects with libraries such as OpenCV and Mediapipe. If you are a beginner, don&amp;rsquo;t be afraid of the term advance. Even though the concepts are advanced,&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=01sAkU_NvOY&amp;amp;t=22020s&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Real-time face swap fpr PC streamig or video calls</title>

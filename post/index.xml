@@ -6,7 +6,174 @@
     <description>Recent content in Posts on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>9 Incredible Websites That Every Developer Should Bookmark</title>
+      <link>/post/2022-05-02-9-incredible-websites-that-every-developer-should-bookmark/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-9-incredible-websites-that-every-developer-should-bookmark/</guid>
+      <description>These websites will not only assist you in your software development journey but will also assist you in your content creation journey.
+Link</description>
+    </item>
+    
+    <item>
+      <title>A library to inspect itermediate layers of PyTorch models.</title>
+      <link>/post/2022-05-02-a-library-to-inspect-itermediate-layers-of-pytorch-models/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-a-library-to-inspect-itermediate-layers-of-pytorch-models/</guid>
+      <description>It&amp;rsquo;s often the case that we want to inspect intermediate layers of a model without modifying the code e.g. visualize attention matrices of language models, get values from an intermediate layer to feed to another layer, or applying a loss function to intermediate layers.
+Link</description>
+    </item>
+    
+    <item>
+      <title>A simple approach for background task in Django</title>
+      <link>/post/2022-05-02-a-simple-approach-for-background-task-in-django/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-a-simple-approach-for-background-task-in-django/</guid>
+      <description>When there is a long running task, there are usually below 2 requirements:
+As a user, I want to know the progress of the task As a user, I want to get the output of the task if it is finished We will use the out of the box features Threading and Cache in Python and Django respectively to achieve this
+Link</description>
+    </item>
+    
+    <item>
+      <title>Advanced Computer Vision with Python - Full Course</title>
+      <link>/post/2022-05-02-advanced-computer-vision-with-python-full-course/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-advanced-computer-vision-with-python-full-course/</guid>
+      <description>Learn advanced computer vision using Python in this full course. You will learn state of the art computer vision techniques by building five projects with libraries such as OpenCV and Mediapipe. If you are a beginner, don&amp;rsquo;t be afraid of the term advance. Even though the concepts are advanced,
+Link</description>
+    </item>
+    
+    <item>
+      <title>Bioinformatic 101</title>
+      <link>/post/2022-05-02-bioinformatic-101/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-bioinformatic-101/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Code Beautify </title>
+      <link>/post/2022-05-02-code-beautify/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-code-beautify/</guid>
+      <description>Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more&amp;hellip;
+Link</description>
+    </item>
+    
+    <item>
+      <title>CodeKeep - A Better Way to Organize , Share &amp; Discover Snippets</title>
+      <link>/post/2022-05-02-codekeep-a-better-way-to-organize-share-discover-snippets/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-codekeep-a-better-way-to-organize-share-discover-snippets/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>CS224N: Natural Language Processing with Deep Learning | Winter 2021</title>
+      <link>/post/2022-05-02-cs224n-natural-language-processing-with-deep-learning-winter-2021/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-cs224n-natural-language-processing-with-deep-learning-winter-2021/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization 101</title>
+      <link>/post/2022-05-02-data-visualization-101/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-data-visualization-101/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>DeepChem Step-by-Step Tutorial</title>
+      <link>/post/2022-05-02-deepchem-step-by-step-tutorial/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-deepchem-step-by-step-tutorial/</guid>
+      <description>In this tutorial series, you&amp;rsquo;ll learn how to use DeepChem to solve interesting and challenging problems in the life sciences. The tutorial acts as a introduction to DeepChem as well as application of DeepChem to a wide array of problems across domains like molecular machine learning, quantum chemistry, bioinformatics and material science. This tutorial series is continually updated with new DeepChem features and models as implemented and is designed to be accessible to beginners.</description>
+    </item>
+    
+    <item>
+      <title>FastAPI Celery, Flower and Docker</title>
+      <link>/post/2022-05-02-fastapi-celery-flower-and-docker/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-fastapi-celery-flower-and-docker/</guid>
+      <description>In this tutorial we integrate Celery into an existing FastAPI app, Redis and FastAPI, all within Docker containers. We finish off by implementing Flower to monitor Celery jobs and workers.
+Link
+Link</description>
+    </item>
+    
+    <item>
+      <title>HashiCorp Terraform Associate Certification Course - Pass the Exam!</title>
+      <link>/post/2022-05-02-hashicorp-terraform-associate-certification-course-pass-the-exam/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-hashicorp-terraform-associate-certification-course-pass-the-exam/</guid>
+      <description>Prepare for the HashiCorp Terraform Associate Certification and pass! The Terraform Associate certification is for Cloud Engineers specializing in operations, IT, or development who know the basic concepts and skills associated with open source HashiCorp Terraform.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Hugging Face Transformers Amazon SageMaker Examples</title>
+      <link>/post/2022-05-02-hugging-face-transformers-amazon-sagemaker-examples/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-hugging-face-transformers-amazon-sagemaker-examples/</guid>
+      <description>Example Jupyter notebooks that demonstrate how to build, train, and deploy Hugging Face Transformers using Amazon SageMaker and the Amazon SageMaker Python SDK.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Kickstart Your Development Journey With the Smart Contract Starter Kit</title>
+      <link>/post/2022-05-02-kickstart-your-development-journey-with-the-smart-contract-starter-kit/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-kickstart-your-development-journey-with-the-smart-contract-starter-kit/</guid>
+      <description>If you’re looking for a starting point to learn smart contract development, the Smart Contract Starter Kit is the place to go. You can access tests, scripts, deployments, and more, and it covers all of the key frameworks, including Brownie, dAppTools, Foundry, Hardhat, Solana, and Truffle.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning sample apps</title>
+      <link>/post/2022-05-02-machine-learning-sample-apps/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-machine-learning-sample-apps/</guid>
+      <description>Machine Learning sample apps - this repo provides sample code to support my articles on Towards Data Science and Youtube channel.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Optimize PyTorch Performance for Speed and Memory Efficiency </title>
+      <link>/post/2022-05-02-optimize-pytorch-performance-for-speed-and-memory-efficiency/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-optimize-pytorch-performance-for-speed-and-memory-efficiency/</guid>
+      <description>The training/inference processes of deep learning models are involved lots of steps. The faster each experiment iteration is, the more we can optimize the whole model prediction performance given limited time and resources. I collected and organized several PyTorch tricks and tips to maximize the efficiency of memory usage and minimize the run time. To better leverage these tips, we also need to understand how and why they work.
+Link</description>
+    </item>
+    
+    <item>
+      <title>PyTorch and Monai for AI Healthcare Imaging - Python Machine Learning Course</title>
+      <link>/post/2022-05-02-pytorch-and-monai-for-ai-healthcare-imaging-python-machine-learning-course/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-pytorch-and-monai-for-ai-healthcare-imaging-python-machine-learning-course/</guid>
+      <description>Learn how to use PyTorch, Monai, and Python for computer vision using machine learning. One practical use-case for artificial intelligence is healthcare imaging. In this course, you will improve your machine learning skills by creating an algorithm for automatic liver segmentation.
+Link</description>
+    </item>
+    
     <item>
       <title>15 Open Source libraries for data quality improvement</title>
       <link>/post/2022-04-09-15-open-source-libraries-for-data-quality-improvement/</link>
@@ -33,177 +200,6 @@ Link</description>
       
       <guid>/post/2022-04-09-airtable/</guid>
       <description>Airtable’s intuitive yet powerful platform gives everyone the flexibility to create their own solution and make work flow faster.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Asking the Right Questions: Training a T5 Transformer Model on a New task</title>
-      <link>/post/2022-04-09-asking-the-right-questions-training-a-t5-transformer-model-on-a-new-task/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-asking-the-right-questions-training-a-t5-transformer-model-on-a-new-task/</guid>
-      <description>The T5 Transformer frames any NLP task as a text-to-text task enabling pre-trained models to easily learn new tasks. Let’s teach the old dog a new trick!
-Link</description>
-    </item>
-    
-    <item>
-      <title>Automate without limits</title>
-      <link>/post/2022-04-09-automate-without-limits/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-automate-without-limits/</guid>
-      <description>The workflow automation platform that doesn&amp;rsquo;t box you in, that you never outgrow
-Link</description>
-    </item>
-    
-    <item>
-      <title>Build web apps with nothing but Python</title>
-      <link>/post/2022-04-09-build-web-apps-with-nothing-but-python/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-build-web-apps-with-nothing-but-python/</guid>
-      <description>Build seriously powerful web apps with all the flexibility of Python. No web development experience required.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Code, create, and learn together</title>
-      <link>/post/2022-04-09-code-create-and-learn-together/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-code-create-and-learn-together/</guid>
-      <description>Use our free, collaborative, in-browser IDE to code in 50+ languages — without spending a second on setup.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Connect APIs, remarkably fast.</title>
-      <link>/post/2022-04-09-connect-apis-remarkably-fast/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-connect-apis-remarkably-fast/</guid>
-      <description>Stop writing boilerplate code, struggling with authentication and managing infrastructure. Start connecting APIs with code-level control when you need it — and no code when you don&amp;rsquo;t.</description>
-    </item>
-    
-    <item>
-      <title>Conversational AI Chatbot with Transformers in Python</title>
-      <link>/post/2022-04-09-conversational-ai-chatbot-with-transformers-in-python/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-conversational-ai-chatbot-with-transformers-in-python/</guid>
-      <description>Learn how to use Huggingface transformers library to generate conversational responses with the pretrained DialoGPT model in Python.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Conversational Chatbot using Transformers and Streamlit</title>
-      <link>/post/2022-04-09-conversational-chatbot-using-transformers-and-streamlit/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-conversational-chatbot-using-transformers-and-streamlit/</guid>
-      <description>In this article, we are going to build a Conversational Chatbot app using Transformer (microsoft/DialoGPT-medium model), streamlit.
-Link</description>
-    </item>
-    
-    <item>
-      <title>DevDocs combines multiple API documentations in a fast, organized, and searchable interface.</title>
-      <link>/post/2022-04-09-devdocs-combines-multiple-api-documentations-in-a-fast-organized-and-searchable-interface/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-devdocs-combines-multiple-api-documentations-in-a-fast-organized-and-searchable-interface/</guid>
-      <description>DevDocs combines multiple API documentations in a fast, organized, and searchable interface. Here&amp;rsquo;s what you should know before you start:
-Link</description>
-    </item>
-    
-    <item>
-      <title>End-to-End AutoML Pipeline with H2O AutoML, MLflow, FastAPI, and Streamlit</title>
-      <link>/post/2022-04-09-end-to-end-automl-pipeline-with-h2o-automl-mlflow-fastapi-and-streamlit/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-end-to-end-automl-pipeline-with-h2o-automl-mlflow-fastapi-and-streamlit/</guid>
-      <description>An easy-to-follow comprehensive guide on using a stack of powerful tools to train and serve an AutoML pipeline for insurance cross-sell
-Link</description>
-    </item>
-    
-    <item>
-      <title>FEDOT framework</title>
-      <link>/post/2022-04-09-fedot-framework/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-fedot-framework/</guid>
-      <description>The folder contains jupyter notebooks with examples of FEDOT framework
-Link</description>
-    </item>
-    
-    <item>
-      <title>Graph Neural Networks: A learning journey since 2008 — Graph Attention Networks</title>
-      <link>/post/2022-04-09-graph-neural-networks-a-learning-journey-since-2008-graph-attention-networks/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-graph-neural-networks-a-learning-journey-since-2008-graph-attention-networks/</guid>
-      <description>Today we’ll dive into the theory and implementation of the Graph Attention Network (GAT). In a nutshell: attention rocks, graphs rock, GAT’s authors rock!
-Link</description>
-    </item>
-    
-    <item>
-      <title>Persist data to the Ethereum blockchain using Python, Truffle and Ganache</title>
-      <link>/post/2022-04-09-persist-data-to-the-ethereum-blockchain-using-python-truffle-and-ganache/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-persist-data-to-the-ethereum-blockchain-using-python-truffle-and-ganache/</guid>
-      <description>This tutorial will show how to update the contract to save some data in the blockchain as well as how to inspect the blockchain to see our transactions.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Recommender Systems: Machine Learning Metrics and Business Metrics</title>
-      <link>/post/2022-04-09-recommender-systems-machine-learning-metrics-and-business-metrics/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-recommender-systems-machine-learning-metrics-and-business-metrics/</guid>
-      <description>We will start by discussing what recommender systems are and what are their applications and benefits.
-We will also compare the main techniques of building machine learning models for recommender systems and take a look at metrics and business evaluation techniques.
-Finally, we are going to see how to choose these metrics for the required evaluation.</description>
-    </item>
-    
-    <item>
-      <title>Star Admin Django</title>
-      <link>/post/2022-04-09-star-admin-django/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-star-admin-django/</guid>
-      <description>Star Admin (Free Version) admin dashboard designed by BootstrapDash and coded in Django Framework with SQLite database, ORM, authentication and deploy scripts for Docker, Gunicon and Heroku.
-Designed based on the Bootstrap framework, Star Admin is a powerful, feature-rich, and super flexible admin dashboard template. It serves as the perfect starting point for both simple and complex web development projects.</description>
-    </item>
-    
-    <item>
-      <title>The Peltarion cloud platform makes it easier to get started with, build, and deploy AI for whatever you do</title>
-      <link>/post/2022-04-09-the-peltarion-cloud-platform-makes-it-easier-to-get-started-with-build-and-deploy-ai-for-whatever-you-do/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-the-peltarion-cloud-platform-makes-it-easier-to-get-started-with-build-and-deploy-ai-for-whatever-you-do/</guid>
-      <description>Our deep learning platform enables you to build and deploy AI models
-Link</description>
-    </item>
-    
-    <item>
-      <title>The ultimate tools for web development</title>
-      <link>/post/2022-04-09-the-ultimate-tools-for-web-development/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-the-ultimate-tools-for-web-development/</guid>
-      <description>Welcome to Web Code Tools; the best tools for web developers. Here, you’ll find code generators to help you with your front-end web projects.
-If you don&amp;rsquo;t see something that you wish was here, send me an email and I&amp;rsquo;ll do my best to create a tool for you.
-Link</description>
-    </item>
-    
-    <item>
-      <title>TorchMetrics</title>
-      <link>/post/2022-04-09-torchmetrics/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-torchmetrics/</guid>
-      <description>TorchMetrics is a really nice and convenient library that lets us compute the performance of models in an iterative fashion. It’s designed with PyTorch (and PyTorch Lightning) in mind, but it is a general-purpose library compatible with other libraries and workflows.
 Link</description>
     </item>
     

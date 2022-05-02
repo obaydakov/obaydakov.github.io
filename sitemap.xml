@@ -5,6 +5,302 @@
   
 
       <url>
+        <loc>/post/2022-05-02-9-incredible-websites-that-every-developer-should-bookmark/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-a-library-to-inspect-itermediate-layers-of-pytorch-models/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-a-simple-approach-for-background-task-in-django/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-advanced-computer-vision-with-python-full-course/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/apps/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/bioinformatic/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-bioinformatic-101/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/biophysics/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/cloud/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/cloud/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-code-beautify/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-codekeep-a-better-way-to-organize-share-discover-snippets/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/computer-vision/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/crypto/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-cs224n-natural-language-processing-with-deep-learning-winter-2021/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-data-visualization-101/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-engineering/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-science/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/deep-learning/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/deep-learning/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-deepchem-step-by-step-tutorial/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/development/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-fastapi-celery-flower-and-docker/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-hashicorp-terraform-associate-certification-course-pass-the-exam/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-hugging-face-transformers-amazon-sagemaker-examples/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-kickstart-your-development-journey-with-the-smart-contract-starter-kit/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/machine-learning/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-machine-learning-sample-apps/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/nlp/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-optimize-pytorch-performance-for-speed-and-memory-efficiency/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/python/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-05-02-pytorch-and-monai-for-ai-healthcare-imaging-python-machine-learning-course/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/visualization/</loc>
+        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/post/2022-04-09-15-open-source-libraries-for-data-quality-improvement/</loc>
         <lastmod>2022-04-09T00:00:00+00:00</lastmod>
     </url>
@@ -22,14 +318,6 @@
 
       <url>
         <loc>/post/2022-04-09-airtable/</loc>
-        <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/apps/</loc>
         <lastmod>2022-04-09T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,14 +365,6 @@
   
 
       <url>
-        <loc>/categories/</loc>
-        <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-04-09-code-create-and-learn-together/</loc>
         <lastmod>2022-04-09T00:00:00+00:00</lastmod>
     </url>
@@ -117,47 +397,7 @@
   
 
       <url>
-        <loc>/categories/crypto/</loc>
-        <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/data-engineering/</loc>
-        <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/</loc>
-        <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/deep-learning/</loc>
-        <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-04-09-devdocs-combines-multiple-api-documentations-in-a-fast-organized-and-searchable-interface/</loc>
-        <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/development/</loc>
         <lastmod>2022-04-09T00:00:00+00:00</lastmod>
     </url>
     
@@ -213,39 +453,7 @@
   
 
       <url>
-        <loc>/categories/machine-learning/</loc>
-        <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/nlp/</loc>
-        <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-04-09-persist-data-to-the-ethereum-blockchain-using-python-truffle-and-ganache/</loc>
-        <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/post/</loc>
-        <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/python/</loc>
         <lastmod>2022-04-09T00:00:00+00:00</lastmod>
     </url>
     
@@ -262,14 +470,6 @@
 
       <url>
         <loc>/post/2022-04-09-star-admin-django/</loc>
-        <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/</loc>
         <lastmod>2022-04-09T00:00:00+00:00</lastmod>
     </url>
     
@@ -325,14 +525,6 @@
   
 
       <url>
-        <loc>/tags/visualization/</loc>
-        <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/tags/articles/</loc>
         <lastmod>2022-03-21T00:00:00+00:00</lastmod>
     </url>
@@ -358,14 +550,6 @@
 
       <url>
         <loc>/post/2022-03-21-build-a-website-in-only-12-minutes-using-python-streamlit/</loc>
-        <lastmod>2022-03-21T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/cloud/</loc>
         <lastmod>2022-03-21T00:00:00+00:00</lastmod>
     </url>
     
@@ -525,14 +709,6 @@
   
 
       <url>
-        <loc>/tags/deep-learning/</loc>
-        <lastmod>2022-02-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-02-27-what-does-2022-hold-for-geometric-graph-ml/</loc>
         <lastmod>2022-02-27T00:00:00+00:00</lastmod>
     </url>
@@ -557,14 +733,6 @@
   
 
       <url>
-        <loc>/categories/data-science/</loc>
-        <lastmod>2022-02-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-02-26-integromat-achieve-more-in-less-time-with-fewer-people/</loc>
         <lastmod>2022-02-26T00:00:00+00:00</lastmod>
     </url>
@@ -582,22 +750,6 @@
 
       <url>
         <loc>/post/2022-02-19-7-useful-examples-of-python-s-itertools/</loc>
-        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/biophysics/</loc>
-        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/computer-vision/</loc>
         <lastmod>2022-02-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -742,14 +894,6 @@
 
       <url>
         <loc>/post/2021-12-30-a-powerful-and-flexible-machine-learning-platform-for-drug-discovery/</loc>
-        <lastmod>2021-12-30T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/bioinformatic/</loc>
         <lastmod>2021-12-30T00:00:00+00:00</lastmod>
     </url>
     
@@ -1006,14 +1150,6 @@
 
       <url>
         <loc>/post/2021-11-14-bmw-techoffice-munich/</loc>
-        <lastmod>2021-11-14T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/cloud/</loc>
         <lastmod>2021-11-14T00:00:00+00:00</lastmod>
     </url>
     

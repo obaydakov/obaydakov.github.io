@@ -5,10 +5,21 @@
     <description>Recent content in Machine Learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine Learning sample apps</title>
+      <link>/post/2022-05-02-machine-learning-sample-apps/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-machine-learning-sample-apps/</guid>
+      <description>&lt;p&gt;Machine Learning sample apps - this repo provides sample code to support my articles on Towards Data Science and Youtube channel.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/katanaml/sample-apps&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Asking the Right Questions: Training a T5 Transformer Model on a New task</title>

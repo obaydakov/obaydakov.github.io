@@ -5,10 +5,58 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A library to inspect itermediate layers of PyTorch models.</title>
+      <link>/post/2022-05-02-a-library-to-inspect-itermediate-layers-of-pytorch-models/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-a-library-to-inspect-itermediate-layers-of-pytorch-models/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s often the case that we want to inspect intermediate layers of a model without modifying the code e.g. visualize attention matrices of language models, get values from an intermediate layer to feed to another layer, or applying a loss function to intermediate layers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/archinetai/surgeon-pytorch&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A simple approach for background task in Django</title>
+      <link>/post/2022-05-02-a-simple-approach-for-background-task-in-django/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-a-simple-approach-for-background-task-in-django/</guid>
+      <description>&lt;p&gt;When there is a long running task, there are usually below 2 requirements:&lt;/p&gt;
+&lt;p&gt;As a user, I want to know the progress of the task
+As a user, I want to get the output of the task if it is finished
+We will use the out of the box features Threading and Cache in Python and Django respectively to achieve this&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ivanyu2021.hashnode.dev/a-simple-approach-for-background-task-in-django&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FastAPI Celery, Flower and Docker</title>
+      <link>/post/2022-05-02-fastapi-celery-flower-and-docker/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-fastapi-celery-flower-and-docker/</guid>
+      <description>&lt;p&gt;In this tutorial we integrate Celery into an existing FastAPI app, Redis and FastAPI, all within Docker containers. We finish off by implementing Flower to monitor Celery jobs and workers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=mcX_4EvYka4&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/bennett39/celery39/tree/celery-fib&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning sample apps</title>
+      <link>/post/2022-05-02-machine-learning-sample-apps/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-machine-learning-sample-apps/</guid>
+      <description>&lt;p&gt;Machine Learning sample apps - this repo provides sample code to support my articles on Towards Data Science and Youtube channel.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/katanaml/sample-apps&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>7 Tips To Maximize PyTorch Performance</title>

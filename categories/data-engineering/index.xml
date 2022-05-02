@@ -5,10 +5,66 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>9 Incredible Websites That Every Developer Should Bookmark</title>
+      <link>/post/2022-05-02-9-incredible-websites-that-every-developer-should-bookmark/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-9-incredible-websites-that-every-developer-should-bookmark/</guid>
+      <description>&lt;p&gt;These websites will not only assist you in your software development journey but will also assist you in your content creation journey.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://levelup.gitconnected.com/9-incredible-websites-that-every-developer-should-bookmark-1534d52f3f7d&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A simple approach for background task in Django</title>
+      <link>/post/2022-05-02-a-simple-approach-for-background-task-in-django/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-a-simple-approach-for-background-task-in-django/</guid>
+      <description>&lt;p&gt;When there is a long running task, there are usually below 2 requirements:&lt;/p&gt;
+&lt;p&gt;As a user, I want to know the progress of the task
+As a user, I want to get the output of the task if it is finished
+We will use the out of the box features Threading and Cache in Python and Django respectively to achieve this&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ivanyu2021.hashnode.dev/a-simple-approach-for-background-task-in-django&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bioinformatic 101</title>
+      <link>/post/2022-05-02-bioinformatic-101/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-bioinformatic-101/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mipt.lectoriy.ru/course/Biology-Bioinformatics-12L#lectures&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code Beautify </title>
+      <link>/post/2022-05-02-code-beautify/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-code-beautify/</guid>
+      <description>&lt;p&gt;Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://codebeautify.org/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CodeKeep - A Better Way to Organize , Share &amp; Discover Snippets</title>
+      <link>/post/2022-05-02-codekeep-a-better-way-to-organize-share-discover-snippets/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-codekeep-a-better-way-to-organize-share-discover-snippets/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://codekeep.io/home&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>15 Open Source libraries for data quality improvement</title>

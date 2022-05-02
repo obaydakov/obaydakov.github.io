@@ -5,10 +5,21 @@
     <description>Recent content in cloud on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HashiCorp Terraform Associate Certification Course - Pass the Exam!</title>
+      <link>/post/2022-05-02-hashicorp-terraform-associate-certification-course-pass-the-exam/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-02-hashicorp-terraform-associate-certification-course-pass-the-exam/</guid>
+      <description>&lt;p&gt;Prepare for the HashiCorp Terraform Associate Certification and pass! The Terraform Associate certification is for Cloud Engineers specializing in operations, IT, or development who know the basic concepts and skills associated with open source HashiCorp Terraform.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=V4waklkBC38&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS Serverless Application Repository Examples</title>
