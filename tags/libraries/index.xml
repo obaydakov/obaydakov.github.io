@@ -5,10 +5,41 @@
     <description>Recent content in libraries on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/libraries/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>5 Python Libraries for Time-Series Analysis</title>
+      <link>/post/2022-05-28-5-python-libraries-for-time-series-analysis/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-5-python-libraries-for-time-series-analysis/</guid>
+      <description>&lt;p&gt;A Time-Series is a sequence of data points collected at different timestamps. 
+These are essentially successive measurements collected from the same data source at the same time interval. Further, we can use these chronologically gathered readings to monitor trends and changes over time. The time-series models can be univariate or multivariate. 
+The univariate time series models are implemented when the dependent variable is a single time series, like room temperature measurement from a single sensor. 
+On the other hand, a multivariate time series model can be used when there are multiple dependent variables, i.e., the output depends on more than one series. An example for the multivariate time-series model could be modelling the GDP, inflation, and unemployment together as these variables are linked to each other.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.analyticsvidhya.com/blog/2022/05/5-python-libraries-for-time-series-analysis/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multiprocessing in Python</title>
+      <link>/post/2022-05-28-multiprocessing-in-python/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-multiprocessing-in-python/</guid>
+      <description>&lt;p&gt;This tutorial is divided into four parts; they are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Benefits of multiprocessing&lt;/li&gt;
+&lt;li&gt;Basic multiprocessing&lt;/li&gt;
+&lt;li&gt;Multiprocessing for real use&lt;/li&gt;
+&lt;li&gt;Using joblib&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://machinelearningmastery.com/multiprocessing-in-python/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>15 Open Source libraries for data quality improvement</title>

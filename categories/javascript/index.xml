@@ -5,10 +5,88 @@
     <description>Recent content in javascript on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build Coinbase Blockchain Web 3.0 App with Next.js</title>
+      <link>/post/2022-05-28-build-coinbase-blockchain-web-3-0-app-with-next-js/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-build-coinbase-blockchain-web-3-0-app-with-next-js/</guid>
+      <description>&lt;p&gt;In this tutorial, you&amp;rsquo;re gonna be building the Coinbase Blockchain Web 3.0 App using Next JS, Sanity.io, thirdweb, Styled Components, and Vercel&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=frCsGK4cKks&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nest.js Kafka Microservice Tutorial</title>
+      <link>/post/2022-05-28-nest-js-kafka-microservice-tutorial/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-nest-js-kafka-microservice-tutorial/</guid>
+      <description>&lt;p&gt;In this video, we create a Nest.js Microservice using Kafka as our transporter. We use both an event-driven and message-driven style of communication.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=JJEKPqSlXvk&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NestJS Manual. Psrt 1</title>
+      <link>/post/2022-05-28-nestjs-manual-psrt-1/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-nestjs-manual-psrt-1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/company/timeweb/blog/663234/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nestjs.ru.com/guide/introduction.html&#34;&gt;Russian documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Otasoft Microservice Template - Template for creating Nest.js microservices</title>
+      <link>/post/2022-05-28-otasoft-microservice-template-template-for-creating-nest-js-microservices/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-otasoft-microservice-template-template-for-creating-nest-js-microservices/</guid>
+      <description>&lt;p&gt;Otasoft Microservice template - Nest.js based microservice repository template. This project consists of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PostgreSQL Typeorm&lt;/li&gt;
+&lt;li&gt;CQRS&lt;/li&gt;
+&lt;li&gt;Domain Driven Design&lt;/li&gt;
+&lt;li&gt;Event Sourcing&lt;/li&gt;
+&lt;li&gt;Healthchecks&lt;/li&gt;
+&lt;li&gt;.env support&lt;/li&gt;
+&lt;li&gt;RabbitMQ Event Bus Connection&lt;/li&gt;
+&lt;li&gt;Dockerfile and docker-compose&lt;/li&gt;
+&lt;li&gt;doc directory&lt;/li&gt;
+&lt;li&gt;Github workflows and issue templates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/otasoft/microservice-template&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Series: API with NestJS</title>
+      <link>/post/2022-05-28-series-api-with-nestjs/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-series-api-with-nestjs/</guid>
+      <description>&lt;p&gt;NestJS is a framework for building Node.js applications. It is somewhat opinionated and forces us to follow its vision of how an application should look like to some extent. That might be viewed as a good thing that helps us to keep consistency across our application and forces us to follow good practices.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wanago.io/courses/api-with-nestjs/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What Can I Do In NestJS in 30 Minutes? | Nest Tutorial App</title>
+      <link>/post/2022-05-28-what-can-i-do-in-nestjs-in-30-minutes-nest-tutorial-app/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-what-can-i-do-in-nestjs-in-30-minutes-nest-tutorial-app/</guid>
+      <description>&lt;p&gt;In this video we look at Nestjs. We create a full NestJS app in 30 minutes, including all the CRUD,&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EGpfmqrlA8c&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The ultimate tools for web development</title>

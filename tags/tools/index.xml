@@ -5,10 +5,43 @@
     <description>Recent content in tools on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Airttable - Connect everything. Achieve anything.</title>
+      <link>/post/2022-05-28-airttable-connect-everything-achieve-anything/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-airttable-connect-everything-achieve-anything/</guid>
+      <description>&lt;p&gt;Accelerate work and unlock potential with powerful apps that connect your data, workflows and teams.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.airtable.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Materialize </title>
+      <link>/post/2022-05-28-materialize/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-materialize/</guid>
+      <description>&lt;p&gt;Materialize is a streaming database with a SQL API. However, despite the fact that Materialize uses SQL idioms and can process data from databases, it actually has very little in common with “databases” as most people think of them.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://materialize.com/docs/overview/key-concepts/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setting up Airflow on AWS</title>
+      <link>/post/2022-05-28-setting-up-airflow-on-aws/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-setting-up-airflow-on-aws/</guid>
+      <description>&lt;p&gt;Airflow is one of my favorite tools that I frequently use to setup and manage data science pipelines. The Airflow UI gives us a clear picture of the DAGS and its current status. I may be wrong here but from my experience, I have seen that Airflow on a single machine is not scalable. Thus, to scale Airflow, we can use Kubernetes.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/setting-up-airflow-on-aws-eks-385667671789&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>TorchMetrics</title>

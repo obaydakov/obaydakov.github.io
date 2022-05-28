@@ -5,10 +5,21 @@
     <description>Recent content in big-data on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PySpark Data Skew in 5 Minutes</title>
+      <link>/post/2022-05-28-pyspark-data-skew-in-5-minutes/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-pyspark-data-skew-in-5-minutes/</guid>
+      <description>&lt;p&gt;In spark, data are split into chunk of rows, then stored on worker nodes as shown in figure 1.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/data-skew-in-pyspark-783d529a9dd7&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Are You Still Using Pandas to Process Big Data in 2021?</title>

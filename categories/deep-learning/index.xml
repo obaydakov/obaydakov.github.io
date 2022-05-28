@@ -5,10 +5,21 @@
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PYSKL</title>
+      <link>/post/2022-05-28-pyskl/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-pyskl/</guid>
+      <description>&lt;p&gt;PYSKL is a toolbox focusing on action recognition based on SKeLeton data with PYTorch. Various algorithms will be supported for skeleton-based action recognition. We build this project based on the OpenSource Project MMAction2.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/kennymckormick/pyskl&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A library to inspect itermediate layers of PyTorch models.</title>

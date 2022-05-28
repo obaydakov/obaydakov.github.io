@@ -6,7 +6,187 @@
     <description>Recent content in Posts on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Python Libraries for Time-Series Analysis</title>
+      <link>/post/2022-05-28-5-python-libraries-for-time-series-analysis/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-5-python-libraries-for-time-series-analysis/</guid>
+      <description>A Time-Series is a sequence of data points collected at different timestamps. These are essentially successive measurements collected from the same data source at the same time interval. Further, we can use these chronologically gathered readings to monitor trends and changes over time. The time-series models can be univariate or multivariate. The univariate time series models are implemented when the dependent variable is a single time series, like room temperature measurement from a single sensor.</description>
+    </item>
+    
+    <item>
+      <title>Airttable - Connect everything. Achieve anything.</title>
+      <link>/post/2022-05-28-airttable-connect-everything-achieve-anything/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-airttable-connect-everything-achieve-anything/</guid>
+      <description>Accelerate work and unlock potential with powerful apps that connect your data, workflows and teams.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Alchemy: How to listen to NFT mints in real time</title>
+      <link>/post/2022-05-28-alchemy-how-to-listen-to-nft-mints-in-real-time/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-alchemy-how-to-listen-to-nft-mints-in-real-time/</guid>
+      <description>Chainlink is the industry standard for building, accessing, and selling oracle services needed to power hybrid smart contracts on any blockchain. Chainlink oracle networks provide smart contracts with a way to reliably connect to any external API and leverage secure off-chain computations for enabling feature-rich applications. Chainlink currently secures tens of billions of dollars across DeFi, insurance, gaming, and other major industries, and offers global enterprises and leading data providers a universal gateway to all blockchains.</description>
+    </item>
+    
+    <item>
+      <title>Build a Raffle App With Solidity and NextJS: Code Along</title>
+      <link>/post/2022-05-28-build-a-raffle-app-with-solidity-and-nextjs-code-along/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-build-a-raffle-app-with-solidity-and-nextjs-code-along/</guid>
+      <description>In this video, learn how to build a raffle application using Solidity. You&amp;rsquo;ll see the entire process, starting with the smart contracts and finishing with the frontend.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Build Coinbase Blockchain Web 3.0 App with Next.js</title>
+      <link>/post/2022-05-28-build-coinbase-blockchain-web-3-0-app-with-next-js/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-build-coinbase-blockchain-web-3-0-app-with-next-js/</guid>
+      <description>In this tutorial, you&amp;rsquo;re gonna be building the Coinbase Blockchain Web 3.0 App using Next JS, Sanity.io, thirdweb, Styled Components, and Vercel
+Link</description>
+    </item>
+    
+    <item>
+      <title>Materialize </title>
+      <link>/post/2022-05-28-materialize/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-materialize/</guid>
+      <description>Materialize is a streaming database with a SQL API. However, despite the fact that Materialize uses SQL idioms and can process data from databases, it actually has very little in common with “databases” as most people think of them.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Multiprocessing in Python</title>
+      <link>/post/2022-05-28-multiprocessing-in-python/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-multiprocessing-in-python/</guid>
+      <description>This tutorial is divided into four parts; they are:
+ Benefits of multiprocessing Basic multiprocessing Multiprocessing for real use Using joblib  Link</description>
+    </item>
+    
+    <item>
+      <title>Nest.js Kafka Microservice Tutorial</title>
+      <link>/post/2022-05-28-nest-js-kafka-microservice-tutorial/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-nest-js-kafka-microservice-tutorial/</guid>
+      <description>In this video, we create a Nest.js Microservice using Kafka as our transporter. We use both an event-driven and message-driven style of communication.
+Link</description>
+    </item>
+    
+    <item>
+      <title>NestJs Course for Beginners - Create a REST API</title>
+      <link>/post/2022-05-28-nestjs-course-for-beginners-create-a-rest-api/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-nestjs-course-for-beginners-create-a-rest-api/</guid>
+      <description>Learn NestJs by building a CRUD REST API with end-to-end tests using modern web development techniques. NestJs is a rapidly growing node js framework that helps build scalable and maintainable backend applications.
+Link</description>
+    </item>
+    
+    <item>
+      <title>NestJS Manual. Psrt 1</title>
+      <link>/post/2022-05-28-nestjs-manual-psrt-1/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-nestjs-manual-psrt-1/</guid>
+      <description>Link
+Russian documentation</description>
+    </item>
+    
+    <item>
+      <title>Otasoft Microservice Template - Template for creating Nest.js microservices</title>
+      <link>/post/2022-05-28-otasoft-microservice-template-template-for-creating-nest-js-microservices/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-otasoft-microservice-template-template-for-creating-nest-js-microservices/</guid>
+      <description>Otasoft Microservice template - Nest.js based microservice repository template. This project consists of:
+ PostgreSQL Typeorm CQRS Domain Driven Design Event Sourcing Healthchecks .env support RabbitMQ Event Bus Connection Dockerfile and docker-compose doc directory Github workflows and issue templates  Link</description>
+    </item>
+    
+    <item>
+      <title>PYSKL</title>
+      <link>/post/2022-05-28-pyskl/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-pyskl/</guid>
+      <description>PYSKL is a toolbox focusing on action recognition based on SKeLeton data with PYTorch. Various algorithms will be supported for skeleton-based action recognition. We build this project based on the OpenSource Project MMAction2.
+Link</description>
+    </item>
+    
+    <item>
+      <title>PySpark Data Skew in 5 Minutes</title>
+      <link>/post/2022-05-28-pyspark-data-skew-in-5-minutes/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-pyspark-data-skew-in-5-minutes/</guid>
+      <description>In spark, data are split into chunk of rows, then stored on worker nodes as shown in figure 1.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Series: API with NestJS</title>
+      <link>/post/2022-05-28-series-api-with-nestjs/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-series-api-with-nestjs/</guid>
+      <description>NestJS is a framework for building Node.js applications. It is somewhat opinionated and forces us to follow its vision of how an application should look like to some extent. That might be viewed as a good thing that helps us to keep consistency across our application and forces us to follow good practices.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Setting up Airflow on AWS</title>
+      <link>/post/2022-05-28-setting-up-airflow-on-aws/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-setting-up-airflow-on-aws/</guid>
+      <description>Airflow is one of my favorite tools that I frequently use to setup and manage data science pipelines. The Airflow UI gives us a clear picture of the DAGS and its current status. I may be wrong here but from my experience, I have seen that Airflow on a single machine is not scalable. Thus, to scale Airflow, we can use Kubernetes.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Understand your codebase.</title>
+      <link>/post/2022-05-28-understand-your-codebase/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-understand-your-codebase/</guid>
+      <description>Auto-syncing code diagrams to drive collaboration, improve code review, reduce onboarding friction, and more.
+Dependencies display in Go, Java, JavaScript, Python, &amp;amp; Type
+Link</description>
+    </item>
+    
+    <item>
+      <title>Welcome to thirdweb</title>
+      <link>/post/2022-05-28-welcome-to-thirdweb/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-welcome-to-thirdweb/</guid>
+      <description>thirdweb is a web3 application framework that enables you to easily build powerful, blockchain-based applications.
+thirdweb offers three core pillars.
+ Contracts: Smart contracts for you to deploy and tooling to support building them. SDKs: Ways to interact with your smart contract in your favorite languages. Dashboards: Interfaces to easily view, configure, and interact with your smart contracts.  Link</description>
+    </item>
+    
+    <item>
+      <title>What Can I Do In NestJS in 30 Minutes? | Nest Tutorial App</title>
+      <link>/post/2022-05-28-what-can-i-do-in-nestjs-in-30-minutes-nest-tutorial-app/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-what-can-i-do-in-nestjs-in-30-minutes-nest-tutorial-app/</guid>
+      <description>In this video we look at Nestjs. We create a full NestJS app in 30 minutes, including all the CRUD,
+Link</description>
+    </item>
+    
     <item>
       <title>9 Incredible Websites That Every Developer Should Bookmark</title>
       <link>/post/2022-05-02-9-incredible-websites-that-every-developer-should-bookmark/</link>
@@ -24,182 +204,6 @@ Link</description>
       
       <guid>/post/2022-05-02-a-library-to-inspect-itermediate-layers-of-pytorch-models/</guid>
       <description>It&amp;rsquo;s often the case that we want to inspect intermediate layers of a model without modifying the code e.g. visualize attention matrices of language models, get values from an intermediate layer to feed to another layer, or applying a loss function to intermediate layers.
-Link</description>
-    </item>
-    
-    <item>
-      <title>A simple approach for background task in Django</title>
-      <link>/post/2022-05-02-a-simple-approach-for-background-task-in-django/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-05-02-a-simple-approach-for-background-task-in-django/</guid>
-      <description>When there is a long running task, there are usually below 2 requirements:
-As a user, I want to know the progress of the task As a user, I want to get the output of the task if it is finished We will use the out of the box features Threading and Cache in Python and Django respectively to achieve this
-Link</description>
-    </item>
-    
-    <item>
-      <title>Advanced Computer Vision with Python - Full Course</title>
-      <link>/post/2022-05-02-advanced-computer-vision-with-python-full-course/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-05-02-advanced-computer-vision-with-python-full-course/</guid>
-      <description>Learn advanced computer vision using Python in this full course. You will learn state of the art computer vision techniques by building five projects with libraries such as OpenCV and Mediapipe. If you are a beginner, don&amp;rsquo;t be afraid of the term advance. Even though the concepts are advanced,
-Link</description>
-    </item>
-    
-    <item>
-      <title>Bioinformatic 101</title>
-      <link>/post/2022-05-02-bioinformatic-101/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-05-02-bioinformatic-101/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Code Beautify </title>
-      <link>/post/2022-05-02-code-beautify/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-05-02-code-beautify/</guid>
-      <description>Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more&amp;hellip;
-Link</description>
-    </item>
-    
-    <item>
-      <title>CodeKeep - A Better Way to Organize , Share &amp; Discover Snippets</title>
-      <link>/post/2022-05-02-codekeep-a-better-way-to-organize-share-discover-snippets/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-05-02-codekeep-a-better-way-to-organize-share-discover-snippets/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>CS224N: Natural Language Processing with Deep Learning | Winter 2021</title>
-      <link>/post/2022-05-02-cs224n-natural-language-processing-with-deep-learning-winter-2021/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-05-02-cs224n-natural-language-processing-with-deep-learning-winter-2021/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Data Visualization 101</title>
-      <link>/post/2022-05-02-data-visualization-101/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-05-02-data-visualization-101/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>DeepChem Step-by-Step Tutorial</title>
-      <link>/post/2022-05-02-deepchem-step-by-step-tutorial/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-05-02-deepchem-step-by-step-tutorial/</guid>
-      <description>In this tutorial series, you&amp;rsquo;ll learn how to use DeepChem to solve interesting and challenging problems in the life sciences. The tutorial acts as a introduction to DeepChem as well as application of DeepChem to a wide array of problems across domains like molecular machine learning, quantum chemistry, bioinformatics and material science. This tutorial series is continually updated with new DeepChem features and models as implemented and is designed to be accessible to beginners.</description>
-    </item>
-    
-    <item>
-      <title>FastAPI Celery, Flower and Docker</title>
-      <link>/post/2022-05-02-fastapi-celery-flower-and-docker/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-05-02-fastapi-celery-flower-and-docker/</guid>
-      <description>In this tutorial we integrate Celery into an existing FastAPI app, Redis and FastAPI, all within Docker containers. We finish off by implementing Flower to monitor Celery jobs and workers.
-Link
-Link</description>
-    </item>
-    
-    <item>
-      <title>HashiCorp Terraform Associate Certification Course - Pass the Exam!</title>
-      <link>/post/2022-05-02-hashicorp-terraform-associate-certification-course-pass-the-exam/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-05-02-hashicorp-terraform-associate-certification-course-pass-the-exam/</guid>
-      <description>Prepare for the HashiCorp Terraform Associate Certification and pass! The Terraform Associate certification is for Cloud Engineers specializing in operations, IT, or development who know the basic concepts and skills associated with open source HashiCorp Terraform.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Hugging Face Transformers Amazon SageMaker Examples</title>
-      <link>/post/2022-05-02-hugging-face-transformers-amazon-sagemaker-examples/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-05-02-hugging-face-transformers-amazon-sagemaker-examples/</guid>
-      <description>Example Jupyter notebooks that demonstrate how to build, train, and deploy Hugging Face Transformers using Amazon SageMaker and the Amazon SageMaker Python SDK.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Kickstart Your Development Journey With the Smart Contract Starter Kit</title>
-      <link>/post/2022-05-02-kickstart-your-development-journey-with-the-smart-contract-starter-kit/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-05-02-kickstart-your-development-journey-with-the-smart-contract-starter-kit/</guid>
-      <description>If you’re looking for a starting point to learn smart contract development, the Smart Contract Starter Kit is the place to go. You can access tests, scripts, deployments, and more, and it covers all of the key frameworks, including Brownie, dAppTools, Foundry, Hardhat, Solana, and Truffle.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Machine Learning sample apps</title>
-      <link>/post/2022-05-02-machine-learning-sample-apps/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-05-02-machine-learning-sample-apps/</guid>
-      <description>Machine Learning sample apps - this repo provides sample code to support my articles on Towards Data Science and Youtube channel.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Optimize PyTorch Performance for Speed and Memory Efficiency </title>
-      <link>/post/2022-05-02-optimize-pytorch-performance-for-speed-and-memory-efficiency/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-05-02-optimize-pytorch-performance-for-speed-and-memory-efficiency/</guid>
-      <description>The training/inference processes of deep learning models are involved lots of steps. The faster each experiment iteration is, the more we can optimize the whole model prediction performance given limited time and resources. I collected and organized several PyTorch tricks and tips to maximize the efficiency of memory usage and minimize the run time. To better leverage these tips, we also need to understand how and why they work.
-Link</description>
-    </item>
-    
-    <item>
-      <title>PyTorch and Monai for AI Healthcare Imaging - Python Machine Learning Course</title>
-      <link>/post/2022-05-02-pytorch-and-monai-for-ai-healthcare-imaging-python-machine-learning-course/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-05-02-pytorch-and-monai-for-ai-healthcare-imaging-python-machine-learning-course/</guid>
-      <description>Learn how to use PyTorch, Monai, and Python for computer vision using machine learning. One practical use-case for artificial intelligence is healthcare imaging. In this course, you will improve your machine learning skills by creating an algorithm for automatic liver segmentation.
-Link</description>
-    </item>
-    
-    <item>
-      <title>15 Open Source libraries for data quality improvement</title>
-      <link>/post/2022-04-09-15-open-source-libraries-for-data-quality-improvement/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-15-open-source-libraries-for-data-quality-improvement/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>7 Tips To Maximize PyTorch Performance</title>
-      <link>/post/2022-04-09-7-tips-to-maximize-pytorch-performance/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-7-tips-to-maximize-pytorch-performance/</guid>
-      <description>Throughout the last 10 months, while working on PyTorch Lightning, the team and I have been exposed to many styles of structuring PyTorch code and we have identified a few key places where we see people inadvertently introducing bottlenecks.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Airtable</title>
-      <link>/post/2022-04-09-airtable/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-04-09-airtable/</guid>
-      <description>Airtable’s intuitive yet powerful platform gives everyone the flexibility to create their own solution and make work flow faster.
 Link</description>
     </item>
     

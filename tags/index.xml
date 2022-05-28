@@ -5,7 +5,7 @@
     <description>Recent content in Tags on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,9 +13,54 @@
     <item>
       <title>apps</title>
       <link>/tags/apps/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer-vision</title>
+      <link>/tags/computer-vision/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>/tags/development/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libraries</title>
+      <link>/tags/libraries/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/libraries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spark</title>
+      <link>/tags/spark/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>/tags/tools/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tools/</guid>
       <description></description>
     </item>
     
@@ -38,29 +83,11 @@
     </item>
     
     <item>
-      <title>computer-vision</title>
-      <link>/tags/computer-vision/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>deep-learning</title>
       <link>/tags/deep-learning/</link>
       <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>/tags/development/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/development/</guid>
       <description></description>
     </item>
     
@@ -110,24 +137,6 @@
     </item>
     
     <item>
-      <title>libraries</title>
-      <link>/tags/libraries/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/libraries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tools</title>
-      <link>/tags/tools/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>articles</title>
       <link>/tags/articles/</link>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
@@ -169,15 +178,6 @@
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/autoencoders/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spark</title>
-      <link>/tags/spark/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/spark/</guid>
       <description></description>
     </item>
     

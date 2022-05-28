@@ -5,10 +5,156 @@
     <description>Recent content in development on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alchemy: How to listen to NFT mints in real time</title>
+      <link>/post/2022-05-28-alchemy-how-to-listen-to-nft-mints-in-real-time/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-alchemy-how-to-listen-to-nft-mints-in-real-time/</guid>
+      <description>&lt;p&gt;Chainlink is the industry standard for building, accessing, and selling oracle services needed to power hybrid smart contracts on any blockchain. Chainlink oracle networks provide smart contracts with a way to reliably connect to any external API and leverage secure off-chain computations for enabling feature-rich applications. Chainlink currently secures tens of billions of dollars across DeFi, insurance, gaming, and other major industries, and offers global enterprises and leading data providers a universal gateway to all blockchains.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=J4avAsOn8F0&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build a Raffle App With Solidity and NextJS: Code Along</title>
+      <link>/post/2022-05-28-build-a-raffle-app-with-solidity-and-nextjs-code-along/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-build-a-raffle-app-with-solidity-and-nextjs-code-along/</guid>
+      <description>&lt;p&gt;In this video, learn how to build a raffle application using Solidity. You&amp;rsquo;ll see the entire process, starting with the smart contracts and finishing with the frontend.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8bMrko6iD9Q&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build Coinbase Blockchain Web 3.0 App with Next.js</title>
+      <link>/post/2022-05-28-build-coinbase-blockchain-web-3-0-app-with-next-js/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-build-coinbase-blockchain-web-3-0-app-with-next-js/</guid>
+      <description>&lt;p&gt;In this tutorial, you&amp;rsquo;re gonna be building the Coinbase Blockchain Web 3.0 App using Next JS, Sanity.io, thirdweb, Styled Components, and Vercel&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=frCsGK4cKks&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multiprocessing in Python</title>
+      <link>/post/2022-05-28-multiprocessing-in-python/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-multiprocessing-in-python/</guid>
+      <description>&lt;p&gt;This tutorial is divided into four parts; they are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Benefits of multiprocessing&lt;/li&gt;
+&lt;li&gt;Basic multiprocessing&lt;/li&gt;
+&lt;li&gt;Multiprocessing for real use&lt;/li&gt;
+&lt;li&gt;Using joblib&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://machinelearningmastery.com/multiprocessing-in-python/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NestJs Course for Beginners - Create a REST API</title>
+      <link>/post/2022-05-28-nestjs-course-for-beginners-create-a-rest-api/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-nestjs-course-for-beginners-create-a-rest-api/</guid>
+      <description>&lt;p&gt;Learn NestJs by building a CRUD REST API with end-to-end tests using modern web development techniques. NestJs is a rapidly growing node js framework that helps build scalable and maintainable backend applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=GHTA143_b-s&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NestJS Manual. Psrt 1</title>
+      <link>/post/2022-05-28-nestjs-manual-psrt-1/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-nestjs-manual-psrt-1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/company/timeweb/blog/663234/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nestjs.ru.com/guide/introduction.html&#34;&gt;Russian documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Otasoft Microservice Template - Template for creating Nest.js microservices</title>
+      <link>/post/2022-05-28-otasoft-microservice-template-template-for-creating-nest-js-microservices/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-otasoft-microservice-template-template-for-creating-nest-js-microservices/</guid>
+      <description>&lt;p&gt;Otasoft Microservice template - Nest.js based microservice repository template. This project consists of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PostgreSQL Typeorm&lt;/li&gt;
+&lt;li&gt;CQRS&lt;/li&gt;
+&lt;li&gt;Domain Driven Design&lt;/li&gt;
+&lt;li&gt;Event Sourcing&lt;/li&gt;
+&lt;li&gt;Healthchecks&lt;/li&gt;
+&lt;li&gt;.env support&lt;/li&gt;
+&lt;li&gt;RabbitMQ Event Bus Connection&lt;/li&gt;
+&lt;li&gt;Dockerfile and docker-compose&lt;/li&gt;
+&lt;li&gt;doc directory&lt;/li&gt;
+&lt;li&gt;Github workflows and issue templates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/otasoft/microservice-template&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Series: API with NestJS</title>
+      <link>/post/2022-05-28-series-api-with-nestjs/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-series-api-with-nestjs/</guid>
+      <description>&lt;p&gt;NestJS is a framework for building Node.js applications. It is somewhat opinionated and forces us to follow its vision of how an application should look like to some extent. That might be viewed as a good thing that helps us to keep consistency across our application and forces us to follow good practices.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wanago.io/courses/api-with-nestjs/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understand your codebase.</title>
+      <link>/post/2022-05-28-understand-your-codebase/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-understand-your-codebase/</guid>
+      <description>&lt;p&gt;Auto-syncing code diagrams to drive collaboration, improve code review, reduce onboarding friction, and more.&lt;/p&gt;
+&lt;p&gt;Dependencies display in Go, Java, JavaScript, Python, &amp;amp; Type&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.codesee.io/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to thirdweb</title>
+      <link>/post/2022-05-28-welcome-to-thirdweb/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-welcome-to-thirdweb/</guid>
+      <description>&lt;p&gt;thirdweb is a web3 application framework that enables you to easily build powerful, blockchain-based applications.&lt;/p&gt;
+&lt;p&gt;thirdweb offers three core pillars.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Contracts: Smart contracts for you to deploy and tooling to support building them.&lt;/li&gt;
+&lt;li&gt;SDKs: Ways to interact with your smart contract in your favorite languages.&lt;/li&gt;
+&lt;li&gt;Dashboards: Interfaces to easily view, configure, and interact with your smart contracts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://portal.thirdweb.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What Can I Do In NestJS in 30 Minutes? | Nest Tutorial App</title>
+      <link>/post/2022-05-28-what-can-i-do-in-nestjs-in-30-minutes-nest-tutorial-app/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-05-28-what-can-i-do-in-nestjs-in-30-minutes-nest-tutorial-app/</guid>
+      <description>&lt;p&gt;In this video we look at Nestjs. We create a full NestJS app in 30 minutes, including all the CRUD,&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EGpfmqrlA8c&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>9 Incredible Websites That Every Developer Should Bookmark</title>
