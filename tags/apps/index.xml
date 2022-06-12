@@ -5,10 +5,111 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>30 seconds of code</title>
+      <link>/post/2022-06-12-30-seconds-of-code/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-30-seconds-of-code/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.30secondsofcode.org/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build CoinMarketCap Web 3.0 Blockchain App with Moralis | Next.js | Tailwind CSS</title>
+      <link>/post/2022-06-12-build-coinmarketcap-web-3-0-blockchain-app-with-moralis-next-js-tailwind-css/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-build-coinmarketcap-web-3-0-blockchain-app-with-moralis-next-js-tailwind-css/</guid>
+      <description>&lt;p&gt;In this tutorial, you&amp;rsquo;re gonna be building the CoinMarketCap Blockchain Web 3.0 App using Moralis, Solidity, Next JS, Netlify and Tailwind CSS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fim8DfBPVks&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fonts for Download</title>
+      <link>/post/2022-06-12-fonts-for-download/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-fonts-for-download/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.nerdfonts.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Full Stack Web3 with Lens Protocol, Next.js, and GraphQL - Building a Social Media App</title>
+      <link>/post/2022-06-12-full-stack-web3-with-lens-protocol-next-js-and-graphql-building-a-social-media-app/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-full-stack-web3-with-lens-protocol-next-js-and-graphql-building-a-social-media-app/</guid>
+      <description>&lt;p&gt;In this video you&amp;rsquo;ll learn how to use Lens Protocol to build out a basic social media application.
+&lt;a href=&#34;https://www.youtube.com/watch?v=LcxOdWWL8xs&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing multipage apps!</title>
+      <link>/post/2022-06-12-introducing-multipage-apps/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-introducing-multipage-apps/</guid>
+      <description>&lt;p&gt;Quickly and easily add more pages to your Streamlit apps
+&lt;a href=&#34;https://blog.streamlit.io/introducing-multipage-apps/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NestJS Microservices Full Course</title>
+      <link>/post/2022-06-12-nestjs-microservices-full-course/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-nestjs-microservices-full-course/</guid>
+      <description>&lt;p&gt;Learn how to create Microservices with NestJS. We learn how to create an Event-Driven Architecture with RabbitMQ. 
+There will be two Microservices Admin and Main with different databases. 
+We will explore how to use  NestJS with a Relational Database like MySQL and a NoSQL Database like MongoDB.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IsubcKdZPyE&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setting up ad hoc development environments for Django applications with AWS ECS, Terraform and GitHub Actions</title>
+      <link>/post/2022-06-12-setting-up-ad-hoc-development-environments-for-django-applications-with-aws-ecs-terraform-and-github-actions/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-setting-up-ad-hoc-development-environments-for-django-applications-with-aws-ecs-terraform-and-github-actions/</guid>
+      <description>&lt;p&gt;This article will show how software development teams can build on-demand environments for dog-food testing, quality review and demos
+&lt;a href=&#34;https://briancaffey.hashnode.dev/setting-up-ad-hoc-development-environments-for-django-applications-with-aws-ecs-terraform-and-github-actions&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/briancaffey/terraform-aws-django&#34;&gt;terraform-aws-django&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/briancaffey/terraform-aws-ad-hoc-environments&#34;&gt;terraform-aws-ad-hoc-environments&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stein - Ship fast and manage your data with ease. Connect to Google Sheets.</title>
+      <link>/post/2022-06-12-stein-ship-fast-and-manage-your-data-with-ease-connect-to-google-sheets/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-stein-ship-fast-and-manage-your-data-with-ease-connect-to-google-sheets/</guid>
+      <description>&lt;p&gt;Use Google Sheets as your no-setup data store. Build fast and get a familiar interface for managing the data, with the open source Stein.
+&lt;a href=&#34;https://steinhq.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Superbase - Build in a weekend. Scale to millions.</title>
+      <link>/post/2022-06-12-superbase-build-in-a-weekend-scale-to-millions/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-superbase-build-in-a-weekend-scale-to-millions/</guid>
+      <description>&lt;p&gt;Supabase is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.
+&lt;a href=&#34;https://supabase.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Nest.js Kafka Microservice Tutorial</title>

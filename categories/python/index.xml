@@ -5,10 +5,23 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Setting up ad hoc development environments for Django applications with AWS ECS, Terraform and GitHub Actions</title>
+      <link>/post/2022-06-12-setting-up-ad-hoc-development-environments-for-django-applications-with-aws-ecs-terraform-and-github-actions/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-setting-up-ad-hoc-development-environments-for-django-applications-with-aws-ecs-terraform-and-github-actions/</guid>
+      <description>&lt;p&gt;This article will show how software development teams can build on-demand environments for dog-food testing, quality review and demos
+&lt;a href=&#34;https://briancaffey.hashnode.dev/setting-up-ad-hoc-development-environments-for-django-applications-with-aws-ecs-terraform-and-github-actions&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/briancaffey/terraform-aws-django&#34;&gt;terraform-aws-django&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/briancaffey/terraform-aws-ad-hoc-environments&#34;&gt;terraform-aws-ad-hoc-environments&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>5 Python Libraries for Time-Series Analysis</title>

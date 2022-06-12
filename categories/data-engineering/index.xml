@@ -5,10 +5,98 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>30 seconds of code</title>
+      <link>/post/2022-06-12-30-seconds-of-code/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-30-seconds-of-code/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.30secondsofcode.org/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fonts for Download</title>
+      <link>/post/2022-06-12-fonts-for-download/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-fonts-for-download/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.nerdfonts.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing multipage apps!</title>
+      <link>/post/2022-06-12-introducing-multipage-apps/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-introducing-multipage-apps/</guid>
+      <description>&lt;p&gt;Quickly and easily add more pages to your Streamlit apps
+&lt;a href=&#34;https://blog.streamlit.io/introducing-multipage-apps/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Remove Watermarks from Your Images</title>
+      <link>/post/2022-06-12-remove-watermarks-from-your-images/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-remove-watermarks-from-your-images/</guid>
+      <description>&lt;p&gt;Get rid of the watermarks from your images using our powerful AI technology
+&lt;a href=&#34;https://www.watermarkremover.io/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setting up ad hoc development environments for Django applications with AWS ECS, Terraform and GitHub Actions</title>
+      <link>/post/2022-06-12-setting-up-ad-hoc-development-environments-for-django-applications-with-aws-ecs-terraform-and-github-actions/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-setting-up-ad-hoc-development-environments-for-django-applications-with-aws-ecs-terraform-and-github-actions/</guid>
+      <description>&lt;p&gt;This article will show how software development teams can build on-demand environments for dog-food testing, quality review and demos
+&lt;a href=&#34;https://briancaffey.hashnode.dev/setting-up-ad-hoc-development-environments-for-django-applications-with-aws-ecs-terraform-and-github-actions&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/briancaffey/terraform-aws-django&#34;&gt;terraform-aws-django&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/briancaffey/terraform-aws-ad-hoc-environments&#34;&gt;terraform-aws-ad-hoc-environments&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stein - Ship fast and manage your data with ease. Connect to Google Sheets.</title>
+      <link>/post/2022-06-12-stein-ship-fast-and-manage-your-data-with-ease-connect-to-google-sheets/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-stein-ship-fast-and-manage-your-data-with-ease-connect-to-google-sheets/</guid>
+      <description>&lt;p&gt;Use Google Sheets as your no-setup data store. Build fast and get a familiar interface for managing the data, with the open source Stein.
+&lt;a href=&#34;https://steinhq.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Superbase - Build in a weekend. Scale to millions.</title>
+      <link>/post/2022-06-12-superbase-build-in-a-weekend-scale-to-millions/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-superbase-build-in-a-weekend-scale-to-millions/</guid>
+      <description>&lt;p&gt;Supabase is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.
+&lt;a href=&#34;https://supabase.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tools for Makers</title>
+      <link>/post/2022-06-12-tools-for-makers/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-tools-for-makers/</guid>
+      <description>&lt;p&gt;Discover over 400 tools to build awesome things.
+&lt;a href=&#34;https://toolsformakers.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Airttable - Connect everything. Achieve anything.</title>

@@ -5,10 +5,23 @@
     <description>Recent content in javascript on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NestJS Microservices Full Course</title>
+      <link>/post/2022-06-12-nestjs-microservices-full-course/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-nestjs-microservices-full-course/</guid>
+      <description>&lt;p&gt;Learn how to create Microservices with NestJS. We learn how to create an Event-Driven Architecture with RabbitMQ. 
+There will be two Microservices Admin and Main with different databases. 
+We will explore how to use  NestJS with a Relational Database like MySQL and a NoSQL Database like MongoDB.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IsubcKdZPyE&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build Coinbase Blockchain Web 3.0 App with Next.js</title>

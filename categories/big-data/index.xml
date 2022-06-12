@@ -5,10 +5,21 @@
     <description>Recent content in big-data on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Mesh</title>
+      <link>/post/2022-06-12-data-mesh/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-12-data-mesh/</guid>
+      <description>&lt;p&gt;Learn about building a data mesh on event streams with Apache Kafka® and Confluent.
+&lt;a href=&#34;https://developer.confluent.io/learn/data-mesh/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PySpark Data Skew in 5 Minutes</title>

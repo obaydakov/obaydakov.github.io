@@ -5,7 +5,7 @@
     <description>Recent content in Categories on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,16 +13,25 @@
     <item>
       <title>big-data</title>
       <link>/categories/big-data/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/big-data/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>cloud</title>
+      <link>/categories/cloud/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>crypto</title>
       <link>/categories/crypto/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/crypto/</guid>
       <description></description>
@@ -31,25 +40,16 @@
     <item>
       <title>data-engineering</title>
       <link>/categories/data-engineering/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/data-engineering/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>deep-learning</title>
-      <link>/categories/deep-learning/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>javascript</title>
       <link>/categories/javascript/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/javascript/</guid>
       <description></description>
@@ -58,7 +58,7 @@
     <item>
       <title>Machine Learning</title>
       <link>/categories/machine-learning/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/machine-learning/</guid>
       <description>
@@ -83,9 +83,18 @@
     <item>
       <title>python</title>
       <link>/categories/python/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>/categories/deep-learning/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/deep-learning/</guid>
       <description></description>
     </item>
     
@@ -95,15 +104,6 @@
       <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/biophysics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cloud</title>
-      <link>/categories/cloud/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/cloud/</guid>
       <description></description>
     </item>
     
