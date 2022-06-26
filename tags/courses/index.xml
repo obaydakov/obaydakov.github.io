@@ -5,10 +5,23 @@
     <description>Recent content in courses on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/courses/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learn Awesome</title>
+      <link>/post/2022-06-26-lean-awesome/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-lean-awesome/</guid>
+      <description>&lt;p&gt;Find new sources of knowledge curated by lifelong learners like you.
+Discover leading experts and great content like talks, books, articles and podcasts.
+Share with friends and like-minded peers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://learnawesome.org/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build CoinMarketCap Web 3.0 Blockchain App with Moralis | Next.js | Tailwind CSS</title>

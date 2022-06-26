@@ -5,10 +5,43 @@
     <description>Recent content in development on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Step functions and boto3</title>
+      <link>/post/2022-06-26-aws-step-functions-and-boto3/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-aws-step-functions-and-boto3/</guid>
+      <description>&lt;p&gt;AWS Step Functions is a visual workflow service that allows you to orchestrate AWS services, automate business processes, and build serverless applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hands-on.cloud/working-with-step-functions-in-python-using-boto3/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AWS Tutorials - Streaming Data Ingestion in Amazon Redshift</title>
+      <link>/post/2022-06-26-aws-tutorials-streaming-data-ingestion-in-amazon-redshift/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-aws-tutorials-streaming-data-ingestion-in-amazon-redshift/</guid>
+      <description>&lt;p&gt;Kinesis Data Stream is used to ingest real-time streaming data. Now such streaming data can be ingested to Amazon Redshift for the real-time analytics purpose. Learn how to integrate Kinesis Data Stream with Amazon Redshift.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=L4jjmfBspQA&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Develop and test AWS Glue version 3.0 jobs locally using a Docker container</title>
+      <link>/post/2022-06-26-develop-and-test-aws-glue-version-3-0-jobs-locally-using-a-docker-container/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-develop-and-test-aws-glue-version-3-0-jobs-locally-using-a-docker-container/</guid>
+      <description>&lt;p&gt;This post is a continuation of blog post “Developing AWS Glue ETL jobs locally using a container“. While the earlier post introduced the pattern of development for AWS Glue ETL Jobs on a Docker container using a Docker image, this post focuses on how to develop and test AWS Glue version 3.0 jobs using the same approach.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/big-data/develop-and-test-aws-glue-version-3-0-jobs-locally-using-a-docker-container/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Setting up ad hoc development environments for Django applications with AWS ECS, Terraform and GitHub Actions</title>

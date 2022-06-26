@@ -5,10 +5,87 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building a Complete Web3 Next.js dApp | Moralis Web3 Full Course</title>
+      <link>/post/2022-06-26-building-a-complete-web3-next-js-dapp-moralis-web3-full-course/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-building-a-complete-web3-next-js-dapp-moralis-web3-full-course/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nfYCSodsdn8&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/overgrowninfnat/moralis-nextjs-dashboard/tree/main&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Connect APIs, remarkably fast.</title>
+      <link>/post/2022-06-26-connect-apis-remarkably-fast/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-connect-apis-remarkably-fast/</guid>
+      <description>&lt;p&gt;Stop writing boilerplate code, struggling with authentication and managing infrastructure. Start connecting APIs with code-level control when you need it — and no code when you don&amp;rsquo;t.
+&lt;a href=&#34;https://pipedream.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Handling background tasks in Django using Redis and Celery</title>
+      <link>/post/2022-06-26-handling-background-tasks-in-django-using-redis-and-celery/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-handling-background-tasks-in-django-using-redis-and-celery/</guid>
+      <description>&lt;p&gt;Asynchronous tasks in the Django rest framework are delivered using a task queue like Celery that stores messages in a message broker like Redis and distributes them to their destination in an application.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ubaydah.hashnode.dev/handling-background-tasks-in-django-using-redis-and-celery&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Netflix - System Architectures for Personalization and Recommendation</title>
+      <link>/post/2022-06-26-netflis-recommendation-architecture/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-netflis-recommendation-architecture/</guid>
+      <description>&lt;p&gt;To start with, we present an overall system diagram for recommendation systems in the following figure. The main components of the architecture contain one or more machine learning algorithms.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://netflixtechblog.com/system-architectures-for-personalization-and-recommendation-e081aa94b5d8&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/post/672324/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Picular - The color of anything</title>
+      <link>/post/2022-06-26-picular-the-color-of-anything/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-picular-the-color-of-anything/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://picular.co/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Random user generator</title>
+      <link>/post/2022-06-26-random-user-generator/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-random-user-generator/</guid>
+      <description>&lt;p&gt;A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.
+&lt;a href=&#34;https://randomuser.me/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transactional Email Templates</title>
+      <link>/post/2022-06-26-transactional-email-templates/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-transactional-email-templates/</guid>
+      <description>&lt;p&gt;Content ready, mobile friendly, and beautiful across all major email clients.
+&lt;a href=&#34;https://postmarkapp.com/transactional-email-templates&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>30 seconds of code</title>

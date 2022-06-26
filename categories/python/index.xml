@@ -5,10 +5,55 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>All algorithms implemented in Python - for education</title>
+      <link>/post/2022-06-26-all-algorithms-implemented-in-python-for-education/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-all-algorithms-implemented-in-python-for-education/</guid>
+      <description>&lt;p&gt;Implementations are for learning purposes only. As they may be less efficient than the implementations in the Python standard library, use them at your discretion.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/TheAlgorithms/Python&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dash Sample Apps</title>
+      <link>/post/2022-06-26-dash-sample-apps/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-dash-sample-apps/</guid>
+      <description>&lt;p&gt;This repository hosts the code for over 100 open-source Dash apps written in Python or R. They can serve as a starting point for your own Dash app, as a learning tool to better understand how Dash works, as a reusable templates, and much more.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/plotly/dash-sample-apps&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Handling background tasks in Django using Redis and Celery</title>
+      <link>/post/2022-06-26-handling-background-tasks-in-django-using-redis-and-celery/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-handling-background-tasks-in-django-using-redis-and-celery/</guid>
+      <description>&lt;p&gt;Asynchronous tasks in the Django rest framework are delivered using a task queue like Celery that stores messages in a message broker like Redis and distributes them to their destination in an application.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ubaydah.hashnode.dev/handling-background-tasks-in-django-using-redis-and-celery&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SberProcessMining (SberPM) – Process Mining Python framework</title>
+      <link>/post/2022-06-26-sberprocessmining-sberpm-process-mining-python-framework/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-sberprocessmining-sberpm-process-mining-python-framework/</guid>
+      <description>&lt;p&gt;SberPM is an open-source Python library for conducting a comprehensive analysis of business processes with the use of process mining and machine learning techniques. By implementing this tool, objective and deep insights into the process on all levels can be revealed. These insights are then used to detect problems such as bottlenecks and deviations and identify potential opportunities for process improvement and optimization.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/SberProcessMining/Sber_Process_Mining&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sashakorekov.medium.com/fast-and-efficient-process-mining-with-sberpm-python-library-part-i-7a8712a31d23&#34;&gt;Example&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Setting up ad hoc development environments for Django applications with AWS ECS, Terraform and GitHub Actions</title>

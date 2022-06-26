@@ -5,10 +5,66 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Connect APIs, remarkably fast.</title>
+      <link>/post/2022-06-26-connect-apis-remarkably-fast/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-connect-apis-remarkably-fast/</guid>
+      <description>&lt;p&gt;Stop writing boilerplate code, struggling with authentication and managing infrastructure. Start connecting APIs with code-level control when you need it — and no code when you don&amp;rsquo;t.
+&lt;a href=&#34;https://pipedream.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learn Awesome</title>
+      <link>/post/2022-06-26-lean-awesome/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-lean-awesome/</guid>
+      <description>&lt;p&gt;Find new sources of knowledge curated by lifelong learners like you.
+Discover leading experts and great content like talks, books, articles and podcasts.
+Share with friends and like-minded peers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://learnawesome.org/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Picular - The color of anything</title>
+      <link>/post/2022-06-26-picular-the-color-of-anything/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-picular-the-color-of-anything/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://picular.co/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Random user generator</title>
+      <link>/post/2022-06-26-random-user-generator/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-random-user-generator/</guid>
+      <description>&lt;p&gt;A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.
+&lt;a href=&#34;https://randomuser.me/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transactional Email Templates</title>
+      <link>/post/2022-06-26-transactional-email-templates/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-transactional-email-templates/</guid>
+      <description>&lt;p&gt;Content ready, mobile friendly, and beautiful across all major email clients.
+&lt;a href=&#34;https://postmarkapp.com/transactional-email-templates&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>30 seconds of code</title>

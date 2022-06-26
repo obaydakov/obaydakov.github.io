@@ -5,10 +5,21 @@
     <description>Recent content in crypto on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/crypto/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building a Complete Web3 Next.js dApp | Moralis Web3 Full Course</title>
+      <link>/post/2022-06-26-building-a-complete-web3-next-js-dapp-moralis-web3-full-course/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-06-26-building-a-complete-web3-next-js-dapp-moralis-web3-full-course/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nfYCSodsdn8&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/overgrowninfnat/moralis-nextjs-dashboard/tree/main&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build CoinMarketCap Web 3.0 Blockchain App with Moralis | Next.js | Tailwind CSS</title>
