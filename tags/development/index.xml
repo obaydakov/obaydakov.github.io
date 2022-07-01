@@ -5,10 +5,21 @@
     <description>Recent content in development on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is Kedro?</title>
+      <link>/post/2022-07-01-what-is-kedro/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-what-is-kedro/</guid>
+      <description>&lt;p&gt;Kedro is an open-source Python framework for creating reproducible, maintainable and modular data science code. It borrows concepts from software engineering and applies them to machine-learning code; applied concepts include modularity, separation of concerns and versioning. Kedro is hosted by the LF AI &amp;amp; Data Foundation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kedro.readthedocs.io/en/stable/introduction/introduction.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS Step functions and boto3</title>

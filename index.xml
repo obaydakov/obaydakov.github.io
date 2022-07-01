@@ -6,200 +6,198 @@
     <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2022: A Year Full of Amazing AI papers- A Review</title>
-      <link>/post/2022-06-26-2022-a-year-full-of-amazing-ai-papers-a-review/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <title>AWS Glue ETL Code Samples</title>
+      <link>/post/2022-07-01-aws-glue-etl-code-samples/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/post/2022-06-26-2022-a-year-full-of-amazing-ai-papers-a-review/</guid>
-      <description>A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code.
+      <guid>/post/2022-07-01-aws-glue-etl-code-samples/</guid>
+      <description>This repository has samples that demonstrate various aspects of the new AWS Glue service, as well as various AWS Glue utilities.
+You can find the AWS Glue open-source Python libraries in a separate repository at: awslabs/aws-glue-libs.
+Link aws-glue-libs</description>
+    </item>
+    
+    <item>
+      <title>data-diff</title>
+      <link>/post/2022-07-01-data-diff/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-data-diff/</guid>
+      <description>data-diff is a command-line tool and Python library to efficiently diff rows across two different databases. Link</description>
+    </item>
+    
+    <item>
+      <title>Deploy Node.js Microservices on AWS With EKS &amp; Helm</title>
+      <link>/post/2022-07-01-deploy-node-js-microservices-on-aws-with-eks-helm/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-deploy-node-js-microservices-on-aws-with-eks-helm/</guid>
+      <description>In this video, we learn how to deploy Node.js Microservices to AWS using EKS &amp;amp; Helm, the package manager for Kubernetes. Link</description>
+    </item>
+    
+    <item>
+      <title>Essential Techniques to Style Pandas DataFrames</title>
+      <link>/post/2022-07-01-essential-techniques-to-style-pandas-dataframes/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-essential-techniques-to-style-pandas-dataframes/</guid>
+      <description>How to Effectively Communicate Data with Tables (including Cheat Sheet)
 Link</description>
     </item>
     
     <item>
-      <title>All algorithms implemented in Python - for education</title>
-      <link>/post/2022-06-26-all-algorithms-implemented-in-python-for-education/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <title>Find, install and publish Kubernetes packages</title>
+      <link>/post/2022-07-01-find-install-and-publish-kubernetes-packages/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/post/2022-06-26-all-algorithms-implemented-in-python-for-education/</guid>
-      <description>Implementations are for learning purposes only. As they may be less efficient than the implementations in the Python standard library, use them at your discretion.
+      <guid>/post/2022-07-01-find-install-and-publish-kubernetes-packages/</guid>
+      <description>Helm charts Link</description>
+    </item>
+    
+    <item>
+      <title>Git Command Explorer</title>
+      <link>/post/2022-07-01-git-command-explorer/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-git-command-explorer/</guid>
+      <description>Find the right commands you need without digging through the web.
 Link</description>
     </item>
     
     <item>
-      <title>AWS Step functions and boto3</title>
-      <link>/post/2022-06-26-aws-step-functions-and-boto3/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <title>Grid.js  Advanced Table Plugin</title>
+      <link>/post/2022-07-01-grid-js-advanced-table-plugin/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/post/2022-06-26-aws-step-functions-and-boto3/</guid>
-      <description>AWS Step Functions is a visual workflow service that allows you to orchestrate AWS services, automate business processes, and build serverless applications.
-Link</description>
+      <guid>/post/2022-07-01-grid-js-advanced-table-plugin/</guid>
+      <description>Grid.js is a Free and open-source JavaScript table plugin. It works with most JavaScript frameworks, including React, Angular, Vue and VanillaJs. Link</description>
     </item>
     
     <item>
-      <title>AWS Tutorials - Streaming Data Ingestion in Amazon Redshift</title>
-      <link>/post/2022-06-26-aws-tutorials-streaming-data-ingestion-in-amazon-redshift/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <title>Hasura GraphQL Engine</title>
+      <link>/post/2022-07-01-hasura-graphql-engine/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/post/2022-06-26-aws-tutorials-streaming-data-ingestion-in-amazon-redshift/</guid>
-      <description>Kinesis Data Stream is used to ingest real-time streaming data. Now such streaming data can be ingested to Amazon Redshift for the real-time analytics purpose. Learn how to integrate Kinesis Data Stream with Amazon Redshift.
-Link</description>
+      <guid>/post/2022-07-01-hasura-graphql-engine/</guid>
+      <description>Hasura is an open source product that accelerates API development by 10x by giving you GraphQL or REST APIs with built in authorization on your data, instantly. Link</description>
     </item>
     
     <item>
-      <title>Building a Complete Web3 Next.js dApp | Moralis Web3 Full Course</title>
-      <link>/post/2022-06-26-building-a-complete-web3-next-js-dapp-moralis-web3-full-course/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <title>How to Use Conversion-Rate (CVR) as an Objective in Multi-Armed Bandit Experiments</title>
+      <link>/post/2022-07-01-how-to-use-conversion-rate-cvr-as-an-objective-in-multi-armed-bandit-experiments/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/post/2022-06-26-building-a-complete-web3-next-js-dapp-moralis-web3-full-course/</guid>
-      <description>Link
-GitHub</description>
-    </item>
-    
-    <item>
-      <title>Connect APIs, remarkably fast.</title>
-      <link>/post/2022-06-26-connect-apis-remarkably-fast/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-06-26-connect-apis-remarkably-fast/</guid>
-      <description>Stop writing boilerplate code, struggling with authentication and managing infrastructure. Start connecting APIs with code-level control when you need it — and no code when you don&amp;rsquo;t. Link</description>
-    </item>
-    
-    <item>
-      <title>Dash Sample Apps</title>
-      <link>/post/2022-06-26-dash-sample-apps/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-06-26-dash-sample-apps/</guid>
-      <description>This repository hosts the code for over 100 open-source Dash apps written in Python or R. They can serve as a starting point for your own Dash app, as a learning tool to better understand how Dash works, as a reusable templates, and much more.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Develop and test AWS Glue version 3.0 jobs locally using a Docker container</title>
-      <link>/post/2022-06-26-develop-and-test-aws-glue-version-3-0-jobs-locally-using-a-docker-container/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-06-26-develop-and-test-aws-glue-version-3-0-jobs-locally-using-a-docker-container/</guid>
-      <description>This post is a continuation of blog post “Developing AWS Glue ETL jobs locally using a container“. While the earlier post introduced the pattern of development for AWS Glue ETL Jobs on a Docker container using a Docker image, this post focuses on how to develop and test AWS Glue version 3.0 jobs using the same approach.
-Link</description>
-    </item>
-    
-    <item>
-      <title>GraphGPS: Navigating Graph Transformers</title>
-      <link>/post/2022-06-26-graphgps-navigating-graph-transformers/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-06-26-graphgps-navigating-graph-transformers/</guid>
-      <description>Recipes for cooking the best graph transformers Link</description>
-    </item>
-    
-    <item>
-      <title>Handling background tasks in Django using Redis and Celery</title>
-      <link>/post/2022-06-26-handling-background-tasks-in-django-using-redis-and-celery/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-06-26-handling-background-tasks-in-django-using-redis-and-celery/</guid>
-      <description>Asynchronous tasks in the Django rest framework are delivered using a task queue like Celery that stores messages in a message broker like Redis and distributes them to their destination in an application.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Learn Awesome</title>
-      <link>/post/2022-06-26-lean-awesome/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-06-26-lean-awesome/</guid>
-      <description>Find new sources of knowledge curated by lifelong learners like you. Discover leading experts and great content like talks, books, articles and podcasts. Share with friends and like-minded peers.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Netflix - System Architectures for Personalization and Recommendation</title>
-      <link>/post/2022-06-26-netflis-recommendation-architecture/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-06-26-netflis-recommendation-architecture/</guid>
-      <description>To start with, we present an overall system diagram for recommendation systems in the following figure. The main components of the architecture contain one or more machine learning algorithms.
+      <guid>/post/2022-07-01-how-to-use-conversion-rate-cvr-as-an-objective-in-multi-armed-bandit-experiments/</guid>
+      <description>A step-by-step guide with code examples
 Link
+[Link] (https://habr.com/ru/company/vk/blog/673914/)</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes the AWSome Way!</title>
+      <link>/post/2022-07-01-kubernetes-the-awsome-way/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-kubernetes-the-awsome-way/</guid>
+      <description>In this workshop, we will explore multiple ways to configure VPC, ALB, and EC2 Kubernetes workers, and Amazon Elastic Kubernetes Service.
+Link Github</description>
+    </item>
+    
+    <item>
+      <title>MLOPs Primer</title>
+      <link>/post/2022-07-01-mlops-primer/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-mlops-primer/</guid>
+      <description>Machine learning operations (MLOps) is becoming an exciting space as we figure out the best practices and technologies to deploy machine learning models in the real world. MLOps enable ML teams to build responsible and scalable machine learning systems and infrastructure.
 Link</description>
     </item>
     
     <item>
-      <title>One Page Website Templates</title>
-      <link>/post/2022-06-26-one-page-website-templates/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <title>parquet-tools</title>
+      <link>/post/2022-07-01-parquet-tools/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/post/2022-06-26-one-page-website-templates/</guid>
-      <description>A collection of 245 One Page website templates. Each template includes a review, long screenshot, live demo and download links. These One Page website templates can really help kickstart your next project. Use the top Templates menu to browse sub-categories.
+      <guid>/post/2022-07-01-parquet-tools/</guid>
+      <description>A tool to show, inspect and manipulate Parquet file.
 Link</description>
     </item>
     
     <item>
-      <title>Picular - The color of anything</title>
-      <link>/post/2022-06-26-picular-the-color-of-anything/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <title>Polars DataFrame library</title>
+      <link>/post/2022-07-01-polars-dataframe-library/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/post/2022-06-26-picular-the-color-of-anything/</guid>
+      <guid>/post/2022-07-01-polars-dataframe-library/</guid>
+      <description>This book is an introduction to the Polars DataFrame library. Its goal is to introduce you to Polars by going through examples and comparing it to other solutions. Some design choices are introduced here. The guide will also introduce you to optimal usage of Polars.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Python async requests</title>
+      <link>/post/2022-07-01-python-async-requests/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-python-async-requests/</guid>
       <description>Link</description>
     </item>
     
     <item>
-      <title>Random user generator</title>
-      <link>/post/2022-06-26-random-user-generator/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <title>RocksDict</title>
+      <link>/post/2022-07-01-rocksdict/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/post/2022-06-26-random-user-generator/</guid>
-      <description>A free, open-source API for generating random user data. Like Lorem Ipsum, but for people. Link</description>
-    </item>
-    
-    <item>
-      <title>SberProcessMining (SberPM) – Process Mining Python framework</title>
-      <link>/post/2022-06-26-sberprocessmining-sberpm-process-mining-python-framework/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-06-26-sberprocessmining-sberpm-process-mining-python-framework/</guid>
-      <description>SberPM is an open-source Python library for conducting a comprehensive analysis of business processes with the use of process mining and machine learning techniques. By implementing this tool, objective and deep insights into the process on all levels can be revealed. These insights are then used to detect problems such as bottlenecks and deviations and identify potential opportunities for process improvement and optimization.
-Link
-Example</description>
-    </item>
-    
-    <item>
-      <title>Transactional Email Templates</title>
-      <link>/post/2022-06-26-transactional-email-templates/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-06-26-transactional-email-templates/</guid>
-      <description>Content ready, mobile friendly, and beautiful across all major email clients. Link</description>
-    </item>
-    
-    <item>
-      <title>30 seconds of code</title>
-      <link>/post/2022-06-12-30-seconds-of-code/</link>
-      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-06-12-30-seconds-of-code/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Build CoinMarketCap Web 3.0 Blockchain App with Moralis | Next.js | Tailwind CSS</title>
-      <link>/post/2022-06-12-build-coinmarketcap-web-3-0-blockchain-app-with-moralis-next-js-tailwind-css/</link>
-      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-06-12-build-coinmarketcap-web-3-0-blockchain-app-with-moralis-next-js-tailwind-css/</guid>
-      <description>In this tutorial, you&amp;rsquo;re gonna be building the CoinMarketCap Blockchain Web 3.0 App using Moralis, Solidity, Next JS, Netlify and Tailwind CSS
+      <guid>/post/2022-07-01-rocksdict/</guid>
+      <description>Key-value storage supporting any python object
 Link</description>
     </item>
     
     <item>
-      <title>Data Mesh</title>
-      <link>/post/2022-06-12-data-mesh/</link>
-      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      <title>smart_open — utils for streaming large files in Python</title>
+      <link>/post/2022-07-01-smart-open-utils-for-streaming-large-files-in-python/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/post/2022-06-12-data-mesh/</guid>
-      <description>Learn about building a data mesh on event streams with Apache Kafka® and Confluent. Link</description>
+      <guid>/post/2022-07-01-smart-open-utils-for-streaming-large-files-in-python/</guid>
+      <description>smart_open is a Python 3 library for efficient streaming of very large files from/to storages such as S3, GCS, Azure Blob Storage, HDFS, WebHDFS, HTTP, HTTPS, SFTP, or local filesystem. It supports transparent, on-the-fly (de-)compression for a variety of different formats.
+Link</description>
+    </item>
+    
+    <item>
+      <title>The app that makes your #devlife easier.</title>
+      <link>/post/2022-07-01-the-app-that-makes-your-devlife-easier/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-the-app-that-makes-your-devlife-easier/</guid>
+      <description>Integrate your favorite tools Link</description>
+    </item>
+    
+    <item>
+      <title>Time Series Projects: Tools, Packages, and Libraries That Can Help</title>
+      <link>/post/2022-07-01-time-series-projects-tools-packages-and-libraries-that-can-help/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-time-series-projects-tools-packages-and-libraries-that-can-help/</guid>
+      <description>A time series is a sequence of data points indexed in time order. It’s an observation of the same variable at successive points in time. In other words, it’s a set of data that has been observed over a period of time. Link</description>
+    </item>
+    
+    <item>
+      <title>transform.tools</title>
+      <link>/post/2022-07-01-ransform-tools/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-ransform-tools/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>What is Kedro?</title>
+      <link>/post/2022-07-01-what-is-kedro/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-what-is-kedro/</guid>
+      <description>Kedro is an open-source Python framework for creating reproducible, maintainable and modular data science code. It borrows concepts from software engineering and applies them to machine-learning code; applied concepts include modularity, separation of concerns and versioning. Kedro is hosted by the LF AI &amp;amp; Data Foundation.
+Link</description>
     </item>
     
   </channel>

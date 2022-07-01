@@ -5,10 +5,65 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deploy Node.js Microservices on AWS With EKS &amp; Helm</title>
+      <link>/post/2022-07-01-deploy-node-js-microservices-on-aws-with-eks-helm/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-deploy-node-js-microservices-on-aws-with-eks-helm/</guid>
+      <description>&lt;p&gt;In this video, we learn how to deploy Node.js Microservices to AWS using EKS &amp;amp; Helm, the package manager for Kubernetes.
+&lt;a href=&#34;https://www.youtube.com/watch?v=heQbbrSu8LM&amp;amp;ab_channel=MichaelGuay&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git Command Explorer</title>
+      <link>/post/2022-07-01-git-command-explorer/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-git-command-explorer/</guid>
+      <description>&lt;p&gt;Find the right commands you need without digging through the web.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitexplorer.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Use Conversion-Rate (CVR) as an Objective in Multi-Armed Bandit Experiments</title>
+      <link>/post/2022-07-01-how-to-use-conversion-rate-cvr-as-an-objective-in-multi-armed-bandit-experiments/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-how-to-use-conversion-rate-cvr-as-an-objective-in-multi-armed-bandit-experiments/</guid>
+      <description>&lt;p&gt;A step-by-step guide with code examples&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-use-cvr-as-an-objective-in-multi-armed-bandit-experiments-4dfd2ab48a24&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[Link] (&lt;a href=&#34;https://habr.com/ru/company/vk/blog/673914/&#34;&gt;https://habr.com/ru/company/vk/blog/673914/&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python async requests</title>
+      <link>/post/2022-07-01-python-async-requests/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-python-async-requests/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/post/674150/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is Kedro?</title>
+      <link>/post/2022-07-01-what-is-kedro/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-what-is-kedro/</guid>
+      <description>&lt;p&gt;Kedro is an open-source Python framework for creating reproducible, maintainable and modular data science code. It borrows concepts from software engineering and applies them to machine-learning code; applied concepts include modularity, separation of concerns and versioning. Kedro is hosted by the LF AI &amp;amp; Data Foundation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kedro.readthedocs.io/en/stable/introduction/introduction.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Building a Complete Web3 Next.js dApp | Moralis Web3 Full Course</title>

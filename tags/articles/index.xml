@@ -5,10 +5,21 @@
     <description>Recent content in articles on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MLOPs Primer</title>
+      <link>/post/2022-07-01-mlops-primer/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-mlops-primer/</guid>
+      <description>&lt;p&gt;Machine learning operations (MLOps) is becoming an exciting space as we figure out the best practices and technologies to deploy machine learning models in the real world. MLOps enable ML teams to build responsible and scalable machine learning systems and infrastructure.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/dair-ai/MLOPs-Primer&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2022: A Year Full of Amazing AI papers- A Review</title>

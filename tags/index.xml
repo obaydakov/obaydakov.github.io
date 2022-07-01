@@ -5,7 +5,7 @@
     <description>Recent content in Tags on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>apps</title>
       <link>/tags/apps/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/apps/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>articles</title>
       <link>/tags/articles/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/articles/</guid>
       <description></description>
@@ -31,9 +31,36 @@
     <item>
       <title>courses</title>
       <link>/tags/courses/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>/tags/development/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libraries</title>
+      <link>/tags/libraries/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/libraries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>/tags/tools/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tools/</guid>
       <description></description>
     </item>
     
@@ -47,15 +74,6 @@
     </item>
     
     <item>
-      <title>development</title>
-      <link>/tags/development/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>graphs</title>
       <link>/tags/graphs/</link>
       <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
@@ -65,29 +83,11 @@
     </item>
     
     <item>
-      <title>libraries</title>
-      <link>/tags/libraries/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/libraries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>visualization</title>
       <link>/tags/visualization/</link>
       <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tools</title>
-      <link>/tags/tools/</link>
-      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tools/</guid>
       <description></description>
     </item>
     

@@ -5,10 +5,35 @@
     <description>Recent content in cloud on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Glue ETL Code Samples</title>
+      <link>/post/2022-07-01-aws-glue-etl-code-samples/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-aws-glue-etl-code-samples/</guid>
+      <description>&lt;p&gt;This repository has samples that demonstrate various aspects of the new AWS Glue service, as well as various AWS Glue utilities.&lt;/p&gt;
+&lt;p&gt;You can find the AWS Glue open-source Python libraries in a separate repository at: awslabs/aws-glue-libs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/aws-samples/aws-glue-samples&#34;&gt;Link&lt;/a&gt;
+&lt;a href=&#34;https://github.com/awslabs/aws-glue-libs&#34;&gt;aws-glue-libs&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes the AWSome Way!</title>
+      <link>/post/2022-07-01-kubernetes-the-awsome-way/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-kubernetes-the-awsome-way/</guid>
+      <description>&lt;p&gt;In this workshop, we will explore multiple ways to configure VPC, ALB, and EC2 Kubernetes workers, and Amazon Elastic Kubernetes Service.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.eksworkshop.com/&#34;&gt;Link&lt;/a&gt;
+&lt;a href=&#34;https://github.com/aws-samples/aws-workshop-for-kubernetes&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS Step functions and boto3</title>

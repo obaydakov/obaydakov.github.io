@@ -5,10 +5,44 @@
     <description>Recent content in Machine Learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Use Conversion-Rate (CVR) as an Objective in Multi-Armed Bandit Experiments</title>
+      <link>/post/2022-07-01-how-to-use-conversion-rate-cvr-as-an-objective-in-multi-armed-bandit-experiments/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-how-to-use-conversion-rate-cvr-as-an-objective-in-multi-armed-bandit-experiments/</guid>
+      <description>&lt;p&gt;A step-by-step guide with code examples&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-use-cvr-as-an-objective-in-multi-armed-bandit-experiments-4dfd2ab48a24&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[Link] (&lt;a href=&#34;https://habr.com/ru/company/vk/blog/673914/&#34;&gt;https://habr.com/ru/company/vk/blog/673914/&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MLOPs Primer</title>
+      <link>/post/2022-07-01-mlops-primer/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-mlops-primer/</guid>
+      <description>&lt;p&gt;Machine learning operations (MLOps) is becoming an exciting space as we figure out the best practices and technologies to deploy machine learning models in the real world. MLOps enable ML teams to build responsible and scalable machine learning systems and infrastructure.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/dair-ai/MLOPs-Primer&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Time Series Projects: Tools, Packages, and Libraries That Can Help</title>
+      <link>/post/2022-07-01-time-series-projects-tools-packages-and-libraries-that-can-help/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-time-series-projects-tools-packages-and-libraries-that-can-help/</guid>
+      <description>&lt;p&gt;A time series is a sequence of data points indexed in time order. It’s an observation of the same variable at successive points in time. In other words, it’s a set of data that has been observed over a period of time.
+&lt;a href=&#34;https://neptune.ai/blog/time-series-tools-packages-libraries&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Netflix - System Architectures for Personalization and Recommendation</title>

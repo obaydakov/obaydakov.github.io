@@ -5,10 +5,86 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Essential Techniques to Style Pandas DataFrames</title>
+      <link>/post/2022-07-01-essential-techniques-to-style-pandas-dataframes/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-essential-techniques-to-style-pandas-dataframes/</guid>
+      <description>&lt;p&gt;How to Effectively Communicate Data with Tables (including Cheat Sheet)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/essential-techniques-to-style-pandas-dataframes-8796c74c9ff3&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>parquet-tools</title>
+      <link>/post/2022-07-01-parquet-tools/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-parquet-tools/</guid>
+      <description>&lt;p&gt;A tool to show, inspect and manipulate Parquet file.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://linuxcommandlibrary.com/man/parquet-tools&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Polars DataFrame library</title>
+      <link>/post/2022-07-01-polars-dataframe-library/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-polars-dataframe-library/</guid>
+      <description>&lt;p&gt;This book is an introduction to the Polars DataFrame library. Its goal is to introduce you to Polars by going through examples and comparing it to other solutions. Some design choices are introduced here. The guide will also introduce you to optimal usage of Polars.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pola-rs.github.io/polars-book/user-guide/introduction.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python async requests</title>
+      <link>/post/2022-07-01-python-async-requests/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-python-async-requests/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/post/674150/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RocksDict</title>
+      <link>/post/2022-07-01-rocksdict/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-rocksdict/</guid>
+      <description>&lt;p&gt;Key-value storage supporting any python object&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Congyuwang/RocksDict&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>smart_open — utils for streaming large files in Python</title>
+      <link>/post/2022-07-01-smart-open-utils-for-streaming-large-files-in-python/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-smart-open-utils-for-streaming-large-files-in-python/</guid>
+      <description>&lt;p&gt;smart_open is a Python 3 library for efficient streaming of very large files from/to storages such as S3, GCS, Azure Blob Storage, HDFS, WebHDFS, HTTP, HTTPS, SFTP, or local filesystem. It supports transparent, on-the-fly (de-)compression for a variety of different formats.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/RaRe-Technologies/smart_open&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Time Series Projects: Tools, Packages, and Libraries That Can Help</title>
+      <link>/post/2022-07-01-time-series-projects-tools-packages-and-libraries-that-can-help/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-time-series-projects-tools-packages-and-libraries-that-can-help/</guid>
+      <description>&lt;p&gt;A time series is a sequence of data points indexed in time order. It’s an observation of the same variable at successive points in time. In other words, it’s a set of data that has been observed over a period of time.
+&lt;a href=&#34;https://neptune.ai/blog/time-series-tools-packages-libraries&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>All algorithms implemented in Python - for education</title>

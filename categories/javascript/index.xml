@@ -5,10 +5,32 @@
     <description>Recent content in javascript on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deploy Node.js Microservices on AWS With EKS &amp; Helm</title>
+      <link>/post/2022-07-01-deploy-node-js-microservices-on-aws-with-eks-helm/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-deploy-node-js-microservices-on-aws-with-eks-helm/</guid>
+      <description>&lt;p&gt;In this video, we learn how to deploy Node.js Microservices to AWS using EKS &amp;amp; Helm, the package manager for Kubernetes.
+&lt;a href=&#34;https://www.youtube.com/watch?v=heQbbrSu8LM&amp;amp;ab_channel=MichaelGuay&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grid.js  Advanced Table Plugin</title>
+      <link>/post/2022-07-01-grid-js-advanced-table-plugin/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-01-grid-js-advanced-table-plugin/</guid>
+      <description>&lt;p&gt;Grid.js is a Free and open-source JavaScript table plugin. It works with most JavaScript frameworks, including React, Angular, Vue and VanillaJs.
+&lt;a href=&#34;https://gridjs.io/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One Page Website Templates</title>
