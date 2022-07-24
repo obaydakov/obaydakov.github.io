@@ -5,10 +5,32 @@
     <description>Recent content in design on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/design/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ML Systems Design Interview Guide</title>
+      <link>/post/2022-07-24-ml-systems-design-interview-guide/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-ml-systems-design-interview-guide/</guid>
+      <description>&lt;p&gt;One of the trickiest interview rounds for ML practitioners is ML systems design. If you’re applying to be a Data Scientist, ML Engineer or ML Manager at a big tech company, you’ll probably face an ML Systems design question. I recently tackled this question at a few big tech companies on my way to becoming a Staff ML Engineer at Pinterest. In this article I’m going to talk about how to approach ML Systems Design interviews, core concepts to know and I’ll provide links to some of the resources I used.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://patrickhalina.com/posts/ml-systems-design-interview-guide/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Definitive Guide to Building a Data Mesh With Event Streams</title>
+      <link>/post/2022-07-24-the-definitive-guide-to-building-a-data-mesh-with-event-streams/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-the-definitive-guide-to-building-a-data-mesh-with-event-streams/</guid>
+      <description>&lt;p&gt;The data mesh concept is often presented with scant details regarding an implementation. We have created an opinionated prototype showcasing the principles of data mesh.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/the-definitive-guide-to-building-a-data-mesh-with&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One Page Website Templates</title>

@@ -5,10 +5,21 @@
     <description>Recent content in computer-vision on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Diffusion Models and Score-matching Models</title>
+      <link>/post/2022-07-24-diffusion-models-and-score-matching-models/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-diffusion-models-and-score-matching-models/</guid>
+      <description>&lt;p&gt;This repository contains a collection of resources and papers on Diffusion Models and Score-matching Models.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/heejkoo/Awesome-Diffusion-Models&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PYSKL</title>

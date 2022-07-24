@@ -5,10 +5,20 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A collective list of APIs. Build</title>
+      <link>/post/2022-07-24-a-collective-list-of-apis-build/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-a-collective-list-of-apis-build/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://apilist.fun/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deploy Node.js Microservices on AWS With EKS &amp; Helm</title>

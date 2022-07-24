@@ -5,10 +5,45 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A high-level plotting API for the PyData ecosystem built on HoloViews.</title>
+      <link>/post/2022-07-24-a-high-level-plotting-api-for-the-pydata-ecosystem-built-on-holoviews/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-a-high-level-plotting-api-for-the-pydata-ecosystem-built-on-holoviews/</guid>
+      <description>&lt;p&gt;hvPlot provides a high-level plotting API built on HoloViews that provides a general and consistent API for plotting data in all the abovementioned formats. hvPlot can integrate neatly with the individual libraries if an extension mechanism for the native plot APIs is offered, or it can be used as a standalone component. To get started jump straight into the installation instructions and check out the current functionality in the User Guide.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pyviz-dev.github.io/hvplot/index.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Databolt Flow</title>
+      <link>/post/2022-07-24-databolt-flow/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-databolt-flow/</guid>
+      <description>&lt;p&gt;For data scientists and data engineers, d6tflow is a python library which makes building complex data science workflows easy, fast and intuitive. It is primarily designed for data scientists to build better models faster. For data engineers, it can also be a lightweight alternative and help productionize data science models faster. Unlike other data pipeline/workflow solutions, d6tflow focuses on managing data science research workflows instead of managing production data pipelines.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/d6t/d6tflow&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/d6t/d6tflow/blob/master/docs/example-ml.md&#34;&gt;Example Usage For a Machine Learning Workflow&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Databolt Pipeline</title>
+      <link>/post/2022-07-24-databolt-pipeline/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-databolt-pipeline/</guid>
+      <description>&lt;p&gt;d6tpipe is a python library which makes it easier to exchange data files. It&amp;rsquo;s like git for data! But better because you can include it in your data science code.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/d6t/d6tpipe#installation&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://d6tpipe.readthedocs.io/en/latest/quickstart.html#installation&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Essential Techniques to Style Pandas DataFrames</title>

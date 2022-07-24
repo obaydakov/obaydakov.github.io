@@ -5,10 +5,54 @@
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Diffusion Models and Score-matching Models</title>
+      <link>/post/2022-07-24-diffusion-models-and-score-matching-models/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-diffusion-models-and-score-matching-models/</guid>
+      <description>&lt;p&gt;This repository contains a collection of resources and papers on Diffusion Models and Score-matching Models.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/heejkoo/Awesome-Diffusion-Models&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPU Puzzles</title>
+      <link>/post/2022-07-24-gpu-puzzles/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-gpu-puzzles/</guid>
+      <description>&lt;p&gt;GPU architectures are critical to machine learning, and seem to be becoming even more important every day. However you can be an expert in machine learning without ever touching GPU code. It is a bit weird to be work always through abstraction.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/srush/GPU-Puzzles?utm_source=tldrnewsletter&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tensor Puzzles</title>
+      <link>/post/2022-07-24-tensor-puzzles/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-tensor-puzzles/</guid>
+      <description>&lt;p&gt;This is a collection of 16 tensor puzzles. Like chess puzzles these are not meant to simulate the complexity of a real program, but to practice in a simplified environment. Each puzzle asks you to reimplement one function in the NumPy standard library without magic.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/srush/Tensor-Puzzles&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Top ten cloud GPU platforms for deep learning</title>
+      <link>/post/2022-07-24-top-ten-cloud-gpu-platforms-for-deep-learning/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-top-ten-cloud-gpu-platforms-for-deep-learning/</guid>
+      <description>&lt;p&gt;In this article, we explore the services of available cloud GPU platforms with a focus on relevant factors such as pricing, infrastructure, design, performance, support, and security. We use this to present the best platforms to consider for your cloud GPU necessities.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.paperspace.com/top-ten-cloud-gpu-platforms-for-deep-learning/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2022: A Year Full of Amazing AI papers- A Review</title>

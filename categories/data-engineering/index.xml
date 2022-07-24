@@ -5,10 +5,119 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A collective list of APIs. Build</title>
+      <link>/post/2022-07-24-a-collective-list-of-apis-build/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-a-collective-list-of-apis-build/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://apilist.fun/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beautiful database diagrams</title>
+      <link>/post/2022-07-24-beautiful-database-diagrams/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-beautiful-database-diagrams/</guid>
+      <description>&lt;p&gt;Beautiful database diagrams&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drawsql.app/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build a modern data architecture on AWS with Amazon AppFlow, AWS Lake Formation, and Amazon Redshift</title>
+      <link>/post/2022-07-24-build-a-modern-data-architecture-on-aws-with-amazon-appflow-aws-lake-formation-and-amazon-redshift/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-build-a-modern-data-architecture-on-aws-with-amazon-appflow-aws-lake-formation-and-amazon-redshift/</guid>
+      <description>&lt;p&gt;The following diagram illustrates the data platform architecture&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/fr/blogs/big-data/build-a-modern-data-architecture-on-aws-with-amazon-appflow-aws-lake-formation-and-amazon-redshift/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ML Systems Design Interview Guide</title>
+      <link>/post/2022-07-24-ml-systems-design-interview-guide/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-ml-systems-design-interview-guide/</guid>
+      <description>&lt;p&gt;One of the trickiest interview rounds for ML practitioners is ML systems design. If you’re applying to be a Data Scientist, ML Engineer or ML Manager at a big tech company, you’ll probably face an ML Systems design question. I recently tackled this question at a few big tech companies on my way to becoming a Staff ML Engineer at Pinterest. In this article I’m going to talk about how to approach ML Systems Design interviews, core concepts to know and I’ll provide links to some of the resources I used.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://patrickhalina.com/posts/ml-systems-design-interview-guide/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Native EKS Ingress: AWS Load Balancer Controller &amp; 5 Examples (Terraform, TLS, IngressGroup, IP)</title>
+      <link>/post/2022-07-24-native-eks-ingress-aws-load-balancer-controller-5-examples-terraform-tls-ingressgroup-ip/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-native-eks-ingress-aws-load-balancer-controller-5-examples-terraform-tls-ingressgroup-ip/</guid>
+      <description>&lt;p&gt;AWS Load Balancer Controller is a controller to help manage Elastic Load Balancers for a Kubernetes cluster.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZfjpWOC5eoE&amp;amp;ab_channel=AntonPutra&#34;&gt;Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/antonputra/tutorials/tree/main/lessons/112&#34;&gt;Tutorials&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Public APIs</title>
+      <link>/post/2022-07-24-public-apis/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-public-apis/</guid>
+      <description>&lt;p&gt;A collective list of free APIs for use in software and web development&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Templating your SQL Queries Using Jinga on dbt</title>
+      <link>/post/2022-07-24-templating-your-sql-queries-using-jinga-on-dbt/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-templating-your-sql-queries-using-jinga-on-dbt/</guid>
+      <description>&lt;p&gt;DBT(data build tool) is a data transformation tool that enables data engineers and analysts to transform and document data. It provides the transformation layer in ELT(export-load-transform) process. It also facilitates how data professionals can build scalable and maintainable code just like software engineers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@oluwabukunmige/templating-your-sql-queries-using-jinga-on-dbt-ce3d1e14a7fc&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Definitive Guide to Building a Data Mesh With Event Streams</title>
+      <link>/post/2022-07-24-the-definitive-guide-to-building-a-data-mesh-with-event-streams/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-the-definitive-guide-to-building-a-data-mesh-with-event-streams/</guid>
+      <description>&lt;p&gt;The data mesh concept is often presented with scant details regarding an implementation. We have created an opinionated prototype showcasing the principles of data mesh.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dzone.com/articles/the-definitive-guide-to-building-a-data-mesh-with&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transform your data with dbt and Serverless architecture</title>
+      <link>/post/2022-07-24-transform-your-data-with-dbt-and-serverless-architecture/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-transform-your-data-with-dbt-and-serverless-architecture/</guid>
+      <description>&lt;p&gt;We recommend starting with the default structure created by the dbt init [TD1] command and checking out the best practices from the folks at dbt (dbt documentation, dbt app reference, and discourse).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://platform.deloitte.com.au/articles/transform-your-data-with-dbt-and-serverless-architecture&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is an awesome list? </title>
+      <link>/post/2022-07-24-what-is-an-awesome-list/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-what-is-an-awesome-list/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/sindresorhus/awesome&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>data-diff</title>

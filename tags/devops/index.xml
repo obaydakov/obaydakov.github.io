@@ -5,10 +5,33 @@
     <description>Recent content in devops on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Native EKS Ingress: AWS Load Balancer Controller &amp; 5 Examples (Terraform, TLS, IngressGroup, IP)</title>
+      <link>/post/2022-07-24-native-eks-ingress-aws-load-balancer-controller-5-examples-terraform-tls-ingressgroup-ip/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-native-eks-ingress-aws-load-balancer-controller-5-examples-terraform-tls-ingressgroup-ip/</guid>
+      <description>&lt;p&gt;AWS Load Balancer Controller is a controller to help manage Elastic Load Balancers for a Kubernetes cluster.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZfjpWOC5eoE&amp;amp;ab_channel=AntonPutra&#34;&gt;Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/antonputra/tutorials/tree/main/lessons/112&#34;&gt;Tutorials&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transform your data with dbt and Serverless architecture</title>
+      <link>/post/2022-07-24-transform-your-data-with-dbt-and-serverless-architecture/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-transform-your-data-with-dbt-and-serverless-architecture/</guid>
+      <description>&lt;p&gt;We recommend starting with the default structure created by the dbt init [TD1] command and checking out the best practices from the folks at dbt (dbt documentation, dbt app reference, and discourse).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://platform.deloitte.com.au/articles/transform-your-data-with-dbt-and-serverless-architecture&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>free-for.dev</title>

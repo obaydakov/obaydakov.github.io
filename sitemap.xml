@@ -5,8 +5,24 @@
   
 
       <url>
+        <loc>/post/2022-07-24-a-collective-list-of-apis-build/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-a-high-level-plotting-api-for-the-pydata-ecosystem-built-on-holoviews/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/tags/apps/</loc>
-        <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -14,15 +30,31 @@
 
       <url>
         <loc>/tags/articles/</loc>
-        <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
     </url>
     
   
   
 
       <url>
-        <loc>/post/2022-07-01-aws-glue-etl-code-samples/</loc>
-        <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+        <loc>/post/2022-07-24-beautiful-database-diagrams/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-build-a-modern-data-architecture-on-aws-with-amazon-appflow-aws-lake-formation-and-amazon-redshift/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-build-bored-ape-yacht-club-with-next-js-tailwind-thirdweb-nft-drop-tutorial/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -30,7 +62,15 @@
 
       <url>
         <loc>/categories/</loc>
-        <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/cloud/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -38,6 +78,254 @@
 
       <url>
         <loc>/categories/cloud/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/computer-vision/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/crypto/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-cs25-i-stanford-seminar/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-engineering/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-databolt-flow/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-databolt-pipeline/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/deep-learning/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/design/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/development/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/devops/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-diffusion-models-and-score-matching-models/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-gpu-puzzles/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/libraries/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/machine-learning/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-ml-systems-design-interview-guide/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-native-eks-ingress-aws-load-balancer-controller-5-examples-terraform-tls-ingressgroup-ip/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/nlp/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-public-apis/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/python/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-templating-your-sql-queries-using-jinga-on-dbt/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-tensor-puzzles/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-the-definitive-guide-to-building-a-data-mesh-with-event-streams/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-top-ten-cloud-gpu-platforms-for-deep-learning/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-transform-your-data-with-dbt-and-serverless-architecture/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/visualization/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-24-what-is-an-awesome-list/</loc>
+        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-17-example-usage-for-a-machine-learning-workflow-databolt-flow/</loc>
+        <lastmod>2022-07-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-07-01-aws-glue-etl-code-samples/</loc>
         <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -61,31 +349,7 @@
   
 
       <url>
-        <loc>/categories/data-engineering/</loc>
-        <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/</loc>
-        <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-07-01-deploy-node-js-microservices-on-aws-with-eks-helm/</loc>
-        <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/development/</loc>
         <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -157,22 +421,6 @@
   
 
       <url>
-        <loc>/tags/libraries/</loc>
-        <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/machine-learning/</loc>
-        <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-07-01-mlops-primer/</loc>
         <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     </url>
@@ -197,22 +445,6 @@
   
 
       <url>
-        <loc>/post/</loc>
-        <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/python/</loc>
-        <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-07-01-python-async-requests/</loc>
         <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     </url>
@@ -230,14 +462,6 @@
 
       <url>
         <loc>/post/2022-07-01-smart-open-utils-for-streaming-large-files-in-python/</loc>
-        <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/</loc>
         <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -333,31 +557,7 @@
   
 
       <url>
-        <loc>/categories/crypto/</loc>
-        <lastmod>2022-06-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-06-26-dash-sample-apps/</loc>
-        <lastmod>2022-06-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/deep-learning/</loc>
-        <lastmod>2022-06-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/design/</loc>
         <lastmod>2022-06-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -446,14 +646,6 @@
 
       <url>
         <loc>/post/2022-06-26-transactional-email-templates/</loc>
-        <lastmod>2022-06-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/visualization/</loc>
         <lastmod>2022-06-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -614,14 +806,6 @@
 
       <url>
         <loc>/post/2022-05-28-build-coinbase-blockchain-web-3-0-app-with-next-js/</loc>
-        <lastmod>2022-05-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/computer-vision/</loc>
         <lastmod>2022-05-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -797,14 +981,6 @@
   
 
       <url>
-        <loc>/tags/cloud/</loc>
-        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-05-02-code-beautify/</loc>
         <lastmod>2022-05-02T00:00:00+00:00</lastmod>
     </url>
@@ -894,14 +1070,6 @@
 
       <url>
         <loc>/post/2022-05-02-machine-learning-sample-apps/</loc>
-        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/nlp/</loc>
         <lastmod>2022-05-02T00:00:00+00:00</lastmod>
     </url>
     
@@ -1326,14 +1494,6 @@
 
       <url>
         <loc>/post/2022-02-19-7-useful-examples-of-python-s-itertools/</loc>
-        <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/devops/</loc>
         <lastmod>2022-02-19T00:00:00+00:00</lastmod>
     </url>
     

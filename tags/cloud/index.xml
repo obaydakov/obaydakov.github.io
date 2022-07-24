@@ -5,10 +5,44 @@
     <description>Recent content in cloud on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build a modern data architecture on AWS with Amazon AppFlow, AWS Lake Formation, and Amazon Redshift</title>
+      <link>/post/2022-07-24-build-a-modern-data-architecture-on-aws-with-amazon-appflow-aws-lake-formation-and-amazon-redshift/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-build-a-modern-data-architecture-on-aws-with-amazon-appflow-aws-lake-formation-and-amazon-redshift/</guid>
+      <description>&lt;p&gt;The following diagram illustrates the data platform architecture&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/fr/blogs/big-data/build-a-modern-data-architecture-on-aws-with-amazon-appflow-aws-lake-formation-and-amazon-redshift/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Native EKS Ingress: AWS Load Balancer Controller &amp; 5 Examples (Terraform, TLS, IngressGroup, IP)</title>
+      <link>/post/2022-07-24-native-eks-ingress-aws-load-balancer-controller-5-examples-terraform-tls-ingressgroup-ip/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-native-eks-ingress-aws-load-balancer-controller-5-examples-terraform-tls-ingressgroup-ip/</guid>
+      <description>&lt;p&gt;AWS Load Balancer Controller is a controller to help manage Elastic Load Balancers for a Kubernetes cluster.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZfjpWOC5eoE&amp;amp;ab_channel=AntonPutra&#34;&gt;Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/antonputra/tutorials/tree/main/lessons/112&#34;&gt;Tutorials&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Top ten cloud GPU platforms for deep learning</title>
+      <link>/post/2022-07-24-top-ten-cloud-gpu-platforms-for-deep-learning/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-top-ten-cloud-gpu-platforms-for-deep-learning/</guid>
+      <description>&lt;p&gt;In this article, we explore the services of available cloud GPU platforms with a focus on relevant factors such as pricing, infrastructure, design, performance, support, and security. We use this to present the best platforms to consider for your cloud GPU necessities.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.paperspace.com/top-ten-cloud-gpu-platforms-for-deep-learning/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HashiCorp Terraform Associate Certification Course - Pass the Exam!</title>

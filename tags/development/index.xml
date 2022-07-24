@@ -5,10 +5,65 @@
     <description>Recent content in development on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build Bored Ape Yacht Club with Next.js, Tailwind &amp; Thirdweb (NFT Drop Tutorial)</title>
+      <link>/post/2022-07-24-build-bored-ape-yacht-club-with-next-js-tailwind-thirdweb-nft-drop-tutorial/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-build-bored-ape-yacht-club-with-next-js-tailwind-thirdweb-nft-drop-tutorial/</guid>
+      <description>&lt;p&gt;In this tutorial, you&amp;rsquo;re gonna be building the BAYC Clone, an NFT Drop Tutorial using Next.JS, Tailwind and Thirdweb&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=P5jetKCsupo&amp;amp;ab_channel=CleverProgrammer&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPU Puzzles</title>
+      <link>/post/2022-07-24-gpu-puzzles/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-gpu-puzzles/</guid>
+      <description>&lt;p&gt;GPU architectures are critical to machine learning, and seem to be becoming even more important every day. However you can be an expert in machine learning without ever touching GPU code. It is a bit weird to be work always through abstraction.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/srush/GPU-Puzzles?utm_source=tldrnewsletter&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Public APIs</title>
+      <link>/post/2022-07-24-public-apis/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-public-apis/</guid>
+      <description>&lt;p&gt;A collective list of free APIs for use in software and web development&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Templating your SQL Queries Using Jinga on dbt</title>
+      <link>/post/2022-07-24-templating-your-sql-queries-using-jinga-on-dbt/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-templating-your-sql-queries-using-jinga-on-dbt/</guid>
+      <description>&lt;p&gt;DBT(data build tool) is a data transformation tool that enables data engineers and analysts to transform and document data. It provides the transformation layer in ELT(export-load-transform) process. It also facilitates how data professionals can build scalable and maintainable code just like software engineers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@oluwabukunmige/templating-your-sql-queries-using-jinga-on-dbt-ce3d1e14a7fc&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tensor Puzzles</title>
+      <link>/post/2022-07-24-tensor-puzzles/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-07-24-tensor-puzzles/</guid>
+      <description>&lt;p&gt;This is a collection of 16 tensor puzzles. Like chess puzzles these are not meant to simulate the complexity of a real program, but to practice in a simplified environment. Each puzzle asks you to reimplement one function in the NumPy standard library without magic.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/srush/Tensor-Puzzles&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What is Kedro?</title>
