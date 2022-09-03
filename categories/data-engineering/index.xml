@@ -5,10 +5,54 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Algorithms you should know before you take system design interviews</title>
+      <link>/post/2022-09-03-algorithms-you-should-know-before-you-take-system-design-interviews/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-algorithms-you-should-know-before-you-take-system-design-interviews/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blog.bytebytego.com/p/algorithms-you-should-know-before&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Draw Entity-Relationship Diagrams, Painlessly</title>
+      <link>/post/2022-09-03-draw-entity-relationship-diagrams-painlessly/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-draw-entity-relationship-diagrams-painlessly/</guid>
+      <description>&lt;p&gt;A free, simple tool to draw ER diagrams by just writing code.
+Designed for developers and data analysts.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dbdiagram.io/home&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi node PyTorch Distributed Training Guide For People In A Hurry</title>
+      <link>/post/2022-09-03-multi-node-pytorch-distributed-training-guide-for-people-in-a-hurry/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-multi-node-pytorch-distributed-training-guide-for-people-in-a-hurry/</guid>
+      <description>&lt;p&gt;PyTorch is designed to be the framework that&amp;rsquo;s both easy to use and delivers performance at scale. Indeed it has become the most popular deep learning framework, by a mile among the research community. However, despite some lengthy official tutorials and a few helpful community blogs, it is not always clear what exactly has to be done to make your PyTorch training to work across multiple nodes.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lambdalabs.com/blog/multi-node-pytorch-distributed-training-guide/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SaaS landing page examples</title>
+      <link>/post/2022-09-03-saas-landing-page-examples/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-saas-landing-page-examples/</guid>
+      <description>&lt;p&gt;Discover the best 710 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://saaslandingpage.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A collective list of APIs. Build</title>

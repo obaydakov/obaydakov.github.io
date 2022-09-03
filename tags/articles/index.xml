@@ -5,10 +5,81 @@
     <description>Recent content in articles on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awesome AI Guidelines</title>
+      <link>/post/2022-09-03-awesome-ai-guidelines/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-awesome-ai-guidelines/</guid>
+      <description>&lt;p&gt;This repository aims to simplify this by mapping the ecosystem of guidelines, principles, codes of ethics, standards and regulation being put in place around artificial intelligence.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/EthicalML/awesome-artificial-intelligence-guidelines&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build a GNN-based real-time fraud detection solution using Amazon SageMaker, Amazon Neptune, and the Deep Graph Library</title>
+      <link>/post/2022-09-03-build-a-gnn-based-real-time-fraud-detection-solution-using-amazon-sagemaker-amazon-neptune-and-the-deep-graph-library/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-build-a-gnn-based-real-time-fraud-detection-solution-using-amazon-sagemaker-amazon-neptune-and-the-deep-graph-library/</guid>
+      <description>&lt;p&gt;We focus on four tasks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Processing a tabular transaction dataset into a heterogeneous graph dataset&lt;/li&gt;
+&lt;li&gt;Training a GNN model using SageMaker&lt;/li&gt;
+&lt;li&gt;Deploying the trained GNN models as a SageMaker endpoint&lt;/li&gt;
+&lt;li&gt;Demonstrating real-time inference for incoming transactions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/machine-learning/build-a-gnn-based-real-time-fraud-detection-solution-using-amazon-sagemaker-amazon-neptune-and-the-deep-graph-library/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contents Games and Puzzles as Multicomputational Systems</title>
+      <link>/post/2022-09-03-contents-games-and-puzzles-as-multicomputational-systems/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-contents-games-and-puzzles-as-multicomputational-systems/</guid>
+      <description>&lt;p&gt;Multicomputation is one of the core ideas of the Wolfram Physics Project—and in particular is at the heart of our emerging understanding of quantum mechanics. But how can one get an intuition for what is initially the rather abstract idea of multicomputation? A good approach, I believe, is to see it in action in familiar systems and situations. And I explore here what seems like a particularly good example: games and puzzles.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://writings.stephenwolfram.com/2022/06/games-and-puzzles-as-multicomputational-systems/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design Patterns in Machine Learning Code and Systems</title>
+      <link>/post/2022-09-03-design-patterns-in-machine-learning-code-and-systems/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-design-patterns-in-machine-learning-code-and-systems/</guid>
+      <description>&lt;p&gt;Design patterns are not just a way to structure code. They also communicate the problem addressed and how the code or component is intended to be used.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://eugeneyan.com/writing/design-patterns/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi node PyTorch Distributed Training Guide For People In A Hurry</title>
+      <link>/post/2022-09-03-multi-node-pytorch-distributed-training-guide-for-people-in-a-hurry/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-multi-node-pytorch-distributed-training-guide-for-people-in-a-hurry/</guid>
+      <description>&lt;p&gt;PyTorch is designed to be the framework that&amp;rsquo;s both easy to use and delivers performance at scale. Indeed it has become the most popular deep learning framework, by a mile among the research community. However, despite some lengthy official tutorials and a few helpful community blogs, it is not always clear what exactly has to be done to make your PyTorch training to work across multiple nodes.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lambdalabs.com/blog/multi-node-pytorch-distributed-training-guide/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics</title>
+      <link>/post/2022-09-03-the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What is an awesome list? </title>

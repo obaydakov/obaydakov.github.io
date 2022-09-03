@@ -5,10 +5,42 @@
     <description>Recent content in computer-vision on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DALL-E: Inside the Artificial Intelligence program that creates images from textual descriptions</title>
+      <link>/post/2022-09-03-dall-e-inside-the-artificial-intelligence-program-that-creates-images-from-textual-descriptions/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-dall-e-inside-the-artificial-intelligence-program-that-creates-images-from-textual-descriptions/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blog.paperspace.com/dall-e-image-generator/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stable Diffusion with Diffusers</title>
+      <link>/post/2022-09-03-stable-diffusion-with-diffusers/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-stable-diffusion-with-diffusers/</guid>
+      <description>&lt;p&gt;Stable Diffusion is a text-to-image latent diffusion model created by the researchers and engineers from CompVis, Stability AI and LAION. It is trained on 512x512 images from a subset of the LAION-5B database. LAION-5B is the largest, freely accessible multi-modal dataset that currently exists.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/blog/stable_diffusion&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tutorial on Denoising Diffusion-based Generative Modeling: Foundations and Applications</title>
+      <link>/post/2022-09-03-tutorial-on-denoising-diffusion-based-generative-modeling-foundations-and-applications/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-tutorial-on-denoising-diffusion-based-generative-modeling-foundations-and-applications/</guid>
+      <description>&lt;p&gt;This video presents our tutorial on Denoising Diffusion-based Generative Modeling: Foundations and Applications. This tutorial was originally presented at CVPR 2022 in New Orleans and it received a lot of interest from the research community.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?app=desktop&amp;amp;v=cS6JQpEY9cs&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Diffusion Models and Score-matching Models</title>

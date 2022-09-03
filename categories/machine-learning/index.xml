@@ -5,10 +5,57 @@
     <description>Recent content in Machine Learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awesome AI Guidelines</title>
+      <link>/post/2022-09-03-awesome-ai-guidelines/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-awesome-ai-guidelines/</guid>
+      <description>&lt;p&gt;This repository aims to simplify this by mapping the ecosystem of guidelines, principles, codes of ethics, standards and regulation being put in place around artificial intelligence.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/EthicalML/awesome-artificial-intelligence-guidelines&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building ML Pipeline: 6 Problems &amp; Solutions</title>
+      <link>/post/2022-09-03-building-ml-pipeline-6-problems-solutions/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-building-ml-pipeline-6-problems-solutions/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;common pitfalls I have seen in the previous companies I have been working at,&lt;/li&gt;
+&lt;li&gt;and how I managed to solve them.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://neptune.ai/blog/building-ml-pipeline-problems-solutions&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deploying a Machine Learning Model as an API</title>
+      <link>/post/2022-09-03-deploying-a-machine-learning-model-as-an-api/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-deploying-a-machine-learning-model-as-an-api/</guid>
+      <description>&lt;p&gt;A comprehensive guide to deploying a model as an API&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://heartbeat.comet.ml/deploying-a-machine-learning-model-as-an-api-d3cbef264ce4&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design Patterns in Machine Learning Code and Systems</title>
+      <link>/post/2022-09-03-design-patterns-in-machine-learning-code-and-systems/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-design-patterns-in-machine-learning-code-and-systems/</guid>
+      <description>&lt;p&gt;Design patterns are not just a way to structure code. They also communicate the problem addressed and how the code or component is intended to be used.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://eugeneyan.com/writing/design-patterns/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CS25 I Stanford Seminar</title>

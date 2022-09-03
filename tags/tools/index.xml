@@ -5,10 +5,33 @@
     <description>Recent content in tools on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Demystifying the Parquet File Format</title>
+      <link>/post/2022-09-03-demystifying-the-parquet-file-format/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-demystifying-the-parquet-file-format/</guid>
+      <description>&lt;p&gt;In this post we will discuss apache parquet, an extremely efficient and well-supported file format. The post is geared towards data practitioners (ML, DE, DS) so we’ll be focusing on high-level concepts and using SQL to talk through core concepts, but links for further resources can be found throughout the post and in the comments.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Draw Entity-Relationship Diagrams, Painlessly</title>
+      <link>/post/2022-09-03-draw-entity-relationship-diagrams-painlessly/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-draw-entity-relationship-diagrams-painlessly/</guid>
+      <description>&lt;p&gt;A free, simple tool to draw ER diagrams by just writing code.
+Designed for developers and data analysts.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dbdiagram.io/home&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>transform.tools</title>

@@ -6,7 +6,193 @@
     <description>Recent content in Posts on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithms you should know before you take system design interviews</title>
+      <link>/post/2022-09-03-algorithms-you-should-know-before-you-take-system-design-interviews/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-algorithms-you-should-know-before-you-take-system-design-interviews/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Awesome AI Guidelines</title>
+      <link>/post/2022-09-03-awesome-ai-guidelines/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-awesome-ai-guidelines/</guid>
+      <description>This repository aims to simplify this by mapping the ecosystem of guidelines, principles, codes of ethics, standards and regulation being put in place around artificial intelligence.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Build a GNN-based real-time fraud detection solution using Amazon SageMaker, Amazon Neptune, and the Deep Graph Library</title>
+      <link>/post/2022-09-03-build-a-gnn-based-real-time-fraud-detection-solution-using-amazon-sagemaker-amazon-neptune-and-the-deep-graph-library/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-build-a-gnn-based-real-time-fraud-detection-solution-using-amazon-sagemaker-amazon-neptune-and-the-deep-graph-library/</guid>
+      <description>We focus on four tasks:
+ Processing a tabular transaction dataset into a heterogeneous graph dataset Training a GNN model using SageMaker Deploying the trained GNN models as a SageMaker endpoint Demonstrating real-time inference for incoming transactions  Link</description>
+    </item>
+    
+    <item>
+      <title>Building ML Pipeline: 6 Problems &amp; Solutions</title>
+      <link>/post/2022-09-03-building-ml-pipeline-6-problems-solutions/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-building-ml-pipeline-6-problems-solutions/</guid>
+      <description>common pitfalls I have seen in the previous companies I have been working at, and how I managed to solve them.  Link</description>
+    </item>
+    
+    <item>
+      <title>Contents Games and Puzzles as Multicomputational Systems</title>
+      <link>/post/2022-09-03-contents-games-and-puzzles-as-multicomputational-systems/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-contents-games-and-puzzles-as-multicomputational-systems/</guid>
+      <description>Multicomputation is one of the core ideas of the Wolfram Physics Project—and in particular is at the heart of our emerging understanding of quantum mechanics. But how can one get an intuition for what is initially the rather abstract idea of multicomputation? A good approach, I believe, is to see it in action in familiar systems and situations. And I explore here what seems like a particularly good example: games and puzzles.</description>
+    </item>
+    
+    <item>
+      <title>DALL-E: Inside the Artificial Intelligence program that creates images from textual descriptions</title>
+      <link>/post/2022-09-03-dall-e-inside-the-artificial-intelligence-program-that-creates-images-from-textual-descriptions/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-dall-e-inside-the-artificial-intelligence-program-that-creates-images-from-textual-descriptions/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Demystifying the Parquet File Format</title>
+      <link>/post/2022-09-03-demystifying-the-parquet-file-format/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-demystifying-the-parquet-file-format/</guid>
+      <description>In this post we will discuss apache parquet, an extremely efficient and well-supported file format. The post is geared towards data practitioners (ML, DE, DS) so we’ll be focusing on high-level concepts and using SQL to talk through core concepts, but links for further resources can be found throughout the post and in the comments.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Deploying a Machine Learning Model as an API</title>
+      <link>/post/2022-09-03-deploying-a-machine-learning-model-as-an-api/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-deploying-a-machine-learning-model-as-an-api/</guid>
+      <description>A comprehensive guide to deploying a model as an API
+Link</description>
+    </item>
+    
+    <item>
+      <title>Design Patterns in Machine Learning Code and Systems</title>
+      <link>/post/2022-09-03-design-patterns-in-machine-learning-code-and-systems/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-design-patterns-in-machine-learning-code-and-systems/</guid>
+      <description>Design patterns are not just a way to structure code. They also communicate the problem addressed and how the code or component is intended to be used.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Draw Entity-Relationship Diagrams, Painlessly</title>
+      <link>/post/2022-09-03-draw-entity-relationship-diagrams-painlessly/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-draw-entity-relationship-diagrams-painlessly/</guid>
+      <description>A free, simple tool to draw ER diagrams by just writing code. Designed for developers and data analysts.
+link</description>
+    </item>
+    
+    <item>
+      <title>Introducing Skops</title>
+      <link>/post/2022-09-03-introducing-skops/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-introducing-skops/</guid>
+      <description>At Hugging Face, we are working on tackling various problems in open-source machine learning, including, hosting models securely and openly, enabling reproducibility, explainability and collaboration. We are thrilled to introduce you to our new library: Skops! With Skops, you can host your scikit-learn models on the Hugging Face Hub, create model cards for model documentation and collaborate with others.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Multi node PyTorch Distributed Training Guide For People In A Hurry</title>
+      <link>/post/2022-09-03-multi-node-pytorch-distributed-training-guide-for-people-in-a-hurry/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-multi-node-pytorch-distributed-training-guide-for-people-in-a-hurry/</guid>
+      <description>PyTorch is designed to be the framework that&amp;rsquo;s both easy to use and delivers performance at scale. Indeed it has become the most popular deep learning framework, by a mile among the research community. However, despite some lengthy official tutorials and a few helpful community blogs, it is not always clear what exactly has to be done to make your PyTorch training to work across multiple nodes.
+Link</description>
+    </item>
+    
+    <item>
+      <title>POLARS - Blazingly fast DataFrames in Rust, Python &amp; Node.js</title>
+      <link>/post/2022-09-03-polars-blazingly-fast-dataframes-in-rust-python-node-js/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-polars-blazingly-fast-dataframes-in-rust-python-node-js/</guid>
+      <description>Polars is a blazingly fast DataFrames library implemented in Rust using Apache Arrow Columnar Format as the memory model.
+Polars book
+Link</description>
+    </item>
+    
+    <item>
+      <title>SaaS landing page examples</title>
+      <link>/post/2022-09-03-saas-landing-page-examples/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-saas-landing-page-examples/</guid>
+      <description>Discover the best 710 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Stable Diffusion with Diffusers</title>
+      <link>/post/2022-09-03-stable-diffusion-with-diffusers/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-stable-diffusion-with-diffusers/</guid>
+      <description>Stable Diffusion is a text-to-image latent diffusion model created by the researchers and engineers from CompVis, Stability AI and LAION. It is trained on 512x512 images from a subset of the LAION-5B database. LAION-5B is the largest, freely accessible multi-modal dataset that currently exists.
+Link</description>
+    </item>
+    
+    <item>
+      <title>The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics</title>
+      <link>/post/2022-09-03-the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The spelled-out intro to neural networks and backpropagation: building micrograd</title>
+      <link>/post/2022-09-03-the-spelled-out-intro-to-neural-networks-and-backpropagation-building-micrograd/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-the-spelled-out-intro-to-neural-networks-and-backpropagation-building-micrograd/</guid>
+      <description>This is the most step-by-step spelled-out explanation of backpropagation and training of neural networks. It only assumes basic knowledge of Python and a vague recollection of calculus from high school.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Tutorial on Denoising Diffusion-based Generative Modeling: Foundations and Applications</title>
+      <link>/post/2022-09-03-tutorial-on-denoising-diffusion-based-generative-modeling-foundations-and-applications/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-tutorial-on-denoising-diffusion-based-generative-modeling-foundations-and-applications/</guid>
+      <description>This video presents our tutorial on Denoising Diffusion-based Generative Modeling: Foundations and Applications. This tutorial was originally presented at CVPR 2022 in New Orleans and it received a lot of interest from the research community.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Web3, Full Stack Solidity, Smart Contract &amp; Blockchain - Beginner to Expert ULTIMATE Course</title>
+      <link>/post/2022-09-03-web3-full-stack-solidity-smart-contract-blockchain-beginner-to-expert-ultimate-course/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-web3-full-stack-solidity-smart-contract-blockchain-beginner-to-expert-ultimate-course/</guid>
+      <description>Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart Contract - Beginner to Expert Full Course | Javascript Edition FreeCodeCamp Course!
+link</description>
+    </item>
+    
     <item>
       <title>A collective list of APIs. Build</title>
       <link>/post/2022-07-24-a-collective-list-of-apis-build/</link>
@@ -14,193 +200,6 @@
       
       <guid>/post/2022-07-24-a-collective-list-of-apis-build/</guid>
       <description>Link</description>
-    </item>
-    
-    <item>
-      <title>A high-level plotting API for the PyData ecosystem built on HoloViews.</title>
-      <link>/post/2022-07-24-a-high-level-plotting-api-for-the-pydata-ecosystem-built-on-holoviews/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-a-high-level-plotting-api-for-the-pydata-ecosystem-built-on-holoviews/</guid>
-      <description>hvPlot provides a high-level plotting API built on HoloViews that provides a general and consistent API for plotting data in all the abovementioned formats. hvPlot can integrate neatly with the individual libraries if an extension mechanism for the native plot APIs is offered, or it can be used as a standalone component. To get started jump straight into the installation instructions and check out the current functionality in the User Guide.</description>
-    </item>
-    
-    <item>
-      <title>Beautiful database diagrams</title>
-      <link>/post/2022-07-24-beautiful-database-diagrams/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-beautiful-database-diagrams/</guid>
-      <description>Beautiful database diagrams
-Link</description>
-    </item>
-    
-    <item>
-      <title>Build a modern data architecture on AWS with Amazon AppFlow, AWS Lake Formation, and Amazon Redshift</title>
-      <link>/post/2022-07-24-build-a-modern-data-architecture-on-aws-with-amazon-appflow-aws-lake-formation-and-amazon-redshift/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-build-a-modern-data-architecture-on-aws-with-amazon-appflow-aws-lake-formation-and-amazon-redshift/</guid>
-      <description>The following diagram illustrates the data platform architecture
-Link</description>
-    </item>
-    
-    <item>
-      <title>Build Bored Ape Yacht Club with Next.js, Tailwind &amp; Thirdweb (NFT Drop Tutorial)</title>
-      <link>/post/2022-07-24-build-bored-ape-yacht-club-with-next-js-tailwind-thirdweb-nft-drop-tutorial/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-build-bored-ape-yacht-club-with-next-js-tailwind-thirdweb-nft-drop-tutorial/</guid>
-      <description>In this tutorial, you&amp;rsquo;re gonna be building the BAYC Clone, an NFT Drop Tutorial using Next.JS, Tailwind and Thirdweb
-Link</description>
-    </item>
-    
-    <item>
-      <title>CS25 I Stanford Seminar</title>
-      <link>/post/2022-07-24-cs25-i-stanford-seminar/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-cs25-i-stanford-seminar/</guid>
-      <description>Since their introduction in 2017, transformers have revolutionized Natural Language Processing (NLP). Now, transformers are finding applications all over Deep Learning, be it computer vision (CV), reinforcement learning (RL), Generative Adversarial Networks (GANs), Speech or even Biology. Among other things, transformers have enabled the creation of powerful language models like GPT-3 and were instrumental in DeepMind&amp;rsquo;s recent AlphaFold2, that tackles protein folding.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Databolt Flow</title>
-      <link>/post/2022-07-24-databolt-flow/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-databolt-flow/</guid>
-      <description>For data scientists and data engineers, d6tflow is a python library which makes building complex data science workflows easy, fast and intuitive. It is primarily designed for data scientists to build better models faster. For data engineers, it can also be a lightweight alternative and help productionize data science models faster. Unlike other data pipeline/workflow solutions, d6tflow focuses on managing data science research workflows instead of managing production data pipelines.</description>
-    </item>
-    
-    <item>
-      <title>Databolt Pipeline</title>
-      <link>/post/2022-07-24-databolt-pipeline/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-databolt-pipeline/</guid>
-      <description>d6tpipe is a python library which makes it easier to exchange data files. It&amp;rsquo;s like git for data! But better because you can include it in your data science code.
-Link
-Documentation</description>
-    </item>
-    
-    <item>
-      <title>Diffusion Models and Score-matching Models</title>
-      <link>/post/2022-07-24-diffusion-models-and-score-matching-models/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-diffusion-models-and-score-matching-models/</guid>
-      <description>This repository contains a collection of resources and papers on Diffusion Models and Score-matching Models.
-Link</description>
-    </item>
-    
-    <item>
-      <title>GPU Puzzles</title>
-      <link>/post/2022-07-24-gpu-puzzles/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-gpu-puzzles/</guid>
-      <description>GPU architectures are critical to machine learning, and seem to be becoming even more important every day. However you can be an expert in machine learning without ever touching GPU code. It is a bit weird to be work always through abstraction.
-Link</description>
-    </item>
-    
-    <item>
-      <title>ML Systems Design Interview Guide</title>
-      <link>/post/2022-07-24-ml-systems-design-interview-guide/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-ml-systems-design-interview-guide/</guid>
-      <description>One of the trickiest interview rounds for ML practitioners is ML systems design. If you’re applying to be a Data Scientist, ML Engineer or ML Manager at a big tech company, you’ll probably face an ML Systems design question. I recently tackled this question at a few big tech companies on my way to becoming a Staff ML Engineer at Pinterest. In this article I’m going to talk about how to approach ML Systems Design interviews, core concepts to know and I’ll provide links to some of the resources I used.</description>
-    </item>
-    
-    <item>
-      <title>Native EKS Ingress: AWS Load Balancer Controller &amp; 5 Examples (Terraform, TLS, IngressGroup, IP)</title>
-      <link>/post/2022-07-24-native-eks-ingress-aws-load-balancer-controller-5-examples-terraform-tls-ingressgroup-ip/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-native-eks-ingress-aws-load-balancer-controller-5-examples-terraform-tls-ingressgroup-ip/</guid>
-      <description>AWS Load Balancer Controller is a controller to help manage Elastic Load Balancers for a Kubernetes cluster.
-Youtube
-Tutorials</description>
-    </item>
-    
-    <item>
-      <title>Public APIs</title>
-      <link>/post/2022-07-24-public-apis/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-public-apis/</guid>
-      <description>A collective list of free APIs for use in software and web development
-Link</description>
-    </item>
-    
-    <item>
-      <title>Templating your SQL Queries Using Jinga on dbt</title>
-      <link>/post/2022-07-24-templating-your-sql-queries-using-jinga-on-dbt/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-templating-your-sql-queries-using-jinga-on-dbt/</guid>
-      <description>DBT(data build tool) is a data transformation tool that enables data engineers and analysts to transform and document data. It provides the transformation layer in ELT(export-load-transform) process. It also facilitates how data professionals can build scalable and maintainable code just like software engineers.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Tensor Puzzles</title>
-      <link>/post/2022-07-24-tensor-puzzles/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-tensor-puzzles/</guid>
-      <description>This is a collection of 16 tensor puzzles. Like chess puzzles these are not meant to simulate the complexity of a real program, but to practice in a simplified environment. Each puzzle asks you to reimplement one function in the NumPy standard library without magic.
-Link</description>
-    </item>
-    
-    <item>
-      <title>The Definitive Guide to Building a Data Mesh With Event Streams</title>
-      <link>/post/2022-07-24-the-definitive-guide-to-building-a-data-mesh-with-event-streams/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-the-definitive-guide-to-building-a-data-mesh-with-event-streams/</guid>
-      <description>The data mesh concept is often presented with scant details regarding an implementation. We have created an opinionated prototype showcasing the principles of data mesh.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Top ten cloud GPU platforms for deep learning</title>
-      <link>/post/2022-07-24-top-ten-cloud-gpu-platforms-for-deep-learning/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-top-ten-cloud-gpu-platforms-for-deep-learning/</guid>
-      <description>In this article, we explore the services of available cloud GPU platforms with a focus on relevant factors such as pricing, infrastructure, design, performance, support, and security. We use this to present the best platforms to consider for your cloud GPU necessities.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Transform your data with dbt and Serverless architecture</title>
-      <link>/post/2022-07-24-transform-your-data-with-dbt-and-serverless-architecture/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-transform-your-data-with-dbt-and-serverless-architecture/</guid>
-      <description>We recommend starting with the default structure created by the dbt init [TD1] command and checking out the best practices from the folks at dbt (dbt documentation, dbt app reference, and discourse).
-Link</description>
-    </item>
-    
-    <item>
-      <title>What is an awesome list? </title>
-      <link>/post/2022-07-24-what-is-an-awesome-list/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-24-what-is-an-awesome-list/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Example Usage For a Machine Learning Workflow - Databolt Flow</title>
-      <link>/post/2022-07-17-example-usage-for-a-machine-learning-workflow-databolt-flow/</link>
-      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-07-17-example-usage-for-a-machine-learning-workflow-databolt-flow/</guid>
-      <description>For data scientists and data engineers, d6tflow is a python library which makes building complex data science workflows easy, fast and intuitive. It is primarily designed for data scientists to build better models faster. For data engineers, it can also be a lightweight alternative and help productionize data science models faster. Unlike other data pipeline/workflow solutions, d6tflow focuses on managing data science research workflows instead of managing production data pipelines.</description>
     </item>
     
   </channel>

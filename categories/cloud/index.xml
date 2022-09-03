@@ -5,10 +5,27 @@
     <description>Recent content in cloud on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build a GNN-based real-time fraud detection solution using Amazon SageMaker, Amazon Neptune, and the Deep Graph Library</title>
+      <link>/post/2022-09-03-build-a-gnn-based-real-time-fraud-detection-solution-using-amazon-sagemaker-amazon-neptune-and-the-deep-graph-library/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-build-a-gnn-based-real-time-fraud-detection-solution-using-amazon-sagemaker-amazon-neptune-and-the-deep-graph-library/</guid>
+      <description>&lt;p&gt;We focus on four tasks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Processing a tabular transaction dataset into a heterogeneous graph dataset&lt;/li&gt;
+&lt;li&gt;Training a GNN model using SageMaker&lt;/li&gt;
+&lt;li&gt;Deploying the trained GNN models as a SageMaker endpoint&lt;/li&gt;
+&lt;li&gt;Demonstrating real-time inference for incoming transactions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/machine-learning/build-a-gnn-based-real-time-fraud-detection-solution-using-amazon-sagemaker-amazon-neptune-and-the-deep-graph-library/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build a modern data architecture on AWS with Amazon AppFlow, AWS Lake Formation, and Amazon Redshift</title>

@@ -5,10 +5,22 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>POLARS - Blazingly fast DataFrames in Rust, Python &amp; Node.js</title>
+      <link>/post/2022-09-03-polars-blazingly-fast-dataframes-in-rust-python-node-js/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-polars-blazingly-fast-dataframes-in-rust-python-node-js/</guid>
+      <description>&lt;p&gt;Polars is a blazingly fast DataFrames library implemented in Rust using Apache Arrow Columnar Format as the memory model.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pola-rs.github.io/polars-book/user-guide/index.html&#34;&gt;Polars book&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/pola-rs/polars&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A high-level plotting API for the PyData ecosystem built on HoloViews.</title>

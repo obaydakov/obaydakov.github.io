@@ -5,10 +5,21 @@
     <description>Recent content in javascript on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Web3, Full Stack Solidity, Smart Contract &amp; Blockchain - Beginner to Expert ULTIMATE Course</title>
+      <link>/post/2022-09-03-web3-full-stack-solidity-smart-contract-blockchain-beginner-to-expert-ultimate-course/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-web3-full-stack-solidity-smart-contract-blockchain-beginner-to-expert-ultimate-course/</guid>
+      <description>&lt;p&gt;Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart Contract - Beginner to Expert Full Course | Javascript Edition FreeCodeCamp Course!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/smartcontractkit/full-blockchain-solidity-course-js&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deploy Node.js Microservices on AWS With EKS &amp; Helm</title>

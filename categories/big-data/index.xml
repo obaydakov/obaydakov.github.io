@@ -5,10 +5,21 @@
     <description>Recent content in big-data on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Demystifying the Parquet File Format</title>
+      <link>/post/2022-09-03-demystifying-the-parquet-file-format/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-03-demystifying-the-parquet-file-format/</guid>
+      <description>&lt;p&gt;In this post we will discuss apache parquet, an extremely efficient and well-supported file format. The post is geared towards data practitioners (ML, DE, DS) so we’ll be focusing on high-level concepts and using SQL to talk through core concepts, but links for further resources can be found throughout the post and in the comments.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Data Mesh</title>
