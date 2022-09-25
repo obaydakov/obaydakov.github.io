@@ -5,10 +5,21 @@
     <description>Recent content in nlp on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 Most Popular NLP Projects of 2022 So Far</title>
+      <link>/post/2022-09-25-12-most-popular-nlp-projects-of-2022-so-far/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-25-12-most-popular-nlp-projects-of-2022-so-far/</guid>
+      <description>&lt;p&gt;Natural Language Processing remains one of the hottest topics of 2022. By using GitHub stars (albeit certainly not the only measure) as a proxy for popularity, we took a look at what NLP projects are getting the most traction so far this year, just as we recently did with machine learning projects. It’s a list with some familiar names but there are plenty of surprises also!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://odsc.com/blog/12-most-popular-nlp-projects-of-2022-so-far/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Introducing Skops</title>

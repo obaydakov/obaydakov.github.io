@@ -5,10 +5,32 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alpha Connect</title>
+      <link>/post/2022-09-25-alpha-connect/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-25-alpha-connect/</guid>
+      <description>&lt;p&gt;Recreating DeepMind&amp;rsquo;s AlphaZero - AI Plays Connect 4&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLkYhK7LiOk0OWeGIRsbJz8kZGWxhrTpRx&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MinImagen - Build Your Own Imagen Text-to-Image Model</title>
+      <link>/post/2022-09-25-minimagen-build-your-own-imagen-text-to-image-model/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-25-minimagen-build-your-own-imagen-text-to-image-model/</guid>
+      <description>&lt;p&gt;Text-to-Image models have made great strides this year, from DALL-E 2 to the more recent Imagen model. In this tutorial learn how to build a minimal Imagen implementation - MinImagen.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Building ML Pipeline: 6 Problems &amp; Solutions</title>

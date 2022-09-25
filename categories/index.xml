@@ -5,10 +5,71 @@
     <description>Recent content in Categories on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>data-engineering</title>
+      <link>/categories/data-engineering/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/data-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-science</title>
+      <link>/categories/data-science/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>/categories/deep-learning/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/categories/machine-learning/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/machine-learning/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;!--script src=&#34;https://infograph.venngage.com/js/embed/v1/embed.js&#34; data-vg-id=&#34;u34x7Gx704&#34; data-title=&#34;A Brief History of Machine Learning&#34; data-w=&#34;816&#34; data-h=&#34;1056&#34; data-multipage=&#34;true&#34;&gt;&lt;/script--&gt;
+&lt;p&gt;&lt;img src=&#34;machine_learning_cover.jpg&#34; alt=&#34;Machine learning&#34; width = &#34;1000&#34; height = &#34;668&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Machine learning is a field of artificial intelligence (AI) that is concerned with learning from data. Machine learning has three components:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/tags/supervised-learning/&#34;&gt;Supervised learning&lt;/a&gt;: Fitting predictive models using data for which outcomes are available.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/tags/unsupervised-learning/&#34;&gt;Unsupervised learning&lt;/a&gt;: Transforming and partitioning data where outcomes are not available.&lt;/li&gt;
+&lt;li&gt;Reinforcement learning: on-line learning in environments where not all events are observable. Reinforcement learning is frequently applied in robotics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&#34;posts-on-machine-learning&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Posts on machine learning&lt;/h2&gt;
+&lt;p&gt;In the following posts, machine learning is applied to solve problems using R.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>/categories/math/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/math/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>big-data</title>
@@ -38,63 +99,11 @@
     </item>
     
     <item>
-      <title>data-engineering</title>
-      <link>/categories/data-engineering/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/data-engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>/categories/deep-learning/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>javascript</title>
       <link>/categories/javascript/</link>
       <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>/categories/machine-learning/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/machine-learning/</guid>
-      <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;!--script src=&#34;https://infograph.venngage.com/js/embed/v1/embed.js&#34; data-vg-id=&#34;u34x7Gx704&#34; data-title=&#34;A Brief History of Machine Learning&#34; data-w=&#34;816&#34; data-h=&#34;1056&#34; data-multipage=&#34;true&#34;&gt;&lt;/script--&gt;
-&lt;p&gt;&lt;img src=&#34;machine_learning_cover.jpg&#34; alt=&#34;Machine learning&#34; width = &#34;1000&#34; height = &#34;668&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Machine learning is a field of artificial intelligence (AI) that is concerned with learning from data. Machine learning has three components:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/tags/supervised-learning/&#34;&gt;Supervised learning&lt;/a&gt;: Fitting predictive models using data for which outcomes are available.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/tags/unsupervised-learning/&#34;&gt;Unsupervised learning&lt;/a&gt;: Transforming and partitioning data where outcomes are not available.&lt;/li&gt;
-&lt;li&gt;Reinforcement learning: on-line learning in environments where not all events are observable. Reinforcement learning is frequently applied in robotics.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id=&#34;posts-on-machine-learning&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Posts on machine learning&lt;/h2&gt;
-&lt;p&gt;In the following posts, machine learning is applied to solve problems using R.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>/categories/math/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/math/</guid>
       <description></description>
     </item>
     
@@ -113,15 +122,6 @@
       <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/biophysics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data-science</title>
-      <link>/categories/data-science/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/data-science/</guid>
       <description></description>
     </item>
     

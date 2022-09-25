@@ -5,10 +5,21 @@
     <description>Recent content in visualization on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data-Visualization Tools and Books</title>
+      <link>/post/2022-09-25-data-visualization-tools-and-books/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-25-data-visualization-tools-and-books/</guid>
+      <description>&lt;p&gt;Data-Visualization Tools and Books&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gallery.keshif.me/VisTools&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A high-level plotting API for the PyData ecosystem built on HoloViews.</title>

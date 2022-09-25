@@ -5,8 +5,24 @@
   
 
       <url>
-        <loc>/post/2022-09-03-algorithms-you-should-know-before-you-take-system-design-interviews/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
+        <loc>/post/2022-09-25-some2/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-09-25-12-most-popular-nlp-projects-of-2022-so-far/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-09-25-alpha-connect/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -14,7 +30,7 @@
 
       <url>
         <loc>/tags/apps/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -22,6 +38,166 @@
 
       <url>
         <loc>/tags/articles/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/automl/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-09-25-best-ml-model-registry-tools/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-09-25-best-practices-for-ml-engineering/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-engineering/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-science/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-09-25-data-visualization-tools-and-books/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/deep-learning/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/design/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-09-25-introducing-the-ai-project-canvas/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-09-25-introduction-to-diffusion-models-for-machine-learning/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/machine-learning/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/math/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-09-25-minimagen-build-your-own-imagen-text-to-image-model/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/nlp/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/visualization/</loc>
+        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-09-03-algorithms-you-should-know-before-you-take-system-design-interviews/</loc>
         <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -54,14 +230,6 @@
 
       <url>
         <loc>/post/2022-09-03-building-ml-pipeline-6-problems-solutions/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/</loc>
         <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -117,30 +285,6 @@
   
 
       <url>
-        <loc>/categories/data-engineering/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/deep-learning/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-09-03-demystifying-the-parquet-file-format/</loc>
         <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     </url>
@@ -150,14 +294,6 @@
 
       <url>
         <loc>/post/2022-09-03-deploying-a-machine-learning-model-as-an-api/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/design/</loc>
         <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -205,22 +341,6 @@
   
 
       <url>
-        <loc>/categories/machine-learning/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/math/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-09-03-multi-node-pytorch-distributed-training-guide-for-people-in-a-hurry/</loc>
         <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     </url>
@@ -229,23 +349,7 @@
   
 
       <url>
-        <loc>/tags/nlp/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-09-03-polars-blazingly-fast-dataframes-in-rust-python-node-js/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/post/</loc>
         <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -270,14 +374,6 @@
 
       <url>
         <loc>/post/2022-09-03-stable-diffusion-with-diffusers/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/</loc>
         <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -486,14 +582,6 @@
 
       <url>
         <loc>/post/2022-07-24-transform-your-data-with-dbt-and-serverless-architecture/</loc>
-        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/visualization/</loc>
         <lastmod>2022-07-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -1173,14 +1261,6 @@
   
 
       <url>
-        <loc>/categories/data-science/</loc>
-        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/tags/deep-learning/</loc>
         <lastmod>2022-05-02T00:00:00+00:00</lastmod>
     </url>
@@ -1286,14 +1366,6 @@
 
       <url>
         <loc>/post/2022-04-09-automate-without-limits/</loc>
-        <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/automl/</loc>
         <lastmod>2022-04-09T00:00:00+00:00</lastmod>
     </url>
     

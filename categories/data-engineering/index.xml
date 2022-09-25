@@ -5,10 +5,33 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data-Visualization Tools and Books</title>
+      <link>/post/2022-09-25-data-visualization-tools-and-books/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-25-data-visualization-tools-and-books/</guid>
+      <description>&lt;p&gt;Data-Visualization Tools and Books&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gallery.keshif.me/VisTools&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Diffusion Models for Machine Learning</title>
+      <link>/post/2022-09-25-introduction-to-diffusion-models-for-machine-learning/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-25-introduction-to-diffusion-models-for-machine-learning/</guid>
+      <description>&lt;p&gt;The meteoric rise of Diffusion Models is one of the biggest developments in Machine Learning in the past several years. Learn everything you need to know about Diffusion Models in this easy-to-follow guide.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/deep-learning-indaba/indaba-pracs-2022/blob/main/practicals/deep_generative_models.ipynb&#34;&gt;Notebook&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Algorithms you should know before you take system design interviews</title>
