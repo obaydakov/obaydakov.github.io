@@ -6,7 +6,104 @@
     <description>Recent content in Posts on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automate All the Boring Kubernetes Operations with Python</title>
+      <link>/post/2022-10-01-automate-all-the-boring-kubernetes-operations-with-python/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-automate-all-the-boring-kubernetes-operations-with-python/</guid>
+      <description>Kubernetes became a de-facto standard in recent years and many of us - both DevOps engineers and developers alike - use it on daily basis. Many of the task that we perform are however, same, boring and easy to automate. Oftentimes it&amp;rsquo;s simple enough to whip up a quick shell script with a bunch of kubectl commands, but for more complicated automation tasks bash just isn&amp;rsquo;t good enough, and you need the power of proper language, such as Python.</description>
+    </item>
+    
+    <item>
+      <title>Bandit Algorithms</title>
+      <link>/post/2022-10-01-bandit-algorithms/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-bandit-algorithms/</guid>
+      <description>Multi-armed bandits have now been studied for nearly a century. While research in the beginning was quite meandering, there is now a large community publishing hundreds of articles every year. Bandit algorithms are also finding their way into practical applications in industry, especially in on-line platforms where data is readily available and automation is the only way to scale.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Build a Reactive Data Streaming App with Python and Apache Kafka</title>
+      <link>/post/2022-10-01-build-a-reactive-data-streaming-app-with-python-and-apache-kafka/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-build-a-reactive-data-streaming-app-with-python-and-apache-kafka/</guid>
+      <description>How do you get live notifications from a service that doesn’t support live notifications? Can you watch an online store for price drops? Or track comments on someone else’s YouTube video? Or at work, can you react to changes in another
+Link</description>
+    </item>
+    
+    <item>
+      <title>DALL·E Now Available Without Waitlist</title>
+      <link>/post/2022-10-01-dall-e-now-available-without-waitlist/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-dall-e-now-available-without-waitlist/</guid>
+      <description>New users can start creating straight away. Lessons learned from deployment and improvements to our safety systems make wider availability possible. Link</description>
+    </item>
+    
+    <item>
+      <title>Data Memos</title>
+      <link>/post/2022-10-01-data-memos/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-data-memos/</guid>
+      <description>12 reflections on data (and its representation) that we don’t want to forget in the “next-normal”
+Link</description>
+    </item>
+    
+    <item>
+      <title>Graph Neural Network for Recommender System</title>
+      <link>/post/2022-10-01-graph-neural-network-for-recommender-system/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-graph-neural-network-for-recommender-system/</guid>
+      <description>Recently, graph neural network (GNN) has become the new state-of-the-art approach in many recommendation problems, with its strong ability to handle structured data and to explore high-order information.	However, as the recommendation tasks are diverse and various in the real world, it is quite challenging to design proper GNN methods for specific problems. In this tutorial, we focus on the critical challenges of GNN-based recommendation and the potential solutions.
+Link</description>
+    </item>
+    
+    <item>
+      <title>labml.ai Annotated PyTorch Paper Implementations</title>
+      <link>/post/2022-10-01-labml-ai-annotated-pytorch-paper-implementations/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-labml-ai-annotated-pytorch-paper-implementations/</guid>
+      <description>This is a collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, and the website renders these as side-by-side formatted notes. We believe these would help you understand these algorithms better.
+Link</description>
+    </item>
+    
+    <item>
+      <title>ML in Slack - Recommend API</title>
+      <link>/post/2022-10-01-ml-in-slack-recommend-api/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-ml-in-slack-recommend-api/</guid>
+      <description>Unified end-to-end machine learning infrastructure to generate recommendations
+Link</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning Algorithms: An Overview and Classification</title>
+      <link>/post/2022-10-01-reinforcement-learning-algorithms-an-overview-and-classification/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-reinforcement-learning-algorithms-an-overview-and-classification/</guid>
+      <description>The desire to make applications and machines more intelligent and the aspiration to enable their operation without human interaction have been driving innovations in neural networks, deep learning, and other machine learning techniques.
+Link</description>
+    </item>
+    
+    <item>
+      <title>The Responsible Machine Learning Principles</title>
+      <link>/post/2022-10-01-the-responsible-machine-learning-principles/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-the-responsible-machine-learning-principles/</guid>
+      <description>The Responsible Machine Learning Principles are a practical framework put together by domain experts. Their purpose is to provide guidance for technologists to develop machine learning systems responsibly. Link</description>
+    </item>
+    
     <item>
       <title>#some2</title>
       <link>/post/2022-09-25-some2/</link>
@@ -104,103 +201,6 @@ Link</description>
       
       <guid>/post/2022-09-03-algorithms-you-should-know-before-you-take-system-design-interviews/</guid>
       <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Awesome AI Guidelines</title>
-      <link>/post/2022-09-03-awesome-ai-guidelines/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-09-03-awesome-ai-guidelines/</guid>
-      <description>This repository aims to simplify this by mapping the ecosystem of guidelines, principles, codes of ethics, standards and regulation being put in place around artificial intelligence.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Build a GNN-based real-time fraud detection solution using Amazon SageMaker, Amazon Neptune, and the Deep Graph Library</title>
-      <link>/post/2022-09-03-build-a-gnn-based-real-time-fraud-detection-solution-using-amazon-sagemaker-amazon-neptune-and-the-deep-graph-library/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-09-03-build-a-gnn-based-real-time-fraud-detection-solution-using-amazon-sagemaker-amazon-neptune-and-the-deep-graph-library/</guid>
-      <description>We focus on four tasks:
- Processing a tabular transaction dataset into a heterogeneous graph dataset Training a GNN model using SageMaker Deploying the trained GNN models as a SageMaker endpoint Demonstrating real-time inference for incoming transactions  Link</description>
-    </item>
-    
-    <item>
-      <title>Building ML Pipeline: 6 Problems &amp; Solutions</title>
-      <link>/post/2022-09-03-building-ml-pipeline-6-problems-solutions/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-09-03-building-ml-pipeline-6-problems-solutions/</guid>
-      <description>common pitfalls I have seen in the previous companies I have been working at, and how I managed to solve them.  Link</description>
-    </item>
-    
-    <item>
-      <title>Contents Games and Puzzles as Multicomputational Systems</title>
-      <link>/post/2022-09-03-contents-games-and-puzzles-as-multicomputational-systems/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-09-03-contents-games-and-puzzles-as-multicomputational-systems/</guid>
-      <description>Multicomputation is one of the core ideas of the Wolfram Physics Project—and in particular is at the heart of our emerging understanding of quantum mechanics. But how can one get an intuition for what is initially the rather abstract idea of multicomputation? A good approach, I believe, is to see it in action in familiar systems and situations. And I explore here what seems like a particularly good example: games and puzzles.</description>
-    </item>
-    
-    <item>
-      <title>DALL-E: Inside the Artificial Intelligence program that creates images from textual descriptions</title>
-      <link>/post/2022-09-03-dall-e-inside-the-artificial-intelligence-program-that-creates-images-from-textual-descriptions/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-09-03-dall-e-inside-the-artificial-intelligence-program-that-creates-images-from-textual-descriptions/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Demystifying the Parquet File Format</title>
-      <link>/post/2022-09-03-demystifying-the-parquet-file-format/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-09-03-demystifying-the-parquet-file-format/</guid>
-      <description>In this post we will discuss apache parquet, an extremely efficient and well-supported file format. The post is geared towards data practitioners (ML, DE, DS) so we’ll be focusing on high-level concepts and using SQL to talk through core concepts, but links for further resources can be found throughout the post and in the comments.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Deploying a Machine Learning Model as an API</title>
-      <link>/post/2022-09-03-deploying-a-machine-learning-model-as-an-api/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-09-03-deploying-a-machine-learning-model-as-an-api/</guid>
-      <description>A comprehensive guide to deploying a model as an API
-Link</description>
-    </item>
-    
-    <item>
-      <title>Design Patterns in Machine Learning Code and Systems</title>
-      <link>/post/2022-09-03-design-patterns-in-machine-learning-code-and-systems/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-09-03-design-patterns-in-machine-learning-code-and-systems/</guid>
-      <description>Design patterns are not just a way to structure code. They also communicate the problem addressed and how the code or component is intended to be used.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Draw Entity-Relationship Diagrams, Painlessly</title>
-      <link>/post/2022-09-03-draw-entity-relationship-diagrams-painlessly/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-09-03-draw-entity-relationship-diagrams-painlessly/</guid>
-      <description>A free, simple tool to draw ER diagrams by just writing code. Designed for developers and data analysts.
-link</description>
-    </item>
-    
-    <item>
-      <title>Introducing Skops</title>
-      <link>/post/2022-09-03-introducing-skops/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-09-03-introducing-skops/</guid>
-      <description>At Hugging Face, we are working on tackling various problems in open-source machine learning, including, hosting models securely and openly, enabling reproducibility, explainability and collaboration. We are thrilled to introduce you to our new library: Skops! With Skops, you can host your scikit-learn models on the Hugging Face Hub, create model cards for model documentation and collaborate with others.
-Link</description>
     </item>
     
   </channel>

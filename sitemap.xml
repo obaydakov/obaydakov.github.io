@@ -5,6 +5,206 @@
   
 
       <url>
+        <loc>/tags/apps/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/articles/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-01-automate-all-the-boring-kubernetes-operations-with-python/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-01-bandit-algorithms/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/books/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-01-build-a-reactive-data-streaming-app-with-python-and-apache-kafka/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-01-dall-e-now-available-without-waitlist/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-01-data-memos/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-engineering/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-science/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/deep-learning/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/design/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/devops/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-01-graph-neural-network-for-recommender-system/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/graphs/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-01-labml-ai-annotated-pytorch-paper-implementations/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/machine-learning/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-01-ml-in-slack-recommend-api/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/python/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-01-reinforcement-learning-algorithms-an-overview-and-classification/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-01-the-responsible-machine-learning-principles/</loc>
+        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/post/2022-09-25-some2/</loc>
         <lastmod>2022-09-25T00:00:00+00:00</lastmod>
     </url>
@@ -22,22 +222,6 @@
 
       <url>
         <loc>/post/2022-09-25-alpha-connect/</loc>
-        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/apps/</loc>
-        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/articles/</loc>
         <lastmod>2022-09-25T00:00:00+00:00</lastmod>
     </url>
     
@@ -69,55 +253,7 @@
   
 
       <url>
-        <loc>/categories/</loc>
-        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/data-engineering/</loc>
-        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/data-science/</loc>
-        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-09-25-data-visualization-tools-and-books/</loc>
-        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/</loc>
-        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/deep-learning/</loc>
-        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/design/</loc>
         <lastmod>2022-09-25T00:00:00+00:00</lastmod>
     </url>
     
@@ -134,14 +270,6 @@
 
       <url>
         <loc>/post/2022-09-25-introduction-to-diffusion-models-for-machine-learning/</loc>
-        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/machine-learning/</loc>
         <lastmod>2022-09-25T00:00:00+00:00</lastmod>
     </url>
     
@@ -166,22 +294,6 @@
 
       <url>
         <loc>/tags/nlp/</loc>
-        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/post/</loc>
-        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/</loc>
         <lastmod>2022-09-25T00:00:00+00:00</lastmod>
     </url>
     
@@ -357,14 +469,6 @@
   
 
       <url>
-        <loc>/categories/python/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-09-03-saas-landing-page-examples/</loc>
         <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     </url>
@@ -494,14 +598,6 @@
 
       <url>
         <loc>/tags/development/</loc>
-        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/devops/</loc>
         <lastmod>2022-07-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -830,14 +926,6 @@
 
       <url>
         <loc>/post/2022-06-26-graphgps-navigating-graph-transformers/</loc>
-        <lastmod>2022-06-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/graphs/</loc>
         <lastmod>2022-06-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -1366,14 +1454,6 @@
 
       <url>
         <loc>/post/2022-04-09-automate-without-limits/</loc>
-        <lastmod>2022-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/books/</loc>
         <lastmod>2022-04-09T00:00:00+00:00</lastmod>
     </url>
     

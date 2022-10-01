@@ -5,10 +5,70 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automate All the Boring Kubernetes Operations with Python</title>
+      <link>/post/2022-10-01-automate-all-the-boring-kubernetes-operations-with-python/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-automate-all-the-boring-kubernetes-operations-with-python/</guid>
+      <description>&lt;p&gt;Kubernetes became a de-facto standard in recent years and many of us - both DevOps engineers and developers alike - use it on daily basis. Many of the task that we perform are however, same, boring and easy to automate. Oftentimes it&amp;rsquo;s simple enough to whip up a quick shell script with a bunch of kubectl commands, but for more complicated automation tasks bash just isn&amp;rsquo;t good enough, and you need the power of proper language, such as Python.&lt;/p&gt;
+&lt;p&gt;So, in this article we will look at how you can leverage Kubernetes Python Client library to automate whatever annoying Kubernetes task you might be dealing with!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://martinheinz.dev/blog/73&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build a Reactive Data Streaming App with Python and Apache Kafka</title>
+      <link>/post/2022-10-01-build-a-reactive-data-streaming-app-with-python-and-apache-kafka/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-build-a-reactive-data-streaming-app-with-python-and-apache-kafka/</guid>
+      <description>&lt;p&gt;How do you get live notifications from a service that doesn’t support live notifications? Can you watch an online store for price drops? Or track comments on someone else’s YouTube video? Or at work, can you react to changes in another&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?app=desktop&amp;amp;v=jItIQ-UvFI4&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Memos</title>
+      <link>/post/2022-10-01-data-memos/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-data-memos/</guid>
+      <description>&lt;p&gt;12 reflections on data (and its representation) that we don’t want to forget in the “next-normal”&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@giorgialupi/data-memos-3927ab7e822a&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graph Neural Network for Recommender System</title>
+      <link>/post/2022-10-01-graph-neural-network-for-recommender-system/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-graph-neural-network-for-recommender-system/</guid>
+      <description>&lt;p&gt;Recently, graph neural network (GNN) has become the new state-of-the-art approach in many recommendation problems, with its strong ability to handle structured data and to explore high-order information.	However, as the recommendation tasks are diverse and various in the real world, it is quite challenging to design proper GNN methods for specific problems. In this tutorial, we focus on the critical challenges of GNN-based recommendation and the potential solutions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/view/gnn-recsys&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning Algorithms: An Overview and Classification</title>
+      <link>/post/2022-10-01-reinforcement-learning-algorithms-an-overview-and-classification/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-reinforcement-learning-algorithms-an-overview-and-classification/</guid>
+      <description>&lt;p&gt;The desire to make applications and machines
+more intelligent and the aspiration to enable their operation
+without human interaction have been driving innovations in
+neural networks, deep learning, and other machine learning
+techniques.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2209.14940.pdf&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Data-Visualization Tools and Books</title>

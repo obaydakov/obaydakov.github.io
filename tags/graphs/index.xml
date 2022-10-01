@@ -5,10 +5,21 @@
     <description>Recent content in graphs on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/graphs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Graph Neural Network for Recommender System</title>
+      <link>/post/2022-10-01-graph-neural-network-for-recommender-system/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-graph-neural-network-for-recommender-system/</guid>
+      <description>&lt;p&gt;Recently, graph neural network (GNN) has become the new state-of-the-art approach in many recommendation problems, with its strong ability to handle structured data and to explore high-order information.	However, as the recommendation tasks are diverse and various in the real world, it is quite challenging to design proper GNN methods for specific problems. In this tutorial, we focus on the critical challenges of GNN-based recommendation and the potential solutions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/view/gnn-recsys&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>GraphGPS: Navigating Graph Transformers</title>

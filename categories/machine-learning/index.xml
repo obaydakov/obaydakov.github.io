@@ -5,10 +5,33 @@
     <description>Recent content in Machine Learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ML in Slack - Recommend API</title>
+      <link>/post/2022-10-01-ml-in-slack-recommend-api/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-ml-in-slack-recommend-api/</guid>
+      <description>&lt;p&gt;Unified end-to-end machine learning infrastructure to generate recommendations&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://slack.engineering/recommend-api/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Responsible Machine Learning Principles</title>
+      <link>/post/2022-10-01-the-responsible-machine-learning-principles/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-the-responsible-machine-learning-principles/</guid>
+      <description>&lt;p&gt;The Responsible Machine Learning Principles are a practical framework put together by domain experts.
+Their purpose is to provide guidance for technologists to develop machine learning systems responsibly.
+&lt;a href=&#34;https://ethical.institute/principles.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>12 Most Popular NLP Projects of 2022 So Far</title>

@@ -5,10 +5,36 @@
     <description>Recent content in articles on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>labml.ai Annotated PyTorch Paper Implementations</title>
+      <link>/post/2022-10-01-labml-ai-annotated-pytorch-paper-implementations/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-labml-ai-annotated-pytorch-paper-implementations/</guid>
+      <description>&lt;p&gt;This is a collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, and the website renders these as side-by-side formatted notes. We believe these would help you understand these algorithms better.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nn.labml.ai/index.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning Algorithms: An Overview and Classification</title>
+      <link>/post/2022-10-01-reinforcement-learning-algorithms-an-overview-and-classification/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-reinforcement-learning-algorithms-an-overview-and-classification/</guid>
+      <description>&lt;p&gt;The desire to make applications and machines
+more intelligent and the aspiration to enable their operation
+without human interaction have been driving innovations in
+neural networks, deep learning, and other machine learning
+techniques.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2209.14940.pdf&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>#some2</title>

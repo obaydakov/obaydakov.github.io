@@ -5,10 +5,43 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build a Reactive Data Streaming App with Python and Apache Kafka</title>
+      <link>/post/2022-10-01-build-a-reactive-data-streaming-app-with-python-and-apache-kafka/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-build-a-reactive-data-streaming-app-with-python-and-apache-kafka/</guid>
+      <description>&lt;p&gt;How do you get live notifications from a service that doesn’t support live notifications? Can you watch an online store for price drops? Or track comments on someone else’s YouTube video? Or at work, can you react to changes in another&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?app=desktop&amp;amp;v=jItIQ-UvFI4&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DALL·E Now Available Without Waitlist</title>
+      <link>/post/2022-10-01-dall-e-now-available-without-waitlist/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-dall-e-now-available-without-waitlist/</guid>
+      <description>&lt;p&gt;New users can start creating straight away. Lessons learned from deployment and improvements to our safety systems make wider availability possible.
+&lt;a href=&#34;https://openai.com/blog/dall-e-now-available-without-waitlist/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ML in Slack - Recommend API</title>
+      <link>/post/2022-10-01-ml-in-slack-recommend-api/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-01-ml-in-slack-recommend-api/</guid>
+      <description>&lt;p&gt;Unified end-to-end machine learning infrastructure to generate recommendations&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://slack.engineering/recommend-api/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Alpha Connect</title>
