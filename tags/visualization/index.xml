@@ -5,10 +5,31 @@
     <description>Recent content in visualization on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A community maintained Python library for creating mathematical animations.</title>
+      <link>/post/2022-10-16-a-community-maintained-python-library-for-creating-mathematical-animations/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-a-community-maintained-python-library-for-creating-mathematical-animations/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.manim.community/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A general-purpose programmatic animation tool</title>
+      <link>/post/2022-10-16-a-general-purpose-programmatic-animation-tool/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-a-general-purpose-programmatic-animation-tool/</guid>
+      <description>&lt;p&gt;A gallery of animations made with Morpho is available here. For more, you can also take a look at the YouTube channels Morphocular and Serpentine Integral, which use Morpho to create most of the animations.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/morpho-matters/morpholib&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Data-Visualization Tools and Books</title>

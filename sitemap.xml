@@ -5,8 +5,16 @@
   
 
       <url>
-        <loc>/tags/apps/</loc>
-        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+        <loc>/post/2022-10-16-a-community-maintained-python-library-for-creating-mathematical-animations/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-16-a-general-purpose-programmatic-animation-tool/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -14,6 +22,222 @@
 
       <url>
         <loc>/tags/articles/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-16-awesome-ai-guidelines/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-16-building-a-realtime-chat-app-with-django-channels-and-websockets/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-16-building-makemore-part-3-activations-gradients-batchnorm/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-16-cs197-harvard-ai-research-experiences/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-engineering/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-science/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/deep-learning/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/deep-learning/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/development/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/devops/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-16-how-diffusion-models-work-the-math-from-scratch/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/libraries/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/machine-learning/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/math/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/python/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-16-skopeo-is-a-command-line-utility-that-performs-various-operations-on-container-images-and-image-repositories/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-16-sneaky-rest-apis-with-django-ninja/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-16-spacetimeformer-multivariate-forecasting/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-16-these-are-all-the-youtube-videos-from-the-summer-of-math-exposition-2/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-16-transfer-learning-for-time-series-forecasting/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/visualization/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-10-16-what-is-dstack/</loc>
+        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/apps/</loc>
         <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -53,14 +277,6 @@
   
 
       <url>
-        <loc>/categories/</loc>
-        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-10-01-dall-e-now-available-without-waitlist/</loc>
         <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     </url>
@@ -77,47 +293,7 @@
   
 
       <url>
-        <loc>/categories/data-engineering/</loc>
-        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/data-science/</loc>
-        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/</loc>
-        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/deep-learning/</loc>
-        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/tags/design/</loc>
-        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/devops/</loc>
         <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -149,14 +325,6 @@
   
 
       <url>
-        <loc>/categories/machine-learning/</loc>
-        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-10-01-ml-in-slack-recommend-api/</loc>
         <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     </url>
@@ -165,31 +333,7 @@
   
 
       <url>
-        <loc>/post/</loc>
-        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/python/</loc>
-        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-10-01-reinforcement-learning-algorithms-an-overview-and-classification/</loc>
-        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/</loc>
         <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -277,14 +421,6 @@
   
 
       <url>
-        <loc>/categories/math/</loc>
-        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-09-25-minimagen-build-your-own-imagen-text-to-image-model/</loc>
         <lastmod>2022-09-25T00:00:00+00:00</lastmod>
     </url>
@@ -294,14 +430,6 @@
 
       <url>
         <loc>/tags/nlp/</loc>
-        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/visualization/</loc>
         <lastmod>2022-09-25T00:00:00+00:00</lastmod>
     </url>
     
@@ -438,14 +566,6 @@
 
       <url>
         <loc>/categories/javascript/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/libraries/</loc>
         <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -590,14 +710,6 @@
 
       <url>
         <loc>/post/2022-07-24-databolt-pipeline/</loc>
-        <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/development/</loc>
         <lastmod>2022-07-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -1342,14 +1454,6 @@
 
       <url>
         <loc>/post/2022-05-02-data-visualization-101/</loc>
-        <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/deep-learning/</loc>
         <lastmod>2022-05-02T00:00:00+00:00</lastmod>
     </url>
     

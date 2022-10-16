@@ -5,10 +5,65 @@
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building makemore Part 3: Activations &amp; Gradients, BatchNorm</title>
+      <link>/post/2022-10-16-building-makemore-part-3-activations-gradients-batchnorm/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-building-makemore-part-3-activations-gradients-batchnorm/</guid>
+      <description>&lt;p&gt;We dive into some of the internals of MLPs with multiple layers and scrutinize the statistics of the forward pass activations, backward pass gradients, and some of the pitfalls when they are improperly scaled. We also look at the typical diagnostic tools and visualizations you&amp;rsquo;d want to use to understand the health of your deep network. We learn why training deep neural nets can be fragile and introduce the first modern innovation that made doing so much easier: Batch Normalization. Residual connections and the Adam optimizer remain notable todos for later video&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=P6sfmUTpUmc&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CS197 Harvard: AI Research Experiences</title>
+      <link>/post/2022-10-16-cs197-harvard-ai-research-experiences/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-cs197-harvard-ai-research-experiences/</guid>
+      <description>&lt;p&gt;Once we go from training one model to training hundreds of different models with different hyperparameters, we need to start organizing. We’re going to break down our organization into three pieces: experiment tracking, hyperparameter search, and configuration setup.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1kZCrACh8wHFFAinscHpbaHqMBKeErjOgXMVqKSUZIMU/edit#&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How diffusion models work: the math from scratch</title>
+      <link>/post/2022-10-16-how-diffusion-models-work-the-math-from-scratch/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-how-diffusion-models-work-the-math-from-scratch/</guid>
+      <description>&lt;p&gt;Diffusion models are a new class of state-of-the-art generative models that generate diverse high-resolution images. They have already attracted a lot of attention after OpenAI, Nvidia and Google managed to train large-scale models. Example architectures that are based on diffusion models are GLIDE, DALLE-2, Imagen, and the full open-source stable diffusion.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://theaisummer.com/diffusion-models/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spacetimeformer Multivariate Forecasting</title>
+      <link>/post/2022-10-16-spacetimeformer-multivariate-forecasting/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-spacetimeformer-multivariate-forecasting/</guid>
+      <description>&lt;p&gt;Spacetimeformer is a Transformer that learns temporal patterns like a time series model and spatial patterns like a Graph Neural Network.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/QData/spacetimeformer&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transfer learning for Time Series Forecasting</title>
+      <link>/post/2022-10-16-transfer-learning-for-time-series-forecasting/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-transfer-learning-for-time-series-forecasting/</guid>
+      <description>&lt;p&gt;Transfer learning refers to the process of pre-training a flexible model on a large dataset and using it later on other data with little to no training. It is one of the most outstanding 🚀 achievements in Machine Learning 🧠 and has many practical applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Nixtla/transfer-learning-time-series&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DALL·E Now Available Without Waitlist</title>

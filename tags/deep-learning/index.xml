@@ -5,10 +5,21 @@
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How diffusion models work: the math from scratch</title>
+      <link>/post/2022-10-16-how-diffusion-models-work-the-math-from-scratch/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-how-diffusion-models-work-the-math-from-scratch/</guid>
+      <description>&lt;p&gt;Diffusion models are a new class of state-of-the-art generative models that generate diverse high-resolution images. They have already attracted a lot of attention after OpenAI, Nvidia and Google managed to train large-scale models. Example architectures that are based on diffusion models are GLIDE, DALLE-2, Imagen, and the full open-source stable diffusion.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://theaisummer.com/diffusion-models/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Optimize PyTorch Performance for Speed and Memory Efficiency </title>

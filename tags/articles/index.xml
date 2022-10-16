@@ -5,10 +5,42 @@
     <description>Recent content in articles on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awesome AI Guidelines</title>
+      <link>/post/2022-10-16-awesome-ai-guidelines/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-awesome-ai-guidelines/</guid>
+      <description>&lt;p&gt;This repository aims to simplify this by mapping the ecosystem of guidelines, principles, codes of ethics, standards and regulation being put in place around artificial intelligence.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ethicalml/awesome-artificial-intelligence-guidelines&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CS197 Harvard: AI Research Experiences</title>
+      <link>/post/2022-10-16-cs197-harvard-ai-research-experiences/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-cs197-harvard-ai-research-experiences/</guid>
+      <description>&lt;p&gt;Once we go from training one model to training hundreds of different models with different hyperparameters, we need to start organizing. We’re going to break down our organization into three pieces: experiment tracking, hyperparameter search, and configuration setup.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1kZCrACh8wHFFAinscHpbaHqMBKeErjOgXMVqKSUZIMU/edit#&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>These are all the youtube videos from the Summer of Math Exposition 2</title>
+      <link>/post/2022-10-16-these-are-all-the-youtube-videos-from-the-summer-of-math-exposition-2/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-these-are-all-the-youtube-videos-from-the-summer-of-math-exposition-2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLnQX-jgAF5pTZXPiD8ciEARRylD9brJXU&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>labml.ai Annotated PyTorch Paper Implementations</title>

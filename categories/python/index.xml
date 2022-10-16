@@ -5,10 +5,76 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A general-purpose programmatic animation tool</title>
+      <link>/post/2022-10-16-a-general-purpose-programmatic-animation-tool/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-a-general-purpose-programmatic-animation-tool/</guid>
+      <description>&lt;p&gt;A gallery of animations made with Morpho is available here. For more, you can also take a look at the YouTube channels Morphocular and Serpentine Integral, which use Morpho to create most of the animations.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/morpho-matters/morpholib&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building a Realtime Chat App with Django Channels and WebSockets</title>
+      <link>/post/2022-10-16-building-a-realtime-chat-app-with-django-channels-and-websockets/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-building-a-realtime-chat-app-with-django-channels-and-websockets/</guid>
+      <description>&lt;p&gt;Building stateful web applications can be tricky, unless you use a framework, of course—Django to the rescue! In this article, learn how to build a realtime chat app using Django Channels and WebSockets.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.honeybadger.io/blog/django-channels-websockets-chat/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>skopeo is a command line utility that performs various operations on container images and image repositories.</title>
+      <link>/post/2022-10-16-skopeo-is-a-command-line-utility-that-performs-various-operations-on-container-images-and-image-repositories/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-skopeo-is-a-command-line-utility-that-performs-various-operations-on-container-images-and-image-repositories/</guid>
+      <description>&lt;p&gt;Skopeo works with API V2 container image registries such as docker.io and quay.io registries, private registries, local directories and local OCI-layout directories.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/containers/skopeo&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sneaky REST APIs With Django Ninja</title>
+      <link>/post/2022-10-16-sneaky-rest-apis-with-django-ninja/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-sneaky-rest-apis-with-django-ninja/</guid>
+      <description>&lt;p&gt;Many web projects have moved to the single-page application model. To use this model with Django, you build a project where Django is the back end accessed through a REST API. The Django Ninja library is a FastAPI-inspired tool kit for turning Django views into REST API endpoints with very little extra code. Along the way, you’ll be using curl, a command-line tool that allows you to grab the contents of a web page.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://realpython.com/courses/rest-apis-with-django-ninja/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spacetimeformer Multivariate Forecasting</title>
+      <link>/post/2022-10-16-spacetimeformer-multivariate-forecasting/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-spacetimeformer-multivariate-forecasting/</guid>
+      <description>&lt;p&gt;Spacetimeformer is a Transformer that learns temporal patterns like a time series model and spatial patterns like a Graph Neural Network.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/QData/spacetimeformer&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is dstack?</title>
+      <link>/post/2022-10-16-what-is-dstack/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-what-is-dstack/</guid>
+      <description>&lt;p&gt;dstack is a lightweight and open-source command-line tool to provision infrastructure for ML workflows.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.dstack.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Automate All the Boring Kubernetes Operations with Python</title>

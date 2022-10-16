@@ -5,10 +5,21 @@
     <description>Recent content in devops on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>skopeo is a command line utility that performs various operations on container images and image repositories.</title>
+      <link>/post/2022-10-16-skopeo-is-a-command-line-utility-that-performs-various-operations-on-container-images-and-image-repositories/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-skopeo-is-a-command-line-utility-that-performs-various-operations-on-container-images-and-image-repositories/</guid>
+      <description>&lt;p&gt;Skopeo works with API V2 container image registries such as docker.io and quay.io registries, private registries, local directories and local OCI-layout directories.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/containers/skopeo&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Automate All the Boring Kubernetes Operations with Python</title>

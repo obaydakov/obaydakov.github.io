@@ -5,10 +5,64 @@
     <description>Recent content in Tags on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>articles</title>
+      <link>/tags/articles/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>/tags/development/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devops</title>
+      <link>/tags/devops/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libraries</title>
+      <link>/tags/libraries/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/libraries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visualization</title>
+      <link>/tags/visualization/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/visualization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>apps</title>
@@ -16,15 +70,6 @@
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/apps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>articles</title>
-      <link>/tags/articles/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/articles/</guid>
       <description></description>
     </item>
     
@@ -43,15 +88,6 @@
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>devops</title>
-      <link>/tags/devops/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/devops/</guid>
       <description></description>
     </item>
     
@@ -83,15 +119,6 @@
     </item>
     
     <item>
-      <title>visualization</title>
-      <link>/tags/visualization/</link>
-      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>computer-vision</title>
       <link>/tags/computer-vision/</link>
       <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
@@ -106,15 +133,6 @@
       <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>libraries</title>
-      <link>/tags/libraries/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/libraries/</guid>
       <description></description>
     </item>
     
@@ -137,15 +155,6 @@
     </item>
     
     <item>
-      <title>development</title>
-      <link>/tags/development/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>spark</title>
       <link>/tags/spark/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
@@ -160,15 +169,6 @@
       <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/bioinformatic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     

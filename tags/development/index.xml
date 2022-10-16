@@ -5,10 +5,43 @@
     <description>Recent content in development on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building a Realtime Chat App with Django Channels and WebSockets</title>
+      <link>/post/2022-10-16-building-a-realtime-chat-app-with-django-channels-and-websockets/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-building-a-realtime-chat-app-with-django-channels-and-websockets/</guid>
+      <description>&lt;p&gt;Building stateful web applications can be tricky, unless you use a framework, of course—Django to the rescue! In this article, learn how to build a realtime chat app using Django Channels and WebSockets.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.honeybadger.io/blog/django-channels-websockets-chat/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building makemore Part 3: Activations &amp; Gradients, BatchNorm</title>
+      <link>/post/2022-10-16-building-makemore-part-3-activations-gradients-batchnorm/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-building-makemore-part-3-activations-gradients-batchnorm/</guid>
+      <description>&lt;p&gt;We dive into some of the internals of MLPs with multiple layers and scrutinize the statistics of the forward pass activations, backward pass gradients, and some of the pitfalls when they are improperly scaled. We also look at the typical diagnostic tools and visualizations you&amp;rsquo;d want to use to understand the health of your deep network. We learn why training deep neural nets can be fragile and introduce the first modern innovation that made doing so much easier: Batch Normalization. Residual connections and the Adam optimizer remain notable todos for later video&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=P6sfmUTpUmc&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sneaky REST APIs With Django Ninja</title>
+      <link>/post/2022-10-16-sneaky-rest-apis-with-django-ninja/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-16-sneaky-rest-apis-with-django-ninja/</guid>
+      <description>&lt;p&gt;Many web projects have moved to the single-page application model. To use this model with Django, you build a project where Django is the back end accessed through a REST API. The Django Ninja library is a FastAPI-inspired tool kit for turning Django views into REST API endpoints with very little extra code. Along the way, you’ll be using curl, a command-line tool that allows you to grab the contents of a web page.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://realpython.com/courses/rest-apis-with-django-ninja/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build Bored Ape Yacht Club with Next.js, Tailwind &amp; Thirdweb (NFT Drop Tutorial)</title>
