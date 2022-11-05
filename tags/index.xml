@@ -5,7 +5,7 @@
     <description>Recent content in Tags on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,25 +13,52 @@
     <item>
       <title>articles</title>
       <link>/tags/articles/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/articles/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>books</title>
+      <link>/tags/books/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>/tags/cloud/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>deep-learning</title>
       <link>/tags/deep-learning/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>design</title>
+      <link>/tags/design/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>development</title>
       <link>/tags/development/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/development/</guid>
       <description></description>
@@ -40,18 +67,36 @@
     <item>
       <title>devops</title>
       <link>/tags/devops/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>graphs</title>
+      <link>/tags/graphs/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>libraries</title>
       <link>/tags/libraries/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/libraries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>/tags/tools/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tools/</guid>
       <description></description>
     </item>
     
@@ -70,33 +115,6 @@
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/apps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>books</title>
-      <link>/tags/books/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>design</title>
-      <link>/tags/design/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>graphs</title>
-      <link>/tags/graphs/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/graphs/</guid>
       <description></description>
     </item>
     
@@ -133,24 +151,6 @@
       <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tools</title>
-      <link>/tags/tools/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cloud</title>
-      <link>/tags/cloud/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cloud/</guid>
       <description></description>
     </item>
     

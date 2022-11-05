@@ -6,7 +6,106 @@
     <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning</title>
+      <link>/post/2022-11-05-algebra-topology-differential-calculus-and-optimization-theory-for-computer-science-and-machine-learning/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-algebra-topology-differential-calculus-and-optimization-theory-for-computer-science-and-machine-learning/</guid>
+      <description>Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning
+Link</description>
+    </item>
+    
+    <item>
+      <title>An easy-to-use &amp; supercharged open-source experiment tracker</title>
+      <link>/post/2022-11-05-an-easy-to-use-supercharged-open-source-experiment-tracker/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-an-easy-to-use-supercharged-open-source-experiment-tracker/</guid>
+      <description>Aim logs your training runs, enables a beautiful UI to compare them and an API to query them programmatically.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Awesome Production Machine Learning</title>
+      <link>/post/2022-11-05-awesome-production-machine-learning/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-awesome-production-machine-learning/</guid>
+      <description>This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
+Link</description>
+    </item>
+    
+    <item>
+      <title>Captum - Model Interpretability for PyTorch</title>
+      <link>/post/2022-11-05-captum-model-interpretability-for-pytorch/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-captum-model-interpretability-for-pytorch/</guid>
+      <description>Captum (“comprehension” in Latin) is an open source, extensible library for model interpretability built on PyTorch.
+Link</description>
+    </item>
+    
+    <item>
+      <title>CS 230 ― Deep Learning</title>
+      <link>/post/2022-11-05-cs-230-deep-learning/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-cs-230-deep-learning/</guid>
+      <description>Set of illustrated Deep Learning cheatsheets covering the content of the CS 230 class
+Link</description>
+    </item>
+    
+    <item>
+      <title>DATA MESH ARCHITECTURE</title>
+      <link>/post/2022-11-05-data-mesh-architecture/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-data-mesh-architecture/</guid>
+      <description>The term data mesh was coined by Zhamak Dehghani in 2019 and is based on four fundamental principles that bundle well-known concepts
+Link</description>
+    </item>
+    
+    <item>
+      <title>Databolt Flow</title>
+      <link>/post/2022-11-05-databolt-flow/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-databolt-flow/</guid>
+      <description>For data scientists and data engineers, d6tflow is a python library which makes building complex data science workflows easy, fast and intuitive. It is primarily designed for data scientists to build better models faster. For data engineers, it can also be a lightweight alternative and help productionize data science models faster. Unlike other data pipeline/workflow solutions, d6tflow focuses on managing data science research workflows instead of managing production data pipelines.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started in the World of Stable Diffusion</title>
+      <link>/post/2022-11-05-getting-started-in-the-world-of-stable-diffusion/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-getting-started-in-the-world-of-stable-diffusion/</guid>
+      <description>In simple words, stable diffusion is a deep learning model that can generate an image given a prompt
+Link</description>
+    </item>
+    
+    <item>
+      <title>JINA - Build cross-modal and multi-modal applications on the cloud</title>
+      <link>/post/2022-11-05-jina-build-cross-modal-and-multi-modal-applications-on-the-cloud/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-jina-build-cross-modal-and-multi-modal-applications-on-the-cloud/</guid>
+      <description>Jina is a MLOps framework that empowers anyone to build cross-modal and multi-modal applications on the cloud. It uplifts a PoC into a production-ready service. Jina handles the infrastructure complexity, making advanced solution engineering and cloud-native technologies accessible to every developer.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Using graph neural networks to recommend related products</title>
+      <link>/post/2022-11-05-using-graph-neural-networks-to-recommend-related-products/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-using-graph-neural-networks-to-recommend-related-products/</guid>
+      <description>Recommending related products — say, a phone case to go along with a new phone — is a fundamental capability of e-commerce sites, one that saves customers time and leads to more satisfying shopping experiences.
+Link</description>
+    </item>
+    
     <item>
       <title>A community maintained Python library for creating mathematical animations.</title>
       <link>/post/2022-10-16-a-community-maintained-python-library-for-creating-mathematical-animations/</link>
@@ -101,103 +200,6 @@ Link</description>
       
       <guid>/post/2022-10-16-spacetimeformer-multivariate-forecasting/</guid>
       <description>Spacetimeformer is a Transformer that learns temporal patterns like a time series model and spatial patterns like a Graph Neural Network.
-Link</description>
-    </item>
-    
-    <item>
-      <title>These are all the youtube videos from the Summer of Math Exposition 2</title>
-      <link>/post/2022-10-16-these-are-all-the-youtube-videos-from-the-summer-of-math-exposition-2/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-16-these-are-all-the-youtube-videos-from-the-summer-of-math-exposition-2/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Transfer learning for Time Series Forecasting</title>
-      <link>/post/2022-10-16-transfer-learning-for-time-series-forecasting/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-16-transfer-learning-for-time-series-forecasting/</guid>
-      <description>Transfer learning refers to the process of pre-training a flexible model on a large dataset and using it later on other data with little to no training. It is one of the most outstanding 🚀 achievements in Machine Learning 🧠 and has many practical applications.
-Link</description>
-    </item>
-    
-    <item>
-      <title>What is dstack?</title>
-      <link>/post/2022-10-16-what-is-dstack/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-16-what-is-dstack/</guid>
-      <description>dstack is a lightweight and open-source command-line tool to provision infrastructure for ML workflows.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Automate All the Boring Kubernetes Operations with Python</title>
-      <link>/post/2022-10-01-automate-all-the-boring-kubernetes-operations-with-python/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-01-automate-all-the-boring-kubernetes-operations-with-python/</guid>
-      <description>Kubernetes became a de-facto standard in recent years and many of us - both DevOps engineers and developers alike - use it on daily basis. Many of the task that we perform are however, same, boring and easy to automate. Oftentimes it&amp;rsquo;s simple enough to whip up a quick shell script with a bunch of kubectl commands, but for more complicated automation tasks bash just isn&amp;rsquo;t good enough, and you need the power of proper language, such as Python.</description>
-    </item>
-    
-    <item>
-      <title>Bandit Algorithms</title>
-      <link>/post/2022-10-01-bandit-algorithms/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-01-bandit-algorithms/</guid>
-      <description>Multi-armed bandits have now been studied for nearly a century. While research in the beginning was quite meandering, there is now a large community publishing hundreds of articles every year. Bandit algorithms are also finding their way into practical applications in industry, especially in on-line platforms where data is readily available and automation is the only way to scale.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Build a Reactive Data Streaming App with Python and Apache Kafka</title>
-      <link>/post/2022-10-01-build-a-reactive-data-streaming-app-with-python-and-apache-kafka/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-01-build-a-reactive-data-streaming-app-with-python-and-apache-kafka/</guid>
-      <description>How do you get live notifications from a service that doesn’t support live notifications? Can you watch an online store for price drops? Or track comments on someone else’s YouTube video? Or at work, can you react to changes in another
-Link</description>
-    </item>
-    
-    <item>
-      <title>DALL·E Now Available Without Waitlist</title>
-      <link>/post/2022-10-01-dall-e-now-available-without-waitlist/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-01-dall-e-now-available-without-waitlist/</guid>
-      <description>New users can start creating straight away. Lessons learned from deployment and improvements to our safety systems make wider availability possible. Link</description>
-    </item>
-    
-    <item>
-      <title>Data Memos</title>
-      <link>/post/2022-10-01-data-memos/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-01-data-memos/</guid>
-      <description>12 reflections on data (and its representation) that we don’t want to forget in the “next-normal”
-Link</description>
-    </item>
-    
-    <item>
-      <title>Graph Neural Network for Recommender System</title>
-      <link>/post/2022-10-01-graph-neural-network-for-recommender-system/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-01-graph-neural-network-for-recommender-system/</guid>
-      <description>Recently, graph neural network (GNN) has become the new state-of-the-art approach in many recommendation problems, with its strong ability to handle structured data and to explore high-order information.	However, as the recommendation tasks are diverse and various in the real world, it is quite challenging to design proper GNN methods for specific problems. In this tutorial, we focus on the critical challenges of GNN-based recommendation and the potential solutions.
-Link</description>
-    </item>
-    
-    <item>
-      <title>labml.ai Annotated PyTorch Paper Implementations</title>
-      <link>/post/2022-10-01-labml-ai-annotated-pytorch-paper-implementations/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-01-labml-ai-annotated-pytorch-paper-implementations/</guid>
-      <description>This is a collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, and the website renders these as side-by-side formatted notes. We believe these would help you understand these algorithms better.
 Link</description>
     </item>
     

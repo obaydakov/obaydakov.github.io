@@ -5,10 +5,21 @@
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using graph neural networks to recommend related products</title>
+      <link>/post/2022-11-05-using-graph-neural-networks-to-recommend-related-products/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-using-graph-neural-networks-to-recommend-related-products/</guid>
+      <description>&lt;p&gt;Recommending related products — say, a phone case to go along with a new phone — is a fundamental capability of e-commerce sites, one that saves customers time and leads to more satisfying shopping experiences.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.science/blog/using-graph-neural-networks-to-recommend-related-products&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How diffusion models work: the math from scratch</title>

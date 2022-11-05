@@ -5,10 +5,21 @@
     <description>Recent content in tools on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awesome Production Machine Learning</title>
+      <link>/post/2022-11-05-awesome-production-machine-learning/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-awesome-production-machine-learning/</guid>
+      <description>&lt;p&gt;This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/EthicalML/awesome-production-machine-learning/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Demystifying the Parquet File Format</title>

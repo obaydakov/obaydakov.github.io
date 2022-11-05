@@ -5,10 +5,32 @@
     <description>Recent content in articles on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CS 230 ― Deep Learning</title>
+      <link>/post/2022-11-05-cs-230-deep-learning/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-cs-230-deep-learning/</guid>
+      <description>&lt;p&gt;Set of illustrated Deep Learning cheatsheets covering the content of the CS 230 class&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stanford.edu/~shervine/teaching/cs-230/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting Started in the World of Stable Diffusion</title>
+      <link>/post/2022-11-05-getting-started-in-the-world-of-stable-diffusion/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-getting-started-in-the-world-of-stable-diffusion/</guid>
+      <description>&lt;p&gt;In simple words, stable diffusion is a deep learning model that can generate an image given a prompt&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bipinkrishnan.github.io/posts/getting-started-in-the-world-of-stable-diffusion?utm_source=substack&amp;amp;utm_medium=email&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Awesome AI Guidelines</title>

@@ -5,10 +5,23 @@
     <description>Recent content in books on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/books/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning</title>
+      <link>/post/2022-11-05-algebra-topology-differential-calculus-and-optimization-theory-for-computer-science-and-machine-learning/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-algebra-topology-differential-calculus-and-optimization-theory-for-computer-science-and-machine-learning/</guid>
+      <description>&lt;p&gt;Algebra, Topology, Differential Calculus, and
+Optimization Theory
+For Computer Science and Machine Learning&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cis.upenn.edu/~jean/math-deep.pdf&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bandit Algorithms</title>

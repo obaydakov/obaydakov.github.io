@@ -5,10 +5,66 @@
     <description>Recent content in Machine Learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An easy-to-use &amp; supercharged open-source experiment tracker</title>
+      <link>/post/2022-11-05-an-easy-to-use-supercharged-open-source-experiment-tracker/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-an-easy-to-use-supercharged-open-source-experiment-tracker/</guid>
+      <description>&lt;p&gt;Aim logs your training runs, enables a beautiful UI to compare them and an API to query them programmatically.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/aimhubio/aim&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Awesome Production Machine Learning</title>
+      <link>/post/2022-11-05-awesome-production-machine-learning/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-awesome-production-machine-learning/</guid>
+      <description>&lt;p&gt;This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/EthicalML/awesome-production-machine-learning/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Databolt Flow</title>
+      <link>/post/2022-11-05-databolt-flow/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-databolt-flow/</guid>
+      <description>&lt;p&gt;For data scientists and data engineers, d6tflow is a python library which makes building complex data science workflows easy, fast and intuitive. It is primarily designed for data scientists to build better models faster. For data engineers, it can also be a lightweight alternative and help productionize data science models faster. Unlike other data pipeline/workflow solutions, d6tflow focuses on managing data science research workflows instead of managing production data pipelines.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/d6t/d6tflow&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/d6t/d6tflow-template&#34;&gt;d6tflow - Project Templates&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JINA - Build cross-modal and multi-modal applications on the cloud</title>
+      <link>/post/2022-11-05-jina-build-cross-modal-and-multi-modal-applications-on-the-cloud/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-jina-build-cross-modal-and-multi-modal-applications-on-the-cloud/</guid>
+      <description>&lt;p&gt;Jina is a MLOps framework that empowers anyone to build cross-modal and multi-modal applications on the cloud. It uplifts a PoC into a production-ready service. Jina handles the infrastructure complexity, making advanced solution engineering and cloud-native technologies accessible to every developer.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/jina-ai/jina&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using graph neural networks to recommend related products</title>
+      <link>/post/2022-11-05-using-graph-neural-networks-to-recommend-related-products/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-using-graph-neural-networks-to-recommend-related-products/</guid>
+      <description>&lt;p&gt;Recommending related products — say, a phone case to go along with a new phone — is a fundamental capability of e-commerce sites, one that saves customers time and leads to more satisfying shopping experiences.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.science/blog/using-graph-neural-networks-to-recommend-related-products&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Awesome AI Guidelines</title>

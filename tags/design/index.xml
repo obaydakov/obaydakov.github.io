@@ -5,10 +5,21 @@
     <description>Recent content in design on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/design/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DATA MESH ARCHITECTURE</title>
+      <link>/post/2022-11-05-data-mesh-architecture/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-data-mesh-architecture/</guid>
+      <description>&lt;p&gt;The term data mesh was coined by Zhamak Dehghani  in 2019 and is based on four fundamental principles that bundle well-known concepts&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.datamesh-architecture.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Data Memos</title>

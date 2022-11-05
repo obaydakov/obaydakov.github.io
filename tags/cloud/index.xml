@@ -5,10 +5,21 @@
     <description>Recent content in cloud on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JINA - Build cross-modal and multi-modal applications on the cloud</title>
+      <link>/post/2022-11-05-jina-build-cross-modal-and-multi-modal-applications-on-the-cloud/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-11-05-jina-build-cross-modal-and-multi-modal-applications-on-the-cloud/</guid>
+      <description>&lt;p&gt;Jina is a MLOps framework that empowers anyone to build cross-modal and multi-modal applications on the cloud. It uplifts a PoC into a production-ready service. Jina handles the infrastructure complexity, making advanced solution engineering and cloud-native technologies accessible to every developer.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/jina-ai/jina&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build a modern data architecture on AWS with Amazon AppFlow, AWS Lake Formation, and Amazon Redshift</title>
