@@ -5,10 +5,21 @@
     <description>Recent content in automl on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/automl/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ray AI Runtime (AIR) </title>
+      <link>/post/2022-12-10-ray-ai-runtime-air/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-ray-ai-runtime-air/</guid>
+      <description>&lt;p&gt;Ray AI Runtime (AIR) is an open-source toolkit for building ML applications. It provides libraries for distributed data processing, model training, tuning, reinforcement learning, model serving, and more.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.ray.io/en/latest/index.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Best ML Model Registry Tools</title>

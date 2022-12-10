@@ -5,10 +5,54 @@
     <description>Recent content in libraries on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/libraries/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Facets Overview and Facets Dive</title>
+      <link>/post/2022-12-10-facets-overview-and-facets-dive/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-facets-overview-and-facets-dive/</guid>
+      <description>&lt;p&gt;The facets project contains two visualizations for understanding and analyzing machine learning datasets: Facets Overview and Facets Dive.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/PAIR-code/facets&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GEOTORCH A Deep Learning and Scalable Data Processing Framework for Raster and Spatio-Temporal Datasets</title>
+      <link>/post/2022-12-10-geotorch-a-deep-learning-and-scalable-data-processing-framework-for-raster-and-spatio-temporal-datasets/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-geotorch-a-deep-learning-and-scalable-data-processing-framework-for-raster-and-spatio-temporal-datasets/</guid>
+      <description>&lt;p&gt;GeoTorch is a python library on top of PyTorch and Apache Sedona for deep learning and scalable data processing focusing on raster imagery and spatio-temporal non-imagery datasets. It has various modules for deep learning and data preprocessing under both categories of datasets. The deep learning module offers ready-to-use datasets, models, and&lt;/p&gt;
+&lt;p&gt;[Link]{https://kanchanchy.github.io/geotorch/}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenMetricLearning</title>
+      <link>/post/2022-12-10-openmetriclearning/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-openmetriclearning/</guid>
+      <description>&lt;p&gt;This post is related to the recent release of a new open-source project called OpenMetricLearning (OML), and one of its goals is to lower the entry threshold for metric learning pipelines. We will briefly introduce the theory, discuss the examples in code and show how simple heuristics can perform on a level comparable with the current SotA. Since the project is new, each star on GitHub is essential for us.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@AlekseiShabanov/practical-metric-learning-b0410cda2201&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ray AI Runtime (AIR) </title>
+      <link>/post/2022-12-10-ray-ai-runtime-air/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-ray-ai-runtime-air/</guid>
+      <description>&lt;p&gt;Ray AI Runtime (AIR) is an open-source toolkit for building ML applications. It provides libraries for distributed data processing, model training, tuning, reinforcement learning, model serving, and more.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.ray.io/en/latest/index.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Captum - Model Interpretability for PyTorch</title>

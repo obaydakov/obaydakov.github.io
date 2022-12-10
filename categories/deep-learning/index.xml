@@ -5,10 +5,86 @@
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ChatGPT CLI and Python Wrapper</title>
+      <link>/post/2022-12-10-chatgpt-cli-and-python-wrapper/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-chatgpt-cli-and-python-wrapper/</guid>
+      <description>&lt;p&gt;ChatGPT Wrapper is an open-source tool unofficial API that lets you interact with ChatGPT in Python and as a CLI.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mmabrouk/chatgpt-wrapper&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DeepNash learns to play Stratego from scratch by combining game theory and model-free deep RL</title>
+      <link>/post/2022-12-10-deepnash-learns-to-play-stratego-from-scratch-by-combining-game-theory-and-model-free-deep-rl/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-deepnash-learns-to-play-stratego-from-scratch-by-combining-game-theory-and-model-free-deep-rl/</guid>
+      <description>&lt;p&gt;Game-playing artificial intelligence (AI) systems have advanced to a new frontier. Stratego, the classic board game that’s more complex than chess and Go, and craftier than poker, has now been mastered. Published in Science, we present DeepNash, an AI agent that learned the game from scratch to a human expert level by playing against itself.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GEOTORCH A Deep Learning and Scalable Data Processing Framework for Raster and Spatio-Temporal Datasets</title>
+      <link>/post/2022-12-10-geotorch-a-deep-learning-and-scalable-data-processing-framework-for-raster-and-spatio-temporal-datasets/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-geotorch-a-deep-learning-and-scalable-data-processing-framework-for-raster-and-spatio-temporal-datasets/</guid>
+      <description>&lt;p&gt;GeoTorch is a python library on top of PyTorch and Apache Sedona for deep learning and scalable data processing focusing on raster imagery and spatio-temporal non-imagery datasets. It has various modules for deep learning and data preprocessing under both categories of datasets. The deep learning module offers ready-to-use datasets, models, and&lt;/p&gt;
+&lt;p&gt;[Link]{https://kanchanchy.github.io/geotorch/}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugging Face Diffusion Models Course</title>
+      <link>/post/2022-12-10-hugging-face-diffusion-models-course/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-hugging-face-diffusion-models-course/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/huggingface/diffusion-models-class&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I Used ChatGPT to Create an Entire AI Application on AWS</title>
+      <link>/post/2022-12-10-i-used-chatgpt-to-create-an-entire-ai-application-on-aws/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-i-used-chatgpt-to-create-an-entire-ai-application-on-aws/</guid>
+      <description>&lt;p&gt;This new language model could be the pair programmer of your choice going forward&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/i-used-chatgpt-to-create-an-entire-ai-application-on-aws-5b90e34c3d50&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Time Series Forecasting with Transformers</title>
+      <link>/post/2022-12-10-probabilistic-time-series-forecasting-with-transformers/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-probabilistic-time-series-forecasting-with-transformers/</guid>
+      <description>&lt;p&gt;Time series forecasting is an essential scientific and business problem and as such has also seen a lot of innovation recently with the use of deep learning based models in addition to the classical methods. An important difference between classical methods like ARIMA and novel deep learning methods is the following.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/blog/time-series-transformers&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text-to-Image: Diffusion, Text Conditioning, Guidance, Latent Space</title>
+      <link>/post/2022-12-10-text-to-image-diffusion-text-conditioning-guidance-latent-space/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-text-to-image-diffusion-text-conditioning-guidance-latent-space/</guid>
+      <description>&lt;p&gt;Text-to-image has advanced at a breathless pace in 2021 - 2022, starting with DALL·E, then DALL·E 2, Imagen, and now Stable Diffusion. I dug into a couple of papers to learn more about the space and organized my understanding into a few key concepts&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://eugeneyan.com/writing/text-to-image/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning</title>

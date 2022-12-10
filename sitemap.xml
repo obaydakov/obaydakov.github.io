@@ -5,6 +5,262 @@
   
 
       <url>
+        <loc>/tags/apps/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/automl/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-chatgpt-cli-and-python-wrapper/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-chatgpt-telegram-bot/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/computer-vision/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/courses/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-engineering/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/deep-learning/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-deepnash-learns-to-play-stratego-from-scratch-by-combining-game-theory-and-model-free-deep-rl/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-diagram-as-code/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-efficient-and-scalable-machine-learning-pipelines/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-facets-overview-and-facets-dive/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-geotorch-a-deep-learning-and-scalable-data-processing-framework-for-raster-and-spatio-temporal-datasets/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-hugging-face-diffusion-models-course/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-i-used-chatgpt-to-create-an-entire-ai-application-on-aws/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/libraries/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/machine-learning/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-mermaid-live/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/nlp/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-openmetriclearning/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-probabilistic-time-series-forecasting-with-transformers/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/python/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-ray-ai-runtime-air/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-sequencediagram-org/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-text-to-image-diffusion-text-conditioning-guidance-latent-space/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2022-12-10-this-not-that-tnt/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/tools/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/visualization/</loc>
+        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/post/2022-11-05-algebra-topology-differential-calculus-and-optimization-theory-for-computer-science-and-machine-learning/</loc>
         <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     </url>
@@ -53,14 +309,6 @@
   
 
       <url>
-        <loc>/categories/</loc>
-        <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/tags/cloud/</loc>
         <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     </url>
@@ -85,14 +333,6 @@
   
 
       <url>
-        <loc>/categories/data-engineering/</loc>
-        <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-11-05-databolt-flow/</loc>
         <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     </url>
@@ -101,23 +341,7 @@
   
 
       <url>
-        <loc>/</loc>
-        <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/tags/deep-learning/</loc>
-        <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/deep-learning/</loc>
         <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     </url>
     
@@ -173,55 +397,7 @@
   
 
       <url>
-        <loc>/tags/libraries/</loc>
-        <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/machine-learning/</loc>
-        <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/categories/math/</loc>
-        <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/post/</loc>
-        <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/python/</loc>
-        <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/</loc>
-        <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/tools/</loc>
         <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     </url>
     
@@ -341,24 +517,8 @@
   
 
       <url>
-        <loc>/tags/visualization/</loc>
-        <lastmod>2022-10-16T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-10-16-what-is-dstack/</loc>
         <lastmod>2022-10-16T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/apps/</loc>
-        <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -469,14 +629,6 @@
   
 
       <url>
-        <loc>/tags/automl/</loc>
-        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-09-25-best-ml-model-registry-tools/</loc>
         <lastmod>2022-09-25T00:00:00+00:00</lastmod>
     </url>
@@ -518,14 +670,6 @@
 
       <url>
         <loc>/post/2022-09-25-minimagen-build-your-own-imagen-text-to-image-model/</loc>
-        <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/nlp/</loc>
         <lastmod>2022-09-25T00:00:00+00:00</lastmod>
     </url>
     
@@ -581,23 +725,7 @@
   
 
       <url>
-        <loc>/tags/computer-vision/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-09-03-contents-games-and-puzzles-as-multicomputational-systems/</loc>
-        <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/courses/</loc>
         <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     </url>
     

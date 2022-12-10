@@ -5,10 +5,65 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ChatGPT Telegram Bot</title>
+      <link>/post/2022-12-10-chatgpt-telegram-bot/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-chatgpt-telegram-bot/</guid>
+      <description>&lt;p&gt;This is a Telegram bot that lets you chat with the chatGPT language model using your local browser. The bot uses Playwright to run chatGPT in Chromium, and can parse code and text, as well as send messages. It also includes a /draw command that allows you to generate pictures using stable diffusion. More features are coming soon.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/altryne/chatGPT-telegram-bot&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diagram as Code</title>
+      <link>/post/2022-12-10-diagram-as-code/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-diagram-as-code/</guid>
+      <description>&lt;p&gt;Diagrams lets you draw the cloud system architecture in Python code.&lt;/p&gt;
+&lt;p&gt;It was born for prototyping a new system architecture without any design tools. You can also describe or visualize the existing system architecture as well.&lt;/p&gt;
+&lt;p&gt;Diagram as Code allows you to track the architecture diagram changes in any version control system.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://diagrams.mingrammer.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficient and scalable machine learning pipelines</title>
+      <link>/post/2022-12-10-efficient-and-scalable-machine-learning-pipelines/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-efficient-and-scalable-machine-learning-pipelines/</guid>
+      <description>&lt;p&gt;A well-established rule of thumb that applies to most machine learning projects is that the larger and cleaner the dataset, the better the performance.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://andompesta.github.io/2022/11/13/efficent-data-preprocessing.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mermaid.live</title>
+      <link>/post/2022-12-10-mermaid-live/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-mermaid-live/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mermaid.live/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>sequencediagram.org</title>
+      <link>/post/2022-12-10-sequencediagram-org/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-sequencediagram-org/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://sequencediagram.org/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DATA MESH ARCHITECTURE</title>

@@ -5,10 +5,21 @@
     <description>Recent content in computer-vision on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Text-to-Image: Diffusion, Text Conditioning, Guidance, Latent Space</title>
+      <link>/post/2022-12-10-text-to-image-diffusion-text-conditioning-guidance-latent-space/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-text-to-image-diffusion-text-conditioning-guidance-latent-space/</guid>
+      <description>&lt;p&gt;Text-to-image has advanced at a breathless pace in 2021 - 2022, starting with DALL·E, then DALL·E 2, Imagen, and now Stable Diffusion. I dug into a couple of papers to learn more about the space and organized my understanding into a few key concepts&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://eugeneyan.com/writing/text-to-image/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DALL-E: Inside the Artificial Intelligence program that creates images from textual descriptions</title>

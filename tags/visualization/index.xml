@@ -5,10 +5,65 @@
     <description>Recent content in visualization on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Diagram as Code</title>
+      <link>/post/2022-12-10-diagram-as-code/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-diagram-as-code/</guid>
+      <description>&lt;p&gt;Diagrams lets you draw the cloud system architecture in Python code.&lt;/p&gt;
+&lt;p&gt;It was born for prototyping a new system architecture without any design tools. You can also describe or visualize the existing system architecture as well.&lt;/p&gt;
+&lt;p&gt;Diagram as Code allows you to track the architecture diagram changes in any version control system.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://diagrams.mingrammer.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Facets Overview and Facets Dive</title>
+      <link>/post/2022-12-10-facets-overview-and-facets-dive/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-facets-overview-and-facets-dive/</guid>
+      <description>&lt;p&gt;The facets project contains two visualizations for understanding and analyzing machine learning datasets: Facets Overview and Facets Dive.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/PAIR-code/facets&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mermaid.live</title>
+      <link>/post/2022-12-10-mermaid-live/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-mermaid-live/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mermaid.live/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>sequencediagram.org</title>
+      <link>/post/2022-12-10-sequencediagram-org/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-sequencediagram-org/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://sequencediagram.org/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>This Not That (TNT)</title>
+      <link>/post/2022-12-10-this-not-that-tnt/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-this-not-that-tnt/</guid>
+      <description>&lt;p&gt;This Not That is a suite of tools for working with, exploring, and interacting with &amp;ldquo;data maps&amp;rdquo;. A data map is a two (or three) dimensional representation of higher dimensional vector space data, usually produced by UMAP, t_SNE, or another manifold learning technique.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/TutteInstitute/thisnotthat&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A community maintained Python library for creating mathematical animations.</title>

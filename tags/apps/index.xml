@@ -5,10 +5,21 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DeepNash learns to play Stratego from scratch by combining game theory and model-free deep RL</title>
+      <link>/post/2022-12-10-deepnash-learns-to-play-stratego-from-scratch-by-combining-game-theory-and-model-free-deep-rl/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-deepnash-learns-to-play-stratego-from-scratch-by-combining-game-theory-and-model-free-deep-rl/</guid>
+      <description>&lt;p&gt;Game-playing artificial intelligence (AI) systems have advanced to a new frontier. Stratego, the classic board game that’s more complex than chess and Go, and craftier than poker, has now been mastered. Published in Science, we present DeepNash, an AI agent that learned the game from scratch to a human expert level by playing against itself.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build a Reactive Data Streaming App with Python and Apache Kafka</title>

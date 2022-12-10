@@ -5,10 +5,21 @@
     <description>Recent content in tools on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Efficient and scalable machine learning pipelines</title>
+      <link>/post/2022-12-10-efficient-and-scalable-machine-learning-pipelines/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-efficient-and-scalable-machine-learning-pipelines/</guid>
+      <description>&lt;p&gt;A well-established rule of thumb that applies to most machine learning projects is that the larger and cleaner the dataset, the better the performance.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://andompesta.github.io/2022/11/13/efficent-data-preprocessing.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Awesome Production Machine Learning</title>

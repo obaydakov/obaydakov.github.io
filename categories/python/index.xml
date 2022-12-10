@@ -5,10 +5,75 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Facets Overview and Facets Dive</title>
+      <link>/post/2022-12-10-facets-overview-and-facets-dive/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-facets-overview-and-facets-dive/</guid>
+      <description>&lt;p&gt;The facets project contains two visualizations for understanding and analyzing machine learning datasets: Facets Overview and Facets Dive.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/PAIR-code/facets&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenMetricLearning</title>
+      <link>/post/2022-12-10-openmetriclearning/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-openmetriclearning/</guid>
+      <description>&lt;p&gt;This post is related to the recent release of a new open-source project called OpenMetricLearning (OML), and one of its goals is to lower the entry threshold for metric learning pipelines. We will briefly introduce the theory, discuss the examples in code and show how simple heuristics can perform on a level comparable with the current SotA. Since the project is new, each star on GitHub is essential for us.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@AlekseiShabanov/practical-metric-learning-b0410cda2201&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Time Series Forecasting with Transformers</title>
+      <link>/post/2022-12-10-probabilistic-time-series-forecasting-with-transformers/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-probabilistic-time-series-forecasting-with-transformers/</guid>
+      <description>&lt;p&gt;Time series forecasting is an essential scientific and business problem and as such has also seen a lot of innovation recently with the use of deep learning based models in addition to the classical methods. An important difference between classical methods like ARIMA and novel deep learning methods is the following.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/blog/time-series-transformers&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>sequencediagram.org</title>
+      <link>/post/2022-12-10-sequencediagram-org/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-sequencediagram-org/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://sequencediagram.org/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text-to-Image: Diffusion, Text Conditioning, Guidance, Latent Space</title>
+      <link>/post/2022-12-10-text-to-image-diffusion-text-conditioning-guidance-latent-space/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-text-to-image-diffusion-text-conditioning-guidance-latent-space/</guid>
+      <description>&lt;p&gt;Text-to-image has advanced at a breathless pace in 2021 - 2022, starting with DALL·E, then DALL·E 2, Imagen, and now Stable Diffusion. I dug into a couple of papers to learn more about the space and organized my understanding into a few key concepts&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://eugeneyan.com/writing/text-to-image/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>This Not That (TNT)</title>
+      <link>/post/2022-12-10-this-not-that-tnt/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-this-not-that-tnt/</guid>
+      <description>&lt;p&gt;This Not That is a suite of tools for working with, exploring, and interacting with &amp;ldquo;data maps&amp;rdquo;. A data map is a two (or three) dimensional representation of higher dimensional vector space data, usually produced by UMAP, t_SNE, or another manifold learning technique.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/TutteInstitute/thisnotthat&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Captum - Model Interpretability for PyTorch</title>

@@ -5,10 +5,65 @@
     <description>Recent content in nlp on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ChatGPT CLI and Python Wrapper</title>
+      <link>/post/2022-12-10-chatgpt-cli-and-python-wrapper/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-chatgpt-cli-and-python-wrapper/</guid>
+      <description>&lt;p&gt;ChatGPT Wrapper is an open-source tool unofficial API that lets you interact with ChatGPT in Python and as a CLI.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mmabrouk/chatgpt-wrapper&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT Telegram Bot</title>
+      <link>/post/2022-12-10-chatgpt-telegram-bot/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-chatgpt-telegram-bot/</guid>
+      <description>&lt;p&gt;This is a Telegram bot that lets you chat with the chatGPT language model using your local browser. The bot uses Playwright to run chatGPT in Chromium, and can parse code and text, as well as send messages. It also includes a /draw command that allows you to generate pictures using stable diffusion. More features are coming soon.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/altryne/chatGPT-telegram-bot&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I Used ChatGPT to Create an Entire AI Application on AWS</title>
+      <link>/post/2022-12-10-i-used-chatgpt-to-create-an-entire-ai-application-on-aws/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-i-used-chatgpt-to-create-an-entire-ai-application-on-aws/</guid>
+      <description>&lt;p&gt;This new language model could be the pair programmer of your choice going forward&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/i-used-chatgpt-to-create-an-entire-ai-application-on-aws-5b90e34c3d50&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Time Series Forecasting with Transformers</title>
+      <link>/post/2022-12-10-probabilistic-time-series-forecasting-with-transformers/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-probabilistic-time-series-forecasting-with-transformers/</guid>
+      <description>&lt;p&gt;Time series forecasting is an essential scientific and business problem and as such has also seen a lot of innovation recently with the use of deep learning based models in addition to the classical methods. An important difference between classical methods like ARIMA and novel deep learning methods is the following.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/blog/time-series-transformers&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text-to-Image: Diffusion, Text Conditioning, Guidance, Latent Space</title>
+      <link>/post/2022-12-10-text-to-image-diffusion-text-conditioning-guidance-latent-space/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-text-to-image-diffusion-text-conditioning-guidance-latent-space/</guid>
+      <description>&lt;p&gt;Text-to-image has advanced at a breathless pace in 2021 - 2022, starting with DALL·E, then DALL·E 2, Imagen, and now Stable Diffusion. I dug into a couple of papers to learn more about the space and organized my understanding into a few key concepts&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://eugeneyan.com/writing/text-to-image/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>12 Most Popular NLP Projects of 2022 So Far</title>

@@ -6,7 +6,165 @@
     <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT CLI and Python Wrapper</title>
+      <link>/post/2022-12-10-chatgpt-cli-and-python-wrapper/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-chatgpt-cli-and-python-wrapper/</guid>
+      <description>ChatGPT Wrapper is an open-source tool unofficial API that lets you interact with ChatGPT in Python and as a CLI.
+Link</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT Telegram Bot</title>
+      <link>/post/2022-12-10-chatgpt-telegram-bot/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-chatgpt-telegram-bot/</guid>
+      <description>This is a Telegram bot that lets you chat with the chatGPT language model using your local browser. The bot uses Playwright to run chatGPT in Chromium, and can parse code and text, as well as send messages. It also includes a /draw command that allows you to generate pictures using stable diffusion. More features are coming soon.
+Link</description>
+    </item>
+    
+    <item>
+      <title>DeepNash learns to play Stratego from scratch by combining game theory and model-free deep RL</title>
+      <link>/post/2022-12-10-deepnash-learns-to-play-stratego-from-scratch-by-combining-game-theory-and-model-free-deep-rl/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-deepnash-learns-to-play-stratego-from-scratch-by-combining-game-theory-and-model-free-deep-rl/</guid>
+      <description>Game-playing artificial intelligence (AI) systems have advanced to a new frontier. Stratego, the classic board game that’s more complex than chess and Go, and craftier than poker, has now been mastered. Published in Science, we present DeepNash, an AI agent that learned the game from scratch to a human expert level by playing against itself.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Diagram as Code</title>
+      <link>/post/2022-12-10-diagram-as-code/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-diagram-as-code/</guid>
+      <description>Diagrams lets you draw the cloud system architecture in Python code.
+It was born for prototyping a new system architecture without any design tools. You can also describe or visualize the existing system architecture as well.
+Diagram as Code allows you to track the architecture diagram changes in any version control system.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Efficient and scalable machine learning pipelines</title>
+      <link>/post/2022-12-10-efficient-and-scalable-machine-learning-pipelines/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-efficient-and-scalable-machine-learning-pipelines/</guid>
+      <description>A well-established rule of thumb that applies to most machine learning projects is that the larger and cleaner the dataset, the better the performance.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Facets Overview and Facets Dive</title>
+      <link>/post/2022-12-10-facets-overview-and-facets-dive/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-facets-overview-and-facets-dive/</guid>
+      <description>The facets project contains two visualizations for understanding and analyzing machine learning datasets: Facets Overview and Facets Dive.
+Link</description>
+    </item>
+    
+    <item>
+      <title>GEOTORCH A Deep Learning and Scalable Data Processing Framework for Raster and Spatio-Temporal Datasets</title>
+      <link>/post/2022-12-10-geotorch-a-deep-learning-and-scalable-data-processing-framework-for-raster-and-spatio-temporal-datasets/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-geotorch-a-deep-learning-and-scalable-data-processing-framework-for-raster-and-spatio-temporal-datasets/</guid>
+      <description>GeoTorch is a python library on top of PyTorch and Apache Sedona for deep learning and scalable data processing focusing on raster imagery and spatio-temporal non-imagery datasets. It has various modules for deep learning and data preprocessing under both categories of datasets. The deep learning module offers ready-to-use datasets, models, and
+[Link]{https://kanchanchy.github.io/geotorch/}</description>
+    </item>
+    
+    <item>
+      <title>Hugging Face Diffusion Models Course</title>
+      <link>/post/2022-12-10-hugging-face-diffusion-models-course/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-hugging-face-diffusion-models-course/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>I Used ChatGPT to Create an Entire AI Application on AWS</title>
+      <link>/post/2022-12-10-i-used-chatgpt-to-create-an-entire-ai-application-on-aws/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-i-used-chatgpt-to-create-an-entire-ai-application-on-aws/</guid>
+      <description>This new language model could be the pair programmer of your choice going forward
+Link</description>
+    </item>
+    
+    <item>
+      <title>mermaid.live</title>
+      <link>/post/2022-12-10-mermaid-live/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-mermaid-live/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>OpenMetricLearning</title>
+      <link>/post/2022-12-10-openmetriclearning/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-openmetriclearning/</guid>
+      <description>This post is related to the recent release of a new open-source project called OpenMetricLearning (OML), and one of its goals is to lower the entry threshold for metric learning pipelines. We will briefly introduce the theory, discuss the examples in code and show how simple heuristics can perform on a level comparable with the current SotA. Since the project is new, each star on GitHub is essential for us.</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Time Series Forecasting with Transformers</title>
+      <link>/post/2022-12-10-probabilistic-time-series-forecasting-with-transformers/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-probabilistic-time-series-forecasting-with-transformers/</guid>
+      <description>Time series forecasting is an essential scientific and business problem and as such has also seen a lot of innovation recently with the use of deep learning based models in addition to the classical methods. An important difference between classical methods like ARIMA and novel deep learning methods is the following.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Ray AI Runtime (AIR) </title>
+      <link>/post/2022-12-10-ray-ai-runtime-air/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-ray-ai-runtime-air/</guid>
+      <description>Ray AI Runtime (AIR) is an open-source toolkit for building ML applications. It provides libraries for distributed data processing, model training, tuning, reinforcement learning, model serving, and more.
+Link</description>
+    </item>
+    
+    <item>
+      <title>sequencediagram.org</title>
+      <link>/post/2022-12-10-sequencediagram-org/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-sequencediagram-org/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Text-to-Image: Diffusion, Text Conditioning, Guidance, Latent Space</title>
+      <link>/post/2022-12-10-text-to-image-diffusion-text-conditioning-guidance-latent-space/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-text-to-image-diffusion-text-conditioning-guidance-latent-space/</guid>
+      <description>Text-to-image has advanced at a breathless pace in 2021 - 2022, starting with DALL·E, then DALL·E 2, Imagen, and now Stable Diffusion. I dug into a couple of papers to learn more about the space and organized my understanding into a few key concepts
+Link</description>
+    </item>
+    
+    <item>
+      <title>This Not That (TNT)</title>
+      <link>/post/2022-12-10-this-not-that-tnt/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-10-this-not-that-tnt/</guid>
+      <description>This Not That is a suite of tools for working with, exploring, and interacting with &amp;ldquo;data maps&amp;rdquo;. A data map is a two (or three) dimensional representation of higher dimensional vector space data, usually produced by UMAP, t_SNE, or another manifold learning technique.
+Link</description>
+    </item>
+    
     <item>
       <title>Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning</title>
       <link>/post/2022-11-05-algebra-topology-differential-calculus-and-optimization-theory-for-computer-science-and-machine-learning/</link>
@@ -44,162 +202,6 @@ Link</description>
       
       <guid>/post/2022-11-05-captum-model-interpretability-for-pytorch/</guid>
       <description>Captum (“comprehension” in Latin) is an open source, extensible library for model interpretability built on PyTorch.
-Link</description>
-    </item>
-    
-    <item>
-      <title>CS 230 ― Deep Learning</title>
-      <link>/post/2022-11-05-cs-230-deep-learning/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-11-05-cs-230-deep-learning/</guid>
-      <description>Set of illustrated Deep Learning cheatsheets covering the content of the CS 230 class
-Link</description>
-    </item>
-    
-    <item>
-      <title>DATA MESH ARCHITECTURE</title>
-      <link>/post/2022-11-05-data-mesh-architecture/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-11-05-data-mesh-architecture/</guid>
-      <description>The term data mesh was coined by Zhamak Dehghani in 2019 and is based on four fundamental principles that bundle well-known concepts
-Link</description>
-    </item>
-    
-    <item>
-      <title>Databolt Flow</title>
-      <link>/post/2022-11-05-databolt-flow/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-11-05-databolt-flow/</guid>
-      <description>For data scientists and data engineers, d6tflow is a python library which makes building complex data science workflows easy, fast and intuitive. It is primarily designed for data scientists to build better models faster. For data engineers, it can also be a lightweight alternative and help productionize data science models faster. Unlike other data pipeline/workflow solutions, d6tflow focuses on managing data science research workflows instead of managing production data pipelines.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started in the World of Stable Diffusion</title>
-      <link>/post/2022-11-05-getting-started-in-the-world-of-stable-diffusion/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-11-05-getting-started-in-the-world-of-stable-diffusion/</guid>
-      <description>In simple words, stable diffusion is a deep learning model that can generate an image given a prompt
-Link</description>
-    </item>
-    
-    <item>
-      <title>JINA - Build cross-modal and multi-modal applications on the cloud</title>
-      <link>/post/2022-11-05-jina-build-cross-modal-and-multi-modal-applications-on-the-cloud/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-11-05-jina-build-cross-modal-and-multi-modal-applications-on-the-cloud/</guid>
-      <description>Jina is a MLOps framework that empowers anyone to build cross-modal and multi-modal applications on the cloud. It uplifts a PoC into a production-ready service. Jina handles the infrastructure complexity, making advanced solution engineering and cloud-native technologies accessible to every developer.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Using graph neural networks to recommend related products</title>
-      <link>/post/2022-11-05-using-graph-neural-networks-to-recommend-related-products/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-11-05-using-graph-neural-networks-to-recommend-related-products/</guid>
-      <description>Recommending related products — say, a phone case to go along with a new phone — is a fundamental capability of e-commerce sites, one that saves customers time and leads to more satisfying shopping experiences.
-Link</description>
-    </item>
-    
-    <item>
-      <title>A community maintained Python library for creating mathematical animations.</title>
-      <link>/post/2022-10-16-a-community-maintained-python-library-for-creating-mathematical-animations/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-16-a-community-maintained-python-library-for-creating-mathematical-animations/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>A general-purpose programmatic animation tool</title>
-      <link>/post/2022-10-16-a-general-purpose-programmatic-animation-tool/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-16-a-general-purpose-programmatic-animation-tool/</guid>
-      <description>A gallery of animations made with Morpho is available here. For more, you can also take a look at the YouTube channels Morphocular and Serpentine Integral, which use Morpho to create most of the animations.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Awesome AI Guidelines</title>
-      <link>/post/2022-10-16-awesome-ai-guidelines/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-16-awesome-ai-guidelines/</guid>
-      <description>This repository aims to simplify this by mapping the ecosystem of guidelines, principles, codes of ethics, standards and regulation being put in place around artificial intelligence.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Building a Realtime Chat App with Django Channels and WebSockets</title>
-      <link>/post/2022-10-16-building-a-realtime-chat-app-with-django-channels-and-websockets/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-16-building-a-realtime-chat-app-with-django-channels-and-websockets/</guid>
-      <description>Building stateful web applications can be tricky, unless you use a framework, of course—Django to the rescue! In this article, learn how to build a realtime chat app using Django Channels and WebSockets.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Building makemore Part 3: Activations &amp; Gradients, BatchNorm</title>
-      <link>/post/2022-10-16-building-makemore-part-3-activations-gradients-batchnorm/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-16-building-makemore-part-3-activations-gradients-batchnorm/</guid>
-      <description>We dive into some of the internals of MLPs with multiple layers and scrutinize the statistics of the forward pass activations, backward pass gradients, and some of the pitfalls when they are improperly scaled. We also look at the typical diagnostic tools and visualizations you&amp;rsquo;d want to use to understand the health of your deep network. We learn why training deep neural nets can be fragile and introduce the first modern innovation that made doing so much easier: Batch Normalization.</description>
-    </item>
-    
-    <item>
-      <title>CS197 Harvard: AI Research Experiences</title>
-      <link>/post/2022-10-16-cs197-harvard-ai-research-experiences/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-16-cs197-harvard-ai-research-experiences/</guid>
-      <description>Once we go from training one model to training hundreds of different models with different hyperparameters, we need to start organizing. We’re going to break down our organization into three pieces: experiment tracking, hyperparameter search, and configuration setup.
-Link</description>
-    </item>
-    
-    <item>
-      <title>How diffusion models work: the math from scratch</title>
-      <link>/post/2022-10-16-how-diffusion-models-work-the-math-from-scratch/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-16-how-diffusion-models-work-the-math-from-scratch/</guid>
-      <description>Diffusion models are a new class of state-of-the-art generative models that generate diverse high-resolution images. They have already attracted a lot of attention after OpenAI, Nvidia and Google managed to train large-scale models. Example architectures that are based on diffusion models are GLIDE, DALLE-2, Imagen, and the full open-source stable diffusion.
-Link</description>
-    </item>
-    
-    <item>
-      <title>skopeo is a command line utility that performs various operations on container images and image repositories.</title>
-      <link>/post/2022-10-16-skopeo-is-a-command-line-utility-that-performs-various-operations-on-container-images-and-image-repositories/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-16-skopeo-is-a-command-line-utility-that-performs-various-operations-on-container-images-and-image-repositories/</guid>
-      <description>Skopeo works with API V2 container image registries such as docker.io and quay.io registries, private registries, local directories and local OCI-layout directories.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Sneaky REST APIs With Django Ninja</title>
-      <link>/post/2022-10-16-sneaky-rest-apis-with-django-ninja/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-16-sneaky-rest-apis-with-django-ninja/</guid>
-      <description>Many web projects have moved to the single-page application model. To use this model with Django, you build a project where Django is the back end accessed through a REST API. The Django Ninja library is a FastAPI-inspired tool kit for turning Django views into REST API endpoints with very little extra code. Along the way, you’ll be using curl, a command-line tool that allows you to grab the contents of a web page.</description>
-    </item>
-    
-    <item>
-      <title>Spacetimeformer Multivariate Forecasting</title>
-      <link>/post/2022-10-16-spacetimeformer-multivariate-forecasting/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-10-16-spacetimeformer-multivariate-forecasting/</guid>
-      <description>Spacetimeformer is a Transformer that learns temporal patterns like a time series model and spatial patterns like a Graph Neural Network.
 Link</description>
     </item>
     
