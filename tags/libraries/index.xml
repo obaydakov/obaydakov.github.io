@@ -5,10 +5,42 @@
     <description>Recent content in libraries on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/libraries/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Deep Learning Framework for Multi-target Prediction</title>
+      <link>/post/2022-12-26-a-deep-learning-framework-for-multi-target-prediction/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-a-deep-learning-framework-for-multi-target-prediction/</guid>
+      <description>&lt;p&gt;This is the official repository of DeepMTP, a deep learning framework that can be used with multi-target prediction (MTP) problems. MTP can be seen as an umbrella term that cover many subareas of machine learning, which include multi-label classification (MLC), multivariate regression (MTR), multi-task learning (MTL), dyadic prediction (DP), and matrix completion (MC). The implementation is mainly written in Python and uses Pytorch for the implementation of the neural network. The goal is for any user to be able to train a model using only a few lines of code.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/diliadis/DeepMTP&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Notebooks using the Hugging Face libraries </title>
+      <link>/post/2022-12-26-notebooks-using-the-hugging-face-libraries/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-notebooks-using-the-hugging-face-libraries/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/huggingface/notebooks/tree/main/examples&#34;&gt;Hugging Face examples&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recommending Amazon Products using Graph Neural Networks in PyTorch Geometric</title>
+      <link>/post/2022-12-26-recommending-amazon-products-using-graph-neural-networks-in-pytorch-geometric/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-recommending-amazon-products-using-graph-neural-networks-in-pytorch-geometric/</guid>
+      <description>&lt;p&gt;In this report, we will walk you through how you can leverage PyTorch Geometric along with Weights &amp;amp; Biases to analyse the Amazon products graph and recommend products from the graph.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wandb.ai/manan-goel/gnn-recommender/reports/Recommending-Amazon-Products-using-Graph-Neural-Networks-in-PyTorch-Geometric--VmlldzozMTA3MzYw&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Facets Overview and Facets Dive</title>

@@ -5,10 +5,166 @@
     <description>Recent content in math on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/math/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awesome Double Categories</title>
+      <link>/post/2022-12-26-awesome-double-categories/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-awesome-double-categories/</guid>
+      <description>&lt;p&gt;A list of works and resources about double category theory, with a particular focus on applications. (If you&amp;rsquo;d like to add more, edit this nLab page)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mattecapu/awesome-double-categories&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Categories for AI</title>
+      <link>/post/2022-12-26-categories-for-ai/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-categories-for-ai/</guid>
+      <description>&lt;p&gt;Category theory is a way of thinking and structuring one&amp;rsquo;s knowledge grounded in the idea of compositionality. Originating in abstract mathematics, this is a formal language that has since spread to numerous fields, becoming a topic of interest for a growing number of researchers. It&amp;rsquo;s helped build rigorous bridges between seemingly disparate scientific areas, showing great potential as a cohesive force in the scientific world. These fields include physics, chemistry, computer science, game theory, systems theory, database theory, and most importantly for us, machine learning, where it&amp;rsquo;s seen a steady growth.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cats.for.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Categories, Graphs, Reasoning</title>
+      <link>/post/2022-12-26-categories-graphs-reasoning/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-categories-graphs-reasoning/</guid>
+      <description>&lt;p&gt;Dr. Petar Veličković  is a Staff Research Scientist at DeepMind, he has firmly established himself as one of the most significant up and coming researchers in the deep learning space. He invented Graph Attention Networks in 2017 and has been a leading light in the field ever since pioneering research in Graph Neural Networks, Geometric Deep Learning and also Neural Algorithmic reasoning. If you haven’t already, you should check out our video on the Geometric Deep learning blueprint, featuring Petar. I caught up with him last week at NeurIPS. In this show, from NeurIPS 2022 we discussed his recent work on category theory and graph neural networks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1lkdWduuN14&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Category Theory For Beginners</title>
+      <link>/post/2022-12-26-category-theory-for-beginners/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-category-theory-for-beginners/</guid>
+      <description>&lt;p&gt;Category theory is close to the perfect language. It can be used to describe many mathematical ideas, and see the relations between them, and their deeper structure. This is the first video in a course where we will carefully introduce the main ideas of category theory, and motivate them with lots of applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=US4Zr1WKD-8&amp;amp;list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Category Theory Resources</title>
+      <link>/post/2022-12-26-category-theory-resources/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-category-theory-resources/</guid>
+      <description>&lt;p&gt;A curated list of resources for studying category theory. As resources aimed at mathematicians are abundant, this list is aimed at materials whose target audience is not people with a graduate-level mathematics background.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/bgavran/Category_Theory_Resources&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Category Theory ∩ Machine Learning</title>
+      <link>/post/2022-12-26-category-theory-machine-learning/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-category-theory-machine-learning/</guid>
+      <description>&lt;p&gt;Category Theory has been finding increasing applications in machine learning. This repository aims to list all of the relevant papers, grouped by fields.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/bgavran/Category_Theory_Machine_Learning&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Catlab.jl</title>
+      <link>/post/2022-12-26-catlab-jl/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-catlab-jl/</guid>
+      <description>&lt;p&gt;Catlab.jl is a framework for applied and computational category theory, written in the Julia language. Catlab provides a programming library and interactive interface for applications of category theory to scientific and engineering fields. It emphasizes monoidal categories due to their wide applicability but can support any categorical structure that is formalizable as a generalized algebraic theory.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://algebraicjulia.github.io/Catlab.jl/latest/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Everything is Connected: Deep Learning on Graphs</title>
+      <link>/post/2022-12-26-everything-is-connected-deep-learning-on-graphs/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-everything-is-connected-deep-learning-on-graphs/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@petarvelickovic6033/featured&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GDL Course</title>
+      <link>/post/2022-12-26-gdl-course/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-gdl-course/</guid>
+      <description>&lt;p&gt;As part of the African Master’s in Machine Intelligence (AMMI), we have delivered a course on Geometric Deep Learing (GDL100), which closely follows the contents of our GDL proto-book. We make all materials and artefacts from this course publicly available, as companion material for our proto-book, as well as a way to dive deeper into some of the contents for future iterations of the book.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://geometricdeeplearning.com/lectures/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Challenge of Compositionality for AI</title>
+      <link>/post/2022-12-26-the-challenge-of-compositionality-for-ai/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-the-challenge-of-compositionality-for-ai/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Why Compositionality Matters for AI&lt;/li&gt;
+&lt;li&gt;Can Language Models Handle Compositionality?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://compositionalintelligence.github.io/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theory and Applications of Lenses and Optics</title>
+      <link>/post/2022-12-26-theory-and-applications-of-lenses-and-optics/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-theory-and-applications-of-lenses-and-optics/</guid>
+      <description>&lt;p&gt;This is a list of papers studying the theory and application of lenses and optics, as they&amp;rsquo;re used in category theory and functional programming. Many of papers are in multiple fields and some of these fields overlap. Let me know what&amp;rsquo;s missing! (preferably by creating a pull request)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/bgavran/Lens_Resources&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wolfram Physics Project: Relations to Category Theory</title>
+      <link>/post/2022-12-26-wolfram-physics-project-relations-to-category-theory/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-wolfram-physics-project-relations-to-category-theory/</guid>
+      <description>&lt;p&gt;Stephen Wolfram and special guests discuss the Wolfram Physics Project and its relations to Category Theory.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0LAtNXo9rbE&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wolfram Physics Project: Working Session</title>
+      <link>/post/2022-12-26-wolfram-physics-project-working-session/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-wolfram-physics-project-working-session/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/results?search_query=Wolfram+Physics+Project%3A+Working+Session&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wolframphysics.org/&#34;&gt;Wolfram Physics Project&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сategory theory</title>
+      <link>/post/2022-12-26-category-theory/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-category-theory/</guid>
+      <description>&lt;p&gt;Category theory is a toolset for describing the general abstract structures in mathematics.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ncatlab.org/nlab/show/category+theory&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning</title>

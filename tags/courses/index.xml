@@ -5,10 +5,21 @@
     <description>Recent content in courses on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/courses/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GDL Course</title>
+      <link>/post/2022-12-26-gdl-course/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-gdl-course/</guid>
+      <description>&lt;p&gt;As part of the African Master’s in Machine Intelligence (AMMI), we have delivered a course on Geometric Deep Learing (GDL100), which closely follows the contents of our GDL proto-book. We make all materials and artefacts from this course publicly available, as companion material for our proto-book, as well as a way to dive deeper into some of the contents for future iterations of the book.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://geometricdeeplearning.com/lectures/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hugging Face Diffusion Models Course</title>

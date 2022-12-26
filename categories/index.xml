@@ -5,24 +5,24 @@
     <description>Recent content in Categories on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>data-engineering</title>
-      <link>/categories/data-engineering/</link>
-      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <title>data-science</title>
+      <link>/categories/data-science/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/data-engineering/</guid>
+      <guid>/categories/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>deep-learning</title>
       <link>/categories/deep-learning/</link>
-      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/deep-learning/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>Machine Learning</title>
       <link>/categories/machine-learning/</link>
-      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/machine-learning/</guid>
       <description>
@@ -54,29 +54,29 @@
     </item>
     
     <item>
-      <title>python</title>
-      <link>/categories/python/</link>
-      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>math</title>
       <link>/categories/math/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/math/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>data-science</title>
-      <link>/categories/data-science/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <title>python</title>
+      <link>/categories/python/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/data-science/</guid>
+      <guid>/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-engineering</title>
+      <link>/categories/data-engineering/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/data-engineering/</guid>
       <description></description>
     </item>
     

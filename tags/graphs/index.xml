@@ -5,10 +5,31 @@
     <description>Recent content in graphs on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/graphs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Categories, Graphs, Reasoning</title>
+      <link>/post/2022-12-26-categories-graphs-reasoning/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-categories-graphs-reasoning/</guid>
+      <description>&lt;p&gt;Dr. Petar Veličković  is a Staff Research Scientist at DeepMind, he has firmly established himself as one of the most significant up and coming researchers in the deep learning space. He invented Graph Attention Networks in 2017 and has been a leading light in the field ever since pioneering research in Graph Neural Networks, Geometric Deep Learning and also Neural Algorithmic reasoning. If you haven’t already, you should check out our video on the Geometric Deep learning blueprint, featuring Petar. I caught up with him last week at NeurIPS. In this show, from NeurIPS 2022 we discussed his recent work on category theory and graph neural networks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1lkdWduuN14&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pytorch Geometric tutorial</title>
+      <link>/post/2022-12-26-pytorch-geometric-tutorial/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-pytorch-geometric-tutorial/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://antoniolonga.github.io/Pytorch_geometric_tutorials/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Using graph neural networks to recommend related products</title>

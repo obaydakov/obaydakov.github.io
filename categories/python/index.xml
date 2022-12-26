@@ -5,10 +5,20 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BPMN Sketch Miner</title>
+      <link>/post/2022-12-26-bpmn-sketch-miner/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-bpmn-sketch-miner/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.bpmn-sketch-miner.ai/examples/syntax-0-02-loops.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Facets Overview and Facets Dive</title>

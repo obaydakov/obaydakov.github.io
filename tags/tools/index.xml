@@ -5,10 +5,32 @@
     <description>Recent content in tools on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wolfram Physics Project: Relations to Category Theory</title>
+      <link>/post/2022-12-26-wolfram-physics-project-relations-to-category-theory/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-wolfram-physics-project-relations-to-category-theory/</guid>
+      <description>&lt;p&gt;Stephen Wolfram and special guests discuss the Wolfram Physics Project and its relations to Category Theory.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0LAtNXo9rbE&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wolfram Physics Project: Working Session</title>
+      <link>/post/2022-12-26-wolfram-physics-project-working-session/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-wolfram-physics-project-working-session/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/results?search_query=Wolfram+Physics+Project%3A+Working+Session&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wolframphysics.org/&#34;&gt;Wolfram Physics Project&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Efficient and scalable machine learning pipelines</title>
