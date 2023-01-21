@@ -5,6 +5,254 @@
   
 
       <url>
+        <loc>/post/2023-01-21-2022-top-papers-in-ai-a-year-of-generative-models/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-01-21-a-machine-learning-library-for-unsupervised-time-series-anomaly-detection/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-01-21-a-new-kind-of-progress-bar-with-real-time-throughput-eta-and-very-cool-animations/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/apps/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-01-21-aqueduct-orchestrate-manage-production-ml/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/articles/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-01-21-build-models-ml-components-and-full-stack-ai-apps/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/computer-vision/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-01-21-data-science-cookie-cutter/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-engineering/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-science/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/deep-learning/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/development/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-01-21-graph-ml-in-2023-the-state-of-affairs/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/graphs/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-01-21-how-to-deploy-diffusion-models/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-01-21-introduction-to-graph-machine-learning/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/libraries/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/machine-learning/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/nlp/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-01-21-open-assistant/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/python/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-01-21-rich-is-a-python-library-for-rich-text-and-beautiful-formatting-in-the-terminal/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-01-21-the-clrs-algorithmic-reasoning-benchmark/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-01-21-top-python-libraries-of-2022/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-01-21-torchview/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-01-21-welcome-to-lightfm-s-documentation/</loc>
+        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/post/2022-12-26-a-deep-learning-framework-for-multi-target-prediction/</loc>
         <lastmod>2022-12-26T00:00:00+00:00</lastmod>
     </url>
@@ -30,14 +278,6 @@
 
       <url>
         <loc>/tags/cat/</loc>
-        <lastmod>2022-12-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/</loc>
         <lastmod>2022-12-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -101,31 +341,7 @@
   
 
       <url>
-        <loc>/categories/data-science/</loc>
-        <lastmod>2022-12-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/</loc>
-        <lastmod>2022-12-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/tags/deep-learning/</loc>
-        <lastmod>2022-12-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/deep-learning/</loc>
         <lastmod>2022-12-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -157,30 +373,6 @@
   
 
       <url>
-        <loc>/tags/graphs/</loc>
-        <lastmod>2022-12-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/libraries/</loc>
-        <lastmod>2022-12-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/machine-learning/</loc>
-        <lastmod>2022-12-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/categories/math/</loc>
         <lastmod>2022-12-26T00:00:00+00:00</lastmod>
     </url>
@@ -197,22 +389,6 @@
   
 
       <url>
-        <loc>/post/</loc>
-        <lastmod>2022-12-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/python/</loc>
-        <lastmod>2022-12-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-12-26-pytorch-geometric-tutorial/</loc>
         <lastmod>2022-12-26T00:00:00+00:00</lastmod>
     </url>
@@ -222,14 +398,6 @@
 
       <url>
         <loc>/post/2022-12-26-recommending-amazon-products-using-graph-neural-networks-in-pytorch-geometric/</loc>
-        <lastmod>2022-12-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/</loc>
         <lastmod>2022-12-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -293,14 +461,6 @@
   
 
       <url>
-        <loc>/tags/apps/</loc>
-        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/tags/automl/</loc>
         <lastmod>2022-12-10T00:00:00+00:00</lastmod>
     </url>
@@ -318,22 +478,6 @@
 
       <url>
         <loc>/post/2022-12-10-chatgpt-telegram-bot/</loc>
-        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/computer-vision/</loc>
-        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/data-engineering/</loc>
         <lastmod>2022-12-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -405,14 +549,6 @@
   
 
       <url>
-        <loc>/tags/nlp/</loc>
-        <lastmod>2022-12-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-12-10-openmetriclearning/</loc>
         <lastmod>2022-12-10T00:00:00+00:00</lastmod>
     </url>
@@ -477,14 +613,6 @@
   
 
       <url>
-        <loc>/tags/articles/</loc>
-        <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2022-11-05-awesome-production-machine-learning/</loc>
         <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     </url>
@@ -542,14 +670,6 @@
 
       <url>
         <loc>/tags/design/</loc>
-        <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/development/</loc>
         <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     </url>
     

@@ -5,10 +5,21 @@
     <description>Recent content in articles on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 Top Papers in AI — A Year of Generative Models</title>
+      <link>/post/2023-01-21-2022-top-papers-in-ai-a-year-of-generative-models/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-2022-top-papers-in-ai-a-year-of-generative-models/</guid>
+      <description>&lt;p&gt;This year, we see significant progress in the field of generative models. Stable Diffusion 🎨 creates hyperrealistic art. ChatGPT 💬 answers questions to the meaning of life. Galactica 🧬 learns humanity’s scientific knowledge but also reveals the limitations of large language models.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://chuanenlin.medium.com/2022-top-ai-papers-a-year-of-generative-models-a7dcd9109e39#e29a&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CS 230 ― Deep Learning</title>

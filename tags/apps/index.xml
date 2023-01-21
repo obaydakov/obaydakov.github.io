@@ -5,10 +5,44 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aqueduct: Orchestrate &amp; manage production ML</title>
+      <link>/post/2023-01-21-aqueduct-orchestrate-manage-production-ml/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-aqueduct-orchestrate-manage-production-ml/</guid>
+      <description>&lt;p&gt;Aqueduct gives you a simple Python-native API to define machine learning pipelines, the ability to deploy those pipelines on your existing infrastructure (e.g., Spark, Kubernetes, Lambda), and visibility into the code, data, and metadata associated with your workflows. Aqueduct is fully open-source and runs securely in your cloud.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/aqueducthq/aqueduct&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build models, ML components and full stack AI apps</title>
+      <link>/post/2023-01-21-build-models-ml-components-and-full-stack-ai-apps/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-build-models-ml-components-and-full-stack-ai-apps/</guid>
+      <description>&lt;p&gt;Use Lightning, the hyper-minimalistic framework, to build machine learning components that can plug into existing ML workflows. A Lightning component organizes arbitrary code to run on the cloud, manage its own infrastructure, cloud costs, networking, and more. Focus on component logic and not engineering.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lightning.ai/docs/stable/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science Cookie Cutter</title>
+      <link>/post/2023-01-21-data-science-cookie-cutter/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-data-science-cookie-cutter/</guid>
+      <description>&lt;p&gt;Data Science Cookie Cutter&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/khuyentran1401/data-science-template/tree/prefect-poetry/%7B%7Bcookiecutter.directory_name%7D%7D&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/company/skillfactory/blog/710816/&#34;&gt;Article&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DeepNash learns to play Stratego from scratch by combining game theory and model-free deep RL</title>

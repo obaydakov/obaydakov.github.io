@@ -5,10 +5,54 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!</title>
+      <link>/post/2023-01-21-a-new-kind-of-progress-bar-with-real-time-throughput-eta-and-very-cool-animations/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-a-new-kind-of-progress-bar-with-real-time-throughput-eta-and-very-cool-animations/</guid>
+      <description>&lt;p&gt;Have you ever wondered where your lengthy processing was, and when it would finish? Ever found yourself hitting [RETURN] now and then to ensure it didn&amp;rsquo;t hang, or if, in a remote SSH session, the connection was still working? Ever needed to pause some processing for a while, return to the Python prompt for a manual inspection or fixing an item, and then resume the process seamlessly?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rsalmei/alive-progress&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rich is a Python library for rich text and beautiful formatting in the terminal.</title>
+      <link>/post/2023-01-21-rich-is-a-python-library-for-rich-text-and-beautiful-formatting-in-the-terminal/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-rich-is-a-python-library-for-rich-text-and-beautiful-formatting-in-the-terminal/</guid>
+      <description>&lt;p&gt;The Rich API makes it easy to add color and style to terminal output. Rich can also render pretty tables, progress bars, markdown, syntax highlighted source code, tracebacks, and more — out of the box.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Textualize/rich&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The CLRS Algorithmic Reasoning Benchmark</title>
+      <link>/post/2023-01-21-the-clrs-algorithmic-reasoning-benchmark/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-the-clrs-algorithmic-reasoning-benchmark/</guid>
+      <description>&lt;p&gt;Learning representations of algorithms is an emerging area of machine learning, seeking to bridge concepts from neural networks with classical algorithms. The CLRS Algorithmic Reasoning Benchmark (CLRS) consolidates and extends previous work toward evaluation algorithmic reasoning by providing a suite of implementations of classical algorithms. These algorithms have been selected from the third edition of the standard Introduction to Algorithms by Cormen, Leiserson, Rivest and Stein.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/deepmind/clrs&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Top Python libraries of 2022</title>
+      <link>/post/2023-01-21-top-python-libraries-of-2022/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-top-python-libraries-of-2022/</guid>
+      <description>&lt;p&gt;We are excited to present this year&amp;rsquo;s picks for the most innovative developments in the Python ecosystem. From this edition, we are expanding our list to include not only libraries per-se, but also tools that are built to belong in the Python ecosystem — some of which are not written in Python as you’ll see.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tryolabs.com/blog/2022/12/26/top-python-libraries-2022&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BPMN Sketch Miner</title>

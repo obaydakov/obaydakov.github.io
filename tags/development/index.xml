@@ -5,10 +5,36 @@
     <description>Recent content in development on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build models, ML components and full stack AI apps</title>
+      <link>/post/2023-01-21-build-models-ml-components-and-full-stack-ai-apps/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-build-models-ml-components-and-full-stack-ai-apps/</guid>
+      <description>&lt;p&gt;Use Lightning, the hyper-minimalistic framework, to build machine learning components that can plug into existing ML workflows. A Lightning component organizes arbitrary code to run on the cloud, manage its own infrastructure, cloud costs, networking, and more. Focus on component logic and not engineering.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lightning.ai/docs/stable/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to LightFM’s documentation!</title>
+      <link>/post/2023-01-21-welcome-to-lightfm-s-documentation/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-welcome-to-lightfm-s-documentation/</guid>
+      <description>&lt;p&gt;LightFM is a Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://making.lyst.com/lightfm/docs/home.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nvidia-merlin.github.io/Transformers4Rec/main/README.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/THUwangcy/ReChorus&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://recbole.io/docs/index.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/company/ru_mts/blog/709602/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An easy-to-use &amp; supercharged open-source experiment tracker</title>

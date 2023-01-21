@@ -5,10 +5,58 @@
     <description>Recent content in Machine Learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A machine learning library for unsupervised time series anomaly detection</title>
+      <link>/post/2023-01-21-a-machine-learning-library-for-unsupervised-time-series-anomaly-detection/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-a-machine-learning-library-for-unsupervised-time-series-anomaly-detection/</guid>
+      <description>&lt;p&gt;A machine learning library for unsupervised time series anomaly detection.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;v&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aqueduct: Orchestrate &amp; manage production ML</title>
+      <link>/post/2023-01-21-aqueduct-orchestrate-manage-production-ml/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-aqueduct-orchestrate-manage-production-ml/</guid>
+      <description>&lt;p&gt;Aqueduct gives you a simple Python-native API to define machine learning pipelines, the ability to deploy those pipelines on your existing infrastructure (e.g., Spark, Kubernetes, Lambda), and visibility into the code, data, and metadata associated with your workflows. Aqueduct is fully open-source and runs securely in your cloud.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/aqueducthq/aqueduct&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graph ML in 2023: The State of Affairs</title>
+      <link>/post/2023-01-21-graph-ml-in-2023-the-state-of-affairs/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-graph-ml-in-2023-the-state-of-affairs/</guid>
+      <description>&lt;p&gt;2022 comes to an end and it is about time to sit down and reflect upon the achievements made in Graph ML as well as to hypothesize about possible breakthroughs in 2023.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/graph-ml-in-2023-the-state-of-affairs-1ba920cb9232&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to LightFM’s documentation!</title>
+      <link>/post/2023-01-21-welcome-to-lightfm-s-documentation/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-welcome-to-lightfm-s-documentation/</guid>
+      <description>&lt;p&gt;LightFM is a Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://making.lyst.com/lightfm/docs/home.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nvidia-merlin.github.io/Transformers4Rec/main/README.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/THUwangcy/ReChorus&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://recbole.io/docs/index.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/company/ru_mts/blog/709602/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Notebooks using the Hugging Face libraries </title>

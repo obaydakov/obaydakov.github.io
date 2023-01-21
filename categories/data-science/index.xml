@@ -5,10 +5,33 @@
     <description>Recent content in data-science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A machine learning library for unsupervised time series anomaly detection</title>
+      <link>/post/2023-01-21-a-machine-learning-library-for-unsupervised-time-series-anomaly-detection/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-a-machine-learning-library-for-unsupervised-time-series-anomaly-detection/</guid>
+      <description>&lt;p&gt;A machine learning library for unsupervised time series anomaly detection.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;v&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science Cookie Cutter</title>
+      <link>/post/2023-01-21-data-science-cookie-cutter/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-data-science-cookie-cutter/</guid>
+      <description>&lt;p&gt;Data Science Cookie Cutter&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/khuyentran1401/data-science-template/tree/prefect-poetry/%7B%7Bcookiecutter.directory_name%7D%7D&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/company/skillfactory/blog/710816/&#34;&gt;Article&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Recommending Amazon Products using Graph Neural Networks in PyTorch Geometric</title>

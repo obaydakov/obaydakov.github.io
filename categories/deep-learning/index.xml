@@ -5,10 +5,99 @@
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 Top Papers in AI — A Year of Generative Models</title>
+      <link>/post/2023-01-21-2022-top-papers-in-ai-a-year-of-generative-models/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-2022-top-papers-in-ai-a-year-of-generative-models/</guid>
+      <description>&lt;p&gt;This year, we see significant progress in the field of generative models. Stable Diffusion 🎨 creates hyperrealistic art. ChatGPT 💬 answers questions to the meaning of life. Galactica 🧬 learns humanity’s scientific knowledge but also reveals the limitations of large language models.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://chuanenlin.medium.com/2022-top-ai-papers-a-year-of-generative-models-a7dcd9109e39#e29a&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build models, ML components and full stack AI apps</title>
+      <link>/post/2023-01-21-build-models-ml-components-and-full-stack-ai-apps/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-build-models-ml-components-and-full-stack-ai-apps/</guid>
+      <description>&lt;p&gt;Use Lightning, the hyper-minimalistic framework, to build machine learning components that can plug into existing ML workflows. A Lightning component organizes arbitrary code to run on the cloud, manage its own infrastructure, cloud costs, networking, and more. Focus on component logic and not engineering.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lightning.ai/docs/stable/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graph ML in 2023: The State of Affairs</title>
+      <link>/post/2023-01-21-graph-ml-in-2023-the-state-of-affairs/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-graph-ml-in-2023-the-state-of-affairs/</guid>
+      <description>&lt;p&gt;2022 comes to an end and it is about time to sit down and reflect upon the achievements made in Graph ML as well as to hypothesize about possible breakthroughs in 2023.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/graph-ml-in-2023-the-state-of-affairs-1ba920cb9232&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Deploy Diffusion Models</title>
+      <link>/post/2023-01-21-how-to-deploy-diffusion-models/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-how-to-deploy-diffusion-models/</guid>
+      <description>&lt;p&gt;In this tutorial, you’ll learn how to deploy diffusion models at scale and build a text-to-image generator&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lightning.ai/pages/community/tutorial/deploy-diffusion-models/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Lightning-AI/stable-diffusion-deploy&#34;&gt;Muse&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Graph Machine Learning</title>
+      <link>/post/2023-01-21-introduction-to-graph-machine-learning/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-introduction-to-graph-machine-learning/</guid>
+      <description>&lt;p&gt;We first study what graphs are, why they are used, and how best to represent them. We then cover briefly how people learn on graphs, from pre-neural methods (exploring graph features at the same time) to what are commonly called Graph Neural Networks. Lastly, we peek into the world of Transformers for graphs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/blog/intro-graphml&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open-Assistant</title>
+      <link>/post/2023-01-21-open-assistant/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-open-assistant/</guid>
+      <description>&lt;p&gt;We believe that by doing this we will create a revolution in innovation in language. In the same way that stable-diffusion helped the world make art and images in new ways we hope Open Assistant can help improve the world by improving language itself.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/LAION-AI/Open-Assistant&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The CLRS Algorithmic Reasoning Benchmark</title>
+      <link>/post/2023-01-21-the-clrs-algorithmic-reasoning-benchmark/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-the-clrs-algorithmic-reasoning-benchmark/</guid>
+      <description>&lt;p&gt;Learning representations of algorithms is an emerging area of machine learning, seeking to bridge concepts from neural networks with classical algorithms. The CLRS Algorithmic Reasoning Benchmark (CLRS) consolidates and extends previous work toward evaluation algorithmic reasoning by providing a suite of implementations of classical algorithms. These algorithms have been selected from the third edition of the standard Introduction to Algorithms by Cormen, Leiserson, Rivest and Stein.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/deepmind/clrs&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>torchview</title>
+      <link>/post/2023-01-21-torchview/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-torchview/</guid>
+      <description>&lt;p&gt;Torchview provides visualization of pytorch models in the form of visual graphs. Visualization includes tensors, modules, torch.functions and info such as input/output shapes.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mert-kurttutan/torchview&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Deep Learning Framework for Multi-target Prediction</title>

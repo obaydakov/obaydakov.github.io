@@ -6,7 +6,163 @@
     <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 Top Papers in AI — A Year of Generative Models</title>
+      <link>/post/2023-01-21-2022-top-papers-in-ai-a-year-of-generative-models/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-2022-top-papers-in-ai-a-year-of-generative-models/</guid>
+      <description>This year, we see significant progress in the field of generative models. Stable Diffusion 🎨 creates hyperrealistic art. ChatGPT 💬 answers questions to the meaning of life. Galactica 🧬 learns humanity’s scientific knowledge but also reveals the limitations of large language models.
+Link</description>
+    </item>
+    
+    <item>
+      <title>A machine learning library for unsupervised time series anomaly detection</title>
+      <link>/post/2023-01-21-a-machine-learning-library-for-unsupervised-time-series-anomaly-detection/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-a-machine-learning-library-for-unsupervised-time-series-anomaly-detection/</guid>
+      <description>A machine learning library for unsupervised time series anomaly detection.
+Link</description>
+    </item>
+    
+    <item>
+      <title>A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!</title>
+      <link>/post/2023-01-21-a-new-kind-of-progress-bar-with-real-time-throughput-eta-and-very-cool-animations/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-a-new-kind-of-progress-bar-with-real-time-throughput-eta-and-very-cool-animations/</guid>
+      <description>Have you ever wondered where your lengthy processing was, and when it would finish? Ever found yourself hitting [RETURN] now and then to ensure it didn&amp;rsquo;t hang, or if, in a remote SSH session, the connection was still working? Ever needed to pause some processing for a while, return to the Python prompt for a manual inspection or fixing an item, and then resume the process seamlessly?
+Link</description>
+    </item>
+    
+    <item>
+      <title>Aqueduct: Orchestrate &amp; manage production ML</title>
+      <link>/post/2023-01-21-aqueduct-orchestrate-manage-production-ml/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-aqueduct-orchestrate-manage-production-ml/</guid>
+      <description>Aqueduct gives you a simple Python-native API to define machine learning pipelines, the ability to deploy those pipelines on your existing infrastructure (e.g., Spark, Kubernetes, Lambda), and visibility into the code, data, and metadata associated with your workflows. Aqueduct is fully open-source and runs securely in your cloud.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Build models, ML components and full stack AI apps</title>
+      <link>/post/2023-01-21-build-models-ml-components-and-full-stack-ai-apps/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-build-models-ml-components-and-full-stack-ai-apps/</guid>
+      <description>Use Lightning, the hyper-minimalistic framework, to build machine learning components that can plug into existing ML workflows. A Lightning component organizes arbitrary code to run on the cloud, manage its own infrastructure, cloud costs, networking, and more. Focus on component logic and not engineering.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Data Science Cookie Cutter</title>
+      <link>/post/2023-01-21-data-science-cookie-cutter/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-data-science-cookie-cutter/</guid>
+      <description>Data Science Cookie Cutter
+Link
+Article</description>
+    </item>
+    
+    <item>
+      <title>Graph ML in 2023: The State of Affairs</title>
+      <link>/post/2023-01-21-graph-ml-in-2023-the-state-of-affairs/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-graph-ml-in-2023-the-state-of-affairs/</guid>
+      <description>2022 comes to an end and it is about time to sit down and reflect upon the achievements made in Graph ML as well as to hypothesize about possible breakthroughs in 2023.
+Link</description>
+    </item>
+    
+    <item>
+      <title>How to Deploy Diffusion Models</title>
+      <link>/post/2023-01-21-how-to-deploy-diffusion-models/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-how-to-deploy-diffusion-models/</guid>
+      <description>In this tutorial, you’ll learn how to deploy diffusion models at scale and build a text-to-image generator
+Link
+Muse</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Graph Machine Learning</title>
+      <link>/post/2023-01-21-introduction-to-graph-machine-learning/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-introduction-to-graph-machine-learning/</guid>
+      <description>We first study what graphs are, why they are used, and how best to represent them. We then cover briefly how people learn on graphs, from pre-neural methods (exploring graph features at the same time) to what are commonly called Graph Neural Networks. Lastly, we peek into the world of Transformers for graphs.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Open-Assistant</title>
+      <link>/post/2023-01-21-open-assistant/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-open-assistant/</guid>
+      <description>We believe that by doing this we will create a revolution in innovation in language. In the same way that stable-diffusion helped the world make art and images in new ways we hope Open Assistant can help improve the world by improving language itself.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Rich is a Python library for rich text and beautiful formatting in the terminal.</title>
+      <link>/post/2023-01-21-rich-is-a-python-library-for-rich-text-and-beautiful-formatting-in-the-terminal/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-rich-is-a-python-library-for-rich-text-and-beautiful-formatting-in-the-terminal/</guid>
+      <description>The Rich API makes it easy to add color and style to terminal output. Rich can also render pretty tables, progress bars, markdown, syntax highlighted source code, tracebacks, and more — out of the box.
+Link</description>
+    </item>
+    
+    <item>
+      <title>The CLRS Algorithmic Reasoning Benchmark</title>
+      <link>/post/2023-01-21-the-clrs-algorithmic-reasoning-benchmark/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-the-clrs-algorithmic-reasoning-benchmark/</guid>
+      <description>Learning representations of algorithms is an emerging area of machine learning, seeking to bridge concepts from neural networks with classical algorithms. The CLRS Algorithmic Reasoning Benchmark (CLRS) consolidates and extends previous work toward evaluation algorithmic reasoning by providing a suite of implementations of classical algorithms. These algorithms have been selected from the third edition of the standard Introduction to Algorithms by Cormen, Leiserson, Rivest and Stein.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Top Python libraries of 2022</title>
+      <link>/post/2023-01-21-top-python-libraries-of-2022/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-top-python-libraries-of-2022/</guid>
+      <description>We are excited to present this year&amp;rsquo;s picks for the most innovative developments in the Python ecosystem. From this edition, we are expanding our list to include not only libraries per-se, but also tools that are built to belong in the Python ecosystem — some of which are not written in Python as you’ll see.
+Link</description>
+    </item>
+    
+    <item>
+      <title>torchview</title>
+      <link>/post/2023-01-21-torchview/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-torchview/</guid>
+      <description>Torchview provides visualization of pytorch models in the form of visual graphs. Visualization includes tensors, modules, torch.functions and info such as input/output shapes.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Welcome to LightFM’s documentation!</title>
+      <link>/post/2023-01-21-welcome-to-lightfm-s-documentation/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-21-welcome-to-lightfm-s-documentation/</guid>
+      <description>LightFM is a Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback.
+Link
+Link
+Link
+Link
+Link</description>
+    </item>
+    
     <item>
       <title>A Deep Learning Framework for Multi-target Prediction</title>
       <link>/post/2022-12-26-a-deep-learning-framework-for-multi-target-prediction/</link>
@@ -51,152 +207,6 @@ Link</description>
       
       <guid>/post/2022-12-26-categories-graphs-reasoning/</guid>
       <description>Dr. Petar Veličković is a Staff Research Scientist at DeepMind, he has firmly established himself as one of the most significant up and coming researchers in the deep learning space. He invented Graph Attention Networks in 2017 and has been a leading light in the field ever since pioneering research in Graph Neural Networks, Geometric Deep Learning and also Neural Algorithmic reasoning. If you haven’t already, you should check out our video on the Geometric Deep learning blueprint, featuring Petar.</description>
-    </item>
-    
-    <item>
-      <title>Category Theory For Beginners</title>
-      <link>/post/2022-12-26-category-theory-for-beginners/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-category-theory-for-beginners/</guid>
-      <description>Category theory is close to the perfect language. It can be used to describe many mathematical ideas, and see the relations between them, and their deeper structure. This is the first video in a course where we will carefully introduce the main ideas of category theory, and motivate them with lots of applications.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Category Theory Resources</title>
-      <link>/post/2022-12-26-category-theory-resources/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-category-theory-resources/</guid>
-      <description>A curated list of resources for studying category theory. As resources aimed at mathematicians are abundant, this list is aimed at materials whose target audience is not people with a graduate-level mathematics background.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Category Theory ∩ Machine Learning</title>
-      <link>/post/2022-12-26-category-theory-machine-learning/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-category-theory-machine-learning/</guid>
-      <description>Category Theory has been finding increasing applications in machine learning. This repository aims to list all of the relevant papers, grouped by fields.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Catlab.jl</title>
-      <link>/post/2022-12-26-catlab-jl/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-catlab-jl/</guid>
-      <description>Catlab.jl is a framework for applied and computational category theory, written in the Julia language. Catlab provides a programming library and interactive interface for applications of category theory to scientific and engineering fields. It emphasizes monoidal categories due to their wide applicability but can support any categorical structure that is formalizable as a generalized algebraic theory.
-Link</description>
-    </item>
-    
-    <item>
-      <title>DeepMind&#39;s AlphaTensor Explained</title>
-      <link>/post/2022-12-26-deepmind-s-alphatensor-explained/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-deepmind-s-alphatensor-explained/</guid>
-      <description>AlphaTensor is a novel AI solution to discover mathematical algorithms with Reinforcement Learning. Learn everything you need to know about AlphaTensor in this comprehensive introduction.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Everything is Connected: Deep Learning on Graphs</title>
-      <link>/post/2022-12-26-everything-is-connected-deep-learning-on-graphs/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-everything-is-connected-deep-learning-on-graphs/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>GDL Course</title>
-      <link>/post/2022-12-26-gdl-course/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-gdl-course/</guid>
-      <description>As part of the African Master’s in Machine Intelligence (AMMI), we have delivered a course on Geometric Deep Learing (GDL100), which closely follows the contents of our GDL proto-book. We make all materials and artefacts from this course publicly available, as companion material for our proto-book, as well as a way to dive deeper into some of the contents for future iterations of the book.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Notebooks using the Hugging Face libraries </title>
-      <link>/post/2022-12-26-notebooks-using-the-hugging-face-libraries/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-notebooks-using-the-hugging-face-libraries/</guid>
-      <description>Hugging Face examples</description>
-    </item>
-    
-    <item>
-      <title>Pytorch Geometric tutorial</title>
-      <link>/post/2022-12-26-pytorch-geometric-tutorial/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-pytorch-geometric-tutorial/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Recommending Amazon Products using Graph Neural Networks in PyTorch Geometric</title>
-      <link>/post/2022-12-26-recommending-amazon-products-using-graph-neural-networks-in-pytorch-geometric/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-recommending-amazon-products-using-graph-neural-networks-in-pytorch-geometric/</guid>
-      <description>In this report, we will walk you through how you can leverage PyTorch Geometric along with Weights &amp;amp; Biases to analyse the Amazon products graph and recommend products from the graph.
-Link</description>
-    </item>
-    
-    <item>
-      <title>The Challenge of Compositionality for AI</title>
-      <link>/post/2022-12-26-the-challenge-of-compositionality-for-ai/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-the-challenge-of-compositionality-for-ai/</guid>
-      <description>Why Compositionality Matters for AI Can Language Models Handle Compositionality?  Link</description>
-    </item>
-    
-    <item>
-      <title>Theory and Applications of Lenses and Optics</title>
-      <link>/post/2022-12-26-theory-and-applications-of-lenses-and-optics/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-theory-and-applications-of-lenses-and-optics/</guid>
-      <description>This is a list of papers studying the theory and application of lenses and optics, as they&amp;rsquo;re used in category theory and functional programming. Many of papers are in multiple fields and some of these fields overlap. Let me know what&amp;rsquo;s missing! (preferably by creating a pull request)
-Link</description>
-    </item>
-    
-    <item>
-      <title>Wolfram Physics Project: Relations to Category Theory</title>
-      <link>/post/2022-12-26-wolfram-physics-project-relations-to-category-theory/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-wolfram-physics-project-relations-to-category-theory/</guid>
-      <description>Stephen Wolfram and special guests discuss the Wolfram Physics Project and its relations to Category Theory.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Wolfram Physics Project: Working Session</title>
-      <link>/post/2022-12-26-wolfram-physics-project-working-session/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-wolfram-physics-project-working-session/</guid>
-      <description>Link
-Wolfram Physics Project</description>
-    </item>
-    
-    <item>
-      <title>Сategory theory</title>
-      <link>/post/2022-12-26-category-theory/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-category-theory/</guid>
-      <description>Category theory is a toolset for describing the general abstract structures in mathematics.
-Link</description>
     </item>
     
   </channel>
