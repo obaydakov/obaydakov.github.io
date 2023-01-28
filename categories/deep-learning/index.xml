@@ -5,10 +5,261 @@
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Illustrating Reinforcement Learning from Human Feedback (RLHF)</title>
+      <link>/post/2023-01-28-illustrating-reinforcement-learning-from-human-feedback-rlhf/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-illustrating-reinforcement-learning-from-human-feedback-rlhf/</guid>
+      <description>&lt;p&gt;Language models have shown impressive capabilities in the past few years by generating diverse and compelling text from human input prompts. However, what makes a &amp;ldquo;good&amp;rdquo; text is inherently hard to define as it is subjective and context dependent. There are many applications such as writing stories where you want creativity, pieces of informative text which should be truthful, or code snippets that we want to be executable.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/blog/rlhf&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lvwerra/trl&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI made easy for developers</title>
+      <link>/post/2023-01-28-ai-made-easy-for-developers/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-ai-made-easy-for-developers/</guid>
+      <description>&lt;p&gt;Eden AI provides a unique API connected to the best AI engines&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.edenai.co/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/edenai/edenai-apis&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BUILDER.AI</title>
+      <link>/post/2023-01-28-builder-ai/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-builder-ai/</guid>
+      <description>&lt;p&gt;We make building an app so easy, anyone can do it&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.builder.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT Telegram Bot: Fast. No daily limits. Special chat modes</title>
+      <link>/post/2023-01-28-chatgpt-telegram-bot-fast-no-daily-limits-special-chat-modes/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-chatgpt-telegram-bot-fast-no-daily-limits-special-chat-modes/</guid>
+      <description>&lt;p&gt;We all love chat.openai.com, but&amp;hellip;&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s TERRIBLY laggy, has daily limits, and is only accessible through an archaic web interface.&lt;/p&gt;
+&lt;p&gt;This repo is ChatGPT re-created with GPT-3.5 LLM as Telegram Bot. And it works great.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/karfly/chatgpt_telegram_bot&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>copy.ai</title>
+      <link>/post/2023-01-28-copy-ai/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-copy-ai/</guid>
+      <description>&lt;p&gt;Say &amp;lsquo;goodbye&amp;rsquo; to the blank page for good&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.copy.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Copying Tesla&#39;s Data Engine (for food images)</title>
+      <link>/post/2023-01-28-copying-tesla-s-data-engine-for-food-images/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-copying-tesla-s-data-engine-for-food-images/</guid>
+      <description>&lt;p&gt;A cooking recipe for building Nutrify&amp;rsquo;s data engine.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mrdbourke.com/copying-teslas-data-engine-for-food-images/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Tuning Playbook</title>
+      <link>/post/2023-01-28-deep-learning-tuning-playbook/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-deep-learning-tuning-playbook/</guid>
+      <description>&lt;p&gt;This document is for engineers and researchers (both individuals and teams) interested in maximizing the performance of deep learning models. We assume basic knowledge of machine learning and deep learning concepts.
+&lt;a href=&#34;https://github.com/google-research/tuning_playbook&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fine Tuning GPT-3: Building a Custom Q&amp;A Bot Using Embeddings</title>
+      <link>/post/2023-01-28-fine-tuning-gpt-3-building-a-custom-q-a-bot-using-embeddings/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-fine-tuning-gpt-3-building-a-custom-q-a-bot-using-embeddings/</guid>
+      <description>&lt;p&gt;In this guide, we discuss how to fine-tune GPT-3 to create a factual question-and-answer bot based on additional knowledge.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mlq.ai/fine-tuning-gpt-3-question-answer-bot/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Full Stack Deep learning 2022</title>
+      <link>/post/2023-01-28-full-stack-deep-learning-2022/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-full-stack-deep-learning-2022/</guid>
+      <description>&lt;p&gt;In this video, we cover the purpose and structure of the Full Stack Deep Learning 2022 course and talk about when ML is the right tool to solve your problems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-Iob-FW5jVM&amp;amp;list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://langchain.readthedocs.io/en/latest/&#34;&gt;LangChain&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generative Question-Answering with Long-Term Memory</title>
+      <link>/post/2023-01-28-generative-question-answering-with-long-term-memory/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-generative-question-answering-with-long-term-memory/</guid>
+      <description>&lt;p&gt;Generative AI sparked several “wow” moments in 2022. From generative art tools like OpenAI’s DALL-E 2, Midjourney, and Stable Diffusion, to the next generation of Large Language Models like OpenAI’s GPT-3.5 generation models, BLOOM, and chatbots like LaMDA and ChatGPT.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pinecone.io/learn/openai-gen-qa/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with GPT-3 vs. Open Source LLMs - LangChain</title>
+      <link>/post/2023-01-28-getting-started-with-gpt-3-vs-open-source-llms-langchain/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-getting-started-with-gpt-3-vs-open-source-llms-langchain/</guid>
+      <description>&lt;p&gt;LangChain is a popular framework that allows users to quickly build apps and pipelines around Large Language Models. It integrates directly with OpenAI&amp;rsquo;s GPT-3 and GPT-3.5 models and Hugging Face&amp;rsquo;s open-source alternatives like Google&amp;rsquo;s flan-t5 models.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nE2skSRWTTs&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPT-3 Fine Tuning as a Service: Build Your Own Custom AI</title>
+      <link>/post/2023-01-28-gpt-3-fine-tuning-as-a-service-build-your-own-custom-ai/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-gpt-3-fine-tuning-as-a-service-build-your-own-custom-ai/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re excited to announce our new service offering: GPT-3 fine tuning as a service. If you&amp;rsquo;re looking to achieve better results, reduce latency, and save costs on a wide range of natural language processing (NLP) tasks, we&amp;rsquo;re here to help.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mlq.ai/gpt-3-fine-tuning-as-a-service/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to implement Q&amp;A against your documentation with GPT3, embeddings and Datasette</title>
+      <link>/post/2023-01-28-how-to-implement-q-a-against-your-documentation-with-gpt3-embeddings-and-datasette/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-how-to-implement-q-a-against-your-documentation-with-gpt3-embeddings-and-datasette/</guid>
+      <description>&lt;p&gt;If you’ve spent any time with GPT-3 or ChatGPT, you’ve likely thought about how useful it would be if you could point them at a specific, current collection of text or documentation and have it use that as part of its input for answering questions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simonwillison.net/2023/Jan/13/semantic-search-answers/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LIGHTNING TRANSFORMERS</title>
+      <link>/post/2023-01-28-lightning-transformers/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-lightning-transformers/</guid>
+      <description>&lt;p&gt;LIGHTNING TRANSFORMERS documentation&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lightning-transformers.readthedocs.io/en/latest/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pinecone AI examples</title>
+      <link>/post/2023-01-28-pinecone-ai-examples/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-pinecone-ai-examples/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/pinecone-io/examples&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.pinecone.io/docs/examples&#34;&gt;Doc examples&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.pinecone.io/docs/quickstart&#34;&gt;Doc quickstart&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pinecone.io/learn/nlp/&#34;&gt;Natural Language Processing (NLP) for Semantic Search&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Question Answering using Embeddings (OpenAI)</title>
+      <link>/post/2023-01-28-question-answering-using-embeddings-openai/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-question-answering-using-embeddings-openai/</guid>
+      <description>&lt;p&gt;Many use cases require GPT-3 to respond to user questions with insightful answers. For example, a customer support chatbot may need to provide answers to common questions. The GPT models have picked up a lot of general knowledge in training, but we often need to ingest and use a large library of more specific information.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/openai/openai-cookbook/tree/main/examples&#34;&gt;Examples&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>quickchat.ai</title>
+      <link>/post/2023-01-28-quickchat-ai/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-quickchat-ai/</guid>
+      <description>&lt;p&gt;Quickchat is a human-like AI assistant that provides accurate and instant answers to customer questions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quickchat.ai/product&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning for tuning language models ( how to train ChatGPT )</title>
+      <link>/post/2023-01-28-reinforcement-learning-for-tuning-language-models-how-to-train-chatgpt/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-reinforcement-learning-for-tuning-language-models-how-to-train-chatgpt/</guid>
+      <description>&lt;p&gt;The Large Language Model revolution started with the advent of transformers in 2017. Since then there has been an exponential growth in the models trained. Models with 100B+ parameters have been trained. These pre-trained models have changed the way NLP is done. It is much easier to pick a pre-trained model and fine-tune it for a downstream task ( sentiment, question answering, entity recognition etc.. ) than training a model from scratch. Fine-tuning can be done with a much smaller set of examples than training a model from scratch making the whole process of NLP much easier.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@mlblogging.k/reinforcement-learning-for-tuning-language-models-how-chatgpt-is-trained-9ecf23518302&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trudo.ai</title>
+      <link>/post/2023-01-28-trudo-ai/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-trudo-ai/</guid>
+      <description>&lt;p&gt;Fine tuning NLP models (GPT-3/ChatGPT)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.trudo.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oNIHOX_j0qU&#34;&gt;Fine-Tuning GPT-3/ChatGPT and Zapier Integration: A Tutorial for No Code OpenAI Developers&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VALL-E</title>
+      <link>/post/2023-01-28-vall-e/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-vall-e/</guid>
+      <description>&lt;p&gt;An unofficial PyTorch implementation of VALL-E, based on the EnCodec tokenizer.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/enhuiz/vall-e&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Whisper</title>
+      <link>/post/2023-01-28-whisper/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-whisper/</guid>
+      <description>&lt;p&gt;Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/openai/whisper&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Your AI-powered Amazon Listing Optimization Expert</title>
+      <link>/post/2023-01-28-your-ai-powered-amazon-listing-optimization-expert/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-your-ai-powered-amazon-listing-optimization-expert/</guid>
+      <description>&lt;p&gt;CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://copymonkey.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2022 Top Papers in AI — A Year of Generative Models</title>

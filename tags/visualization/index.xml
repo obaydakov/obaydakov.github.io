@@ -5,10 +5,21 @@
     <description>Recent content in visualization on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Text Visualization Browser</title>
+      <link>/post/2023-01-28-text-visualization-browser/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-text-visualization-browser/</guid>
+      <description>&lt;p&gt;A Visual Survey of Text Visualization Techniques&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://textvis.lnu.se/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BPMN Sketch Miner</title>

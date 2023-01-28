@@ -5,10 +5,42 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BEAM</title>
+      <link>/post/2023-01-28-beam/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-beam/</guid>
+      <description>&lt;p&gt;A crash course on using Beam to run an entire ML workflow, from development to deployment.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.beam.cloud/getting-started/quickstart&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feature Engineering - Python libraries</title>
+      <link>/post/2023-01-28-feature-engineering-python-libraries/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-feature-engineering-python-libraries/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://uproger.com/4-biblioteki-python-dlya-avtomatizirovannogo-proektirovaniya-funkczij-kotorye-vam-stoit-ispolzovat-v-2023-godu/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>sketch</title>
+      <link>/post/2023-01-28-sketch/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-sketch/</guid>
+      <description>&lt;p&gt;Sketch is an AI code-writing assistant for pandas users that understands the context of your data, greatly improving the relevance of suggestions. Sketch is usable in seconds and doesn&amp;rsquo;t require adding a plugin to your IDE.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/approximatelabs/sketch&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!</title>

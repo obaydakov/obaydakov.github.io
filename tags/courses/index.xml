@@ -5,10 +5,22 @@
     <description>Recent content in courses on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/courses/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Full Stack Deep learning 2022</title>
+      <link>/post/2023-01-28-full-stack-deep-learning-2022/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-full-stack-deep-learning-2022/</guid>
+      <description>&lt;p&gt;In this video, we cover the purpose and structure of the Full Stack Deep Learning 2022 course and talk about when ML is the right tool to solve your problems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-Iob-FW5jVM&amp;amp;list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://langchain.readthedocs.io/en/latest/&#34;&gt;LangChain&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>GDL Course</title>

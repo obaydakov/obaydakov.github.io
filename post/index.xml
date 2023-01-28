@@ -6,207 +6,208 @@
     <description>Recent content in Posts on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2022 Top Papers in AI — A Year of Generative Models</title>
-      <link>/post/2023-01-21-2022-top-papers-in-ai-a-year-of-generative-models/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <title> Illustrating Reinforcement Learning from Human Feedback (RLHF)</title>
+      <link>/post/2023-01-28-illustrating-reinforcement-learning-from-human-feedback-rlhf/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-21-2022-top-papers-in-ai-a-year-of-generative-models/</guid>
-      <description>This year, we see significant progress in the field of generative models. Stable Diffusion 🎨 creates hyperrealistic art. ChatGPT 💬 answers questions to the meaning of life. Galactica 🧬 learns humanity’s scientific knowledge but also reveals the limitations of large language models.
-Link</description>
-    </item>
-    
-    <item>
-      <title>A machine learning library for unsupervised time series anomaly detection</title>
-      <link>/post/2023-01-21-a-machine-learning-library-for-unsupervised-time-series-anomaly-detection/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-01-21-a-machine-learning-library-for-unsupervised-time-series-anomaly-detection/</guid>
-      <description>A machine learning library for unsupervised time series anomaly detection.
-Link</description>
-    </item>
-    
-    <item>
-      <title>A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!</title>
-      <link>/post/2023-01-21-a-new-kind-of-progress-bar-with-real-time-throughput-eta-and-very-cool-animations/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-01-21-a-new-kind-of-progress-bar-with-real-time-throughput-eta-and-very-cool-animations/</guid>
-      <description>Have you ever wondered where your lengthy processing was, and when it would finish? Ever found yourself hitting [RETURN] now and then to ensure it didn&amp;rsquo;t hang, or if, in a remote SSH session, the connection was still working? Ever needed to pause some processing for a while, return to the Python prompt for a manual inspection or fixing an item, and then resume the process seamlessly?
-Link</description>
-    </item>
-    
-    <item>
-      <title>Aqueduct: Orchestrate &amp; manage production ML</title>
-      <link>/post/2023-01-21-aqueduct-orchestrate-manage-production-ml/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-01-21-aqueduct-orchestrate-manage-production-ml/</guid>
-      <description>Aqueduct gives you a simple Python-native API to define machine learning pipelines, the ability to deploy those pipelines on your existing infrastructure (e.g., Spark, Kubernetes, Lambda), and visibility into the code, data, and metadata associated with your workflows. Aqueduct is fully open-source and runs securely in your cloud.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Build models, ML components and full stack AI apps</title>
-      <link>/post/2023-01-21-build-models-ml-components-and-full-stack-ai-apps/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-01-21-build-models-ml-components-and-full-stack-ai-apps/</guid>
-      <description>Use Lightning, the hyper-minimalistic framework, to build machine learning components that can plug into existing ML workflows. A Lightning component organizes arbitrary code to run on the cloud, manage its own infrastructure, cloud costs, networking, and more. Focus on component logic and not engineering.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Data Science Cookie Cutter</title>
-      <link>/post/2023-01-21-data-science-cookie-cutter/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-01-21-data-science-cookie-cutter/</guid>
-      <description>Data Science Cookie Cutter
+      <guid>/post/2023-01-28-illustrating-reinforcement-learning-from-human-feedback-rlhf/</guid>
+      <description>Language models have shown impressive capabilities in the past few years by generating diverse and compelling text from human input prompts. However, what makes a &amp;ldquo;good&amp;rdquo; text is inherently hard to define as it is subjective and context dependent. There are many applications such as writing stories where you want creativity, pieces of informative text which should be truthful, or code snippets that we want to be executable.
 Link
-Article</description>
+Github</description>
     </item>
     
     <item>
-      <title>Graph ML in 2023: The State of Affairs</title>
-      <link>/post/2023-01-21-graph-ml-in-2023-the-state-of-affairs/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <title>25 VS Code Productivity Tips and Speed Hacks</title>
+      <link>/post/2023-01-28-25-vs-code-productivity-tips-and-speed-hacks/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-21-graph-ml-in-2023-the-state-of-affairs/</guid>
-      <description>2022 comes to an end and it is about time to sit down and reflect upon the achievements made in Graph ML as well as to hypothesize about possible breakthroughs in 2023.
+      <guid>/post/2023-01-28-25-vs-code-productivity-tips-and-speed-hacks/</guid>
+      <description>Learn 25 VS Code tips and tricks that will help you write code faster. Try out awesome new features and extensions that turn your editor into a full-blown IDE
 Link</description>
     </item>
     
     <item>
-      <title>How to Deploy Diffusion Models</title>
-      <link>/post/2023-01-21-how-to-deploy-diffusion-models/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <title>AI made easy for developers</title>
+      <link>/post/2023-01-28-ai-made-easy-for-developers/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-21-how-to-deploy-diffusion-models/</guid>
-      <description>In this tutorial, you’ll learn how to deploy diffusion models at scale and build a text-to-image generator
+      <guid>/post/2023-01-28-ai-made-easy-for-developers/</guid>
+      <description>Eden AI provides a unique API connected to the best AI engines
 Link
-Muse</description>
+Github</description>
     </item>
     
     <item>
-      <title>Introduction to Graph Machine Learning</title>
-      <link>/post/2023-01-21-introduction-to-graph-machine-learning/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Awesome Production Machine Learning</title>
+      <link>/post/2023-01-28-awesome-production-machine-learning/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-21-introduction-to-graph-machine-learning/</guid>
-      <description>We first study what graphs are, why they are used, and how best to represent them. We then cover briefly how people learn on graphs, from pre-neural methods (exploring graph features at the same time) to what are commonly called Graph Neural Networks. Lastly, we peek into the world of Transformers for graphs.
+      <guid>/post/2023-01-28-awesome-production-machine-learning/</guid>
+      <description>This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
 Link</description>
     </item>
     
     <item>
-      <title>Open-Assistant</title>
-      <link>/post/2023-01-21-open-assistant/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <title>BEAM</title>
+      <link>/post/2023-01-28-beam/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-21-open-assistant/</guid>
-      <description>We believe that by doing this we will create a revolution in innovation in language. In the same way that stable-diffusion helped the world make art and images in new ways we hope Open Assistant can help improve the world by improving language itself.
+      <guid>/post/2023-01-28-beam/</guid>
+      <description>A crash course on using Beam to run an entire ML workflow, from development to deployment.
 Link</description>
     </item>
     
     <item>
-      <title>Rich is a Python library for rich text and beautiful formatting in the terminal.</title>
-      <link>/post/2023-01-21-rich-is-a-python-library-for-rich-text-and-beautiful-formatting-in-the-terminal/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <title>BUILDER.AI</title>
+      <link>/post/2023-01-28-builder-ai/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-21-rich-is-a-python-library-for-rich-text-and-beautiful-formatting-in-the-terminal/</guid>
-      <description>The Rich API makes it easy to add color and style to terminal output. Rich can also render pretty tables, progress bars, markdown, syntax highlighted source code, tracebacks, and more — out of the box.
+      <guid>/post/2023-01-28-builder-ai/</guid>
+      <description>We make building an app so easy, anyone can do it
 Link</description>
     </item>
     
     <item>
-      <title>The CLRS Algorithmic Reasoning Benchmark</title>
-      <link>/post/2023-01-21-the-clrs-algorithmic-reasoning-benchmark/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Business Name Generator</title>
+      <link>/post/2023-01-28-business-name-generator/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-21-the-clrs-algorithmic-reasoning-benchmark/</guid>
-      <description>Learning representations of algorithms is an emerging area of machine learning, seeking to bridge concepts from neural networks with classical algorithms. The CLRS Algorithmic Reasoning Benchmark (CLRS) consolidates and extends previous work toward evaluation algorithmic reasoning by providing a suite of implementations of classical algorithms. These algorithms have been selected from the third edition of the standard Introduction to Algorithms by Cormen, Leiserson, Rivest and Stein.
+      <guid>/post/2023-01-28-business-name-generator/</guid>
+      <description>Generate a short, brandable business name using artificial intelligence
 Link</description>
     </item>
     
     <item>
-      <title>Top Python libraries of 2022</title>
-      <link>/post/2023-01-21-top-python-libraries-of-2022/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <title>ChatGPT Telegram Bot: Fast. No daily limits. Special chat modes</title>
+      <link>/post/2023-01-28-chatgpt-telegram-bot-fast-no-daily-limits-special-chat-modes/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-21-top-python-libraries-of-2022/</guid>
-      <description>We are excited to present this year&amp;rsquo;s picks for the most innovative developments in the Python ecosystem. From this edition, we are expanding our list to include not only libraries per-se, but also tools that are built to belong in the Python ecosystem — some of which are not written in Python as you’ll see.
+      <guid>/post/2023-01-28-chatgpt-telegram-bot-fast-no-daily-limits-special-chat-modes/</guid>
+      <description>We all love chat.openai.com, but&amp;hellip;
+It&amp;rsquo;s TERRIBLY laggy, has daily limits, and is only accessible through an archaic web interface.
+This repo is ChatGPT re-created with GPT-3.5 LLM as Telegram Bot. And it works great.
 Link</description>
     </item>
     
     <item>
-      <title>torchview</title>
-      <link>/post/2023-01-21-torchview/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <title>copy.ai</title>
+      <link>/post/2023-01-28-copy-ai/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-21-torchview/</guid>
-      <description>Torchview provides visualization of pytorch models in the form of visual graphs. Visualization includes tensors, modules, torch.functions and info such as input/output shapes.
+      <guid>/post/2023-01-28-copy-ai/</guid>
+      <description>Say &amp;lsquo;goodbye&amp;rsquo; to the blank page for good
 Link</description>
     </item>
     
     <item>
-      <title>Welcome to LightFM’s documentation!</title>
-      <link>/post/2023-01-21-welcome-to-lightfm-s-documentation/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Copying Tesla&#39;s Data Engine (for food images)</title>
+      <link>/post/2023-01-28-copying-tesla-s-data-engine-for-food-images/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-21-welcome-to-lightfm-s-documentation/</guid>
-      <description>LightFM is a Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback.
-Link
-Link
-Link
-Link
+      <guid>/post/2023-01-28-copying-tesla-s-data-engine-for-food-images/</guid>
+      <description>A cooking recipe for building Nutrify&amp;rsquo;s data engine.
 Link</description>
     </item>
     
     <item>
-      <title>A Deep Learning Framework for Multi-target Prediction</title>
-      <link>/post/2022-12-26-a-deep-learning-framework-for-multi-target-prediction/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <title>Deep Learning Tuning Playbook</title>
+      <link>/post/2023-01-28-deep-learning-tuning-playbook/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2022-12-26-a-deep-learning-framework-for-multi-target-prediction/</guid>
-      <description>This is the official repository of DeepMTP, a deep learning framework that can be used with multi-target prediction (MTP) problems. MTP can be seen as an umbrella term that cover many subareas of machine learning, which include multi-label classification (MLC), multivariate regression (MTR), multi-task learning (MTL), dyadic prediction (DP), and matrix completion (MC). The implementation is mainly written in Python and uses Pytorch for the implementation of the neural network. The goal is for any user to be able to train a model using only a few lines of code.</description>
+      <guid>/post/2023-01-28-deep-learning-tuning-playbook/</guid>
+      <description>This document is for engineers and researchers (both individuals and teams) interested in maximizing the performance of deep learning models. We assume basic knowledge of machine learning and deep learning concepts. Link</description>
     </item>
     
     <item>
-      <title>Awesome Double Categories</title>
-      <link>/post/2022-12-26-awesome-double-categories/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <title>Feature Engineering - Python libraries</title>
+      <link>/post/2023-01-28-feature-engineering-python-libraries/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2022-12-26-awesome-double-categories/</guid>
-      <description>A list of works and resources about double category theory, with a particular focus on applications. (If you&amp;rsquo;d like to add more, edit this nLab page)
-Link</description>
-    </item>
-    
-    <item>
-      <title>BPMN Sketch Miner</title>
-      <link>/post/2022-12-26-bpmn-sketch-miner/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-bpmn-sketch-miner/</guid>
+      <guid>/post/2023-01-28-feature-engineering-python-libraries/</guid>
       <description>Link</description>
     </item>
     
     <item>
-      <title>Categories for AI</title>
-      <link>/post/2022-12-26-categories-for-ai/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <title>Fine Tuning GPT-3: Building a Custom Q&amp;A Bot Using Embeddings</title>
+      <link>/post/2023-01-28-fine-tuning-gpt-3-building-a-custom-q-a-bot-using-embeddings/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2022-12-26-categories-for-ai/</guid>
-      <description>Category theory is a way of thinking and structuring one&amp;rsquo;s knowledge grounded in the idea of compositionality. Originating in abstract mathematics, this is a formal language that has since spread to numerous fields, becoming a topic of interest for a growing number of researchers. It&amp;rsquo;s helped build rigorous bridges between seemingly disparate scientific areas, showing great potential as a cohesive force in the scientific world. These fields include physics, chemistry, computer science, game theory, systems theory, database theory, and most importantly for us, machine learning, where it&amp;rsquo;s seen a steady growth.</description>
+      <guid>/post/2023-01-28-fine-tuning-gpt-3-building-a-custom-q-a-bot-using-embeddings/</guid>
+      <description>In this guide, we discuss how to fine-tune GPT-3 to create a factual question-and-answer bot based on additional knowledge.
+Link</description>
     </item>
     
     <item>
-      <title>Categories, Graphs, Reasoning</title>
-      <link>/post/2022-12-26-categories-graphs-reasoning/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <title>Free tools to make life simple</title>
+      <link>/post/2023-01-28-free-tools-to-make-life-simple/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2022-12-26-categories-graphs-reasoning/</guid>
-      <description>Dr. Petar Veličković is a Staff Research Scientist at DeepMind, he has firmly established himself as one of the most significant up and coming researchers in the deep learning space. He invented Graph Attention Networks in 2017 and has been a leading light in the field ever since pioneering research in Graph Neural Networks, Geometric Deep Learning and also Neural Algorithmic reasoning. If you haven’t already, you should check out our video on the Geometric Deep learning blueprint, featuring Petar.</description>
+      <guid>/post/2023-01-28-free-tools-to-make-life-simple/</guid>
+      <description>We offer PDF, video, image and other online tools to make your life easier
+Link</description>
+    </item>
+    
+    <item>
+      <title>Full Stack Deep learning 2022</title>
+      <link>/post/2023-01-28-full-stack-deep-learning-2022/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-full-stack-deep-learning-2022/</guid>
+      <description>In this video, we cover the purpose and structure of the Full Stack Deep Learning 2022 course and talk about when ML is the right tool to solve your problems.
+Link
+LangChain</description>
+    </item>
+    
+    <item>
+      <title>Generative Question-Answering with Long-Term Memory</title>
+      <link>/post/2023-01-28-generative-question-answering-with-long-term-memory/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-generative-question-answering-with-long-term-memory/</guid>
+      <description>Generative AI sparked several “wow” moments in 2022. From generative art tools like OpenAI’s DALL-E 2, Midjourney, and Stable Diffusion, to the next generation of Large Language Models like OpenAI’s GPT-3.5 generation models, BLOOM, and chatbots like LaMDA and ChatGPT.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with GPT-3 vs. Open Source LLMs - LangChain</title>
+      <link>/post/2023-01-28-getting-started-with-gpt-3-vs-open-source-llms-langchain/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-getting-started-with-gpt-3-vs-open-source-llms-langchain/</guid>
+      <description>LangChain is a popular framework that allows users to quickly build apps and pipelines around Large Language Models. It integrates directly with OpenAI&amp;rsquo;s GPT-3 and GPT-3.5 models and Hugging Face&amp;rsquo;s open-source alternatives like Google&amp;rsquo;s flan-t5 models.
+Link</description>
+    </item>
+    
+    <item>
+      <title>GPT-3 Fine Tuning as a Service: Build Your Own Custom AI</title>
+      <link>/post/2023-01-28-gpt-3-fine-tuning-as-a-service-build-your-own-custom-ai/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-gpt-3-fine-tuning-as-a-service-build-your-own-custom-ai/</guid>
+      <description>We&amp;rsquo;re excited to announce our new service offering: GPT-3 fine tuning as a service. If you&amp;rsquo;re looking to achieve better results, reduce latency, and save costs on a wide range of natural language processing (NLP) tasks, we&amp;rsquo;re here to help.
+Link</description>
+    </item>
+    
+    <item>
+      <title>How to implement Q&amp;A against your documentation with GPT3, embeddings and Datasette</title>
+      <link>/post/2023-01-28-how-to-implement-q-a-against-your-documentation-with-gpt3-embeddings-and-datasette/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-how-to-implement-q-a-against-your-documentation-with-gpt3-embeddings-and-datasette/</guid>
+      <description>If you’ve spent any time with GPT-3 or ChatGPT, you’ve likely thought about how useful it would be if you could point them at a specific, current collection of text or documentation and have it use that as part of its input for answering questions.
+Link</description>
+    </item>
+    
+    <item>
+      <title>LIGHTNING TRANSFORMERS</title>
+      <link>/post/2023-01-28-lightning-transformers/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-lightning-transformers/</guid>
+      <description>LIGHTNING TRANSFORMERS documentation
+Link</description>
     </item>
     
   </channel>

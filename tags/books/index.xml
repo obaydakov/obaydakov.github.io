@@ -5,10 +5,21 @@
     <description>Recent content in books on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/books/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Learning Tuning Playbook</title>
+      <link>/post/2023-01-28-deep-learning-tuning-playbook/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-28-deep-learning-tuning-playbook/</guid>
+      <description>&lt;p&gt;This document is for engineers and researchers (both individuals and teams) interested in maximizing the performance of deep learning models. We assume basic knowledge of machine learning and deep learning concepts.
+&lt;a href=&#34;https://github.com/google-research/tuning_playbook&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning</title>
