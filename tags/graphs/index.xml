@@ -5,10 +5,21 @@
     <description>Recent content in graphs on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/graphs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Graph Machine Learning Explainability with PyG</title>
+      <link>/post/2023-02-04-graph-machine-learning-explainability-with-pyg/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-graph-machine-learning-explainability-with-pyg/</guid>
+      <description>&lt;p&gt;Graph Neural Networks (GNNs) have become increasingly popular for processing graph-structured data, such as social networks, molecular graphs, and knowledge graphs. However, the complex nature of graph-based data and the non-linear relationships between nodes in a graph can make it difficult to understand why a GNN makes a particular prediction. With the rise in popularity of Graph Neural Networks, there also came an increased interest in explaining their predictions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@pytorch_geometric/graph-machine-learning-explainability-with-pyg-ff13cffc23c2&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Graph ML in 2023: The State of Affairs</title>

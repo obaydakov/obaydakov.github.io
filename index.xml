@@ -6,207 +6,205 @@
     <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> Illustrating Reinforcement Learning from Human Feedback (RLHF)</title>
-      <link>/post/2023-01-28-illustrating-reinforcement-learning-from-human-feedback-rlhf/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <title>A guide to making the best ML pipeline using AutoGluon 2022 new features</title>
+      <link>/post/2023-02-04-a-guide-to-making-the-best-ml-pipeline-using-autogluon-2022-new-features/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-28-illustrating-reinforcement-learning-from-human-feedback-rlhf/</guid>
-      <description>Language models have shown impressive capabilities in the past few years by generating diverse and compelling text from human input prompts. However, what makes a &amp;ldquo;good&amp;rdquo; text is inherently hard to define as it is subjective and context dependent. There are many applications such as writing stories where you want creativity, pieces of informative text which should be truthful, or code snippets that we want to be executable.
+      <guid>/post/2023-02-04-a-guide-to-making-the-best-ml-pipeline-using-autogluon-2022-new-features/</guid>
+      <description>how to get the best python open source model without overfitting
+Link</description>
+    </item>
+    
+    <item>
+      <title>awesome-nlp</title>
+      <link>/post/2023-02-04-awesome-nlp/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-awesome-nlp/</guid>
+      <description>A curated list of resources dedicated to Natural Language Processing
+Link</description>
+    </item>
+    
+    <item>
+      <title>Awesome-Pytorch-list</title>
+      <link>/post/2023-02-04-awesome-pytorch-list/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-awesome-pytorch-list/</guid>
+      <description>Awesome-Pytorch-list
+Link</description>
+    </item>
+    
+    <item>
+      <title>Build a GitHub support bot with GPT3, LangChain, and Python</title>
+      <link>/post/2023-02-04-build-a-github-support-bot-with-gpt3-langchain-and-python/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-build-a-github-support-bot-with-gpt3-langchain-and-python/</guid>
+      <description>ChatGPT came out a few months ago and blew everyones’ minds with its ability to answer questions sourced from a broad set of knowledge. Around the time that ChatGPT was demonstrating how powerful large language models could be, the Dagster core team was facing a problem.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Data Analysis with ChatGPT and Jupyter Notebooks</title>
+      <link>/post/2023-02-04-data-analysis-with-chatgpt-and-jupyter-notebooks/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-data-analysis-with-chatgpt-and-jupyter-notebooks/</guid>
+      <description>The conversational way of generating code with ChatGPT works well with the cell structure of Jupyter Notebooks
+Link</description>
+    </item>
+    
+    <item>
+      <title>Deep-Learning-in-Production</title>
+      <link>/post/2023-02-04-deep-learning-in-production/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-deep-learning-in-production/</guid>
+      <description>In this repository, I will share some useful notes and references about deploying deep learning-based models in production.
+Link</description>
+    </item>
+    
+    <item>
+      <title>GPT-3 Voice AI Chatbot in Python</title>
+      <link>/post/2023-02-04-gpt-3-voice-ai-chatbot-in-python/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-gpt-3-voice-ai-chatbot-in-python/</guid>
+      <description>GPT-3 Voice AI Chatbot in Python
 Link
-Github</description>
+Excel</description>
     </item>
     
     <item>
-      <title>25 VS Code Productivity Tips and Speed Hacks</title>
-      <link>/post/2023-01-28-25-vs-code-productivity-tips-and-speed-hacks/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Graph Machine Learning Explainability with PyG</title>
+      <link>/post/2023-02-04-graph-machine-learning-explainability-with-pyg/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-28-25-vs-code-productivity-tips-and-speed-hacks/</guid>
-      <description>Learn 25 VS Code tips and tricks that will help you write code faster. Try out awesome new features and extensions that turn your editor into a full-blown IDE
+      <guid>/post/2023-02-04-graph-machine-learning-explainability-with-pyg/</guid>
+      <description>Graph Neural Networks (GNNs) have become increasingly popular for processing graph-structured data, such as social networks, molecular graphs, and knowledge graphs. However, the complex nature of graph-based data and the non-linear relationships between nodes in a graph can make it difficult to understand why a GNN makes a particular prediction. With the rise in popularity of Graph Neural Networks, there also came an increased interest in explaining their predictions.
 Link</description>
     </item>
     
     <item>
-      <title>AI made easy for developers</title>
-      <link>/post/2023-01-28-ai-made-easy-for-developers/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Homemade Machine Learning</title>
+      <link>/post/2023-02-04-homemade-machine-learning/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-28-ai-made-easy-for-developers/</guid>
-      <description>Eden AI provides a unique API connected to the best AI engines
-Link
-Github</description>
-    </item>
-    
-    <item>
-      <title>Awesome Production Machine Learning</title>
-      <link>/post/2023-01-28-awesome-production-machine-learning/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-01-28-awesome-production-machine-learning/</guid>
-      <description>This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
-Link</description>
-    </item>
-    
-    <item>
-      <title>BEAM</title>
-      <link>/post/2023-01-28-beam/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-01-28-beam/</guid>
-      <description>A crash course on using Beam to run an entire ML workflow, from development to deployment.
-Link</description>
-    </item>
-    
-    <item>
-      <title>BUILDER.AI</title>
-      <link>/post/2023-01-28-builder-ai/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-01-28-builder-ai/</guid>
-      <description>We make building an app so easy, anyone can do it
-Link</description>
-    </item>
-    
-    <item>
-      <title>Business Name Generator</title>
-      <link>/post/2023-01-28-business-name-generator/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-01-28-business-name-generator/</guid>
-      <description>Generate a short, brandable business name using artificial intelligence
-Link</description>
-    </item>
-    
-    <item>
-      <title>ChatGPT Telegram Bot: Fast. No daily limits. Special chat modes</title>
-      <link>/post/2023-01-28-chatgpt-telegram-bot-fast-no-daily-limits-special-chat-modes/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-01-28-chatgpt-telegram-bot-fast-no-daily-limits-special-chat-modes/</guid>
-      <description>We all love chat.openai.com, but&amp;hellip;
-It&amp;rsquo;s TERRIBLY laggy, has daily limits, and is only accessible through an archaic web interface.
-This repo is ChatGPT re-created with GPT-3.5 LLM as Telegram Bot. And it works great.
-Link</description>
-    </item>
-    
-    <item>
-      <title>copy.ai</title>
-      <link>/post/2023-01-28-copy-ai/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-01-28-copy-ai/</guid>
-      <description>Say &amp;lsquo;goodbye&amp;rsquo; to the blank page for good
-Link</description>
-    </item>
-    
-    <item>
-      <title>Copying Tesla&#39;s Data Engine (for food images)</title>
-      <link>/post/2023-01-28-copying-tesla-s-data-engine-for-food-images/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-01-28-copying-tesla-s-data-engine-for-food-images/</guid>
-      <description>A cooking recipe for building Nutrify&amp;rsquo;s data engine.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning Tuning Playbook</title>
-      <link>/post/2023-01-28-deep-learning-tuning-playbook/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-01-28-deep-learning-tuning-playbook/</guid>
-      <description>This document is for engineers and researchers (both individuals and teams) interested in maximizing the performance of deep learning models. We assume basic knowledge of machine learning and deep learning concepts. Link</description>
-    </item>
-    
-    <item>
-      <title>Feature Engineering - Python libraries</title>
-      <link>/post/2023-01-28-feature-engineering-python-libraries/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-01-28-feature-engineering-python-libraries/</guid>
+      <guid>/post/2023-02-04-homemade-machine-learning/</guid>
       <description>Link</description>
     </item>
     
     <item>
-      <title>Fine Tuning GPT-3: Building a Custom Q&amp;A Bot Using Embeddings</title>
-      <link>/post/2023-01-28-fine-tuning-gpt-3-building-a-custom-q-a-bot-using-embeddings/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <title>How to replicate ChatGPT with Langchain and GPT-3?</title>
+      <link>/post/2023-02-04-how-to-replicate-chatgpt-with-langchain-and-gpt-3/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-28-fine-tuning-gpt-3-building-a-custom-q-a-bot-using-embeddings/</guid>
-      <description>In this guide, we discuss how to fine-tune GPT-3 to create a factual question-and-answer bot based on additional knowledge.
+      <guid>/post/2023-02-04-how-to-replicate-chatgpt-with-langchain-and-gpt-3/</guid>
+      <description>It is well-known that ChatGPT is currently capable of impressive feats. It is likely that many individuals have ideas for utilizing this technology in their own projects. However, it should be noted that ChatGPT does not currently have an official API. Using an unofficial API may result in difficulties.
 Link</description>
     </item>
     
     <item>
-      <title>Free tools to make life simple</title>
-      <link>/post/2023-01-28-free-tools-to-make-life-simple/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Introducing PivotUI: Never Use Pandas To GroupBy and Pivot Your Data Again</title>
+      <link>/post/2023-02-04-introducing-pivotui-never-use-pandas-to-groupby-and-pivot-your-data-again/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-28-free-tools-to-make-life-simple/</guid>
-      <description>We offer PDF, video, image and other online tools to make your life easier
+      <guid>/post/2023-02-04-introducing-pivotui-never-use-pandas-to-groupby-and-pivot-your-data-again/</guid>
+      <description>Simplifying data analysis for everyone
 Link</description>
     </item>
     
     <item>
-      <title>Full Stack Deep learning 2022</title>
-      <link>/post/2023-01-28-full-stack-deep-learning-2022/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <title>LangChain Hub</title>
+      <link>/post/2023-02-04-langchain-hub/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-28-full-stack-deep-learning-2022/</guid>
-      <description>In this video, we cover the purpose and structure of the Full Stack Deep Learning 2022 course and talk about when ML is the right tool to solve your problems.
-Link
-LangChain</description>
-    </item>
-    
-    <item>
-      <title>Generative Question-Answering with Long-Term Memory</title>
-      <link>/post/2023-01-28-generative-question-answering-with-long-term-memory/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-01-28-generative-question-answering-with-long-term-memory/</guid>
-      <description>Generative AI sparked several “wow” moments in 2022. From generative art tools like OpenAI’s DALL-E 2, Midjourney, and Stable Diffusion, to the next generation of Large Language Models like OpenAI’s GPT-3.5 generation models, BLOOM, and chatbots like LaMDA and ChatGPT.
+      <guid>/post/2023-02-04-langchain-hub/</guid>
+      <description>Taking inspiration from Hugging Face Hub, LangChainHub is collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents. The goal of this repository is to be a central resource for sharing and discovering high quality prompts, chains and agents that combine together to form complex LLM applications.
 Link</description>
     </item>
     
     <item>
-      <title>Getting Started with GPT-3 vs. Open Source LLMs - LangChain</title>
-      <link>/post/2023-01-28-getting-started-with-gpt-3-vs-open-source-llms-langchain/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Longterm Chat External Sources</title>
+      <link>/post/2023-02-04-longterm-chat-external-sources/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-28-getting-started-with-gpt-3-vs-open-source-llms-langchain/</guid>
-      <description>LangChain is a popular framework that allows users to quickly build apps and pipelines around Large Language Models. It integrates directly with OpenAI&amp;rsquo;s GPT-3 and GPT-3.5 models and Hugging Face&amp;rsquo;s open-source alternatives like Google&amp;rsquo;s flan-t5 models.
+      <guid>/post/2023-02-04-longterm-chat-external-sources/</guid>
+      <description>GPT-3 chatbot with long-term memory and external sources.
 Link</description>
     </item>
     
     <item>
-      <title>GPT-3 Fine Tuning as a Service: Build Your Own Custom AI</title>
-      <link>/post/2023-01-28-gpt-3-fine-tuning-as-a-service-build-your-own-custom-ai/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Pandas vs. Polars: A Syntax and Speed Comparison</title>
+      <link>/post/2023-02-04-pandas-vs-polars-a-syntax-and-speed-comparison/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-28-gpt-3-fine-tuning-as-a-service-build-your-own-custom-ai/</guid>
-      <description>We&amp;rsquo;re excited to announce our new service offering: GPT-3 fine tuning as a service. If you&amp;rsquo;re looking to achieve better results, reduce latency, and save costs on a wide range of natural language processing (NLP) tasks, we&amp;rsquo;re here to help.
+      <guid>/post/2023-02-04-pandas-vs-polars-a-syntax-and-speed-comparison/</guid>
+      <description>Understanding the major differences between the Python libraries Pandas and Polars for Data Science
 Link</description>
     </item>
     
     <item>
-      <title>How to implement Q&amp;A against your documentation with GPT3, embeddings and Datasette</title>
-      <link>/post/2023-01-28-how-to-implement-q-a-against-your-documentation-with-gpt3-embeddings-and-datasette/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <title>PlotGenerator</title>
+      <link>/post/2023-02-04-plotgenerator/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-28-how-to-implement-q-a-against-your-documentation-with-gpt3-embeddings-and-datasette/</guid>
-      <description>If you’ve spent any time with GPT-3 or ChatGPT, you’ve likely thought about how useful it would be if you could point them at a specific, current collection of text or documentation and have it use that as part of its input for answering questions.
+      <guid>/post/2023-02-04-plotgenerator/</guid>
+      <description>From any synopsis, generate a solid plot.
 Link</description>
     </item>
     
     <item>
-      <title>LIGHTNING TRANSFORMERS</title>
-      <link>/post/2023-01-28-lightning-transformers/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Python &amp; GPT3 Tutorial</title>
+      <link>/post/2023-02-04-python-gpt3-tutorial/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-01-28-lightning-transformers/</guid>
-      <description>LIGHTNING TRANSFORMERS documentation
+      <guid>/post/2023-02-04-python-gpt3-tutorial/</guid>
+      <description>Public Hello World to get used to Python and GPT-3
+Link</description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>/post/2023-02-04-pytorch/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-pytorch/</guid>
+      <description>PyTorch Lightning &amp;amp; Lightning Hydra Template are neat. Tensor Puzzles is great intro.
+TorchScale is nice library for making Transformers efficiently. BackPACK is interesting too.
+Link</description>
+    </item>
+    
+    <item>
+      <title>PyTorch Template Project</title>
+      <link>/post/2023-02-04-pytorch-template-project/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-pytorch-template-project/</guid>
+      <description>PyTorch deep learning project made easy.
+Link</description>
+    </item>
+    
+    <item>
+      <title>QUOTE MAKER TOOLS</title>
+      <link>/post/2023-02-04-quote-maker-tools/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-quote-maker-tools/</guid>
+      <description>QuotesCover.com helps you create nice-looking quotes images for any purposes. Please pick a start point below
+Link</description>
+    </item>
+    
+    <item>
+      <title>Structuring a Scalable Django Project for Serving Deep Learning Models: An Organized Approach</title>
+      <link>/post/2023-02-04-structuring-a-scalable-django-project-for-serving-deep-learning-models-an-organized-approach/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-structuring-a-scalable-django-project-for-serving-deep-learning-models-an-organized-approach/</guid>
+      <description>A Guide to Isolating and Managing your Machine Learning Models in a Django Framework
 Link</description>
     </item>
     

@@ -5,10 +5,88 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awesome-Pytorch-list</title>
+      <link>/post/2023-02-04-awesome-pytorch-list/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-awesome-pytorch-list/</guid>
+      <description>&lt;p&gt;Awesome-Pytorch-list&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/bharathgs/Awesome-pytorch-list&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build a GitHub support bot with GPT3, LangChain, and Python</title>
+      <link>/post/2023-02-04-build-a-github-support-bot-with-gpt3-langchain-and-python/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-build-a-github-support-bot-with-gpt3-langchain-and-python/</guid>
+      <description>&lt;p&gt;ChatGPT came out a few months ago and blew everyones’ minds with its ability to answer questions sourced from a broad set of knowledge. Around the time that ChatGPT was demonstrating how powerful large language models could be, the Dagster core team was facing a problem.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dagster.io/blog/chatgpt-langchain&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing PivotUI: Never Use Pandas To GroupBy and Pivot Your Data Again</title>
+      <link>/post/2023-02-04-introducing-pivotui-never-use-pandas-to-groupby-and-pivot-your-data-again/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-introducing-pivotui-never-use-pandas-to-groupby-and-pivot-your-data-again/</guid>
+      <description>&lt;p&gt;Simplifying data analysis for everyone&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/introducing-pivotui-never-use-pandas-to-groupby-and-pivot-your-data-again-ed0fcf95b6ed&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pandas vs. Polars: A Syntax and Speed Comparison</title>
+      <link>/post/2023-02-04-pandas-vs-polars-a-syntax-and-speed-comparison/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-pandas-vs-polars-a-syntax-and-speed-comparison/</guid>
+      <description>&lt;p&gt;Understanding the major differences between the Python libraries Pandas and Polars for Data Science&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/pandas-vs-polars-a-syntax-and-speed-comparison-5aa54e27497e&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>/post/2023-02-04-pytorch/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-pytorch/</guid>
+      <description>&lt;p&gt;PyTorch Lightning &amp;amp; Lightning Hydra Template are neat. Tensor Puzzles is great intro.&lt;/p&gt;
+&lt;p&gt;TorchScale is nice library for making Transformers efficiently. BackPACK is interesting too.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wiki.nikiv.dev/machine-learning/libraries/pytorch&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyTorch Template Project</title>
+      <link>/post/2023-02-04-pytorch-template-project/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-pytorch-template-project/</guid>
+      <description>&lt;p&gt;PyTorch deep learning project made easy.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/victoresque/pytorch-template&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structuring a Scalable Django Project for Serving Deep Learning Models: An Organized Approach</title>
+      <link>/post/2023-02-04-structuring-a-scalable-django-project-for-serving-deep-learning-models-an-organized-approach/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-structuring-a-scalable-django-project-for-serving-deep-learning-models-an-organized-approach/</guid>
+      <description>&lt;p&gt;A Guide to Isolating and Managing your Machine Learning Models in a Django Framework&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.jumashafara.com/structuring-a-scalable-django-project-for-serving-deep-learning-models-an-organized-approach&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BEAM</title>

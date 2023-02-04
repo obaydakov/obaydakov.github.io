@@ -5,10 +5,54 @@
     <description>Recent content in tools on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A guide to making the best ML pipeline using AutoGluon 2022 new features</title>
+      <link>/post/2023-02-04-a-guide-to-making-the-best-ml-pipeline-using-autogluon-2022-new-features/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-a-guide-to-making-the-best-ml-pipeline-using-autogluon-2022-new-features/</guid>
+      <description>&lt;p&gt;how to get the best python open source model without overfitting&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/a-guide-to-making-the-best-ml-pipeline-using-autogluon-2022-new-features-3fcb0b7f47d6&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep-Learning-in-Production</title>
+      <link>/post/2023-02-04-deep-learning-in-production/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-deep-learning-in-production/</guid>
+      <description>&lt;p&gt;In this repository, I will share some useful notes and references about deploying deep learning-based models in production.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ahkarami/Deep-Learning-in-Production&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Longterm Chat External Sources</title>
+      <link>/post/2023-02-04-longterm-chat-external-sources/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-longterm-chat-external-sources/</guid>
+      <description>&lt;p&gt;GPT-3 chatbot with long-term memory and external sources.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/daveshap/LongtermChatExternalSources&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QUOTE MAKER TOOLS</title>
+      <link>/post/2023-02-04-quote-maker-tools/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-quote-maker-tools/</guid>
+      <description>&lt;p&gt;QuotesCover.com helps you create nice-looking quotes images for any purposes. Please pick a start point below&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://quotescover.com/starter&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>25 VS Code Productivity Tips and Speed Hacks</title>

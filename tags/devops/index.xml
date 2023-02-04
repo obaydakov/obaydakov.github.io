@@ -5,10 +5,21 @@
     <description>Recent content in devops on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep-Learning-in-Production</title>
+      <link>/post/2023-02-04-deep-learning-in-production/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-deep-learning-in-production/</guid>
+      <description>&lt;p&gt;In this repository, I will share some useful notes and references about deploying deep learning-based models in production.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ahkarami/Deep-Learning-in-Production&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An easy-to-use &amp; supercharged open-source experiment tracker</title>

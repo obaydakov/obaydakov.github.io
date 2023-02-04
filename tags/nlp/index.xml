@@ -5,10 +5,164 @@
     <description>Recent content in nlp on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>awesome-nlp</title>
+      <link>/post/2023-02-04-awesome-nlp/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-awesome-nlp/</guid>
+      <description>&lt;p&gt;A curated list of resources dedicated to Natural Language Processing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/keon/awesome-nlp#python&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build a GitHub support bot with GPT3, LangChain, and Python</title>
+      <link>/post/2023-02-04-build-a-github-support-bot-with-gpt3-langchain-and-python/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-build-a-github-support-bot-with-gpt3-langchain-and-python/</guid>
+      <description>&lt;p&gt;ChatGPT came out a few months ago and blew everyones’ minds with its ability to answer questions sourced from a broad set of knowledge. Around the time that ChatGPT was demonstrating how powerful large language models could be, the Dagster core team was facing a problem.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dagster.io/blog/chatgpt-langchain&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Analysis with ChatGPT and Jupyter Notebooks</title>
+      <link>/post/2023-02-04-data-analysis-with-chatgpt-and-jupyter-notebooks/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-data-analysis-with-chatgpt-and-jupyter-notebooks/</guid>
+      <description>&lt;p&gt;The conversational way of generating code with ChatGPT works well with the cell structure of Jupyter Notebooks&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/codefile/data-analysis-with-chatgpt-and-jupyter-notebooks-fa2b03753396&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPT-3 Voice AI Chatbot in Python</title>
+      <link>/post/2023-02-04-gpt-3-voice-ai-chatbot-in-python/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-gpt-3-voice-ai-chatbot-in-python/</guid>
+      <description>&lt;p&gt;GPT-3 Voice AI Chatbot in Python&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ABIlhTCaWmE&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1O5KVQW1Hx5ZAkcg8AIRjbQLQzx2wVaLl0SqUu-ir9Fs/edit#gid=1158069878&#34;&gt;Excel&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to replicate ChatGPT with Langchain and GPT-3?</title>
+      <link>/post/2023-02-04-how-to-replicate-chatgpt-with-langchain-and-gpt-3/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-how-to-replicate-chatgpt-with-langchain-and-gpt-3/</guid>
+      <description>&lt;p&gt;It is well-known that ChatGPT is currently capable of impressive feats. It is likely that many individuals have ideas for utilizing this technology in their own projects. However, it should be noted that ChatGPT does not currently have an official API. Using an unofficial API may result in difficulties.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ahmadrosid.com/blog/langchain-openai-tutorial&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LangChain Hub</title>
+      <link>/post/2023-02-04-langchain-hub/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-langchain-hub/</guid>
+      <description>&lt;p&gt;Taking inspiration from Hugging Face Hub, LangChainHub is collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents. The goal of this repository is to be a central resource for sharing and discovering high quality prompts, chains and agents that combine together to form complex LLM applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/hwchase17/langchain-hub&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Longterm Chat External Sources</title>
+      <link>/post/2023-02-04-longterm-chat-external-sources/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-longterm-chat-external-sources/</guid>
+      <description>&lt;p&gt;GPT-3 chatbot with long-term memory and external sources.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/daveshap/LongtermChatExternalSources&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PlotGenerator</title>
+      <link>/post/2023-02-04-plotgenerator/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-plotgenerator/</guid>
+      <description>&lt;p&gt;From any synopsis, generate a solid plot.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/daveshap/PlotGenerator&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python &amp; GPT3 Tutorial</title>
+      <link>/post/2023-02-04-python-gpt3-tutorial/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-python-gpt3-tutorial/</guid>
+      <description>&lt;p&gt;Public Hello World to get used to Python and GPT-3&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/daveshap/PythonGPT3Tutorial&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transformer models: an introduction and catalog — 2023 Edition</title>
+      <link>/post/2023-02-04-transformer-models-an-introduction-and-catalog-2023-edition/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-transformer-models-an-introduction-and-catalog-2023-edition/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TRL - Transformer Reinforcement Learning</title>
+      <link>/post/2023-02-04-trl-transformer-reinforcement-learning/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-trl-transformer-reinforcement-learning/</guid>
+      <description>&lt;p&gt;With trl you can train transformer language models with Proximal Policy Optimization (PPO). The library is built on top of the transformers library by 🤗 Hugging Face. Therefore, pre-trained language models can be directly loaded via transformers. At this point most of decoder architectures and encoder-decoder architectures are supported.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lvwerra/trl?utm_source=substack&amp;amp;utm_medium=email&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What Makes a Dialog Agent Useful?</title>
+      <link>/post/2023-02-04-what-makes-a-dialog-agent-useful/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-what-makes-a-dialog-agent-useful/</guid>
+      <description>&lt;p&gt;The techniques behind ChatGPT: RLHF, IFT, CoT, Red teaming, and more&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/blog/dialog-agents&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing a tokenizer with ChatGPT</title>
+      <link>/post/2023-02-04-writing-a-tokenizer-with-chatgpt/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-writing-a-tokenizer-with-chatgpt/</guid>
+      <description>&lt;p&gt;This morning I decided to test how good ChatGPT is at generating a non-trivial piece of code. I want to write a complete interpreter along the lines of Robert Nystrom’s excellent book Crafting Interpreters.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tagide.com/education/writing-a-tokenizer-with-chatgpt/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>𝗗𝗦𝗣: Demonstrate–Search–Predict</title>
+      <link>/post/2023-02-04-demonstrate-search-predict/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-demonstrate-search-predict/</guid>
+      <description>&lt;p&gt;A framework for composing retrieval models and language models into powerful pipelines that tackle knowledge-intensive tasks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/stanfordnlp/dsp&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title> Illustrating Reinforcement Learning from Human Feedback (RLHF)</title>

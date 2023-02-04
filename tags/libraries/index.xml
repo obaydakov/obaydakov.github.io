@@ -5,10 +5,144 @@
     <description>Recent content in libraries on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/libraries/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A guide to making the best ML pipeline using AutoGluon 2022 new features</title>
+      <link>/post/2023-02-04-a-guide-to-making-the-best-ml-pipeline-using-autogluon-2022-new-features/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-a-guide-to-making-the-best-ml-pipeline-using-autogluon-2022-new-features/</guid>
+      <description>&lt;p&gt;how to get the best python open source model without overfitting&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/a-guide-to-making-the-best-ml-pipeline-using-autogluon-2022-new-features-3fcb0b7f47d6&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Awesome-Pytorch-list</title>
+      <link>/post/2023-02-04-awesome-pytorch-list/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-awesome-pytorch-list/</guid>
+      <description>&lt;p&gt;Awesome-Pytorch-list&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/bharathgs/Awesome-pytorch-list&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPT-3 Voice AI Chatbot in Python</title>
+      <link>/post/2023-02-04-gpt-3-voice-ai-chatbot-in-python/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-gpt-3-voice-ai-chatbot-in-python/</guid>
+      <description>&lt;p&gt;GPT-3 Voice AI Chatbot in Python&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ABIlhTCaWmE&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1O5KVQW1Hx5ZAkcg8AIRjbQLQzx2wVaLl0SqUu-ir9Fs/edit#gid=1158069878&#34;&gt;Excel&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graph Machine Learning Explainability with PyG</title>
+      <link>/post/2023-02-04-graph-machine-learning-explainability-with-pyg/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-graph-machine-learning-explainability-with-pyg/</guid>
+      <description>&lt;p&gt;Graph Neural Networks (GNNs) have become increasingly popular for processing graph-structured data, such as social networks, molecular graphs, and knowledge graphs. However, the complex nature of graph-based data and the non-linear relationships between nodes in a graph can make it difficult to understand why a GNN makes a particular prediction. With the rise in popularity of Graph Neural Networks, there also came an increased interest in explaining their predictions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@pytorch_geometric/graph-machine-learning-explainability-with-pyg-ff13cffc23c2&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to replicate ChatGPT with Langchain and GPT-3?</title>
+      <link>/post/2023-02-04-how-to-replicate-chatgpt-with-langchain-and-gpt-3/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-how-to-replicate-chatgpt-with-langchain-and-gpt-3/</guid>
+      <description>&lt;p&gt;It is well-known that ChatGPT is currently capable of impressive feats. It is likely that many individuals have ideas for utilizing this technology in their own projects. However, it should be noted that ChatGPT does not currently have an official API. Using an unofficial API may result in difficulties.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ahmadrosid.com/blog/langchain-openai-tutorial&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing PivotUI: Never Use Pandas To GroupBy and Pivot Your Data Again</title>
+      <link>/post/2023-02-04-introducing-pivotui-never-use-pandas-to-groupby-and-pivot-your-data-again/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-introducing-pivotui-never-use-pandas-to-groupby-and-pivot-your-data-again/</guid>
+      <description>&lt;p&gt;Simplifying data analysis for everyone&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/introducing-pivotui-never-use-pandas-to-groupby-and-pivot-your-data-again-ed0fcf95b6ed&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pandas vs. Polars: A Syntax and Speed Comparison</title>
+      <link>/post/2023-02-04-pandas-vs-polars-a-syntax-and-speed-comparison/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-pandas-vs-polars-a-syntax-and-speed-comparison/</guid>
+      <description>&lt;p&gt;Understanding the major differences between the Python libraries Pandas and Polars for Data Science&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/pandas-vs-polars-a-syntax-and-speed-comparison-5aa54e27497e&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PlotGenerator</title>
+      <link>/post/2023-02-04-plotgenerator/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-plotgenerator/</guid>
+      <description>&lt;p&gt;From any synopsis, generate a solid plot.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/daveshap/PlotGenerator&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python &amp; GPT3 Tutorial</title>
+      <link>/post/2023-02-04-python-gpt3-tutorial/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-python-gpt3-tutorial/</guid>
+      <description>&lt;p&gt;Public Hello World to get used to Python and GPT-3&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/daveshap/PythonGPT3Tutorial&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>/post/2023-02-04-pytorch/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-pytorch/</guid>
+      <description>&lt;p&gt;PyTorch Lightning &amp;amp; Lightning Hydra Template are neat. Tensor Puzzles is great intro.&lt;/p&gt;
+&lt;p&gt;TorchScale is nice library for making Transformers efficiently. BackPACK is interesting too.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wiki.nikiv.dev/machine-learning/libraries/pytorch&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyTorch Template Project</title>
+      <link>/post/2023-02-04-pytorch-template-project/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-pytorch-template-project/</guid>
+      <description>&lt;p&gt;PyTorch deep learning project made easy.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/victoresque/pytorch-template&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structuring a Scalable Django Project for Serving Deep Learning Models: An Organized Approach</title>
+      <link>/post/2023-02-04-structuring-a-scalable-django-project-for-serving-deep-learning-models-an-organized-approach/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-structuring-a-scalable-django-project-for-serving-deep-learning-models-an-organized-approach/</guid>
+      <description>&lt;p&gt;A Guide to Isolating and Managing your Machine Learning Models in a Django Framework&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.jumashafara.com/structuring-a-scalable-django-project-for-serving-deep-learning-models-an-organized-approach&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feature Engineering - Python libraries</title>

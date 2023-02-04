@@ -5,6 +5,334 @@
   
 
       <url>
+        <loc>/post/2023-02-04-a-guide-to-making-the-best-ml-pipeline-using-autogluon-2022-new-features/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/apps/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/apps/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/articles/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-awesome-nlp/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-awesome-pytorch-list/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-build-a-github-support-bot-with-gpt3-langchain-and-python/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-data-analysis-with-chatgpt-and-jupyter-notebooks/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-engineering/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/deep-learning/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-deep-learning-in-production/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/devops/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-gpt-3-voice-ai-chatbot-in-python/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-graph-machine-learning-explainability-with-pyg/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/graphs/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-homemade-machine-learning/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-how-to-replicate-chatgpt-with-langchain-and-gpt-3/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-introducing-pivotui-never-use-pandas-to-groupby-and-pivot-your-data-again/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-langchain-hub/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/libraries/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-longterm-chat-external-sources/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/machine-learning/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/nlp/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-pandas-vs-polars-a-syntax-and-speed-comparison/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-plotgenerator/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/python/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-python-gpt3-tutorial/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-pytorch/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-pytorch-template-project/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-quote-maker-tools/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-structuring-a-scalable-django-project-for-serving-deep-learning-models-an-organized-approach/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/tools/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-transformer-models-an-introduction-and-catalog-2023-edition/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-trl-transformer-reinforcement-learning/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-what-makes-a-dialog-agent-useful/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-writing-a-tokenizer-with-chatgpt/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-demonstrate-search-predict/</loc>
+        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/post/2023-01-28-illustrating-reinforcement-learning-from-human-feedback-rlhf/</loc>
         <lastmod>2023-01-28T00:00:00+00:00</lastmod>
     </url>
@@ -22,30 +350,6 @@
 
       <url>
         <loc>/post/2023-01-28-ai-made-easy-for-developers/</loc>
-        <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/apps/</loc>
-        <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/apps/</loc>
-        <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/articles/</loc>
         <lastmod>2023-01-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -93,14 +397,6 @@
   
 
       <url>
-        <loc>/categories/</loc>
-        <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2023-01-28-chatgpt-telegram-bot-fast-no-daily-limits-special-chat-modes/</loc>
         <lastmod>2023-01-28T00:00:00+00:00</lastmod>
     </url>
@@ -141,31 +437,7 @@
   
 
       <url>
-        <loc>/categories/data-engineering/</loc>
-        <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/</loc>
-        <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2023-01-28-deep-learning-tuning-playbook/</loc>
-        <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/deep-learning/</loc>
         <lastmod>2023-01-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -237,31 +509,7 @@
   
 
       <url>
-        <loc>/tags/libraries/</loc>
-        <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2023-01-28-lightning-transformers/</loc>
-        <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/machine-learning/</loc>
-        <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/nlp/</loc>
         <lastmod>2023-01-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -278,22 +526,6 @@
 
       <url>
         <loc>/post/2023-01-28-pinecone-ai-examples/</loc>
-        <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/post/</loc>
-        <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/python/</loc>
         <lastmod>2023-01-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -333,23 +565,7 @@
   
 
       <url>
-        <loc>/tags/</loc>
-        <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2023-01-28-text-visualization-browser/</loc>
-        <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/tools/</loc>
         <lastmod>2023-01-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -462,14 +678,6 @@
 
       <url>
         <loc>/post/2023-01-21-graph-ml-in-2023-the-state-of-affairs/</loc>
-        <lastmod>2023-01-21T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/graphs/</loc>
         <lastmod>2023-01-21T00:00:00+00:00</lastmod>
     </url>
     
@@ -926,14 +1134,6 @@
 
       <url>
         <loc>/tags/design/</loc>
-        <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/devops/</loc>
         <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     </url>
     
