@@ -5,8 +5,16 @@
   
 
       <url>
-        <loc>/post/2023-02-04-a-guide-to-making-the-best-ml-pipeline-using-autogluon-2022-new-features/</loc>
-        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+        <loc>/post/2023-02-11-openai-x-pinecone-q-a-app/</loc>
+        <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-11-a-command-line-utility-to-train-and-deploy-machine-learning-deep-learning-models-on-aws-sagemaker-in-a-few-simple-steps/</loc>
+        <lastmod>2023-02-11T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -14,6 +22,110 @@
 
       <url>
         <loc>/tags/apps/</loc>
+        <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/</loc>
+        <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/deep-learning/</loc>
+        <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-11-design-and-deploy-large-language-model-apps/</loc>
+        <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-11-futurepedia/</loc>
+        <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/nlp/</loc>
+        <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-11-openai-cookbook/</loc>
+        <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-11-openai-v2-embedding-search-context-enhanced-completions/</loc>
+        <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-11-the-missing-frontend-for-gpt-3/</loc>
+        <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-11-using-ai-to-identify-ingredients-and-suggest-recipes/</loc>
+        <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-02-04-a-guide-to-making-the-best-ml-pipeline-using-autogluon-2022-new-features/</loc>
         <lastmod>2023-02-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -61,14 +173,6 @@
   
 
       <url>
-        <loc>/categories/</loc>
-        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2023-02-04-data-analysis-with-chatgpt-and-jupyter-notebooks/</loc>
         <lastmod>2023-02-04T00:00:00+00:00</lastmod>
     </url>
@@ -78,22 +182,6 @@
 
       <url>
         <loc>/categories/data-engineering/</loc>
-        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/</loc>
-        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/deep-learning/</loc>
         <lastmod>2023-02-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -197,14 +285,6 @@
   
 
       <url>
-        <loc>/tags/nlp/</loc>
-        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2023-02-04-pandas-vs-polars-a-syntax-and-speed-comparison/</loc>
         <lastmod>2023-02-04T00:00:00+00:00</lastmod>
     </url>
@@ -214,14 +294,6 @@
 
       <url>
         <loc>/post/2023-02-04-plotgenerator/</loc>
-        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/post/</loc>
         <lastmod>2023-02-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -270,14 +342,6 @@
 
       <url>
         <loc>/post/2023-02-04-structuring-a-scalable-django-project-for-serving-deep-learning-models-an-organized-approach/</loc>
-        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/</loc>
         <lastmod>2023-02-04T00:00:00+00:00</lastmod>
     </url>
     

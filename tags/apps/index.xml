@@ -5,10 +5,33 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Feb 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Design and Deploy Large Language Model Apps</title>
+      <link>/post/2023-02-11-design-and-deploy-large-language-model-apps/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-design-and-deploy-large-language-model-apps/</guid>
+      <description>&lt;p&gt;Built on years of experience working with large language models.
+With one goal, help accelerate their deployment.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FUTUREPEDIA</title>
+      <link>/post/2023-02-11-futurepedia/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-futurepedia/</guid>
+      <description>&lt;p&gt;THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.futurepedia.io/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Structuring a Scalable Django Project for Serving Deep Learning Models: An Organized Approach</title>

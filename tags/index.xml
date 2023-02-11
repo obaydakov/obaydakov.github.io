@@ -5,7 +5,7 @@
     <description>Recent content in Tags on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Feb 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,9 +13,18 @@
     <item>
       <title>apps</title>
       <link>/tags/apps/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nlp</title>
+      <link>/tags/nlp/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nlp/</guid>
       <description></description>
     </item>
     
@@ -52,15 +61,6 @@
       <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/libraries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nlp</title>
-      <link>/tags/nlp/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/nlp/</guid>
       <description></description>
     </item>
     

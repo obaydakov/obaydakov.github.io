@@ -5,10 +5,88 @@
     <description>Recent content in nlp on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Feb 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> OpenAI x Pinecone Q&amp;A app</title>
+      <link>/post/2023-02-11-openai-x-pinecone-q-a-app/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-openai-x-pinecone-q-a-app/</guid>
+      <description>&lt;p&gt;In this repository we have notebooks and source code used to build the OpenAI x Pinecone Q&amp;amp;A app. You can find more information in our webinar here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/pinecone-io/examples/tree/master/integrations/openai/beyond_search_webinar&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A command-line utility to train and deploy Machine Learning/Deep Learning models on AWS SageMaker in a few simple steps!</title>
+      <link>/post/2023-02-11-a-command-line-utility-to-train-and-deploy-machine-learning-deep-learning-models-on-aws-sagemaker-in-a-few-simple-steps/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-a-command-line-utility-to-train-and-deploy-machine-learning-deep-learning-models-on-aws-sagemaker-in-a-few-simple-steps/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ll provide you with some examples of how Sagify can simplify and expedite your ML pipelines. You can train, tune and deploy a Machine Learning on the same day by using Sagify!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kenza-ai.github.io/sagify/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design and Deploy Large Language Model Apps</title>
+      <link>/post/2023-02-11-design-and-deploy-large-language-model-apps/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-design-and-deploy-large-language-model-apps/</guid>
+      <description>&lt;p&gt;Built on years of experience working with large language models.
+With one goal, help accelerate their deployment.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenAI Cookbook</title>
+      <link>/post/2023-02-11-openai-cookbook/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-openai-cookbook/</guid>
+      <description>&lt;p&gt;The OpenAI Cookbook shares example code for accomplishing common tasks with the OpenAI API.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/openai/openai-cookbook&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenAI v2 Embedding &#43; Search &#43; Context enhanced completions</title>
+      <link>/post/2023-02-11-openai-v2-embedding-search-context-enhanced-completions/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-openai-v2-embedding-search-context-enhanced-completions/</guid>
+      <description>&lt;p&gt;OpenAI v2 Embedding + Search + Context enhanced completions&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/OpsConfig/OpenAI_Lab&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The missing frontend for GPT-3</title>
+      <link>/post/2023-02-11-the-missing-frontend-for-gpt-3/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-the-missing-frontend-for-gpt-3/</guid>
+      <description>&lt;p&gt;Build GPT-3 powered apps, without writing any code&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://retune.so/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using AI to Identify Ingredients and Suggest Recipes</title>
+      <link>/post/2023-02-11-using-ai-to-identify-ingredients-and-suggest-recipes/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-using-ai-to-identify-ingredients-and-suggest-recipes/</guid>
+      <description>&lt;p&gt;Sous-chef.ai allows users to take photos of ingredients in their fridge/pantry and ask for a user’s food preferences. Using this information, the app provides customized suggested recipes.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@brh373/using-ai-to-identify-ingredients-and-suggest-recipes-95482e2aca7d&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>awesome-nlp</title>

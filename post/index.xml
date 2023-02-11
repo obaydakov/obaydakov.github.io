@@ -6,7 +6,87 @@
     <description>Recent content in Posts on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> OpenAI x Pinecone Q&amp;A app</title>
+      <link>/post/2023-02-11-openai-x-pinecone-q-a-app/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-openai-x-pinecone-q-a-app/</guid>
+      <description>In this repository we have notebooks and source code used to build the OpenAI x Pinecone Q&amp;amp;A app. You can find more information in our webinar here.
+Link</description>
+    </item>
+    
+    <item>
+      <title>A command-line utility to train and deploy Machine Learning/Deep Learning models on AWS SageMaker in a few simple steps!</title>
+      <link>/post/2023-02-11-a-command-line-utility-to-train-and-deploy-machine-learning-deep-learning-models-on-aws-sagemaker-in-a-few-simple-steps/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-a-command-line-utility-to-train-and-deploy-machine-learning-deep-learning-models-on-aws-sagemaker-in-a-few-simple-steps/</guid>
+      <description>We&amp;rsquo;ll provide you with some examples of how Sagify can simplify and expedite your ML pipelines. You can train, tune and deploy a Machine Learning on the same day by using Sagify!
+Link</description>
+    </item>
+    
+    <item>
+      <title>Design and Deploy Large Language Model Apps</title>
+      <link>/post/2023-02-11-design-and-deploy-large-language-model-apps/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-design-and-deploy-large-language-model-apps/</guid>
+      <description>Built on years of experience working with large language models. With one goal, help accelerate their deployment.
+Link</description>
+    </item>
+    
+    <item>
+      <title>FUTUREPEDIA</title>
+      <link>/post/2023-02-11-futurepedia/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-futurepedia/</guid>
+      <description>THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY
+Link</description>
+    </item>
+    
+    <item>
+      <title>OpenAI Cookbook</title>
+      <link>/post/2023-02-11-openai-cookbook/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-openai-cookbook/</guid>
+      <description>The OpenAI Cookbook shares example code for accomplishing common tasks with the OpenAI API.
+Link</description>
+    </item>
+    
+    <item>
+      <title>OpenAI v2 Embedding &#43; Search &#43; Context enhanced completions</title>
+      <link>/post/2023-02-11-openai-v2-embedding-search-context-enhanced-completions/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-openai-v2-embedding-search-context-enhanced-completions/</guid>
+      <description>OpenAI v2 Embedding + Search + Context enhanced completions
+Link</description>
+    </item>
+    
+    <item>
+      <title>The missing frontend for GPT-3</title>
+      <link>/post/2023-02-11-the-missing-frontend-for-gpt-3/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-the-missing-frontend-for-gpt-3/</guid>
+      <description>Build GPT-3 powered apps, without writing any code
+Link</description>
+    </item>
+    
+    <item>
+      <title>Using AI to Identify Ingredients and Suggest Recipes</title>
+      <link>/post/2023-02-11-using-ai-to-identify-ingredients-and-suggest-recipes/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-11-using-ai-to-identify-ingredients-and-suggest-recipes/</guid>
+      <description>Sous-chef.ai allows users to take photos of ingredients in their fridge/pantry and ask for a user’s food preferences. Using this information, the app provides customized suggested recipes.
+Link</description>
+    </item>
+    
     <item>
       <title>A guide to making the best ML pipeline using AutoGluon 2022 new features</title>
       <link>/post/2023-02-04-a-guide-to-making-the-best-ml-pipeline-using-autogluon-2022-new-features/</link>
@@ -124,87 +204,6 @@ Link</description>
       
       <guid>/post/2023-02-04-langchain-hub/</guid>
       <description>Taking inspiration from Hugging Face Hub, LangChainHub is collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents. The goal of this repository is to be a central resource for sharing and discovering high quality prompts, chains and agents that combine together to form complex LLM applications.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Longterm Chat External Sources</title>
-      <link>/post/2023-02-04-longterm-chat-external-sources/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-02-04-longterm-chat-external-sources/</guid>
-      <description>GPT-3 chatbot with long-term memory and external sources.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Pandas vs. Polars: A Syntax and Speed Comparison</title>
-      <link>/post/2023-02-04-pandas-vs-polars-a-syntax-and-speed-comparison/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-02-04-pandas-vs-polars-a-syntax-and-speed-comparison/</guid>
-      <description>Understanding the major differences between the Python libraries Pandas and Polars for Data Science
-Link</description>
-    </item>
-    
-    <item>
-      <title>PlotGenerator</title>
-      <link>/post/2023-02-04-plotgenerator/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-02-04-plotgenerator/</guid>
-      <description>From any synopsis, generate a solid plot.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Python &amp; GPT3 Tutorial</title>
-      <link>/post/2023-02-04-python-gpt3-tutorial/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-02-04-python-gpt3-tutorial/</guid>
-      <description>Public Hello World to get used to Python and GPT-3
-Link</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>/post/2023-02-04-pytorch/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-02-04-pytorch/</guid>
-      <description>PyTorch Lightning &amp;amp; Lightning Hydra Template are neat. Tensor Puzzles is great intro.
-TorchScale is nice library for making Transformers efficiently. BackPACK is interesting too.
-Link</description>
-    </item>
-    
-    <item>
-      <title>PyTorch Template Project</title>
-      <link>/post/2023-02-04-pytorch-template-project/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-02-04-pytorch-template-project/</guid>
-      <description>PyTorch deep learning project made easy.
-Link</description>
-    </item>
-    
-    <item>
-      <title>QUOTE MAKER TOOLS</title>
-      <link>/post/2023-02-04-quote-maker-tools/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-02-04-quote-maker-tools/</guid>
-      <description>QuotesCover.com helps you create nice-looking quotes images for any purposes. Please pick a start point below
-Link</description>
-    </item>
-    
-    <item>
-      <title>Structuring a Scalable Django Project for Serving Deep Learning Models: An Organized Approach</title>
-      <link>/post/2023-02-04-structuring-a-scalable-django-project-for-serving-deep-learning-models-an-organized-approach/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-02-04-structuring-a-scalable-django-project-for-serving-deep-learning-models-an-organized-approach/</guid>
-      <description>A Guide to Isolating and Managing your Machine Learning Models in a Django Framework
 Link</description>
     </item>
     
