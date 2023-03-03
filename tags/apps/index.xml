@@ -5,10 +5,44 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alpha Zero From Scratch</title>
+      <link>/post/2023-03-03-alpha-zero-from-scratch/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-alpha-zero-from-scratch/</guid>
+      <description>&lt;p&gt;Out of the box implementation based on the code of the tutorial: AlphaZero&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/foersterrobert/AlphaZeroFromScratch&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wuSQpLinRB4&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>applied-ml</title>
+      <link>/post/2023-03-03-applied-ml/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-applied-ml/</guid>
+      <description>&lt;p&gt;Figuring out how to implement your ML project? Learn how other organizations did it&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/eugeneyan/applied-ml&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using ChatGPT to build a Kedro ML pipeline</title>
+      <link>/post/2023-03-03-using-chatgpt-to-build-a-kedro-ml-pipeline/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-using-chatgpt-to-build-a-kedro-ml-pipeline/</guid>
+      <description>&lt;p&gt;Talk with ChatGPT to build feature-rich solutions with a Streamlit frontend&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.streamlit.io/using-chatgpt-to-build-a-kedro-ml-pipeline/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Design and Deploy Large Language Model Apps</title>

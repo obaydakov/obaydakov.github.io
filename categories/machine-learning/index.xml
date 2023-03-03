@@ -5,10 +5,120 @@
     <description>Recent content in Machine Learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>applied-ml</title>
+      <link>/post/2023-03-03-applied-ml/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-applied-ml/</guid>
+      <description>&lt;p&gt;Figuring out how to implement your ML project? Learn how other organizations did it&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/eugeneyan/applied-ml&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blueprints for recommender system architectures: 10th anniversary edition</title>
+      <link>/post/2023-03-03-blueprints-for-recommender-system-architectures-10th-anniversary-edition/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-blueprints-for-recommender-system-architectures-10th-anniversary-edition/</guid>
+      <description>&lt;p&gt;In this blog post I summarize 4 existing architectural blueprints, and present a new one that, in my opinion, encompasses all the previous ones.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://amatriain.net/blog/RecsysArchitectures&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>End-to-End ML Pipelines with MLflow: Tracking, Projects &amp; Serving</title>
+      <link>/post/2023-03-03-end-to-end-ml-pipelines-with-mlflow-tracking-projects-serving/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-end-to-end-ml-pipelines-with-mlflow-tracking-projects-serving/</guid>
+      <description>&lt;p&gt;Definitive tutorial for advanced use of MLflow&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/end-to-end-ml-pipelines-with-mlflow-tracking-projects-serving-1b491bcdc25f&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LMOps</title>
+      <link>/post/2023-03-03-lmops/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-lmops/</guid>
+      <description>&lt;p&gt;LMOps is a research initiative on fundamental research and technology for building AI products w/ foundation models, especially on the general technology for enabling AI capabilities w/ LLMs and Generative AI models.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/LMOps&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ML Systems Industrialization and MLOps</title>
+      <link>/post/2023-03-03-ml-systems-industrialization-and-mlops/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-ml-systems-industrialization-and-mlops/</guid>
+      <description>&lt;p&gt;Industrialization of Data Consumption by ML systems during both experimentation (historical batch) and production (batch &amp;amp; stream) — grow above &amp;amp; beyond toy-ML-with-csv and single-threaded-pickle-flasked-deployment.&lt;/p&gt;
+&lt;p&gt;[Link]{https://medium.com/@sunil_iitb/ml-systems-industrialization-and-mlops-b30106974454}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MLOps: Managing AI models at Scale</title>
+      <link>/post/2023-03-03-mlops-managing-ai-models-at-scale/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-mlops-managing-ai-models-at-scale/</guid>
+      <description>&lt;p&gt;Model building is excellent, but if we can’t deploy these models then it becomes useless.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/aiguys/mlops-deploying-and-managing-models-at-scale-9a51f8fc0406&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MosaicML StreamingDataset: Fast, Accurate Streaming of Training Data from Cloud Storage</title>
+      <link>/post/2023-03-03-mosaicml-streamingdataset-fast-accurate-streaming-of-training-data-from-cloud-storage/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-mosaicml-streamingdataset-fast-accurate-streaming-of-training-data-from-cloud-storage/</guid>
+      <description>&lt;p&gt;Loading your training data becomes an escalating challenge as datasets grow bigger in size and the number of nodes scales. We built StreamingDataset to make training on large datasets from cloud storage as fast, cheap, and scalable as possible. Specially designed for multi-node, distributed training, StreamingDataset maximizes correctness guarantees, performance, and ease of use.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mosaicml.com/blog/mosaicml-streamingdataset&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The 2023 MAD (Machine Learning, Artificial Intelligence &amp; Data) Landscape</title>
+      <link>/post/2023-03-03-the-2023-mad-machine-learning-artificial-intelligence-data-landscape/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-the-2023-mad-machine-learning-artificial-intelligence-data-landscape/</guid>
+      <description>&lt;p&gt;It has been less than 18 months since we published our last MAD landscape, and it has been full of drama.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mattturck.com/mad2023/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Use the Dust Platform to design and deploy Large Language Model apps.</title>
+      <link>/post/2023-03-03-use-the-dust-platform-to-design-and-deploy-large-language-model-apps/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-use-the-dust-platform-to-design-and-deploy-large-language-model-apps/</guid>
+      <description>&lt;p&gt;Dust apps rely on model providers to interact with large language models. You can setup your first model provider by clicking on the Providers pane and setting up the OpenAI provider. You&amp;rsquo;ll need to create an account at OpenAI and retrieve your API key.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.dust.tt/quickstart&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using ChatGPT to build a Kedro ML pipeline</title>
+      <link>/post/2023-03-03-using-chatgpt-to-build-a-kedro-ml-pipeline/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-using-chatgpt-to-build-a-kedro-ml-pipeline/</guid>
+      <description>&lt;p&gt;Talk with ChatGPT to build feature-rich solutions with a Streamlit frontend&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.streamlit.io/using-chatgpt-to-build-a-kedro-ml-pipeline/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A guide to making the best ML pipeline using AutoGluon 2022 new features</title>

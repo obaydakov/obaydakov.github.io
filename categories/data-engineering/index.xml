@@ -5,10 +5,131 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 Common Software Architectural Patterns in a nutshell</title>
+      <link>/post/2023-03-03-10-common-software-architectural-patterns-in-a-nutshell/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-10-common-software-architectural-patterns-in-a-nutshell/</guid>
+      <description>&lt;p&gt;An architectural pattern is a general, reusable solution to a commonly occurring problem in software architecture within a given context. Architectural patterns are similar to software design pattern but have a broader scope.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>101 Design Patterns &amp; Tips for Developers</title>
+      <link>/post/2023-03-03-101-design-patterns-tips-for-developers/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-101-design-patterns-tips-for-developers/</guid>
+      <description>&lt;p&gt;In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn&amp;rsquo;t a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcemaking.com/design_patterns&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>applied-ml</title>
+      <link>/post/2023-03-03-applied-ml/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-applied-ml/</guid>
+      <description>&lt;p&gt;Figuring out how to implement your ML project? Learn how other organizations did it&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/eugeneyan/applied-ml&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blueprints for recommender system architectures: 10th anniversary edition</title>
+      <link>/post/2023-03-03-blueprints-for-recommender-system-architectures-10th-anniversary-edition/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-blueprints-for-recommender-system-architectures-10th-anniversary-edition/</guid>
+      <description>&lt;p&gt;In this blog post I summarize 4 existing architectural blueprints, and present a new one that, in my opinion, encompasses all the previous ones.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://amatriain.net/blog/RecsysArchitectures&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to use server-sent events (SSE) with FastAPI?</title>
+      <link>/post/2023-03-03-how-to-use-server-sent-events-sse-with-fastapi/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-how-to-use-server-sent-events-sse-with-fastapi/</guid>
+      <description>&lt;p&gt;Server-sent events (SSE) is a way to send data to the browser without reloading the page. This allows you to use streaming data and build real-time applications that can be used in a variety of scenarios.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://devdojo.com/bobbyiliev/how-to-use-server-sent-events-sse-with-fastapi&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LMOps</title>
+      <link>/post/2023-03-03-lmops/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-lmops/</guid>
+      <description>&lt;p&gt;LMOps is a research initiative on fundamental research and technology for building AI products w/ foundation models, especially on the general technology for enabling AI capabilities w/ LLMs and Generative AI models.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/LMOps&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ML Systems Industrialization and MLOps</title>
+      <link>/post/2023-03-03-ml-systems-industrialization-and-mlops/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-ml-systems-industrialization-and-mlops/</guid>
+      <description>&lt;p&gt;Industrialization of Data Consumption by ML systems during both experimentation (historical batch) and production (batch &amp;amp; stream) — grow above &amp;amp; beyond toy-ML-with-csv and single-threaded-pickle-flasked-deployment.&lt;/p&gt;
+&lt;p&gt;[Link]{https://medium.com/@sunil_iitb/ml-systems-industrialization-and-mlops-b30106974454}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>System design interview</title>
+      <link>/post/2023-03-03-system-design-interview/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-system-design-interview/</guid>
+      <description>&lt;p&gt;System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/checkcheckzz/system-design-interview&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The 2023 MAD (Machine Learning, Artificial Intelligence &amp; Data) Landscape</title>
+      <link>/post/2023-03-03-the-2023-mad-machine-learning-artificial-intelligence-data-landscape/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-the-2023-mad-machine-learning-artificial-intelligence-data-landscape/</guid>
+      <description>&lt;p&gt;It has been less than 18 months since we published our last MAD landscape, and it has been full of drama.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mattturck.com/mad2023/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Top 10 Smart Contract &amp; Solidity Developer Learning Resources</title>
+      <link>/post/2023-03-03-top-10-smart-contract-solidity-developer-learning-resources/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-top-10-smart-contract-solidity-developer-learning-resources/</guid>
+      <description>&lt;p&gt;Learning to become a Smart Contract and Blockchain Developer can seem like a daunting task, but it doesn&amp;rsquo;t have to be!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dev.to/patrickalphac/top-10-smart-contract-solidity-developer-learning-resources-46db&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Use the Dust Platform to design and deploy Large Language Model apps.</title>
+      <link>/post/2023-03-03-use-the-dust-platform-to-design-and-deploy-large-language-model-apps/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-use-the-dust-platform-to-design-and-deploy-large-language-model-apps/</guid>
+      <description>&lt;p&gt;Dust apps rely on model providers to interact with large language models. You can setup your first model provider by clicking on the Providers pane and setting up the OpenAI provider. You&amp;rsquo;ll need to create an account at OpenAI and retrieve your API key.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.dust.tt/quickstart&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Introducing PivotUI: Never Use Pandas To GroupBy and Pivot Your Data Again</title>

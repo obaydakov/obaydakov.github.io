@@ -5,10 +5,32 @@
     <description>Recent content in design on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/design/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 Common Software Architectural Patterns in a nutshell</title>
+      <link>/post/2023-03-03-10-common-software-architectural-patterns-in-a-nutshell/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-10-common-software-architectural-patterns-in-a-nutshell/</guid>
+      <description>&lt;p&gt;An architectural pattern is a general, reusable solution to a commonly occurring problem in software architecture within a given context. Architectural patterns are similar to software design pattern but have a broader scope.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>System design interview</title>
+      <link>/post/2023-03-03-system-design-interview/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-system-design-interview/</guid>
+      <description>&lt;p&gt;System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/checkcheckzz/system-design-interview&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DATA MESH ARCHITECTURE</title>

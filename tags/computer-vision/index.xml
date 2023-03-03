@@ -5,10 +5,21 @@
     <description>Recent content in computer-vision on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>YOWOv2: A Stronger yet Efficient Multi-level Detection Framework for Real-time Spatio-temporal Action Detection</title>
+      <link>/post/2023-03-03-yowov2-a-stronger-yet-efficient-multi-level-detection-framework-for-real-time-spatio-temporal-action-detection/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-yowov2-a-stronger-yet-efficient-multi-level-detection-framework-for-real-time-spatio-temporal-action-detection/</guid>
+      <description>&lt;p&gt;YOWOv2: A Stronger yet Efficient Multi-level Detection Framework for Real-time Spatio-temporal Action Detection&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/yjh0410/YOWOv2&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AI made easy for developers</title>

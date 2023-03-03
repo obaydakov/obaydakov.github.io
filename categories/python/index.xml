@@ -5,10 +5,54 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 Python Decorators to Take Your Code to the Next Level</title>
+      <link>/post/2023-03-03-12-python-decorators-to-take-your-code-to-the-next-level/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-12-python-decorators-to-take-your-code-to-the-next-level/</guid>
+      <description>&lt;p&gt;Python decorators are powerful tools that help you produce clean, reusable, and maintainable code.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/12-python-decorators-to-take-your-code-to-the-next-level-a910a1ab3e99&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GEOLOCATION API FOR DEVELOPERS</title>
+      <link>/post/2023-03-03-geolocation-api-for-developers/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-geolocation-api-for-developers/</guid>
+      <description>&lt;p&gt;Are you overpaying for ip lookup service? iploka offers one of the most affordable IP to geolocation APIs and global IP database services worldwide.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://iploka.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incredibile pyTorch</title>
+      <link>/post/2023-03-03-incredibile-pytorch/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-incredibile-pytorch/</guid>
+      <description>&lt;p&gt;This is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible PyTorch. Feel free to make a pull request to contribute to this list.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ritchieng/the-incredible-pytorch&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyGWalker: A Python Library for Exploratory Data Analysis with Visualization</title>
+      <link>/post/2023-03-03-pygwalker-a-python-library-for-exploratory-data-analysis-with-visualization/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-pygwalker-a-python-library-for-exploratory-data-analysis-with-visualization/</guid>
+      <description>&lt;p&gt;PyGWalker can simplify your Jupyter Notebook data analysis and data visualization workflow, by turning your pandas dataframe into a Tableau-style User Interface for visual exploration.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Kanaries/pygwalker&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Awesome-Pytorch-list</title>

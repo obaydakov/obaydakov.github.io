@@ -5,10 +5,76 @@
     <description>Recent content in development on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>101 Design Patterns &amp; Tips for Developers</title>
+      <link>/post/2023-03-03-101-design-patterns-tips-for-developers/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-101-design-patterns-tips-for-developers/</guid>
+      <description>&lt;p&gt;In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn&amp;rsquo;t a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcemaking.com/design_patterns&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>deepfakes</title>
+      <link>/post/2023-03-03-deepfakes/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-deepfakes/</guid>
+      <description>&lt;p&gt;Here are 105 public repositories matching this topic&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/topics/deepfakes&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to use server-sent events (SSE) with FastAPI?</title>
+      <link>/post/2023-03-03-how-to-use-server-sent-events-sse-with-fastapi/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-how-to-use-server-sent-events-sse-with-fastapi/</guid>
+      <description>&lt;p&gt;Server-sent events (SSE) is a way to send data to the browser without reloading the page. This allows you to use streaming data and build real-time applications that can be used in a variety of scenarios.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://devdojo.com/bobbyiliev/how-to-use-server-sent-events-sse-with-fastapi&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>System design interview</title>
+      <link>/post/2023-03-03-system-design-interview/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-system-design-interview/</guid>
+      <description>&lt;p&gt;System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/checkcheckzz/system-design-interview&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Use the Dust Platform to design and deploy Large Language Model apps.</title>
+      <link>/post/2023-03-03-use-the-dust-platform-to-design-and-deploy-large-language-model-apps/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-use-the-dust-platform-to-design-and-deploy-large-language-model-apps/</guid>
+      <description>&lt;p&gt;Dust apps rely on model providers to interact with large language models. You can setup your first model provider by clicking on the Providers pane and setting up the OpenAI provider. You&amp;rsquo;ll need to create an account at OpenAI and retrieve your API key.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.dust.tt/quickstart&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using ChatGPT to build a Kedro ML pipeline</title>
+      <link>/post/2023-03-03-using-chatgpt-to-build-a-kedro-ml-pipeline/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-03-using-chatgpt-to-build-a-kedro-ml-pipeline/</guid>
+      <description>&lt;p&gt;Talk with ChatGPT to build feature-rich solutions with a Streamlit frontend&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.streamlit.io/using-chatgpt-to-build-a-kedro-ml-pipeline/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build models, ML components and full stack AI apps</title>
