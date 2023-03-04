@@ -5,10 +5,86 @@
     <description>Recent content in nlp on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build your own Q&amp;A KnowledgeBot using GPT-Index &amp; LangChain - Document to Chatbot</title>
+      <link>/post/2023-03-04-build-your-own-q-a-knowledgebot-using-gpt-index-langchain-document-to-chatbot/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-04-build-your-own-q-a-knowledgebot-using-gpt-index-langchain-document-to-chatbot/</guid>
+      <description>&lt;p&gt;n this Applied NLP LLM Tutorial, We will build our Custom KnowledgeBot using GPT-Index and LangChain. LangChain for accessing OpenAI and GPT-Index for Vector Index Building and Index Querying - Information Retrieval.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Dhc_fq5iCnU&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Find the right  AI tool to ignite  your workflow.</title>
+      <link>/post/2023-03-04-find-the-right-ai-tool-to-ignite-your-workflow/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-04-find-the-right-ai-tool-to-ignite-your-workflow/</guid>
+      <description>&lt;p&gt;Igniter helps you find the right AI tools and resources to get the job done faster. From the makers of Not A Bot 🤖 — the world&amp;rsquo;s most popular AI newsletter.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.igniter.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting Started With OpenAI ChatGPT (GPT-3.5) API In Python</title>
+      <link>/post/2023-03-04-getting-started-with-openai-chatgpt-gpt-3-5-api-in-python/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-04-getting-started-with-openai-chatgpt-gpt-3-5-api-in-python/</guid>
+      <description>&lt;p&gt;OpenAI has finally released the most anticipated ChatGPT model  today, called &amp;ldquo;gpt-3.5-turbo&amp;rdquo;. Unlike the GPT 3.0 models  that work like a search engine, ChatGPT model tracks the conversation to create more useful outputs. In this tutorial, I will go through every single detail on how to get started with the newest OpenAI ChatGPT API in Python.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=I4T--ycOpi0&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LangChain Agents</title>
+      <link>/post/2023-03-04-langchaon-agents/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-04-langchaon-agents/</guid>
+      <description>&lt;p&gt;Some applications will require not just a predetermined chain of calls to LLMs/other tools, but potentially an unknown chain that depends on the user’s input. In these types of chains, there is a “agent” which has access to a suite of tools. Depending on the user input, the agent can then decide which, if any, of these tools to call.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://langchain.readthedocs.io/en/latest/modules/agents.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learn Prompting Resource Database</title>
+      <link>/post/2023-03-04-learn-prompting-resource-database/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-04-learn-prompting-resource-database/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://clover-talos-e04.notion.site/74f8417345cc447cb0535112b949fd8f?v=c171abee37204091852bb1a113030f6c&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prompt Engineering IDEs</title>
+      <link>/post/2023-03-04-prompt-engineering-ides/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-04-prompt-engineering-ides/</guid>
+      <description>&lt;p&gt;Prompt Engineering IDEs&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://learnprompting.org/docs/category/prompt-engineering-ides&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The simplest way to build advanced AI chat bots</title>
+      <link>/post/2023-03-04-the-simplest-way-to-build-advanced-ai-chat-bots/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-04-the-simplest-way-to-build-advanced-ai-chat-bots/</guid>
+      <description>&lt;p&gt;Our platform makes it easy for developers and non-developers alike to build chatbots that can communicate with users in natural language.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://chatbotkit.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AI for presentation generation</title>

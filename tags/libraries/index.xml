@@ -5,10 +5,43 @@
     <description>Recent content in libraries on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/libraries/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Engaging visualisations, made easy.</title>
+      <link>/post/2023-03-04-engaging-visualisations-made-easy/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-04-engaging-visualisations-made-easy/</guid>
+      <description>&lt;p&gt;PlotAPI Chord - Illustrate inter-relationships between data.
+PlotAPI SplitChord - Illustrate inter-relationships between bipartite data.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/shahinrostami/plotapi&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Tables</title>
+      <link>/post/2023-03-04-interactive-tables/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-04-interactive-tables/</guid>
+      <description>&lt;p&gt;Pandas DataFrames and Series as interactive datatables!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mwouts/itables&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Never Worry About Parsing Errors Again While Reading CSV with Pandas</title>
+      <link>/post/2023-03-04-never-worry-about-parsing-errors-again-while-reading-csv-with-pandas/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-04-never-worry-about-parsing-errors-again-while-reading-csv-with-pandas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://avichawla.substack.com/p/never-worry-about-parsing-errors&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>12 Python Decorators to Take Your Code to the Next Level</title>
