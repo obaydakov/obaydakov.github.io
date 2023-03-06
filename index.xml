@@ -6,7 +6,167 @@
     <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Bubble.io - OpenAI GPT-3.5-turbo &amp; GPT-3.5-turbo-0301 API Tutorial</title>
+      <link>/post/2023-03-06-bubble-io-openai-gpt-3-5-turbo-gpt-3-5-turbo-0301-api-tutorial/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-bubble-io-openai-gpt-3-5-turbo-gpt-3-5-turbo-0301-api-tutorial/</guid>
+      <description>Written Instructions:
+(As of 3-1-23 at 3 pm GPT-3.5-turbo &amp;amp; GPT-3.5-turbo-0301 have been removed from the playground but still work via API)
+Link</description>
+    </item>
+    
+    <item>
+      <title>50 AI Magic tools</title>
+      <link>/post/2023-03-06-50-ai-magic-tools/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-50-ai-magic-tools/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Awesome Production Machine Learning</title>
+      <link>/post/2023-03-06-awesome-production-machine-learning/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-awesome-production-machine-learning/</guid>
+      <description>This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
+Link</description>
+    </item>
+    
+    <item>
+      <title>Build an Etherscan Clone | FULL COURSE | Next.js, Moralis, Nodejs</title>
+      <link>/post/2023-03-06-build-an-etherscan-clone-full-course-next-js-moralis-nodejs/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-build-an-etherscan-clone-full-course-next-js-moralis-nodejs/</guid>
+      <description>In this tutorial we&amp;rsquo;re building a fully functional Etherscan Clone, from start to finish. It will allow users get the current ether price, the latest blocks, the latest transactions, and also display all transactions for a specific wallet address.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Building an Efficient Machine Learning API</title>
+      <link>/post/2023-03-06-building-an-efficient-machine-learning-api/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-building-an-efficient-machine-learning-api/</guid>
+      <description>Learn the techniques we used to build a performant and efficient product categorization endpoint that will be used within our product data pipeline.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Building Generator Pipelines in Python</title>
+      <link>/post/2023-03-06-building-generator-pipelines-in-python/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-building-generator-pipelines-in-python/</guid>
+      <description>This article proposes an elegant way to build generator pipelines
+Link</description>
+    </item>
+    
+    <item>
+      <title>End-to-End ML Pipelines with MLflow: Tracking, Projects &amp; Serving</title>
+      <link>/post/2023-03-06-end-to-end-ml-pipelines-with-mlflow-tracking-projects-serving/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-end-to-end-ml-pipelines-with-mlflow-tracking-projects-serving/</guid>
+      <description>Definitive tutorial for advanced use of MLflow
+Link</description>
+    </item>
+    
+    <item>
+      <title>Fine-tune GPT-3 without code</title>
+      <link>/post/2023-03-06-fine-tune-gpt-3-without-code/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-fine-tune-gpt-3-without-code/</guid>
+      <description>Streamline your OpenAI fine-tuning process via a clean UI
+Link</description>
+    </item>
+    
+    <item>
+      <title>Forget ChatGPT, Here Are New AI Tools That Will Blow Your Mind</title>
+      <link>/post/2023-03-06-forget-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-forget-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind/</guid>
+      <description>Get more done in less time with these innovative AI tools.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Guiding Large Language Models towards Task-Specific Inference — Prompt Design and Soft Prompts</title>
+      <link>/post/2023-03-06-guiding-large-language-models-towards-task-specific-inference-prompt-design-and-soft-prompts/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-guiding-large-language-models-towards-task-specific-inference-prompt-design-and-soft-prompts/</guid>
+      <description>Discover how prompt designs and soft prompts are being used to develop and deploy SOTA models.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Industrial Strength DALLE-E:Scaling Complex Large Text &amp; Image Models</title>
+      <link>/post/2023-03-06-industrial-strength-dalle-e-scaling-complex-large-text-image-models/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-industrial-strength-dalle-e-scaling-complex-large-text-image-models/</guid>
+      <description>Identifying the right tools to enable for high performance machine learning may be overwhelming as the ecosystem continues to grow at break-neck speed.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Practical MLOps for better models</title>
+      <link>/post/2023-03-06-practical-mlops-for-better-models/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-practical-mlops-for-better-models/</guid>
+      <description>Machine learning operations (MLOps) are often synonymous with large and complex applications, but many MLOps practices help practitioners build better models, regardless of the size. This talk shares best practices for operationalizing a model and practical examples using the open-source MLOps framework vetiver to version, share, deploy, and monitor models.
+Link</description>
+    </item>
+    
+    <item>
+      <title>The Annotated Transformer</title>
+      <link>/post/2023-03-06-the-annotated-transformer/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-the-annotated-transformer/</guid>
+      <description>The Transformer has been on a lot of people’s minds over the last year five years. This post presents an annotated version of the paper in the form of a line-by-line implementation. It reorders and deletes some sections from the original paper and adds comments throughout. This document itself is a working notebook, and should be a completely usable implementation. Code is available here.
+Link</description>
+    </item>
+    
+    <item>
+      <title>The Architecture of a Modern Startup</title>
+      <link>/post/2023-03-06-the-architecture-of-a-modern-startup/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-the-architecture-of-a-modern-startup/</guid>
+      <description>Hype wave, pragmatic evidence vs the need to move fast
+Link</description>
+    </item>
+    
+    <item>
+      <title>The Responsible Machine Learning Principles</title>
+      <link>/post/2023-03-06-the-responsible-machine-learning-principles/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-the-responsible-machine-learning-principles/</guid>
+      <description>A practical framework to develop AI responsibly
+Link</description>
+    </item>
+    
+    <item>
+      <title>Using PyGWalker to Enhance Your Jupyter Notebook EDA Experience</title>
+      <link>/post/2023-03-06-using-pygwalker-to-enhance-your-jupyter-notebook-eda-experience/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-using-pygwalker-to-enhance-your-jupyter-notebook-eda-experience/</guid>
+      <description>An Introduction to the PyGWalker Library for Easy Data Visualisation
+Link</description>
+    </item>
+    
     <item>
       <title>AGLOVERA - AI Workflows</title>
       <link>/post/2023-03-04-aglovera-ai-workflows/</link>
@@ -49,163 +209,6 @@ API</description>
       
       <guid>/post/2023-03-04-engaging-visualisations-made-easy/</guid>
       <description>PlotAPI Chord - Illustrate inter-relationships between data. PlotAPI SplitChord - Illustrate inter-relationships between bipartite data.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Find the right  AI tool to ignite  your workflow.</title>
-      <link>/post/2023-03-04-find-the-right-ai-tool-to-ignite-your-workflow/</link>
-      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-04-find-the-right-ai-tool-to-ignite-your-workflow/</guid>
-      <description>Igniter helps you find the right AI tools and resources to get the job done faster. From the makers of Not A Bot 🤖 — the world&amp;rsquo;s most popular AI newsletter.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Getting Started With OpenAI ChatGPT (GPT-3.5) API In Python</title>
-      <link>/post/2023-03-04-getting-started-with-openai-chatgpt-gpt-3-5-api-in-python/</link>
-      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-04-getting-started-with-openai-chatgpt-gpt-3-5-api-in-python/</guid>
-      <description>OpenAI has finally released the most anticipated ChatGPT model today, called &amp;ldquo;gpt-3.5-turbo&amp;rdquo;. Unlike the GPT 3.0 models that work like a search engine, ChatGPT model tracks the conversation to create more useful outputs. In this tutorial, I will go through every single detail on how to get started with the newest OpenAI ChatGPT API in Python.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Interactive Tables</title>
-      <link>/post/2023-03-04-interactive-tables/</link>
-      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-04-interactive-tables/</guid>
-      <description>Pandas DataFrames and Series as interactive datatables!
-Link</description>
-    </item>
-    
-    <item>
-      <title>IT TOOLS - Handy tools for developers</title>
-      <link>/post/2023-03-04-it-tools-handy-tools-for-developers/</link>
-      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-04-it-tools-handy-tools-for-developers/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>LangChain Agents</title>
-      <link>/post/2023-03-04-langchaon-agents/</link>
-      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-04-langchaon-agents/</guid>
-      <description>Some applications will require not just a predetermined chain of calls to LLMs/other tools, but potentially an unknown chain that depends on the user’s input. In these types of chains, there is a “agent” which has access to a suite of tools. Depending on the user input, the agent can then decide which, if any, of these tools to call.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Learn Prompting Resource Database</title>
-      <link>/post/2023-03-04-learn-prompting-resource-database/</link>
-      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-04-learn-prompting-resource-database/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Never Worry About Parsing Errors Again While Reading CSV with Pandas</title>
-      <link>/post/2023-03-04-never-worry-about-parsing-errors-again-while-reading-csv-with-pandas/</link>
-      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-04-never-worry-about-parsing-errors-again-while-reading-csv-with-pandas/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Prompt Engineering IDEs</title>
-      <link>/post/2023-03-04-prompt-engineering-ides/</link>
-      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-04-prompt-engineering-ides/</guid>
-      <description>Prompt Engineering IDEs
-Link</description>
-    </item>
-    
-    <item>
-      <title>The simplest way to build advanced AI chat bots</title>
-      <link>/post/2023-03-04-the-simplest-way-to-build-advanced-ai-chat-bots/</link>
-      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-04-the-simplest-way-to-build-advanced-ai-chat-bots/</guid>
-      <description>Our platform makes it easy for developers and non-developers alike to build chatbots that can communicate with users in natural language.
-Link</description>
-    </item>
-    
-    <item>
-      <title>10 Common Software Architectural Patterns in a nutshell</title>
-      <link>/post/2023-03-03-10-common-software-architectural-patterns-in-a-nutshell/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-03-10-common-software-architectural-patterns-in-a-nutshell/</guid>
-      <description>An architectural pattern is a general, reusable solution to a commonly occurring problem in software architecture within a given context. Architectural patterns are similar to software design pattern but have a broader scope.
-Link</description>
-    </item>
-    
-    <item>
-      <title>101 Design Patterns &amp; Tips for Developers</title>
-      <link>/post/2023-03-03-101-design-patterns-tips-for-developers/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-03-101-design-patterns-tips-for-developers/</guid>
-      <description>In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn&amp;rsquo;t a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations.
-Link</description>
-    </item>
-    
-    <item>
-      <title>11 Best AI Tools for Web Designers</title>
-      <link>/post/2023-03-03-11-best-ai-tools-for-web-designers/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-03-11-best-ai-tools-for-web-designers/</guid>
-      <description>Let’s consider some other benefits of AI tools for web designers, check out their shortcomings and limitations, and examine 11 of the best solutions in this niche that already help creatives make the web a better place with outstanding, high-end, and inspiring web designs done with AI assistance.
-Link</description>
-    </item>
-    
-    <item>
-      <title>12 Python Decorators to Take Your Code to the Next Level</title>
-      <link>/post/2023-03-03-12-python-decorators-to-take-your-code-to-the-next-level/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-03-12-python-decorators-to-take-your-code-to-the-next-level/</guid>
-      <description>Python decorators are powerful tools that help you produce clean, reusable, and maintainable code.
-Link</description>
-    </item>
-    
-    <item>
-      <title>AI for presentation generation</title>
-      <link>/post/2023-03-03-ai-for-presentation-generation/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-03-ai-for-presentation-generation/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Alpha Zero From Scratch</title>
-      <link>/post/2023-03-03-alpha-zero-from-scratch/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-03-alpha-zero-from-scratch/</guid>
-      <description>Out of the box implementation based on the code of the tutorial: AlphaZero
-Link
-Video</description>
-    </item>
-    
-    <item>
-      <title>applied-ml</title>
-      <link>/post/2023-03-03-applied-ml/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-03-applied-ml/</guid>
-      <description>Figuring out how to implement your ML project? Learn how other organizations did it
 Link</description>
     </item>
     

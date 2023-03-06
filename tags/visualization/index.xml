@@ -5,10 +5,21 @@
     <description>Recent content in visualization on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using PyGWalker to Enhance Your Jupyter Notebook EDA Experience</title>
+      <link>/post/2023-03-06-using-pygwalker-to-enhance-your-jupyter-notebook-eda-experience/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-using-pygwalker-to-enhance-your-jupyter-notebook-eda-experience/</guid>
+      <description>&lt;p&gt;An Introduction to the PyGWalker Library for Easy Data Visualisation&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/use-pygwalker-to-enhance-your-jupyter-notebook-eda-experience-d7a5ee358be9&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Engaging visualisations, made easy.</title>

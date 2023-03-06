@@ -5,10 +5,21 @@
     <description>Recent content in javascript on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build an Etherscan Clone | FULL COURSE | Next.js, Moralis, Nodejs</title>
+      <link>/post/2023-03-06-build-an-etherscan-clone-full-course-next-js-moralis-nodejs/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-build-an-etherscan-clone-full-course-next-js-moralis-nodejs/</guid>
+      <description>&lt;p&gt;In this tutorial we&amp;rsquo;re building a fully functional Etherscan Clone, from start to finish. It will allow users get the current ether price, the latest blocks, the latest transactions, and also display all transactions for a specific wallet address.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZkLnpcoZ-7E&amp;amp;ab_channel=MoralisWeb3&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Web3, Full Stack Solidity, Smart Contract &amp; Blockchain - Beginner to Expert ULTIMATE Course</title>

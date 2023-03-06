@@ -5,10 +5,21 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Architecture of a Modern Startup</title>
+      <link>/post/2023-03-06-the-architecture-of-a-modern-startup/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-the-architecture-of-a-modern-startup/</guid>
+      <description>&lt;p&gt;Hype wave, pragmatic evidence vs the need to move fast&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://betterprogramming.pub/architecture-of-modern-startup-abaec235c2eb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Alpha Zero From Scratch</title>

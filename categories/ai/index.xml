@@ -5,10 +5,76 @@
     <description>Recent content in AI on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/ai/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Bubble.io - OpenAI GPT-3.5-turbo &amp; GPT-3.5-turbo-0301 API Tutorial</title>
+      <link>/post/2023-03-06-bubble-io-openai-gpt-3-5-turbo-gpt-3-5-turbo-0301-api-tutorial/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-bubble-io-openai-gpt-3-5-turbo-gpt-3-5-turbo-0301-api-tutorial/</guid>
+      <description>&lt;p&gt;Written Instructions:&lt;/p&gt;
+&lt;p&gt;(As of 3-1-23 at 3 pm GPT-3.5-turbo &amp;amp; GPT-3.5-turbo-0301 have been removed from the playground but still work via API)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fcfbpH5ghSQ&amp;amp;ab_channel=MoonKid&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>50 AI Magic tools</title>
+      <link>/post/2023-03-06-50-ai-magic-tools/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-50-ai-magic-tools/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://app.runwayml.com/video-tools/teams/ippromek/ai-tools&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fine-tune GPT-3 without code</title>
+      <link>/post/2023-03-06-fine-tune-gpt-3-without-code/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-fine-tune-gpt-3-without-code/</guid>
+      <description>&lt;p&gt;Streamline your OpenAI fine-tuning process via a clean UI&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://easygpt.io/?subtab=Table&amp;amp;tab=Fine-tunes&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forget ChatGPT, Here Are New AI Tools That Will Blow Your Mind</title>
+      <link>/post/2023-03-06-forget-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-forget-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind/</guid>
+      <description>&lt;p&gt;Get more done in less time with these innovative AI tools.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/forget-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind-b1b15270d515&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Guiding Large Language Models towards Task-Specific Inference — Prompt Design and Soft Prompts</title>
+      <link>/post/2023-03-06-guiding-large-language-models-towards-task-specific-inference-prompt-design-and-soft-prompts/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-guiding-large-language-models-towards-task-specific-inference-prompt-design-and-soft-prompts/</guid>
+      <description>&lt;p&gt;Discover how prompt designs and soft prompts are being used to develop and deploy SOTA models.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/guiding-a-huge-language-model-lm-to-perform-specific-tasks-prompt-design-and-soft-prompts-7c45ef4794e4&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Industrial Strength DALLE-E:Scaling Complex Large Text &amp; Image Models</title>
+      <link>/post/2023-03-06-industrial-strength-dalle-e-scaling-complex-large-text-image-models/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-industrial-strength-dalle-e-scaling-complex-large-text-image-models/</guid>
+      <description>&lt;p&gt;Identifying the right tools to enable for high performance machine learning may be overwhelming as the ecosystem continues to grow at break-neck speed.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RVUi_rAFfzU&amp;amp;ab_channel=PyData&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AGLOVERA - AI Workflows</title>

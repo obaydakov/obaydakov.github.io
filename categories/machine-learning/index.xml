@@ -5,10 +5,65 @@
     <description>Recent content in Machine Learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awesome Production Machine Learning</title>
+      <link>/post/2023-03-06-awesome-production-machine-learning/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-awesome-production-machine-learning/</guid>
+      <description>&lt;p&gt;This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/EthicalML/awesome-production-machine-learning/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building an Efficient Machine Learning API</title>
+      <link>/post/2023-03-06-building-an-efficient-machine-learning-api/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-building-an-efficient-machine-learning-api/</guid>
+      <description>&lt;p&gt;Learn the techniques we used to build a performant and efficient product categorization endpoint that will be used within our product data pipeline.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.carted.com/blog/building-an-efficient-machine-learning-api/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>End-to-End ML Pipelines with MLflow: Tracking, Projects &amp; Serving</title>
+      <link>/post/2023-03-06-end-to-end-ml-pipelines-with-mlflow-tracking-projects-serving/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-end-to-end-ml-pipelines-with-mlflow-tracking-projects-serving/</guid>
+      <description>&lt;p&gt;Definitive tutorial for advanced use of MLflow&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/end-to-end-ml-pipelines-with-mlflow-tracking-projects-serving-1b491bcdc25f&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Practical MLOps for better models</title>
+      <link>/post/2023-03-06-practical-mlops-for-better-models/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-practical-mlops-for-better-models/</guid>
+      <description>&lt;p&gt;Machine learning operations (MLOps) are often synonymous with large and complex applications, but many MLOps practices help practitioners build better models, regardless of the size. This talk shares best practices for operationalizing a model and practical examples using the open-source MLOps framework vetiver to version, share, deploy, and monitor models.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=we2hoIyLGXI&amp;amp;ab_channel=PyData&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Responsible Machine Learning Principles</title>
+      <link>/post/2023-03-06-the-responsible-machine-learning-principles/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-the-responsible-machine-learning-principles/</guid>
+      <description>&lt;p&gt;A practical framework to develop AI responsibly&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ethical.institute/principles.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>applied-ml</title>

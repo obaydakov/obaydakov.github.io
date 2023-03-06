@@ -5,10 +5,32 @@
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awesome Production Machine Learning</title>
+      <link>/post/2023-03-06-awesome-production-machine-learning/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-awesome-production-machine-learning/</guid>
+      <description>&lt;p&gt;This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/EthicalML/awesome-production-machine-learning/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Annotated Transformer</title>
+      <link>/post/2023-03-06-the-annotated-transformer/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-the-annotated-transformer/</guid>
+      <description>&lt;p&gt;The Transformer has been on a lot of people’s minds over the last year five years. This post presents an annotated version of the paper in the form of a line-by-line implementation. It reorders and deletes some sections from the original paper and adds comments throughout. This document itself is a working notebook, and should be a completely usable implementation. Code is available here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nlp.seas.harvard.edu/annotated-transformer/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Custom langchain Agent &amp; Tools with memory</title>

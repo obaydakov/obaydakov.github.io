@@ -5,10 +5,87 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awesome Production Machine Learning</title>
+      <link>/post/2023-03-06-awesome-production-machine-learning/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-awesome-production-machine-learning/</guid>
+      <description>&lt;p&gt;This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/EthicalML/awesome-production-machine-learning/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build an Etherscan Clone | FULL COURSE | Next.js, Moralis, Nodejs</title>
+      <link>/post/2023-03-06-build-an-etherscan-clone-full-course-next-js-moralis-nodejs/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-build-an-etherscan-clone-full-course-next-js-moralis-nodejs/</guid>
+      <description>&lt;p&gt;In this tutorial we&amp;rsquo;re building a fully functional Etherscan Clone, from start to finish. It will allow users get the current ether price, the latest blocks, the latest transactions, and also display all transactions for a specific wallet address.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZkLnpcoZ-7E&amp;amp;ab_channel=MoralisWeb3&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building an Efficient Machine Learning API</title>
+      <link>/post/2023-03-06-building-an-efficient-machine-learning-api/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-building-an-efficient-machine-learning-api/</guid>
+      <description>&lt;p&gt;Learn the techniques we used to build a performant and efficient product categorization endpoint that will be used within our product data pipeline.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.carted.com/blog/building-an-efficient-machine-learning-api/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building Generator Pipelines in Python</title>
+      <link>/post/2023-03-06-building-generator-pipelines-in-python/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-building-generator-pipelines-in-python/</guid>
+      <description>&lt;p&gt;This article proposes an elegant way to build generator pipelines&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/building-generator-pipelines-in-python-8931535792ff&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>End-to-End ML Pipelines with MLflow: Tracking, Projects &amp; Serving</title>
+      <link>/post/2023-03-06-end-to-end-ml-pipelines-with-mlflow-tracking-projects-serving/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-end-to-end-ml-pipelines-with-mlflow-tracking-projects-serving/</guid>
+      <description>&lt;p&gt;Definitive tutorial for advanced use of MLflow&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/end-to-end-ml-pipelines-with-mlflow-tracking-projects-serving-1b491bcdc25f&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Architecture of a Modern Startup</title>
+      <link>/post/2023-03-06-the-architecture-of-a-modern-startup/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-the-architecture-of-a-modern-startup/</guid>
+      <description>&lt;p&gt;Hype wave, pragmatic evidence vs the need to move fast&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://betterprogramming.pub/architecture-of-modern-startup-abaec235c2eb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using PyGWalker to Enhance Your Jupyter Notebook EDA Experience</title>
+      <link>/post/2023-03-06-using-pygwalker-to-enhance-your-jupyter-notebook-eda-experience/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-using-pygwalker-to-enhance-your-jupyter-notebook-eda-experience/</guid>
+      <description>&lt;p&gt;An Introduction to the PyGWalker Library for Easy Data Visualisation&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/use-pygwalker-to-enhance-your-jupyter-notebook-eda-experience-d7a5ee358be9&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>10 Common Software Architectural Patterns in a nutshell</title>

@@ -5,10 +5,43 @@
     <description>Recent content in tools on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Bubble.io - OpenAI GPT-3.5-turbo &amp; GPT-3.5-turbo-0301 API Tutorial</title>
+      <link>/post/2023-03-06-bubble-io-openai-gpt-3-5-turbo-gpt-3-5-turbo-0301-api-tutorial/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-bubble-io-openai-gpt-3-5-turbo-gpt-3-5-turbo-0301-api-tutorial/</guid>
+      <description>&lt;p&gt;Written Instructions:&lt;/p&gt;
+&lt;p&gt;(As of 3-1-23 at 3 pm GPT-3.5-turbo &amp;amp; GPT-3.5-turbo-0301 have been removed from the playground but still work via API)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fcfbpH5ghSQ&amp;amp;ab_channel=MoonKid&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>50 AI Magic tools</title>
+      <link>/post/2023-03-06-50-ai-magic-tools/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-50-ai-magic-tools/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://app.runwayml.com/video-tools/teams/ippromek/ai-tools&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Responsible Machine Learning Principles</title>
+      <link>/post/2023-03-06-the-responsible-machine-learning-principles/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-06-the-responsible-machine-learning-principles/</guid>
+      <description>&lt;p&gt;A practical framework to develop AI responsibly&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ethical.institute/principles.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AGLOVERA - AI Workflows</title>
