@@ -5,10 +5,22 @@
     <description>Recent content in visualization on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ChatGPT helped me to built this Data Science Web App using Streamlit-Pytho</title>
+      <link>/post/2023-03-11-chatgpt-helped-me-to-built-this-data-science-web-app-using-streamlit-pytho/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-11-chatgpt-helped-me-to-built-this-data-science-web-app-using-streamlit-pytho/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s necessary to be precise and explicit with the keywords fed to the ChatGPT prompt.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@avra42/chatgpt-build-this-data-science-web-app-using-streamlit-python-25acca3cecd4&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@avra42/build-your-own-chatbot-with-openai-gpt-3-and-streamlit-6f1330876846&#34;&gt;Link 2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Using PyGWalker to Enhance Your Jupyter Notebook EDA Experience</title>

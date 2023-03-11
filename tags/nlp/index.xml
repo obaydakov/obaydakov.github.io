@@ -5,10 +5,134 @@
     <description>Recent content in nlp on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI-Code-Mastery (Episode 5): Zero-Shot document question answering with Flan-ULv2</title>
+      <link>/post/2023-03-11-ai-code-mastery-episode-5-zero-shot-document-question-answering-with-flan-ulv2/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-11-ai-code-mastery-episode-5-zero-shot-document-question-answering-with-flan-ulv2/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s create a zero-shot document question answering system using Flan-ULv2, a powerful encoder-decoder language model from Google based on T5. This system can surpass the performance of other models like GPT-3 and T5 in various downstream tasks. We&amp;rsquo;ll utilize the chainlang library to build an embedding database, search the database for the most similar documents to a given query, and then use the language model to retrieve the most likely answers. This approach allows for scaling up to thousands of documents for question answering.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=trpVNau7iKY&amp;amp;ab_channel=AIology&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build a Chat App with NEW ChatGPT API | Full stack, React, Redux Toolkit, Node, OpenAI</title>
+      <link>/post/2023-03-11-build-a-chat-app-with-new-chatgpt-api-full-stack-react-redux-toolkit-node-openai/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-11-build-a-chat-app-with-new-chatgpt-api-full-stack-react-redux-toolkit-node-openai/</guid>
+      <description>&lt;p&gt;Build a Chat Application with ChatEngine and OpenAI and ChatGPT integration tutorial. The frontend will consist of ChatEngine for our chat application, Redux Toolkit for our state management, Redux Toolkit Query for making api calls, Hero icons for our Icons and React Router for Navigation. For the backend we will be using Node Js as our runtime, Express Js as our backend framework, and OpenAI for Ai integration with our chat. We will be able to talk through our chat application like with ChatGPT.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ffEDkqfIzxM&amp;amp;ab_channel=EdRoh&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build A Chatbot With The ChatGPT API In React (gpt-3.5-turbo Tutorial)</title>
+      <link>/post/2023-03-11-build-a-chatbot-with-the-chatgpt-api-in-react-gpt-3-5-turbo-tutorial/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-11-build-a-chatbot-with-the-chatgpt-api-in-react-gpt-3-5-turbo-tutorial/</guid>
+      <description>&lt;p&gt;In this video we use the new OpenAI gpt-3.5-turbo model to create a ChatGPT application in React. This is one of the fastest GPT models to be released. This video is great for beginners to both React and ChatGPT, and is a great portfolio project. We create a chatbot that allows you to communicate directly with the ChatGPT API, which is a project that can be applied to a vast array of React projects! This project gives you a great understanding of the ChatGPT API, even if you don’t plan to replicate the project created in the video yourself.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Lag9Pj_33hM&amp;amp;ab_channel=CooperCodes&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build Your Own OpenAI &#43; LangChain Web App in 23 Minutes</title>
+      <link>/post/2023-03-11-build-your-own-openai-langchain-web-app-in-23-minutes/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-11-build-your-own-openai-langchain-web-app-in-23-minutes/</guid>
+      <description>&lt;p&gt;Go try it out! First $25 of API calls are free. If you see that I ask you for your OpenAI API key then my wallet ran out :)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=U_eV8wfMkXU&amp;amp;ab_channel=DataIndependent&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT &#43; MS Word</title>
+      <link>/post/2023-03-11-chatgpt-ms-word/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-11-chatgpt-ms-word/</guid>
+      <description>&lt;p&gt;Boost your chances of success with real-time, subject-specific language suggestions that help you write better, faster!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://paperpal.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT API Announcement &amp; Code Walkthrough with LangChain</title>
+      <link>/post/2023-03-11-chatgpt-api-announcement-code-walkthrough-with-langchain/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-11-chatgpt-api-announcement-code-walkthrough-with-langchain/</guid>
+      <description>&lt;p&gt;In the past day OpenAI have released their new ChatGPT API. I made a quick video to talk about the announcement and to show how to access it in Python with the OpenAI Package and with LangChai&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=phHqvLHCwH4&amp;amp;ab_channel=SamWitteveen&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrate ChatGPT with 1,000 other apps</title>
+      <link>/post/2023-03-11-integrate-chatgpt-with-1-000-other-apps/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-11-integrate-chatgpt-with-1-000-other-apps/</guid>
+      <description>&lt;p&gt;Today, we&amp;rsquo;ve released a new set of OpenAI actions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Chat — Interact with the Chat API&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Solve specific problems — Use actions to Summarize Text, Classify Items into Categories, and more.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create Transcription — Transcribe audio to text in any language&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create Embeddings — Create embeddings for search, recommendations, and other relatedness problems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://pipedream.com/blog/using-the-new-openai-actions-in-pipedream/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LangChain Beginner&#39;s Tutorial for Typescript/Javascript</title>
+      <link>/post/2023-03-11-langchain-beginner-s-tutorial-for-typescript-javascript/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-11-langchain-beginner-s-tutorial-for-typescript-javascript/</guid>
+      <description>&lt;p&gt;In this tutorial, you’ll learn the basics of how to use LangChain to build scalable javascript/typescript large language model applications trained on your own custom data.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bH722QgRlhQ&amp;amp;ab_channel=Chatwithdata&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summarizing Scientific Articles with OpenAI  and Streamlit</title>
+      <link>/post/2023-03-11-summarizing-scientific-articles-with-openai-and-streamlit/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-11-summarizing-scientific-articles-with-openai-and-streamlit/</guid>
+      <description>&lt;p&gt;As a researcher or scientific writer, you may often find yourself needing to quickly understand and summarize complex scientific articles. Luckily, there are tools that can help make this overwhelming process easier. In this blog post, we’ll look at how to use OpenAI’s GPT-3 language model and the Streamlit library to create a simple application for generating summaries of scientific articles.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@avra42/summarizing-scientific-articles-with-openai-and-streamlit-fdee12aa1a2b&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using GPT-3 to Create a Bot that Transforms Tweets into Poetry - No Coding Experience Necessary!</title>
+      <link>/post/2023-03-11-using-gpt-3-to-create-a-bot-that-transforms-tweets-into-poetry-no-coding-experience-necessary/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-11-using-gpt-3-to-create-a-bot-that-transforms-tweets-into-poetry-no-coding-experience-necessary/</guid>
+      <description>&lt;p&gt;With the help of GPT-3, and Pipedream&amp;rsquo;s innovative HTTP request builder tool, you can now turn tweets into poems - without any coding experience!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pipedream.com/blog/unlocking-poetic-possibilities-using-gpt-3-to-create-a-bot-that-transforms-tweets-into-poetry-no-coding-experience-necessary/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title> Bubble.io - OpenAI GPT-3.5-turbo &amp; GPT-3.5-turbo-0301 API Tutorial</title>

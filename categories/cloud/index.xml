@@ -5,10 +5,26 @@
     <description>Recent content in cloud on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meadowrun is a library for data scientists and data engineers who run python code on AWS, Azure, or Kubernetes</title>
+      <link>/post/2023-03-11-meadowrun-is-a-library-for-data-scientists-and-data-engineers-who-run-python-code-on-aws-azure-or-kubernetes/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-11-meadowrun-is-a-library-for-data-scientists-and-data-engineers-who-run-python-code-on-aws-azure-or-kubernetes/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;scales from a single function to thousands of distributed tasks.&lt;/li&gt;
+&lt;li&gt;syncs your local code and libraries for a faster, easier iteration loop.&lt;/li&gt;
+&lt;li&gt;Edit your code and rerun your analysis without worrying about building packages or Docker images.&lt;/li&gt;
+&lt;li&gt;optimizes for cost, choosing the cheapest instance types and turning them off when they&amp;rsquo;re no longer needed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/meadowdata/meadowrun&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build a GNN-based real-time fraud detection solution using Amazon SageMaker, Amazon Neptune, and the Deep Graph Library</title>

@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web3 on If you torture the data long enough, it will confess ©</title>
+    <link>/categories/web3/</link>
+    <description>Recent content in web3 on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/web3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Build A Web3 DEX | FULL COURSE | React, Node, Moralis, 1Inch</title>
+      <link>/post/2023-03-11-build-a-web3-dex-full-course-react-node-moralis-1inch/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-11-build-a-web3-dex-full-course-react-node-moralis-1inch/</guid>
+      <description>&lt;p&gt;In this tutorial we build a fully functional Web3 Decentralized Exchange, from start to finish. It will allow users to swap erc20 tokens to other erc20 tokens on a selected EVM Chain.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=t8U7GRrlYW8&amp;amp;ab_channel=MoralisWeb3&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 
