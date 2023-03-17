@@ -5,10 +5,21 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>REPLIT - Make something great</title>
+      <link>/post/2023-03-17-replit-make-something-great/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-replit-make-something-great/</guid>
+      <description>&lt;p&gt;Build software collaboratively with the power of AI, on any device, without spending a second on setup&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://replit.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Industrial Strength DALLE-E:Scaling Complex Large Text &amp; Image Models</title>

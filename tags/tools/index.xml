@@ -5,10 +5,76 @@
     <description>Recent content in tools on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>5 Python Decorators I Use in Almost All My Data Science Projects</title>
+      <link>/post/2023-03-17-5-python-decorators-i-use-in-almost-all-my-data-science-projects/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-5-python-decorators-i-use-in-almost-all-my-data-science-projects/</guid>
+      <description>&lt;p&gt;Decorators provide a new and convenient way for everything from caching to sending notifications&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/python-decorators-for-data-science-6913f717669a&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DATABUTTON - Your full (stack) potential has arrived</title>
+      <link>/post/2023-03-17-databutton-your-full-stack-potential-has-arrived/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-databutton-your-full-stack-potential-has-arrived/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ve built a space where data skills and creativity are all you need to build insanely powerful full stack data apps.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.databutton.io/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ModelScope is built upon the notion of “Model-as-a-Service” (MaaS)</title>
+      <link>/post/2023-03-17-modelscope-is-built-upon-the-notion-of-model-as-a-service-maas/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-modelscope-is-built-upon-the-notion-of-model-as-a-service-maas/</guid>
+      <description>&lt;p&gt;ModelScope is built upon the notion of “Model-as-a-Service” (MaaS). It seeks to bring together most advanced machine learning models from the AI community, and streamlines the process of leveraging AI models in real-world applications. The core ModelScope library open-sourced in this repository provides the interfaces and implementations that allow developers to perform model inference, training and evaluation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/modelscope/modelscope&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenXLA is available now to accelerate and simplify machine learning</title>
+      <link>/post/2023-03-17-openxla-is-available-now-to-accelerate-and-simplify-machine-learning/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-openxla-is-available-now-to-accelerate-and-simplify-machine-learning/</guid>
+      <description>&lt;p&gt;ML development and deployment today suffer from fragmented and siloed infrastructure that can differ by framework, hardware, and use case. Such fragmentation restrains developer velocity and imposes barriers to model portability, efficiency, and productionization.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://opensource.googleblog.com/2023/03/openxla-is-ready-to-accelerate-and-simplify-ml-development.html?utm_source=substack&amp;amp;utm_medium=email&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>REPLIT - Make something great</title>
+      <link>/post/2023-03-17-replit-make-something-great/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-replit-make-something-great/</guid>
+      <description>&lt;p&gt;Build software collaboratively with the power of AI, on any device, without spending a second on setup&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://replit.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The best orchestration tool for MLOps: a real story about difficult choices</title>
+      <link>/post/2023-03-17-the-best-orchestration-tool-for-mlops-a-real-story-about-difficult-choices/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-the-best-orchestration-tool-for-mlops-a-real-story-about-difficult-choices/</guid>
+      <description>&lt;p&gt;Machine learning has a wide range of possible applications in almost all industries. Model architecture, performance metrics improvement, and optimization of calculations have always been at the center of attention. At the same time, machine learning has not yet gone through the same stages of standardization process as software development has through the past decades. To this day, the field of machine learning does not have a single generally accepted approach to solving problems in terms of practical use of models.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/exness-blog/the-best-orchestration-tool-for-mlops-a-real-story-about-difficult-choices-5ee6a087c9e3&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title> Bubble.io - OpenAI GPT-3.5-turbo &amp; GPT-3.5-turbo-0301 API Tutorial</title>

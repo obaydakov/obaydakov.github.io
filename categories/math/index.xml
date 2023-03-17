@@ -5,10 +5,33 @@
     <description>Recent content in math on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/math/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Network Theory</title>
+      <link>/post/2023-03-17-network-theory/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-network-theory/</guid>
+      <description>&lt;p&gt;Scientists and engineers use diagrams of networks in many different ways. Together with many collaborators I am studying networks with the tools of modern mathematics, such as category theory. You can read blog articles, papers and a book about our research. I am collaborating with the Topos Institute to use the resulting math for scientific computation, such as quickly adaptable models of infectious disease.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://math.ucr.edu/home/baez/networks/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IyJP_7ucwWo&amp;amp;ab_channel=SimonsInstitute&#34;&gt;The Mathematics of Networks&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Catsters&#39; Category Theory Videos</title>
+      <link>/post/2023-03-17-the-catsters-category-theory-videos/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-the-catsters-category-theory-videos/</guid>
+      <description>&lt;p&gt;The following is Edsko de Vries&#39; overview of The Catsters&#39; Category Theory videos.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.simonwillerton.staff.shef.ac.uk/TheCatsters/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Awesome Double Categories</title>

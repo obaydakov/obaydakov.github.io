@@ -5,10 +5,43 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>5 Python Decorators I Use in Almost All My Data Science Projects</title>
+      <link>/post/2023-03-17-5-python-decorators-i-use-in-almost-all-my-data-science-projects/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-5-python-decorators-i-use-in-almost-all-my-data-science-projects/</guid>
+      <description>&lt;p&gt;Decorators provide a new and convenient way for everything from caching to sending notifications&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/python-decorators-for-data-science-6913f717669a&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>REPLIT - Make something great</title>
+      <link>/post/2023-03-17-replit-make-something-great/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-replit-make-something-great/</guid>
+      <description>&lt;p&gt;Build software collaboratively with the power of AI, on any device, without spending a second on setup&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://replit.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TorchMultimodal (Beta Release</title>
+      <link>/post/2023-03-17-torchmultimodal-beta-release/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-torchmultimodal-beta-release/</guid>
+      <description>&lt;p&gt;TorchMultimodal is a PyTorch library for training state-of-the-art multimodal multi-task models at scale.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/facebookresearch/multimodal&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Creating behavioral profiles of your customer</title>

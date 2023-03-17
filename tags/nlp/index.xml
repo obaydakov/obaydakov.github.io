@@ -5,10 +5,87 @@
     <description>Recent content in nlp on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Gentle Introduction to Quantum Natural Language Processing </title>
+      <link>/post/2023-03-17-a-gentle-introduction-to-quantum-natural-language-processing/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-a-gentle-introduction-to-quantum-natural-language-processing/</guid>
+      <description>&lt;p&gt;In this introduction to Quantum Natural Language Processing (QNLP), we will see how words&#39; meaning is classically encoded into computers. We will then discuss the challenges representing the meaning of sentences, and present a framework to achieve it (DisCoCat). After seeing that this method benefits a quantum speedup, we will present three examples of use cases.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=SNlwVkglxwc&amp;amp;ab_channel=UPMQuantumComputingTechnology&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Announcing OpenChatKit</title>
+      <link>/post/2023-03-17-announcing-openchatkit/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-announcing-openchatkit/</guid>
+      <description>&lt;p&gt;OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications. We collaborated with LAION and Ontocord to create the training dataset. Much more than a model release, this is the beginning of an open source project. We are releasing a set of tools and processes for ongoing improvement with community contributions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.together.xyz/blog/openchatkit&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Connect OpenAI To &#43;5,000 Tools (LangChain &#43; Zapier)</title>
+      <link>/post/2023-03-17-connect-openai-to-5-000-tools-langchain-zapier/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-connect-openai-to-5-000-tools-langchain-zapier/</guid>
+      <description>&lt;p&gt;Connect OpenAI To +5,000 Tools (LangChain + Zapier)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7tNm0yiDigU&amp;amp;ab_channel=DataIndependent&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discovery of the New Cohere Summarization Endpoint</title>
+      <link>/post/2023-03-17-discovery-of-the-new-cohere-summarization-endpoint/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-discovery-of-the-new-cohere-summarization-endpoint/</guid>
+      <description>&lt;p&gt;Two weeks ago, Cohere.ai announced their new dedicated summarization endpoint! For someone currently doing their PhD on text summarization, this is both worrying, but obviously also a rather intriguing development: while recent advancements have been focusing on rather broadly applicable models (think, chatGPT), providing more task-specific alternatives seems to be the niche that Cohere is carving out for themselves.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dennis-aumiller.de/posts/cohere-summarization/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPT 4: Superpower results with search</title>
+      <link>/post/2023-03-17-gpt-4-superpower-results-with-search/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-gpt-4-superpower-results-with-search/</guid>
+      <description>&lt;p&gt;GPT-4 is pretty incredible, but like its predecessors, it has problems. Hallucinations and the lack of up-to-date information are typical of Large Language Models (LLMs), from PaLM and LLaMa, to ChatGPT (gpt-3.5-turbo) and GPT 4.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=tBJ-CTKG2dM&amp;amp;ab_channel=JamesBriggs&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Build a Notion ChatBot For Your Knowledge Base Using LangChain</title>
+      <link>/post/2023-03-17-how-to-build-a-notion-chatbot-for-your-knowledge-base-using-langchain/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-how-to-build-a-notion-chatbot-for-your-knowledge-base-using-langchain/</guid>
+      <description>&lt;p&gt;In this video we&amp;rsquo;ll learn how to create a simple chatbot to question-answer  your Notion knowledge base using Typescript, LangChain and Pinecone.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=prbloUGlvLE&amp;amp;ab_channel=Chatwithdata&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visual ChatGPT</title>
+      <link>/post/2023-03-17-visual-chatgpt/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-visual-chatgpt/</guid>
+      <description>&lt;p&gt;Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/visual-chatgpt&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AI-Code-Mastery (Episode 5): Zero-Shot document question answering with Flan-ULv2</title>

@@ -5,10 +5,87 @@
     <description>Recent content in Machine Learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Content Moderation &amp; Fraud Detection - Patterns in Industry</title>
+      <link>/post/2023-03-17-content-moderation-fraud-detection-patterns-in-industry/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-content-moderation-fraud-detection-patterns-in-industry/</guid>
+      <description>&lt;p&gt;Content moderation is the process of learning and inferring the quality of human-generated content such as product reviews, social media posts, and ads. How do we know which are irrelevant, incorrect, or downright harmful? A related problem is detecting anomalous activity such as fraudulent transactions or malicious traffic.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://eugeneyan.com/writing/content-moderation/?utm_source=substack&amp;amp;utm_medium=email&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>D3: An Automated System to Detect Data Drifts</title>
+      <link>/post/2023-03-17-d3-an-automated-system-to-detect-data-drifts/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-d3-an-automated-system-to-detect-data-drifts/</guid>
+      <description>&lt;p&gt;Data powers almost all critical, customer-facing flows at Uber. Bad data quality impacts our ML models, leading to a bad user experience (incorrect fares, ETAs, products, etc.) and revenue loss.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.uber.com/en-GB/blog/d3-an-automated-system-to-detect-data-drifts/?utm_source=substack&amp;amp;utm_medium=email&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ML Papers Explained</title>
+      <link>/post/2023-03-17-ml-papers-explained/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-ml-papers-explained/</guid>
+      <description>&lt;p&gt;Explanations to key concepts in ML&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/dair-ai/ML-Papers-Explained&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ModelScope is built upon the notion of “Model-as-a-Service” (MaaS)</title>
+      <link>/post/2023-03-17-modelscope-is-built-upon-the-notion-of-model-as-a-service-maas/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-modelscope-is-built-upon-the-notion-of-model-as-a-service-maas/</guid>
+      <description>&lt;p&gt;ModelScope is built upon the notion of “Model-as-a-Service” (MaaS). It seeks to bring together most advanced machine learning models from the AI community, and streamlines the process of leveraging AI models in real-world applications. The core ModelScope library open-sourced in this repository provides the interfaces and implementations that allow developers to perform model inference, training and evaluation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/modelscope/modelscope&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenXLA is available now to accelerate and simplify machine learning</title>
+      <link>/post/2023-03-17-openxla-is-available-now-to-accelerate-and-simplify-machine-learning/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-openxla-is-available-now-to-accelerate-and-simplify-machine-learning/</guid>
+      <description>&lt;p&gt;ML development and deployment today suffer from fragmented and siloed infrastructure that can differ by framework, hardware, and use case. Such fragmentation restrains developer velocity and imposes barriers to model portability, efficiency, and productionization.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://opensource.googleblog.com/2023/03/openxla-is-ready-to-accelerate-and-simplify-ml-development.html?utm_source=substack&amp;amp;utm_medium=email&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyXAB - Python X-Armed Bandit</title>
+      <link>/post/2023-03-17-pyxab-python-x-armed-bandit/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-pyxab-python-x-armed-bandit/</guid>
+      <description>&lt;p&gt;PyXAB is a Python open-source library for X-armed bandit algorithms, a prestigious set of optimizers for online black-box optimization, i.e., optimize an objective without gradients, also known as the continuous-arm bandit (CAB), Lipschitz bandit, global optimization (GO) and bandit-based black-box optimization problems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pyxab.readthedocs.io/en/latest/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The best orchestration tool for MLOps: a real story about difficult choices</title>
+      <link>/post/2023-03-17-the-best-orchestration-tool-for-mlops-a-real-story-about-difficult-choices/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-17-the-best-orchestration-tool-for-mlops-a-real-story-about-difficult-choices/</guid>
+      <description>&lt;p&gt;Machine learning has a wide range of possible applications in almost all industries. Model architecture, performance metrics improvement, and optimization of calculations have always been at the center of attention. At the same time, machine learning has not yet gone through the same stages of standardization process as software development has through the past decades. To this day, the field of machine learning does not have a single generally accepted approach to solving problems in terms of practical use of models.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/exness-blog/the-best-orchestration-tool-for-mlops-a-real-story-about-difficult-choices-5ee6a087c9e3&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Awesome Production Machine Learning</title>
