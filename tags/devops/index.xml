@@ -5,10 +5,21 @@
     <description>Recent content in devops on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jina - Build multimodal AI services with cloud native technologies</title>
+      <link>/post/2023-03-19-jina-build-multimodal-ai-services-with-cloud-native-technologies/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-jina-build-multimodal-ai-services-with-cloud-native-technologies/</guid>
+      <description>&lt;p&gt;Jina is an MLOps framework to build multimodal AI services and pipelines then serve, scale and deploy them to a production-ready environment like Kubernetes or Jina AI Cloud. Jina handles the infrastructure complexity, making advanced solution engineering and cloud-native technologies accessible to every developer.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/jina-ai/jina#build-ai-services&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Building an Efficient Machine Learning API</title>

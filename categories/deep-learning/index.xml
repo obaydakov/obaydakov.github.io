@@ -5,10 +5,21 @@
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comparing Tools For Data Processing Pipelines</title>
+      <link>/post/2023-03-19-comparing-tools-for-data-processing-pipelines/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-comparing-tools-for-data-processing-pipelines/</guid>
+      <description>&lt;p&gt;If you will ask data professionals about what is the most challenging part of their day to day work, you will likely discover their concerns around managing different aspects of data before they get to graduate to the data modeling stage.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://neptune.ai/blog/comparing-tools-for-data-processing-pipelines&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>TorchMultimodal (Beta Release</title>

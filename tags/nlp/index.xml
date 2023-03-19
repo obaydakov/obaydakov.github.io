@@ -5,10 +5,141 @@
     <description>Recent content in nlp on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI Generated Stories (AWS)</title>
+      <link>/post/2023-03-19-ai-generated-stories-aws/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-ai-generated-stories-aws/</guid>
+      <description>&lt;p&gt;Example open source event-driven application that generates a new bed time story for your children every night using Lambda, EventBridge, DynamoDB, App Runner, ChatGPT and DALL-E.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/aws-samples/aws-serverless-ai-stories&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT Clone – OpenAI API and React Tutorial</title>
+      <link>/post/2023-03-19-chatgpt-clone-openai-api-and-react-tutorial/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-chatgpt-clone-openai-api-and-react-tutorial/</guid>
+      <description>&lt;p&gt;Learn how to use React and the OpenAI API to  create an application like ChatGPT. The application can answer our questions, convert the text into different languages, or even convert JavaScript code to Python.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=98bGwOYoEGg&amp;amp;ab_channel=freeCodeCamp.org&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ClippyGPT - How I Built Supabase’s OpenAI Doc Search (Embeddings)</title>
+      <link>/post/2023-03-19-clippygpt-how-i-built-supabase-s-openai-doc-search-embeddings/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-clippygpt-how-i-built-supabase-s-openai-doc-search-embeddings/</guid>
+      <description>&lt;p&gt;Supabase hired me to build ClippyGPT - their next generation doc search. We can ask our old friend Clippy anything you want about Supabase, and it will answer it using natural language. Powered by OpenAI + prompt engineering.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Yhtjd7yGGGA&amp;amp;ab_channel=RabbitHoleSyndrome&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dalai</title>
+      <link>/post/2023-03-19-dalai/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-dalai/</guid>
+      <description>&lt;p&gt;Run LLaMA and Alpaca on your computer.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/cocktailpeanut/dalai&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>gpt4 retrieval augmentation</title>
+      <link>/post/2023-03-19-gpt4-retrieval-augmentation/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-gpt4-retrieval-augmentation/</guid>
+      <description>&lt;p&gt;Added new GPT4 walkthrough&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/pinecone-io/examples/blob/master/generation/gpt4-retrieval-augmentation/gpt-4-langchain-docs.ipynb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LangChain Chat - Next.js</title>
+      <link>/post/2023-03-19-langchain-chat-next-js/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-langchain-chat-next-js/</guid>
+      <description>&lt;p&gt;LangChain Chat - Next.js&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/zahidkhawaja/langchain-chat-nextjs&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Langchain JS | How to Teach GPT-3, GPT-4 to Reference your own Data </title>
+      <link>/post/2023-03-19-langchain-js-how-to-teach-gpt-3-gpt-4-to-reference-your-own-data/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-langchain-js-how-to-teach-gpt-3-gpt-4-to-reference-your-own-data/</guid>
+      <description>&lt;p&gt;ntroduction to Langchain Javascript Documentation. How to Create GPT-3 GPT-4 Chatbots that can contextually reference your data (txt, JSON, webpages, PDF) with embeddings . Brief Introduction into embeddings, vectorstorage options such as Pinecone, Chroma.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=veV2I-NEjaM&amp;amp;ab_channel=StarMorphAI&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open-source vector similarity search for Postgres</title>
+      <link>/post/2023-03-19-open-source-vector-similarity-search-for-postgres/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-open-source-vector-similarity-search-for-postgres/</guid>
+      <description>&lt;p&gt;Open-source vector similarity search for Postgres&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/pgvector/pgvector&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stripe API Programming Bot</title>
+      <link>/post/2023-03-19-stripe-api-programming-bot/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-stripe-api-programming-bot/</guid>
+      <description>&lt;p&gt;input natural language to get stripe API calls.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stripe.starmorph.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is Prompt Engineering?</title>
+      <link>/post/2023-03-19-what-is-prompt-engineering/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-what-is-prompt-engineering/</guid>
+      <description>&lt;p&gt;Large language models like GPT-3 have spawned a new emerging field called Prompt Engineering. People are coming up with clever techniques to prompt these models to perform different tasks, such as:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://prmpts.ai/blog/what-is-prompt-engineering&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zapier langchain quickstart</title>
+      <link>/post/2023-03-19-zapier-langchain-quickstart/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-zapier-langchain-quickstart/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;OpenAI APIkey&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Zapier Natural Language API Key&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Zapier NLA Project ID (create a demo task in their UI according to website instructions listed below in resources)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/starmorph/zapier-langchain-quickstart&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Gentle Introduction to Quantum Natural Language Processing </title>

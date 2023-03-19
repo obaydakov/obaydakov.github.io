@@ -5,10 +5,87 @@
     <description>Recent content in tools on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comparing Tools For Data Processing Pipelines</title>
+      <link>/post/2023-03-19-comparing-tools-for-data-processing-pipelines/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-comparing-tools-for-data-processing-pipelines/</guid>
+      <description>&lt;p&gt;If you will ask data professionals about what is the most challenging part of their day to day work, you will likely discover their concerns around managing different aspects of data before they get to graduate to the data modeling stage.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://neptune.ai/blog/comparing-tools-for-data-processing-pipelines&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data &amp; AI Infrastructure for Web3</title>
+      <link>/post/2023-03-19-data-ai-infrastructure-for-web3/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-data-ai-infrastructure-for-web3/</guid>
+      <description>&lt;p&gt;Designed for apps and machine learning, Spice AI is helping developers working with web3 and blockchain data to build the next generation of apps. Easily get enterprise-scale data and AI infrastructure for web3.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.spice.xyz/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HOPSWORKS - Python-centric Feature Store</title>
+      <link>/post/2023-03-19-hopsworks-python-centric-feature-store/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-hopsworks-python-centric-feature-store/</guid>
+      <description>&lt;p&gt;Easily build and manage feature, training and inference pipelines. Support for Python, PySpark, Spark, Flink, and SQL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hopsworks.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prefect 2 - Coordinating the world&#39;s dataflows</title>
+      <link>/post/2023-03-19-prefect-2-coordinating-the-world-s-dataflows/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-prefect-2-coordinating-the-world-s-dataflows/</guid>
+      <description>&lt;p&gt;Prefect 2 was designed for incremental adoption into your workflows. The documentation is organized to support your exploration&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.prefect.io/#why-prefect&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Supabase is an open source Firebase alternative</title>
+      <link>/post/2023-03-19-supabase-is-an-open-source-firebase-alternative/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-supabase-is-an-open-source-firebase-alternative/</guid>
+      <description>&lt;p&gt;Supabase is an open source Firebase alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://supabase.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UnionML</title>
+      <link>/post/2023-03-19-unionml/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-unionml/</guid>
+      <description>&lt;p&gt;UnionML is an open source MLOps framework that reduces the boilerplate, complexity, and friction that comes with building models and deploying them to production. Taking inspiration from web protocols,&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://unionml.readthedocs.io/en/latest/index.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WebSHAP</title>
+      <link>/post/2023-03-19-webshap/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-webshap/</guid>
+      <description>&lt;p&gt;WebSHAP is a JavaScript library that adapts Kernel SHAP for the Web environments. You can use it to explain any machine learning models available on the Web directly in your browser. Given a model&amp;rsquo;s prediction on a data point, WebSHAP can compute the importance score for each input feature. WebSHAP leverages modern Web technologies such as WebGL to accelerate computations. With a moderate model size and number of input features, WebSHAP can generate explanations in real time.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/poloclub/webshap&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>5 Python Decorators I Use in Almost All My Data Science Projects</title>

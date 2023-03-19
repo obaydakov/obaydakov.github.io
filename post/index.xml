@@ -6,205 +6,205 @@
     <description>Recent content in Posts on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>5 Python Decorators I Use in Almost All My Data Science Projects</title>
-      <link>/post/2023-03-17-5-python-decorators-i-use-in-almost-all-my-data-science-projects/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <title>AI Generated Stories (AWS)</title>
+      <link>/post/2023-03-19-ai-generated-stories-aws/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-03-17-5-python-decorators-i-use-in-almost-all-my-data-science-projects/</guid>
-      <description>Decorators provide a new and convenient way for everything from caching to sending notifications
+      <guid>/post/2023-03-19-ai-generated-stories-aws/</guid>
+      <description>Example open source event-driven application that generates a new bed time story for your children every night using Lambda, EventBridge, DynamoDB, App Runner, ChatGPT and DALL-E.
 Link</description>
     </item>
     
     <item>
-      <title>A Gentle Introduction to Quantum Natural Language Processing </title>
-      <link>/post/2023-03-17-a-gentle-introduction-to-quantum-natural-language-processing/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <title>AWS Application Composer Now Generally Available – Visually Build Serverless Applications Quickly</title>
+      <link>/post/2023-03-19-aws-application-composer-now-generally-available-visually-build-serverless-applications-quickly/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-03-17-a-gentle-introduction-to-quantum-natural-language-processing/</guid>
-      <description>In this introduction to Quantum Natural Language Processing (QNLP), we will see how words&#39; meaning is classically encoded into computers. We will then discuss the challenges representing the meaning of sentences, and present a framework to achieve it (DisCoCat). After seeing that this method benefits a quantum speedup, we will present three examples of use cases.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Announcing OpenChatKit</title>
-      <link>/post/2023-03-17-announcing-openchatkit/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-17-announcing-openchatkit/</guid>
-      <description>OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications. We collaborated with LAION and Ontocord to create the training dataset. Much more than a model release, this is the beginning of an open source project. We are releasing a set of tools and processes for ongoing improvement with community contributions.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Blockchain Chat Dapp | Build Decentralize Chat Application On Ethereum </title>
-      <link>/post/2023-03-17-blockchain-chat-dapp-build-decentralize-chat-application-on-ethereum/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-17-blockchain-chat-dapp-build-decentralize-chat-application-on-ethereum/</guid>
-      <description>This blockchain chat app is powered by smart contracts run on the #Ethereum blockchain using an avalanche text network, In this blockchain chap Dapp or decentralized chat application is one of the projects which you can include in your blockchain project portfolio.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Build A Web3 DEX | FULL COURSE | React, Node, Moralis, 1Inch</title>
-      <link>/post/2023-03-17-build-a-web3-dex-full-course-react-node-moralis-1inch/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-17-build-a-web3-dex-full-course-react-node-moralis-1inch/</guid>
-      <description>In this tutorial we build a fully functional Web3 Decentralized Exchange, from start to finish. It will allow users to swap erc20 tokens to other erc20 tokens on a selected EVM Chain.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Build and Deploy a Web3 Blockchain Crowdfunding Platform</title>
-      <link>/post/2023-03-17-build-and-deploy-a-web3-blockchain-crowdfunding-platform/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-17-build-and-deploy-a-web3-blockchain-crowdfunding-platform/</guid>
-      <description>With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, writing solidity code, and, most importantly, the ability to create create, view, and donate to crowdfunding campaigns directly through the blockchain; this course is perfect to fully understand how web3, blockchain, Solidity, and smart contracts truly work behind the scenes.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Connect OpenAI To &#43;5,000 Tools (LangChain &#43; Zapier)</title>
-      <link>/post/2023-03-17-connect-openai-to-5-000-tools-langchain-zapier/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-17-connect-openai-to-5-000-tools-langchain-zapier/</guid>
-      <description>Connect OpenAI To +5,000 Tools (LangChain + Zapier)
-Link</description>
-    </item>
-    
-    <item>
-      <title>Content Moderation &amp; Fraud Detection - Patterns in Industry</title>
-      <link>/post/2023-03-17-content-moderation-fraud-detection-patterns-in-industry/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-17-content-moderation-fraud-detection-patterns-in-industry/</guid>
-      <description>Content moderation is the process of learning and inferring the quality of human-generated content such as product reviews, social media posts, and ads. How do we know which are irrelevant, incorrect, or downright harmful? A related problem is detecting anomalous activity such as fraudulent transactions or malicious traffic.
-Link</description>
-    </item>
-    
-    <item>
-      <title>D3: An Automated System to Detect Data Drifts</title>
-      <link>/post/2023-03-17-d3-an-automated-system-to-detect-data-drifts/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-17-d3-an-automated-system-to-detect-data-drifts/</guid>
-      <description>Data powers almost all critical, customer-facing flows at Uber. Bad data quality impacts our ML models, leading to a bad user experience (incorrect fares, ETAs, products, etc.) and revenue loss.
-Link</description>
-    </item>
-    
-    <item>
-      <title>DATABUTTON - Your full (stack) potential has arrived</title>
-      <link>/post/2023-03-17-databutton-your-full-stack-potential-has-arrived/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-17-databutton-your-full-stack-potential-has-arrived/</guid>
-      <description>We&amp;rsquo;ve built a space where data skills and creativity are all you need to build insanely powerful full stack data apps.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Discovery of the New Cohere Summarization Endpoint</title>
-      <link>/post/2023-03-17-discovery-of-the-new-cohere-summarization-endpoint/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-17-discovery-of-the-new-cohere-summarization-endpoint/</guid>
-      <description>Two weeks ago, Cohere.ai announced their new dedicated summarization endpoint! For someone currently doing their PhD on text summarization, this is both worrying, but obviously also a rather intriguing development: while recent advancements have been focusing on rather broadly applicable models (think, chatGPT), providing more task-specific alternatives seems to be the niche that Cohere is carving out for themselves.
-Link</description>
-    </item>
-    
-    <item>
-      <title>GPT 4: Superpower results with search</title>
-      <link>/post/2023-03-17-gpt-4-superpower-results-with-search/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-17-gpt-4-superpower-results-with-search/</guid>
-      <description>GPT-4 is pretty incredible, but like its predecessors, it has problems. Hallucinations and the lack of up-to-date information are typical of Large Language Models (LLMs), from PaLM and LLaMa, to ChatGPT (gpt-3.5-turbo) and GPT 4.
-Link</description>
-    </item>
-    
-    <item>
-      <title>How to Build a Notion ChatBot For Your Knowledge Base Using LangChain</title>
-      <link>/post/2023-03-17-how-to-build-a-notion-chatbot-for-your-knowledge-base-using-langchain/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-17-how-to-build-a-notion-chatbot-for-your-knowledge-base-using-langchain/</guid>
-      <description>In this video we&amp;rsquo;ll learn how to create a simple chatbot to question-answer your Notion knowledge base using Typescript, LangChain and Pinecone.
-Link</description>
-    </item>
-    
-    <item>
-      <title>ML Papers Explained</title>
-      <link>/post/2023-03-17-ml-papers-explained/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-17-ml-papers-explained/</guid>
-      <description>Explanations to key concepts in ML
-Link</description>
-    </item>
-    
-    <item>
-      <title>ModelScope is built upon the notion of “Model-as-a-Service” (MaaS)</title>
-      <link>/post/2023-03-17-modelscope-is-built-upon-the-notion-of-model-as-a-service-maas/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-17-modelscope-is-built-upon-the-notion-of-model-as-a-service-maas/</guid>
-      <description>ModelScope is built upon the notion of “Model-as-a-Service” (MaaS). It seeks to bring together most advanced machine learning models from the AI community, and streamlines the process of leveraging AI models in real-world applications. The core ModelScope library open-sourced in this repository provides the interfaces and implementations that allow developers to perform model inference, training and evaluation.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Network Theory</title>
-      <link>/post/2023-03-17-network-theory/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-17-network-theory/</guid>
-      <description>Scientists and engineers use diagrams of networks in many different ways. Together with many collaborators I am studying networks with the tools of modern mathematics, such as category theory. You can read blog articles, papers and a book about our research. I am collaborating with the Topos Institute to use the resulting math for scientific computation, such as quickly adaptable models of infectious disease.
+      <guid>/post/2023-03-19-aws-application-composer-now-generally-available-visually-build-serverless-applications-quickly/</guid>
+      <description>At AWS re:Invent 2022, we previewed AWS Application Composer, a visual builder for you to compose and configure serverless applications from AWS services backed by deployment-ready infrastructure as code (IaC).
 Link
-The Mathematics of Networks</description>
+Visually design and build serverless applications| Serverless Office Hours</description>
     </item>
     
     <item>
-      <title>OpenPose has represented the first real-time multi-person system to jointly detect human body</title>
-      <link>/post/2023-03-17-openpose-has-represented-the-first-real-time-multi-person-system-to-jointly-detect-human-body/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <title>ChatGPT Clone – OpenAI API and React Tutorial</title>
+      <link>/post/2023-03-19-chatgpt-clone-openai-api-and-react-tutorial/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-03-17-openpose-has-represented-the-first-real-time-multi-person-system-to-jointly-detect-human-body/</guid>
-      <description>OpenPose has represented the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.
+      <guid>/post/2023-03-19-chatgpt-clone-openai-api-and-react-tutorial/</guid>
+      <description>Learn how to use React and the OpenAI API to create an application like ChatGPT. The application can answer our questions, convert the text into different languages, or even convert JavaScript code to Python.
 Link</description>
     </item>
     
     <item>
-      <title>OpenXLA is available now to accelerate and simplify machine learning</title>
-      <link>/post/2023-03-17-openxla-is-available-now-to-accelerate-and-simplify-machine-learning/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <title>ClippyGPT - How I Built Supabase’s OpenAI Doc Search (Embeddings)</title>
+      <link>/post/2023-03-19-clippygpt-how-i-built-supabase-s-openai-doc-search-embeddings/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-03-17-openxla-is-available-now-to-accelerate-and-simplify-machine-learning/</guid>
-      <description>ML development and deployment today suffer from fragmented and siloed infrastructure that can differ by framework, hardware, and use case. Such fragmentation restrains developer velocity and imposes barriers to model portability, efficiency, and productionization.
+      <guid>/post/2023-03-19-clippygpt-how-i-built-supabase-s-openai-doc-search-embeddings/</guid>
+      <description>Supabase hired me to build ClippyGPT - their next generation doc search. We can ask our old friend Clippy anything you want about Supabase, and it will answer it using natural language. Powered by OpenAI + prompt engineering.
 Link</description>
     </item>
     
     <item>
-      <title>PyXAB - Python X-Armed Bandit</title>
-      <link>/post/2023-03-17-pyxab-python-x-armed-bandit/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <title>Comparing Tools For Data Processing Pipelines</title>
+      <link>/post/2023-03-19-comparing-tools-for-data-processing-pipelines/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-03-17-pyxab-python-x-armed-bandit/</guid>
-      <description>PyXAB is a Python open-source library for X-armed bandit algorithms, a prestigious set of optimizers for online black-box optimization, i.e., optimize an objective without gradients, also known as the continuous-arm bandit (CAB), Lipschitz bandit, global optimization (GO) and bandit-based black-box optimization problems.
+      <guid>/post/2023-03-19-comparing-tools-for-data-processing-pipelines/</guid>
+      <description>If you will ask data professionals about what is the most challenging part of their day to day work, you will likely discover their concerns around managing different aspects of data before they get to graduate to the data modeling stage.
 Link</description>
     </item>
     
     <item>
-      <title>REPLIT - Make something great</title>
-      <link>/post/2023-03-17-replit-make-something-great/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <title>Complete Solidity Course With Projects 2023</title>
+      <link>/post/2023-03-19-complete-solidity-course-with-projects-2023/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-03-17-replit-make-something-great/</guid>
-      <description>Build software collaboratively with the power of AI, on any device, without spending a second on setup
+      <guid>/post/2023-03-19-complete-solidity-course-with-projects-2023/</guid>
+      <description>In this solidity course you will learn about solidity programming language along with that you will be building web3 decentralized solidity power web3 app.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Daft is a fast and scalable Python dataframe for Complex Data and Machine Learning workloads</title>
+      <link>/post/2023-03-19-daft-is-a-fast-and-scalable-python-dataframe-for-complex-data-and-machine-learning-workloads/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-daft-is-a-fast-and-scalable-python-dataframe-for-complex-data-and-machine-learning-workloads/</guid>
+      <description>Daft is currently in its Alpha release phase - please expect bugs and rapid improvements to the project. We welcome user feedback/feature requests in our Discussions forums.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Dalai</title>
+      <link>/post/2023-03-19-dalai/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-dalai/</guid>
+      <description>Run LLaMA and Alpaca on your computer.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Data &amp; AI Infrastructure for Web3</title>
+      <link>/post/2023-03-19-data-ai-infrastructure-for-web3/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-data-ai-infrastructure-for-web3/</guid>
+      <description>Designed for apps and machine learning, Spice AI is helping developers working with web3 and blockchain data to build the next generation of apps. Easily get enterprise-scale data and AI infrastructure for web3.
+Link</description>
+    </item>
+    
+    <item>
+      <title>gpt4 retrieval augmentation</title>
+      <link>/post/2023-03-19-gpt4-retrieval-augmentation/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-gpt4-retrieval-augmentation/</guid>
+      <description>Added new GPT4 walkthrough
+Link</description>
+    </item>
+    
+    <item>
+      <title>Hamilton - The open source framework Hamilton</title>
+      <link>/post/2023-03-19-hamilton-the-open-source-framework-hamilton/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-hamilton-the-open-source-framework-hamilton/</guid>
+      <description>It&amp;rsquo;s a general purpose micro-framework for creating dataflows from python functions!
+Link</description>
+    </item>
+    
+    <item>
+      <title>HOPSWORKS - Python-centric Feature Store</title>
+      <link>/post/2023-03-19-hopsworks-python-centric-feature-store/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-hopsworks-python-centric-feature-store/</guid>
+      <description>Easily build and manage feature, training and inference pipelines. Support for Python, PySpark, Spark, Flink, and SQL
+Link</description>
+    </item>
+    
+    <item>
+      <title>Hypothesis is a Python library for creating unit tests </title>
+      <link>/post/2023-03-19-hypothesis-is-a-python-library-for-creating-unit-tests/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-hypothesis-is-a-python-library-for-creating-unit-tests/</guid>
+      <description>Hypothesis is a Python library for creating unit tests which are simpler to write and more powerful when run, finding edge cases in your code you wouldn’t have thought to look for. It is stable, powerful and easy to add to any existing test suite.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Jina - Build multimodal AI services with cloud native technologies</title>
+      <link>/post/2023-03-19-jina-build-multimodal-ai-services-with-cloud-native-technologies/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-jina-build-multimodal-ai-services-with-cloud-native-technologies/</guid>
+      <description>Jina is an MLOps framework to build multimodal AI services and pipelines then serve, scale and deploy them to a production-ready environment like Kubernetes or Jina AI Cloud. Jina handles the infrastructure complexity, making advanced solution engineering and cloud-native technologies accessible to every developer.
+Link</description>
+    </item>
+    
+    <item>
+      <title>LangChain Chat - Next.js</title>
+      <link>/post/2023-03-19-langchain-chat-next-js/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-langchain-chat-next-js/</guid>
+      <description>LangChain Chat - Next.js
+Link</description>
+    </item>
+    
+    <item>
+      <title>Langchain JS | How to Teach GPT-3, GPT-4 to Reference your own Data </title>
+      <link>/post/2023-03-19-langchain-js-how-to-teach-gpt-3-gpt-4-to-reference-your-own-data/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-langchain-js-how-to-teach-gpt-3-gpt-4-to-reference-your-own-data/</guid>
+      <description>ntroduction to Langchain Javascript Documentation. How to Create GPT-3 GPT-4 Chatbots that can contextually reference your data (txt, JSON, webpages, PDF) with embeddings . Brief Introduction into embeddings, vectorstorage options such as Pinecone, Chroma.
+Link</description>
+    </item>
+    
+    <item>
+      <title>MODIN - Scale your pandas workflows by changing one line of code</title>
+      <link>/post/2023-03-19-modin-scale-your-pandas-workflows-by-changing-one-line-of-code/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-modin-scale-your-pandas-workflows-by-changing-one-line-of-code/</guid>
+      <description>Modin is a drop-in replacement for pandas. While pandas is single-threaded, Modin lets you instantly speed up your workflows by scaling pandas so it uses all of your cores. Modin works especially well on larger datasets, where pandas becomes painfully slow or runs out of memory.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Open-source vector similarity search for Postgres</title>
+      <link>/post/2023-03-19-open-source-vector-similarity-search-for-postgres/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-open-source-vector-similarity-search-for-postgres/</guid>
+      <description>Open-source vector similarity search for Postgres
+Link</description>
+    </item>
+    
+    <item>
+      <title>Prefect 2 - Coordinating the world&#39;s dataflows</title>
+      <link>/post/2023-03-19-prefect-2-coordinating-the-world-s-dataflows/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-prefect-2-coordinating-the-world-s-dataflows/</guid>
+      <description>Prefect 2 was designed for incremental adoption into your workflows. The documentation is organized to support your exploration
+Link</description>
+    </item>
+    
+    <item>
+      <title>Stripe API Programming Bot</title>
+      <link>/post/2023-03-19-stripe-api-programming-bot/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-stripe-api-programming-bot/</guid>
+      <description>input natural language to get stripe API calls.
 Link</description>
     </item>
     

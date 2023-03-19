@@ -5,10 +5,33 @@
     <description>Recent content in development on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Application Composer Now Generally Available – Visually Build Serverless Applications Quickly</title>
+      <link>/post/2023-03-19-aws-application-composer-now-generally-available-visually-build-serverless-applications-quickly/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-aws-application-composer-now-generally-available-visually-build-serverless-applications-quickly/</guid>
+      <description>&lt;p&gt;At AWS re:Invent 2022, we previewed AWS Application Composer, a visual builder for you to compose and configure serverless applications from AWS services backed by deployment-ready infrastructure as code (IaC).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/aws/aws-application-composer-now-generally-available-visually-build-serverless-applications-quickly/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=G7Gp2pzSMYY&amp;amp;ab_channel=ServerlessLand&#34;&gt;Visually design and build serverless applications| Serverless Office Hours&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Complete Solidity Course With Projects 2023</title>
+      <link>/post/2023-03-19-complete-solidity-course-with-projects-2023/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-complete-solidity-course-with-projects-2023/</guid>
+      <description>&lt;p&gt;In this solidity course you will learn about solidity programming language along with that you will be building web3 decentralized solidity power web3 app.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=TPuIKvD1d94&amp;amp;ab_channel=DaulatHussain&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>101 Design Patterns &amp; Tips for Developers</title>

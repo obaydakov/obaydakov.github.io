@@ -5,10 +5,65 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daft is a fast and scalable Python dataframe for Complex Data and Machine Learning workloads</title>
+      <link>/post/2023-03-19-daft-is-a-fast-and-scalable-python-dataframe-for-complex-data-and-machine-learning-workloads/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-daft-is-a-fast-and-scalable-python-dataframe-for-complex-data-and-machine-learning-workloads/</guid>
+      <description>&lt;p&gt;Daft is currently in its Alpha release phase - please expect bugs and rapid improvements to the project. We welcome user feedback/feature requests in our Discussions forums.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.getdaft.io/projects/docs/en/latest/index.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hamilton - The open source framework Hamilton</title>
+      <link>/post/2023-03-19-hamilton-the-open-source-framework-hamilton/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-hamilton-the-open-source-framework-hamilton/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s a general purpose micro-framework for creating dataflows from python functions!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hamilton-docs.gitbook.io/docs/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HOPSWORKS - Python-centric Feature Store</title>
+      <link>/post/2023-03-19-hopsworks-python-centric-feature-store/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-hopsworks-python-centric-feature-store/</guid>
+      <description>&lt;p&gt;Easily build and manage feature, training and inference pipelines. Support for Python, PySpark, Spark, Flink, and SQL&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hopsworks.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hypothesis is a Python library for creating unit tests </title>
+      <link>/post/2023-03-19-hypothesis-is-a-python-library-for-creating-unit-tests/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-hypothesis-is-a-python-library-for-creating-unit-tests/</guid>
+      <description>&lt;p&gt;Hypothesis is a Python library for creating unit tests which are simpler to write and more powerful when run, finding edge cases in your code you wouldn’t have thought to look for. It is stable, powerful and easy to add to any existing test suite.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hypothesis.readthedocs.io/en/latest/index.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MODIN - Scale your pandas workflows by changing one line of code</title>
+      <link>/post/2023-03-19-modin-scale-your-pandas-workflows-by-changing-one-line-of-code/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-modin-scale-your-pandas-workflows-by-changing-one-line-of-code/</guid>
+      <description>&lt;p&gt;Modin is a drop-in replacement for pandas. While pandas is single-threaded, Modin lets you instantly speed up your workflows by scaling pandas so it uses all of your cores. Modin works especially well on larger datasets, where pandas becomes painfully slow or runs out of memory.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/modin-project/modin&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>5 Python Decorators I Use in Almost All My Data Science Projects</title>

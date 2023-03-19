@@ -5,10 +5,21 @@
     <description>Recent content in javascript on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LangChain Chat - Next.js</title>
+      <link>/post/2023-03-19-langchain-chat-next-js/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-19-langchain-chat-next-js/</guid>
+      <description>&lt;p&gt;LangChain Chat - Next.js&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/zahidkhawaja/langchain-chat-nextjs&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build an Etherscan Clone | FULL COURSE | Next.js, Moralis, Nodejs</title>
