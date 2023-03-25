@@ -5,10 +5,21 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building a Machine Learning Platform [Definitive Guide]</title>
+      <link>/post/2023-03-25-building-a-machine-learning-platform-definitive-guide/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-building-a-machine-learning-platform-definitive-guide/</guid>
+      <description>&lt;p&gt;Moving across the typical machine learning lifecycle can be a nightmare. From gathering and processing data to building models through experiments, deploying the best ones, and managing them at scale for continuous value in production—it’s a lot.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://neptune.ai/blog/ml-platform-guide&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS Application Composer Now Generally Available – Visually Build Serverless Applications Quickly</title>

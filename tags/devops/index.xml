@@ -5,10 +5,21 @@
     <description>Recent content in devops on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automate ML model retraining and deployment with MLflow in Databricks</title>
+      <link>/post/2023-03-25-automate-ml-model-retraining-and-deployment-with-mlflow-in-databricks/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-automate-ml-model-retraining-and-deployment-with-mlflow-in-databricks/</guid>
+      <description>&lt;p&gt;Getting a working machine learning model deployed for user consumption is a great achievement. We see statistics showing that machine learning models often fail to make it into production, whether this is due to insufficient data, lack of direction or other reasons.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@mc12338/automate-ml-model-retraining-and-deployment-with-mlflow-in-databricks-ad29f6146f80&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Jina - Build multimodal AI services with cloud native technologies</title>

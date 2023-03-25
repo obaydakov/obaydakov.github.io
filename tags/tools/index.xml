@@ -5,10 +5,43 @@
     <description>Recent content in tools on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automate ML model retraining and deployment with MLflow in Databricks</title>
+      <link>/post/2023-03-25-automate-ml-model-retraining-and-deployment-with-mlflow-in-databricks/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-automate-ml-model-retraining-and-deployment-with-mlflow-in-databricks/</guid>
+      <description>&lt;p&gt;Getting a working machine learning model deployed for user consumption is a great achievement. We see statistics showing that machine learning models often fail to make it into production, whether this is due to insufficient data, lack of direction or other reasons.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@mc12338/automate-ml-model-retraining-and-deployment-with-mlflow-in-databricks-ad29f6146f80&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blockchain Dune Analytics with Uniswap</title>
+      <link>/post/2023-03-25-blockchain-dune-analytics-with-uniswap/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-blockchain-dune-analytics-with-uniswap/</guid>
+      <description>&lt;p&gt;Blockchain Dune Analytics with Uniswap&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/post/715600/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building a Machine Learning Platform [Definitive Guide]</title>
+      <link>/post/2023-03-25-building-a-machine-learning-platform-definitive-guide/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-building-a-machine-learning-platform-definitive-guide/</guid>
+      <description>&lt;p&gt;Moving across the typical machine learning lifecycle can be a nightmare. From gathering and processing data to building models through experiments, deploying the best ones, and managing them at scale for continuous value in production—it’s a lot.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://neptune.ai/blog/ml-platform-guide&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Comparing Tools For Data Processing Pipelines</title>

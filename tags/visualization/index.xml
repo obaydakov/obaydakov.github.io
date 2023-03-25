@@ -5,10 +5,32 @@
     <description>Recent content in visualization on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blockchain Dune Analytics with Uniswap</title>
+      <link>/post/2023-03-25-blockchain-dune-analytics-with-uniswap/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-blockchain-dune-analytics-with-uniswap/</guid>
+      <description>&lt;p&gt;Blockchain Dune Analytics with Uniswap&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/post/715600/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chart Gallery</title>
+      <link>/post/2023-03-25-chart-gallery/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-chart-gallery/</guid>
+      <description>&lt;p&gt;Each chart shown below is a QuickChart image built with a Chart.js config. These images can be sent in emails or embedded in any platform.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://quickchart.io/gallery/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ChatGPT helped me to built this Data Science Web App using Streamlit-Pytho</title>

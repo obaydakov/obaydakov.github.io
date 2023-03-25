@@ -5,10 +5,54 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fixie Developer Portal</title>
+      <link>/post/2023-03-25-fixie-developer-portal/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-fixie-developer-portal/</guid>
+      <description>&lt;p&gt;Fixie is a platform for building applications using Large Language Models. With Fixie, you can write apps that communicate, in natural language, with one or more Agents that can access individual APIs or sources of data, such as GitHub, Google Calendar, or a database.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.fixie.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Foundation Model Ops: Powering the Next Wave of Generative AI Apps</title>
+      <link>/post/2023-03-25-foundation-model-ops-powering-the-next-wave-of-generative-ai-apps/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-foundation-model-ops-powering-the-next-wave-of-generative-ai-apps/</guid>
+      <description>&lt;p&gt;Late last year, we published our framework for the enterprise AI stack and gestured toward the potential of foundation models to advance innovation at each of its layers, from AI-optimized hardware, compute, and cloud on up. Yesterday’s release of GPT-4, with its ability to process both text and image inputs, promises to accelerate this paradigm shift in AI, which dramatically reduces the time, technical knowledge, and cost needed to spin up AI-enhanced products.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://foundationcapital.com/foundation-model-ops-powering-the-next-wave-of-generative-ai-apps/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to deploy Diffusers in the cloud</title>
+      <link>/post/2023-03-25-how-to-deploy-diffusers-in-the-cloud/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-how-to-deploy-diffusers-in-the-cloud/</guid>
+      <description>&lt;p&gt;How to deploy Diffusers in the cloud&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/company/selectel/blog/724558/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learn anything</title>
+      <link>/post/2023-03-25-learn-anything/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-learn-anything/</guid>
+      <description>&lt;p&gt;Try topics like physics, american history, or your own name!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tutorai.me/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchain Chat Dapp | Build Decentralize Chat Application On Ethereum </title>

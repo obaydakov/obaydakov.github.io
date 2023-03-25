@@ -5,10 +5,21 @@
     <description>Recent content in libraries on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/libraries/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>7 Most Starred Python Library You Should Know</title>
+      <link>/post/2023-03-25-7-most-starred-python-library-you-should-know/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-7-most-starred-python-library-you-should-know/</guid>
+      <description>&lt;p&gt;Power up your Python development&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/codex/7-most-starred-python-library-you-should-know-b6f2f87274d4&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daft is a fast and scalable Python dataframe for Complex Data and Machine Learning workloads</title>

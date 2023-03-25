@@ -5,8 +5,288 @@
   
 
       <url>
+        <loc>/post/2023-03-25-7-most-starred-python-library-you-should-know/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/categories/ai/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/apps/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/apps/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-automate-ml-model-retraining-and-deployment-with-mlflow-in-databricks/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-best-chatgpt-prompt-generator/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-blockchain-dune-analytics-with-uniswap/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-build-no-code-ai-apps/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-building-a-machine-learning-platform-definitive-guide/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-chart-gallery/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-chatgpt-x-botpress-unleash-generative-ai-to-build-the-next-generation-of-chatbots/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/cloud/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/data-engineering/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/development/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/devops/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-dust-platform-documentation/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-fixie-developer-portal/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-foundation-model-ops-powering-the-next-wave-of-generative-ai-apps/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-gpt-4-api-with-streaming-responses-chat-history-streamlit-gradio-ui-javascript-fastapi-webapp/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-how-to-deploy-diffusers-in-the-cloud/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/javascript/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-learn-anything/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/libraries/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/machine-learning/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/nlp/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/python/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-react-admin/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/tools/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-03-25-training-large-language-models-on-amazon-sagemaker-best-practices/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/visualization/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/web3/</loc>
+        <lastmod>2023-03-25T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -37,14 +317,6 @@
   
 
       <url>
-        <loc>/categories/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2023-03-19-chatgpt-clone-openai-api-and-react-tutorial/</loc>
         <lastmod>2023-03-19T00:00:00+00:00</lastmod>
     </url>
@@ -54,14 +326,6 @@
 
       <url>
         <loc>/post/2023-03-19-clippygpt-how-i-built-supabase-s-openai-doc-search-embeddings/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/cloud/</loc>
         <lastmod>2023-03-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -109,39 +373,7 @@
   
 
       <url>
-        <loc>/categories/data-engineering/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/categories/deep-learning/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/development/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/devops/</loc>
         <lastmod>2023-03-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -181,14 +413,6 @@
   
 
       <url>
-        <loc>/categories/javascript/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2023-03-19-jina-build-multimodal-ai-services-with-cloud-native-technologies/</loc>
         <lastmod>2023-03-19T00:00:00+00:00</lastmod>
     </url>
@@ -213,31 +437,7 @@
   
 
       <url>
-        <loc>/tags/libraries/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/machine-learning/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2023-03-19-modin-scale-your-pandas-workflows-by-changing-one-line-of-code/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/nlp/</loc>
         <lastmod>2023-03-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -253,23 +453,7 @@
   
 
       <url>
-        <loc>/post/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2023-03-19-prefect-2-coordinating-the-world-s-dataflows/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/python/</loc>
         <lastmod>2023-03-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -293,31 +477,7 @@
   
 
       <url>
-        <loc>/tags/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/tools/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2023-03-19-unionml/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/web3/</loc>
         <lastmod>2023-03-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -366,22 +526,6 @@
 
       <url>
         <loc>/post/2023-03-17-announcing-openchatkit/</loc>
-        <lastmod>2023-03-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/apps/</loc>
-        <lastmod>2023-03-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/apps/</loc>
         <lastmod>2023-03-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -710,14 +854,6 @@
 
       <url>
         <loc>/post/2023-03-11-using-gpt-3-to-create-a-bot-that-transforms-tweets-into-poetry-no-coding-experience-necessary/</loc>
-        <lastmod>2023-03-11T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/visualization/</loc>
         <lastmod>2023-03-11T00:00:00+00:00</lastmod>
     </url>
     

@@ -5,10 +5,32 @@
     <description>Recent content in cloud on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to deploy Diffusers in the cloud</title>
+      <link>/post/2023-03-25-how-to-deploy-diffusers-in-the-cloud/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-how-to-deploy-diffusers-in-the-cloud/</guid>
+      <description>&lt;p&gt;How to deploy Diffusers in the cloud&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/company/selectel/blog/724558/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Training large language models on Amazon SageMaker: Best practices</title>
+      <link>/post/2023-03-25-training-large-language-models-on-amazon-sagemaker-best-practices/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-training-large-language-models-on-amazon-sagemaker-best-practices/</guid>
+      <description>&lt;p&gt;Language models are statistical methods predicting the succession of tokens in sequences, using natural text. Large language models (LLMs) are neural network-based language models with hundreds of millions (BERT) to over a trillion parameters (MiCS), and whose size makes single-GPU training impractical. LLMs’ generative abilities make them popular for text synthesis, summarization, machine translation, and more.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/machine-learning/training-large-language-models-on-amazon-sagemaker-best-practices/?utm_source=substack&amp;amp;utm_medium=email&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AI Generated Stories (AWS)</title>

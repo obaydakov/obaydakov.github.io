@@ -5,10 +5,32 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build No-Code AI Apps</title>
+      <link>/post/2023-03-25-build-no-code-ai-apps/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-build-no-code-ai-apps/</guid>
+      <description>&lt;p&gt;Hubble is a powerful no-code platform for creating AI-enabled applications with no engineers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hubble.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Foundation Model Ops: Powering the Next Wave of Generative AI Apps</title>
+      <link>/post/2023-03-25-foundation-model-ops-powering-the-next-wave-of-generative-ai-apps/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-25-foundation-model-ops-powering-the-next-wave-of-generative-ai-apps/</guid>
+      <description>&lt;p&gt;Late last year, we published our framework for the enterprise AI stack and gestured toward the potential of foundation models to advance innovation at each of its layers, from AI-optimized hardware, compute, and cloud on up. Yesterday’s release of GPT-4, with its ability to process both text and image inputs, promises to accelerate this paradigm shift in AI, which dramatically reduces the time, technical knowledge, and cost needed to spin up AI-enhanced products.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://foundationcapital.com/foundation-model-ops-powering-the-next-wave-of-generative-ai-apps/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>REPLIT - Make something great</title>
