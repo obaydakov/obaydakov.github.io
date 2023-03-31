@@ -6,7 +6,134 @@
     <description>Recent content in Posts on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>7 Useful Python Libraries You Should Use in Your Next Project</title>
+      <link>/post/2023-03-31-7-useful-python-libraries-you-should-use-in-your-next-project/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-7-useful-python-libraries-you-should-use-in-your-next-project/</guid>
+      <description>There is a proverb “You don’t have to reinvent the wheel”. Libraries are the best example of that. It helps you to write complex and time-consuming functionality in an easy way. According to me, a good project uses some of the best libraries available.
+Link</description>
+    </item>
+    
+    <item>
+      <title>AI Tool Master List</title>
+      <link>/post/2023-03-31-ai-tool-master-list/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-ai-tool-master-list/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Build internal tools, remarkably fast</title>
+      <link>/post/2023-03-31-build-internal-tools-remarkably-fast/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-build-internal-tools-remarkably-fast/</guid>
+      <description>Stop wrestling with UI libraries, hacking together data sources, and figuring out access controls. Start shipping apps that move your business forward
+Link</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT &#43; System Design</title>
+      <link>/post/2023-03-31-chatgpt-system-design/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-chatgpt-system-design/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT Gets Its “Wolfram Superpowers”!</title>
+      <link>/post/2023-03-31-chatgpt-gets-its-wolfram-superpowers/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-chatgpt-gets-its-wolfram-superpowers/</guid>
+      <description>To enable the functionality described here, select and install the Wolfram plugin from within ChatGPT.
+Note that this capability is so far available only to some ChatGPT Plus users; for more information, see OpenAI’s announcement.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Excalidraw</title>
+      <link>/post/2023-03-31-excalidraw/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-excalidraw/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>GPT-Journey</title>
+      <link>/post/2023-03-31-gpt-journey/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-gpt-journey/</guid>
+      <description>Building a text and image-based journey game powered by, and with, GPT 3.5
+Link</description>
+    </item>
+    
+    <item>
+      <title>LangChain - Retrieval</title>
+      <link>/post/2023-03-31-langchain-retrieval/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-langchain-retrieval/</guid>
+      <description>Ever since ChatGPT came out, people have been building a personalized ChatGPT for their data. We even wrote a tutorial on this, and then ran a competition about this a few months ago. The desire and demand for this highlights an important limitation of ChatGPT - it doesn&amp;rsquo;t know about YOUR data, and most people would find it more useful if it did. So how do you go about building a chatbot that knows about your data?</description>
+    </item>
+    
+    <item>
+      <title>Lex-GPT</title>
+      <link>/post/2023-03-31-lex-gpt/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-lex-gpt/</guid>
+      <description>I built an app for question-answering over the full history of Lex Fridman podcasts. It uses Whisper for audio-to-text followed by Langchain for dataset processing and embedding. It uses Pinecone to store embeddings and Langchain vectorDB search to find relevant podcast clips given a user question. It uses UI elements inspired by Mckay Wrigley’s work. Code is here.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Monitoring NLP models in production</title>
+      <link>/post/2023-03-31-monitoring-nlp-models-in-production/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-monitoring-nlp-models-in-production/</guid>
+      <description>All production ML models need monitoring. NLP models are no exception. But, monitoring models that use text data can be quite different from, say, a model built on tabular data.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Prompt Engineering</title>
+      <link>/post/2023-03-31-prompt-engineering/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-prompt-engineering/</guid>
+      <description>Prompt Engineering, also known as In-Context Prompting, refers to methods for how to communicate with LLM to steer its behavior for desired outcomes without updating the model weights. It is an empirical science and the effect of prompt engineering methods can vary a lot among models, thus requiring heavy experimentation and heuristics.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Say Goodbye to ChatGPT: Here Are New AI Tools That Will Blow Your Mind</title>
+      <link>/post/2023-03-31-say-goodbye-to-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-say-goodbye-to-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind/</guid>
+      <description>Using these tools will surely take your productivity to the next level.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Ship Background Jobs, Crons, Webhooks, and Reliable Workflows in record time</title>
+      <link>/post/2023-03-31-ship-background-jobs-crons-webhooks-and-reliable-workflows-in-record-time/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-ship-background-jobs-crons-webhooks-and-reliable-workflows-in-record-time/</guid>
+      <description>Use TypeScript to build, test, and deploy serverless functions driven by events or a schedule to any platform in seconds, with zero infrastructure.
+Link</description>
+    </item>
+    
     <item>
       <title>7 Most Starred Python Library You Should Know</title>
       <link>/post/2023-03-25-7-most-starred-python-library-you-should-know/</link>
@@ -74,136 +201,6 @@ Link</description>
       
       <guid>/post/2023-03-25-chart-gallery/</guid>
       <description>Each chart shown below is a QuickChart image built with a Chart.js config. These images can be sent in emails or embedded in any platform.
-Link</description>
-    </item>
-    
-    <item>
-      <title>ChatGPT x Botpress: unleash generative AI to build the next generation of chatbots</title>
-      <link>/post/2023-03-25-chatgpt-x-botpress-unleash-generative-ai-to-build-the-next-generation-of-chatbots/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-25-chatgpt-x-botpress-unleash-generative-ai-to-build-the-next-generation-of-chatbots/</guid>
-      <description>ChatGPT has reimagined the possibilities for chatbots! This webinar will show you how Botpress is reinventing the entire bot-building process with generative AI.
-[Link](ChatGPT has reimagined the possibilities for chatbots! This webinar will show you how Botpress is reinventing the entire bot-building process with generative AI.)</description>
-    </item>
-    
-    <item>
-      <title>Dust Platform Documentation</title>
-      <link>/post/2023-03-25-dust-platform-documentation/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-25-dust-platform-documentation/</guid>
-      <description>Use the Dust Platform to design and deploy Large Language Model apps
-Link</description>
-    </item>
-    
-    <item>
-      <title>Fixie Developer Portal</title>
-      <link>/post/2023-03-25-fixie-developer-portal/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-25-fixie-developer-portal/</guid>
-      <description>Fixie is a platform for building applications using Large Language Models. With Fixie, you can write apps that communicate, in natural language, with one or more Agents that can access individual APIs or sources of data, such as GitHub, Google Calendar, or a database.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Foundation Model Ops: Powering the Next Wave of Generative AI Apps</title>
-      <link>/post/2023-03-25-foundation-model-ops-powering-the-next-wave-of-generative-ai-apps/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-25-foundation-model-ops-powering-the-next-wave-of-generative-ai-apps/</guid>
-      <description>Late last year, we published our framework for the enterprise AI stack and gestured toward the potential of foundation models to advance innovation at each of its layers, from AI-optimized hardware, compute, and cloud on up. Yesterday’s release of GPT-4, with its ability to process both text and image inputs, promises to accelerate this paradigm shift in AI, which dramatically reduces the time, technical knowledge, and cost needed to spin up AI-enhanced products.</description>
-    </item>
-    
-    <item>
-      <title>GPT-4 API with streaming responses, chat history, streamlit, gradio UI, JavaScript, FastAPI webapp</title>
-      <link>/post/2023-03-25-gpt-4-api-with-streaming-responses-chat-history-streamlit-gradio-ui-javascript-fastapi-webapp/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-25-gpt-4-api-with-streaming-responses-chat-history-streamlit-gradio-ui-javascript-fastapi-webapp/</guid>
-      <description>This video will explain how to use GPT-4 api, create an evolving chat history which respects token context limits by droppping earlier conversation when necessary. We will also learn about how to stream responses to the terminal and with the Steramlit UI. We will build two different gradio UIs and also a webapp using HTML, CSS, JavaScript, Python and FastAPI.
-Link</description>
-    </item>
-    
-    <item>
-      <title>How to build a Chatbot with ChatGPT API and a Conversational Memory in Python</title>
-      <link>/post/2023-03-25-how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-25-how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python/</guid>
-      <description>With the emergence of Large Language Models (LLMs), AI technologies have advanced to a level where humans can converse with chatbots in a way that resembles human conversation. In my opinion, chatbots are poised to become an essential component of our daily lives for a wide range of problem-solving tasks. We will soon encounter chatbots in various domains, including customer service and personal assistance.
-Link</description>
-    </item>
-    
-    <item>
-      <title>How to deploy Diffusers in the cloud</title>
-      <link>/post/2023-03-25-how-to-deploy-diffusers-in-the-cloud/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-25-how-to-deploy-diffusers-in-the-cloud/</guid>
-      <description>How to deploy Diffusers in the cloud
-Link</description>
-    </item>
-    
-    <item>
-      <title>Learn anything</title>
-      <link>/post/2023-03-25-learn-anything/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-25-learn-anything/</guid>
-      <description>Try topics like physics, american history, or your own name!
-Link</description>
-    </item>
-    
-    <item>
-      <title>react-admin</title>
-      <link>/post/2023-03-25-react-admin/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-25-react-admin/</guid>
-      <description>A frontend Framework for building data-driven applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design. Open sourced and maintained by marmelab.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Training large language models on Amazon SageMaker: Best practices</title>
-      <link>/post/2023-03-25-training-large-language-models-on-amazon-sagemaker-best-practices/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-25-training-large-language-models-on-amazon-sagemaker-best-practices/</guid>
-      <description>Language models are statistical methods predicting the succession of tokens in sequences, using natural text. Large language models (LLMs) are neural network-based language models with hundreds of millions (BERT) to over a trillion parameters (MiCS), and whose size makes single-GPU training impractical. LLMs’ generative abilities make them popular for text synthesis, summarization, machine translation, and more.
-Link</description>
-    </item>
-    
-    <item>
-      <title>AI Generated Stories (AWS)</title>
-      <link>/post/2023-03-19-ai-generated-stories-aws/</link>
-      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-19-ai-generated-stories-aws/</guid>
-      <description>Example open source event-driven application that generates a new bed time story for your children every night using Lambda, EventBridge, DynamoDB, App Runner, ChatGPT and DALL-E.
-Link</description>
-    </item>
-    
-    <item>
-      <title>AWS Application Composer Now Generally Available – Visually Build Serverless Applications Quickly</title>
-      <link>/post/2023-03-19-aws-application-composer-now-generally-available-visually-build-serverless-applications-quickly/</link>
-      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-19-aws-application-composer-now-generally-available-visually-build-serverless-applications-quickly/</guid>
-      <description>At AWS re:Invent 2022, we previewed AWS Application Composer, a visual builder for you to compose and configure serverless applications from AWS services backed by deployment-ready infrastructure as code (IaC).
-Link
-Visually design and build serverless applications| Serverless Office Hours</description>
-    </item>
-    
-    <item>
-      <title>ChatGPT Clone – OpenAI API and React Tutorial</title>
-      <link>/post/2023-03-19-chatgpt-clone-openai-api-and-react-tutorial/</link>
-      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-19-chatgpt-clone-openai-api-and-react-tutorial/</guid>
-      <description>Learn how to use React and the OpenAI API to create an application like ChatGPT. The application can answer our questions, convert the text into different languages, or even convert JavaScript code to Python.
 Link</description>
     </item>
     

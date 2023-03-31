@@ -5,7 +5,7 @@
     <description>Recent content in Categories on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>AI</title>
       <link>/categories/ai/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>/categories/ai/</guid>
       <description></description>
@@ -22,43 +22,25 @@
     <item>
       <title>apps</title>
       <link>/categories/apps/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>/categories/apps/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>cloud</title>
-      <link>/categories/cloud/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/cloud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>data-engineering</title>
       <link>/categories/data-engineering/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>/categories/data-engineering/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>javascript</title>
-      <link>/categories/javascript/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Machine Learning</title>
       <link>/categories/machine-learning/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>/categories/machine-learning/</guid>
       <description>
@@ -83,9 +65,27 @@
     <item>
       <title>python</title>
       <link>/categories/python/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>/categories/cloud/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>/categories/javascript/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/javascript/</guid>
       <description></description>
     </item>
     

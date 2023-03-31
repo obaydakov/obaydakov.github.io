@@ -5,10 +5,97 @@
     <description>Recent content in AI on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/ai/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI Tool Master List</title>
+      <link>/post/2023-03-31-ai-tool-master-list/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-ai-tool-master-list/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT &#43; System Design</title>
+      <link>/post/2023-03-31-chatgpt-system-design/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-chatgpt-system-design/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/post/725184/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT Gets Its “Wolfram Superpowers”!</title>
+      <link>/post/2023-03-31-chatgpt-gets-its-wolfram-superpowers/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-chatgpt-gets-its-wolfram-superpowers/</guid>
+      <description>&lt;p&gt;To enable the functionality described here, select and install the Wolfram plugin from within ChatGPT.&lt;/p&gt;
+&lt;p&gt;Note that this capability is so far available only to some ChatGPT Plus users; for more information, see OpenAI’s announcement.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/?utm_source=substack&amp;amp;utm_medium=email&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPT-Journey</title>
+      <link>/post/2023-03-31-gpt-journey/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-gpt-journey/</guid>
+      <description>&lt;p&gt;Building a text and image-based journey game powered by, and with, GPT 3.5&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Sentdex/GPT-Journey&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LangChain - Retrieval</title>
+      <link>/post/2023-03-31-langchain-retrieval/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-langchain-retrieval/</guid>
+      <description>&lt;p&gt;Ever since ChatGPT came out, people have been building a personalized ChatGPT for their data. We even wrote a tutorial on this, and then ran a competition about this a few months ago. The desire and demand for this highlights an important limitation of ChatGPT - it doesn&amp;rsquo;t know about YOUR data, and most people would find it more useful if it did. So how do you go about building a chatbot that knows about your data?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.langchain.dev/retrieval/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lex-GPT</title>
+      <link>/post/2023-03-31-lex-gpt/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-lex-gpt/</guid>
+      <description>&lt;p&gt;I built an app for question-answering over the full history of Lex Fridman podcasts. It uses Whisper for audio-to-text followed by Langchain for dataset processing and embedding. It uses Pinecone to store embeddings and Langchain vectorDB search to find relevant podcast clips given a user question. It uses UI elements inspired by Mckay Wrigley’s work. Code is here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lancemartin.notion.site/lancemartin/Lex-GPT-a3ad671766d34f4a9a078da7adf9d382&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prompt Engineering</title>
+      <link>/post/2023-03-31-prompt-engineering/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-prompt-engineering/</guid>
+      <description>&lt;p&gt;Prompt Engineering, also known as In-Context Prompting, refers to methods for how to communicate with LLM to steer its behavior for desired outcomes without updating the model weights. It is an empirical science and the effect of prompt engineering methods can vary a lot among models, thus requiring heavy experimentation and heuristics.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Say Goodbye to ChatGPT: Here Are New AI Tools That Will Blow Your Mind</title>
+      <link>/post/2023-03-31-say-goodbye-to-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-say-goodbye-to-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind/</guid>
+      <description>&lt;p&gt;Using these tools will surely take your productivity to the next level.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/say-goodbye-to-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind-ad5f7e278f84&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Best ChatGPT Prompt Generator</title>

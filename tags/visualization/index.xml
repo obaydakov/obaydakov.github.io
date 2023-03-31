@@ -5,10 +5,20 @@
     <description>Recent content in visualization on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Excalidraw</title>
+      <link>/post/2023-03-31-excalidraw/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-excalidraw/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://excalidraw.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchain Dune Analytics with Uniswap</title>

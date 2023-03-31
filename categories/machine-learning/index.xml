@@ -5,10 +5,21 @@
     <description>Recent content in Machine Learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Monitoring NLP models in production</title>
+      <link>/post/2023-03-31-monitoring-nlp-models-in-production/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-monitoring-nlp-models-in-production/</guid>
+      <description>&lt;p&gt;All production ML models need monitoring. NLP models are no exception. But, monitoring models that use text data can be quite different from, say, a model built on tabular data.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Automate ML model retraining and deployment with MLflow in Databricks</title>

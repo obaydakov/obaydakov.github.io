@@ -5,10 +5,53 @@
     <description>Recent content in tools on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI Tool Master List</title>
+      <link>/post/2023-03-31-ai-tool-master-list/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-ai-tool-master-list/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build internal tools, remarkably fast</title>
+      <link>/post/2023-03-31-build-internal-tools-remarkably-fast/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-build-internal-tools-remarkably-fast/</guid>
+      <description>&lt;p&gt;Stop wrestling with UI libraries, hacking together data sources, and figuring out access controls. Start shipping apps that move your business forward&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://retool.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Say Goodbye to ChatGPT: Here Are New AI Tools That Will Blow Your Mind</title>
+      <link>/post/2023-03-31-say-goodbye-to-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-say-goodbye-to-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind/</guid>
+      <description>&lt;p&gt;Using these tools will surely take your productivity to the next level.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/say-goodbye-to-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind-ad5f7e278f84&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ship Background Jobs, Crons, Webhooks, and Reliable Workflows in record time</title>
+      <link>/post/2023-03-31-ship-background-jobs-crons-webhooks-and-reliable-workflows-in-record-time/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-ship-background-jobs-crons-webhooks-and-reliable-workflows-in-record-time/</guid>
+      <description>&lt;p&gt;Use TypeScript to build, test, and deploy serverless functions driven by events or a schedule to any platform in seconds, with zero infrastructure.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.inngest.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Automate ML model retraining and deployment with MLflow in Databricks</title>

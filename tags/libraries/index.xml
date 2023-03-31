@@ -5,10 +5,21 @@
     <description>Recent content in libraries on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/libraries/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>7 Useful Python Libraries You Should Use in Your Next Project</title>
+      <link>/post/2023-03-31-7-useful-python-libraries-you-should-use-in-your-next-project/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-03-31-7-useful-python-libraries-you-should-use-in-your-next-project/</guid>
+      <description>&lt;p&gt;There is a proverb “You don’t have to reinvent the wheel”. Libraries are the best example of that. It helps you to write complex and time-consuming functionality in an easy way. According to me, a good project uses some of the best libraries available.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/codex/7-useful-python-libraries-you-should-use-in-your-next-project-6861ed2a3990&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>7 Most Starred Python Library You Should Know</title>
