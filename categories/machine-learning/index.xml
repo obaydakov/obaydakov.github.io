@@ -5,10 +5,32 @@
     <description>Recent content in Machine Learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automated Data Drift Detection For Machine Learning Pipelines</title>
+      <link>/post/2023-04-08-automated-data-drift-detection-for-machine-learning-pipelines/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-08-automated-data-drift-detection-for-machine-learning-pipelines/</guid>
+      <description>&lt;p&gt;Mastering Tabular Data Validation with TFDV: A Practical Guide to Ensure Accurate and Reliable Machine Learning Models.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/geekculture/automated-data-drift-detection-for-machine-learning-pipelines-5c95aca45e1c&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On-device machine learning for everyone</title>
+      <link>/post/2023-04-08-on-device-machine-learning-for-everyone/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-08-on-device-machine-learning-for-everyone/</guid>
+      <description>&lt;p&gt;Delight your customers with innovative machine learning features. MediaPipe contains everything that you need to customize and deploy to mobile (Android, iOS), web, desktop, edge devices, and IoT, effortlessly.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://developers.google.com/mediapipe&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Monitoring NLP models in production</title>

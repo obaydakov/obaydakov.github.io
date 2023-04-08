@@ -5,10 +5,54 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DoMore.ai</title>
+      <link>/post/2023-04-08-domore-ai/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-08-domore-ai/</guid>
+      <description>&lt;p&gt;Your Personalized AI Tools Catalog&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://domore.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JARVIS</title>
+      <link>/post/2023-04-08-jarvis/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-08-jarvis/</guid>
+      <description>&lt;p&gt;Language serves as an interface for LLMs to connect numerous AI models for solving complicated AI tasks!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/JARVIS&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On-device machine learning for everyone</title>
+      <link>/post/2023-04-08-on-device-machine-learning-for-everyone/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-08-on-device-machine-learning-for-everyone/</guid>
+      <description>&lt;p&gt;Delight your customers with innovative machine learning features. MediaPipe contains everything that you need to customize and deploy to mobile (Android, iOS), web, desktop, edge devices, and IoT, effortlessly.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://developers.google.com/mediapipe&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stunning.so - Build websites with AI.</title>
+      <link>/post/2023-04-08-stunning-so-build-websites-with-ai/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-08-stunning-so-build-websites-with-ai/</guid>
+      <description>&lt;p&gt;Build websites with AI.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stunning.so/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fixie Developer Portal</title>

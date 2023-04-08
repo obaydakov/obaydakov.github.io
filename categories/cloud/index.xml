@@ -5,10 +5,32 @@
     <description>Recent content in cloud on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Reference Architecture Diagrams</title>
+      <link>/post/2023-04-08-aws-reference-architecture-diagrams/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-08-aws-reference-architecture-diagrams/</guid>
+      <description>&lt;p&gt;AWS Reference Architecture Diagrams&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/architecture/reference-architecture-diagrams/?solutions-all.sort-by=item.additionalFields.sortDate&amp;amp;solutions-all.sort-order=desc&amp;amp;whitepapers-main.sort-by=item.additionalFields.sortDate&amp;amp;whitepapers-main.sort-order=desc&amp;amp;awsf.whitepapers-tech-category=*all&amp;amp;awsf.whitepapers-industries=*all#ai-ml&amp;amp;awsf.whitepapers-industries=*all&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Azure OpenAI Embeddings QnA</title>
+      <link>/post/2023-04-08-azure-openai-embeddings-qna/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-08-azure-openai-embeddings-qna/</guid>
+      <description>&lt;p&gt;A simple web application for a OpenAI-enabled document search. This repo uses Azure OpenAI Service for creating embeddings vectors from documents. For answering the question of a user, it retrieves the most relevant document and then uses GPT-3 to extract the matching answer for the question.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna#run-everything-locally-in-python-with-conda-webapp-only&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How to deploy Diffusers in the cloud</title>

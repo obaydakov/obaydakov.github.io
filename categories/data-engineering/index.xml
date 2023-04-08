@@ -5,10 +5,32 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Modern Replacement For Airflow</title>
+      <link>/post/2023-04-08-a-modern-replacement-for-airflow/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-08-a-modern-replacement-for-airflow/</guid>
+      <description>&lt;p&gt;Mage is an open-source data pipeline tool for transforming and integrating data. Mage is a modern replacement for Airflow.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bootcamp.uxdesign.cc/a-modern-replacement-for-airflow-95488a8fd8e8&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AWS Reference Architecture Diagrams</title>
+      <link>/post/2023-04-08-aws-reference-architecture-diagrams/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-08-aws-reference-architecture-diagrams/</guid>
+      <description>&lt;p&gt;AWS Reference Architecture Diagrams&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/architecture/reference-architecture-diagrams/?solutions-all.sort-by=item.additionalFields.sortDate&amp;amp;solutions-all.sort-order=desc&amp;amp;whitepapers-main.sort-by=item.additionalFields.sortDate&amp;amp;whitepapers-main.sort-order=desc&amp;amp;awsf.whitepapers-tech-category=*all&amp;amp;awsf.whitepapers-industries=*all#ai-ml&amp;amp;awsf.whitepapers-industries=*all&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build internal tools, remarkably fast</title>
