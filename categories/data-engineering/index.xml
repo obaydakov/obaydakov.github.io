@@ -5,10 +5,21 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 System Design Concepts I Wish I Knew Before the Interview</title>
+      <link>/post/2023-04-15-16-system-design-concepts-i-wish-i-knew-before-the-interview/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-16-system-design-concepts-i-wish-i-knew-before-the-interview/</guid>
+      <description>&lt;p&gt;Mastering System Design Interview: Essential Concepts for Every Software Engineer&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://levelup.gitconnected.com/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b#7990&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Modern Replacement For Airflow</title>

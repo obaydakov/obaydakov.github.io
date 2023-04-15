@@ -6,7 +6,107 @@
     <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>11 Open Source Data Exploration Tools You Need to Know in 2023</title>
+      <link>/post/2023-04-15-11-open-source-data-exploration-tools-you-need-to-know-in-2023/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-11-open-source-data-exploration-tools-you-need-to-know-in-2023/</guid>
+      <description>There are many well-known libraries and platforms for data analysis such as Pandas and Tableau, in addition to analytical databases like ClickHouse, MariaDB, Apache Druid, Apache Pinot, Google BigQuery, Amazon RedShift, etc.
+Link</description>
+    </item>
+    
+    <item>
+      <title>16 System Design Concepts I Wish I Knew Before the Interview</title>
+      <link>/post/2023-04-15-16-system-design-concepts-i-wish-i-knew-before-the-interview/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-16-system-design-concepts-i-wish-i-knew-before-the-interview/</guid>
+      <description>Mastering System Design Interview: Essential Concepts for Every Software Engineer
+Link</description>
+    </item>
+    
+    <item>
+      <title>A Fast Library for Automated Machine Learning &amp; Tuning</title>
+      <link>/post/2023-04-15-a-fast-library-for-automated-machine-learning-tuning/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-a-fast-library-for-automated-machine-learning-tuning/</guid>
+      <description>FLAML is a lightweight Python library that finds accurate machine learning models automatically, efficiently and economically.
+Link</description>
+    </item>
+    
+    <item>
+      <title>AI Website Builder</title>
+      <link>/post/2023-04-15-ai-website-builder/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-ai-website-builder/</guid>
+      <description>Get a jumpstart on website creation. Build or recreate any website in minutes with the power of AI.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Auto-GPT: An Autonomous GPT-4 Experiment</title>
+      <link>/post/2023-04-15-auto-gpt-an-autonomous-gpt-4-experiment/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-auto-gpt-an-autonomous-gpt-4-experiment/</guid>
+      <description>Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model. This program, driven by GPT-4, chains together LLM &amp;ldquo;thoughts&amp;rdquo;, to autonomously achieve whatever goal you set. As one of the first examples of GPT-4 running fully autonomously, Auto-GPT pushes the boundaries of what is possible with AI.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Build NLP Applications in Minutes</title>
+      <link>/post/2023-04-15-build-nlp-applications-in-minutes/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-build-nlp-applications-in-minutes/</guid>
+      <description>GradientJ provides everything you need to build Large Language Model applications in minutes and manage them forever
+Link</description>
+    </item>
+    
+    <item>
+      <title>D:\Blog\data-blog\content\post\2023-04-15-build-nlp-applications-in-minutes\images\image.png</title>
+      <link>/post/2023-04-15-d-blog-data-blog-content-post-2023-04-15-build-nlp-applications-in-minutes-images-image-png/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-d-blog-data-blog-content-post-2023-04-15-build-nlp-applications-in-minutes-images-image-png/</guid>
+      <description>In this article I will show you how you can run state-of-the-art large language models on your local computer. Yes, you’ve heard right.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Eight Things to Know about Large Language Models</title>
+      <link>/post/2023-04-15-eight-things-to-know-about-large-language-models/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-eight-things-to-know-about-large-language-models/</guid>
+      <description>The widespread public deployment of large language models (LLMs) in recent months has prompted a wave of new attention and engagement from advocates, policymakers, and scholars from many fields. This attention is a timely response to the many urgent questions that this technology raises, but it can sometimes miss important considerations. This paper surveys the evidence for eight potentially surprising such points
+Link</description>
+    </item>
+    
+    <item>
+      <title>Extract Structured Data From Text: Expert Mode (Using Kor)</title>
+      <link>/post/2023-04-15-extract-structured-data-from-text-expert-mode-using-kor/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-extract-structured-data-from-text-expert-mode-using-kor/</guid>
+      <description>For complicated data extraction you need a robust library. The Kor Library (created by Eugene Yurtsev) is an awesome tool just for this. We are going to explore using Kor with a practical use case.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications</title>
+      <link>/post/2023-04-15-task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/</guid>
+      <description>In this research, we propose a novel task-driven autonomous agent that leverages OpenAI’s GPT-4 language model, Pinecone vector search, and the LangChain framework to perform a wide range of tasks across diverse domains.
+Link</description>
+    </item>
+    
     <item>
       <title>A Modern Replacement For Airflow</title>
       <link>/post/2023-04-08-a-modern-replacement-for-airflow/</link>
@@ -105,104 +205,6 @@ Link</description>
       <guid>/post/2023-04-08-nanogpt/</guid>
       <description>The simplest, fastest repository for training/finetuning medium-sized GPTs.
 Link</description>
-    </item>
-    
-    <item>
-      <title>On-device machine learning for everyone</title>
-      <link>/post/2023-04-08-on-device-machine-learning-for-everyone/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-04-08-on-device-machine-learning-for-everyone/</guid>
-      <description>Delight your customers with innovative machine learning features. MediaPipe contains everything that you need to customize and deploy to mobile (Android, iOS), web, desktop, edge devices, and IoT, effortlessly.
-Link</description>
-    </item>
-    
-    <item>
-      <title>phind - The AI search engine for developers.</title>
-      <link>/post/2023-04-08-phind-the-ai-search-engine-for-developers/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-04-08-phind-the-ai-search-engine-for-developers/</guid>
-      <description>The AI search engine for developers.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Stunning.so - Build websites with AI.</title>
-      <link>/post/2023-04-08-stunning-so-build-websites-with-ai/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-04-08-stunning-so-build-websites-with-ai/</guid>
-      <description>Build websites with AI.
-Link</description>
-    </item>
-    
-    <item>
-      <title>TRANSFORMER MODELS: AN INTRODUCTION AND CATALOG</title>
-      <link>/post/2023-04-08-transformer-models-an-introduction-and-catalog/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-04-08-transformer-models-an-introduction-and-catalog/</guid>
-      <description>In the past few years we have seen the meteoric appearance of dozens of models of the Transformer family, all of which have funny, but not self-explanatory, names. The goal of this paper is to offer a somewhat comprehensive but simple catalog and classification of the most popular Transformer models. The paper also includes an introduction to the most important aspects and innovation in Transformer models.
-Link</description>
-    </item>
-    
-    <item>
-      <title>7 Useful Python Libraries You Should Use in Your Next Project</title>
-      <link>/post/2023-03-31-7-useful-python-libraries-you-should-use-in-your-next-project/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-31-7-useful-python-libraries-you-should-use-in-your-next-project/</guid>
-      <description>There is a proverb “You don’t have to reinvent the wheel”. Libraries are the best example of that. It helps you to write complex and time-consuming functionality in an easy way. According to me, a good project uses some of the best libraries available.
-Link</description>
-    </item>
-    
-    <item>
-      <title>AI Tool Master List</title>
-      <link>/post/2023-03-31-ai-tool-master-list/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-31-ai-tool-master-list/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>Build internal tools, remarkably fast</title>
-      <link>/post/2023-03-31-build-internal-tools-remarkably-fast/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-31-build-internal-tools-remarkably-fast/</guid>
-      <description>Stop wrestling with UI libraries, hacking together data sources, and figuring out access controls. Start shipping apps that move your business forward
-Link</description>
-    </item>
-    
-    <item>
-      <title>ChatGPT &#43; System Design</title>
-      <link>/post/2023-03-31-chatgpt-system-design/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-31-chatgpt-system-design/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>ChatGPT Gets Its “Wolfram Superpowers”!</title>
-      <link>/post/2023-03-31-chatgpt-gets-its-wolfram-superpowers/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-31-chatgpt-gets-its-wolfram-superpowers/</guid>
-      <description>To enable the functionality described here, select and install the Wolfram plugin from within ChatGPT.
-Note that this capability is so far available only to some ChatGPT Plus users; for more information, see OpenAI’s announcement.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Excalidraw</title>
-      <link>/post/2023-03-31-excalidraw/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-03-31-excalidraw/</guid>
-      <description>Link</description>
     </item>
     
   </channel>

@@ -5,10 +5,21 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>11 Open Source Data Exploration Tools You Need to Know in 2023</title>
+      <link>/post/2023-04-15-11-open-source-data-exploration-tools-you-need-to-know-in-2023/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-11-open-source-data-exploration-tools-you-need-to-know-in-2023/</guid>
+      <description>&lt;p&gt;There are many well-known libraries and platforms for data analysis such as Pandas and Tableau, in addition to analytical databases like ClickHouse, MariaDB, Apache Druid, Apache Pinot, Google BigQuery, Amazon RedShift, etc.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://odsc.medium.com/11-open-source-data-exploration-tools-you-need-to-know-in-2023-f66d212ee077&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>7 Useful Python Libraries You Should Use in Your Next Project</title>

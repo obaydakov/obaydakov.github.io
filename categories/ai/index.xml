@@ -5,10 +5,100 @@
     <description>Recent content in AI on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/ai/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Fast Library for Automated Machine Learning &amp; Tuning</title>
+      <link>/post/2023-04-15-a-fast-library-for-automated-machine-learning-tuning/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-a-fast-library-for-automated-machine-learning-tuning/</guid>
+      <description>&lt;p&gt;FLAML is a lightweight Python library that finds accurate machine learning models automatically, efficiently and economically.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/FLAML?utm_source=substack&amp;amp;utm_medium=email&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI Website Builder</title>
+      <link>/post/2023-04-15-ai-website-builder/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-ai-website-builder/</guid>
+      <description>&lt;p&gt;Get a jumpstart on website creation.
+Build or recreate any website in minutes
+with the power of AI.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://10web.io/ai-website-builder/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Auto-GPT: An Autonomous GPT-4 Experiment</title>
+      <link>/post/2023-04-15-auto-gpt-an-autonomous-gpt-4-experiment/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-auto-gpt-an-autonomous-gpt-4-experiment/</guid>
+      <description>&lt;p&gt;Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model. This program, driven by GPT-4, chains together LLM &amp;ldquo;thoughts&amp;rdquo;, to autonomously achieve whatever goal you set. As one of the first examples of GPT-4 running fully autonomously, Auto-GPT pushes the boundaries of what is possible with AI.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Significant-Gravitas/Auto-GPT&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build NLP Applications in Minutes</title>
+      <link>/post/2023-04-15-build-nlp-applications-in-minutes/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-build-nlp-applications-in-minutes/</guid>
+      <description>&lt;p&gt;GradientJ provides everything you need to build Large Language Model applications in minutes and manage them forever&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gradientj.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>D:\Blog\data-blog\content\post\2023-04-15-build-nlp-applications-in-minutes\images\image.png</title>
+      <link>/post/2023-04-15-d-blog-data-blog-content-post-2023-04-15-build-nlp-applications-in-minutes-images-image-png/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-d-blog-data-blog-content-post-2023-04-15-build-nlp-applications-in-minutes-images-image-png/</guid>
+      <description>&lt;p&gt;In this article I will show you how you can run state-of-the-art large language models on your local computer. Yes, you’ve heard right.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@martin-thissen/llama-alpaca-chatgpt-on-your-local-computer-tutorial-17adda704c23&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eight Things to Know about Large Language Models</title>
+      <link>/post/2023-04-15-eight-things-to-know-about-large-language-models/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-eight-things-to-know-about-large-language-models/</guid>
+      <description>&lt;p&gt;The widespread public deployment of large language models (LLMs) in recent months has prompted a wave of new attention and engagement from advocates, policymakers, and scholars from many fields. This attention is a timely response to the many urgent questions that this technology raises, but it can sometimes miss important considerations. This paper surveys the evidence for eight potentially surprising such points&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cims.nyu.edu/~sbowman/eightthings.pdf?utm_source=substack&amp;amp;utm_medium=email&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Extract Structured Data From Text: Expert Mode (Using Kor)</title>
+      <link>/post/2023-04-15-extract-structured-data-from-text-expert-mode-using-kor/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-extract-structured-data-from-text-expert-mode-using-kor/</guid>
+      <description>&lt;p&gt;For complicated data extraction you need a robust library. The Kor Library (created by Eugene Yurtsev) is an awesome tool just for this. We are going to explore using Kor with a practical use case.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Expert%20Structured%20Output%20(Using%20Kor).ipynb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications</title>
+      <link>/post/2023-04-15-task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-15-task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/</guid>
+      <description>&lt;p&gt;In this research, we propose a novel task-driven autonomous agent that leverages OpenAI’s GPT-4 language model, Pinecone vector search, and the LangChain framework to perform a wide range of tasks across diverse domains.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AI Code Translator</title>
