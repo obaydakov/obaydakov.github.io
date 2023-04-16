@@ -5,10 +5,43 @@
     <description>Recent content in apps on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DocsGPT</title>
+      <link>/post/2023-04-16-docsgpt/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-docsgpt/</guid>
+      <description>&lt;p&gt;DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in project documentation. With its integration of the powerful GPT models, developers can easily ask questions about a project and receive accurate answers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/arc53/docsgpt&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enterprise Integration Architecture Patterns</title>
+      <link>/post/2023-04-16-enterprise-integration-architecture-patterns/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-enterprise-integration-architecture-patterns/</guid>
+      <description>&lt;p&gt;Architecture essays&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/analysts-corner/enterprise-integration-architecture-patterns-ab26b62c1c3a&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Steamship Python Client Library For LangChain</title>
+      <link>/post/2023-04-16-steamship-python-client-library-for-langchain/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-steamship-python-client-library-for-langchain/</guid>
+      <description>&lt;p&gt;Steamship is the fastest way to build, ship, and use full-lifecycle language AI.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/steamship-core/steamship-langchain&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DoMore.ai</title>

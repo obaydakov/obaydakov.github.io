@@ -5,10 +5,21 @@
     <description>Recent content in computer-vision on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Your end-to-end stack for cloud compute</title>
+      <link>/post/2023-04-16-your-end-to-end-stack-for-cloud-compute/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-your-end-to-end-stack-for-cloud-compute/</guid>
+      <description>&lt;p&gt;Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://modal.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OpenPose has represented the first real-time multi-person system to jointly detect human body</title>

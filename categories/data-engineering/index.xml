@@ -5,10 +5,33 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Enterprise Integration Architecture Patterns</title>
+      <link>/post/2023-04-16-enterprise-integration-architecture-patterns/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-enterprise-integration-architecture-patterns/</guid>
+      <description>&lt;p&gt;Architecture essays&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/analysts-corner/enterprise-integration-architecture-patterns-ab26b62c1c3a&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vercel is the platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration</title>
+      <link>/post/2023-04-16-vercel-is-the-platform-for-frontend-developers-providing-the-speed-and-reliability-innovators-need-to-create-at-the-moment-of-inspiration/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-vercel-is-the-platform-for-frontend-developers-providing-the-speed-and-reliability-innovators-need-to-create-at-the-moment-of-inspiration/</guid>
+      <description>&lt;p&gt;Vercel is the platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vercel.com/templates&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/homanp/vercel-langchain&#34;&gt;LangChain&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>16 System Design Concepts I Wish I Knew Before the Interview</title>

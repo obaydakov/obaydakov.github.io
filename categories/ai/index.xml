@@ -5,10 +5,186 @@
     <description>Recent content in AI on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/ai/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>7 ways to deploy GPT-3 APIs and LangChain Apps</title>
+      <link>/post/2023-04-16-7-ways-to-deploy-gpt-3-apis-and-langchain-apps/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-7-ways-to-deploy-gpt-3-apis-and-langchain-apps/</guid>
+      <description>&lt;p&gt;Build and deploy LLM prompt APIs easily&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ramsrigoutham.medium.com/7-ways-to-deploy-gpt-3-apis-and-langchain-apps-baf225950834&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agent GPT</title>
+      <link>/post/2023-04-16-agent-gpt/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-agent-gpt/</guid>
+      <description>&lt;p&gt;Assemble, configure, and deploy autonomous AI Agents in your browser.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://agentgpt.reworkd.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Announcing New Tools for Building with Generative AI on AWS</title>
+      <link>/post/2023-04-16-announcing-new-tools-for-building-with-generative-ai-on-aws/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-announcing-new-tools-for-building-with-generative-ai-on-aws/</guid>
+      <description>&lt;p&gt;The seeds of a machine learning (ML) paradigm shift have existed for decades, but with the ready availability of scalable compute capacity, a massive proliferation of data, and the rapid advancement of ML technologies, customers across industries are transforming their businesses.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/?trk=9287bd03-8813-46e7-bd0a-932680babfe7&amp;amp;sc_channel=sm&amp;amp;utm_source=substack&amp;amp;utm_medium=email&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building LLM applications for production</title>
+      <link>/post/2023-04-16-building-llm-applications-for-production/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-building-llm-applications-for-production/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://huyenchip.com/2023/04/11/llm-engineering.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society</title>
+      <link>/post/2023-04-16-camel-communicative-agents-for-mind-exploration-of-large-scale-language-model-society/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-camel-communicative-agents-for-mind-exploration-of-large-scale-language-model-society/</guid>
+      <description>&lt;p&gt;The rapid advancement of conversational and chat-based language models has led to remarkable progress in complex task-solving. However, their success heavily relies on human input to guide the conversation, which can be challenging and time-consuming.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lightaime/camel&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Lake</title>
+      <link>/post/2023-04-16-deep-lake/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-deep-lake/</guid>
+      <description>&lt;p&gt;This notebook showcases basic functionality related to Deep Lake. While Deep Lake can store embeddings, it is capable of storing any type of data. It is a fully fledged serverless data lake with version control, query engine and streaming dataloader to deep learning frameworks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/en/latest/modules/indexes/vectorstores/examples/deeplake.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Lake Vector Store in LangChain</title>
+      <link>/post/2023-04-16-deep-lake-vector-store-in-langchain/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-deep-lake-vector-store-in-langchain/</guid>
+      <description>&lt;p&gt;How to Use Deep Lake as a Vector Store in LangChain&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.activeloop.ai/tutorials/deep-lake-vector-store-in-langchain&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DocsGPT</title>
+      <link>/post/2023-04-16-docsgpt/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-docsgpt/</guid>
+      <description>&lt;p&gt;DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in project documentation. With its integration of the powerful GPT models, developers can easily ask questions about a project and receive accurate answers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/arc53/docsgpt&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Extract Structured Data From Text: Expert Mode</title>
+      <link>/post/2023-04-16-extract-structured-data-from-text-expert-mode/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-extract-structured-data-from-text-expert-mode/</guid>
+      <description>&lt;p&gt;For complicated data extraction you need a robust library. The Kor Library (created by Eugene Yurtsev) is an awesome tool just for this.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Expert%20Structured%20Output%20(Using%20Kor).ipynb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to fine tune and serve LLMs simply, quickly and cost effectively using Ray &#43; DeepSpeed &#43; HuggingFace</title>
+      <link>/post/2023-04-16-how-to-fine-tune-and-serve-llms-simply-quickly-and-cost-effectively-using-ray-deepspeed-huggingface/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-how-to-fine-tune-and-serve-llms-simply-quickly-and-cost-effectively-using-ray-deepspeed-huggingface/</guid>
+      <description>&lt;p&gt;This is part 4 of our blog series on Generative AI. In the previous blog posts we explained why Ray is a sound platform for Generative AI, we showed how it can push the performance limits, and how you can use Ray for stable diffusion.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.anyscale.com/blog/how-to-fine-tune-and-serve-llms-simply-quickly-and-cost-effectively-using&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QA by traversing knowledge graphs</title>
+      <link>/post/2023-04-16-qa-by-traversing-knowledge-graphs/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-qa-by-traversing-knowledge-graphs/</guid>
+      <description>&lt;p&gt;Build your knowledge bases&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1lSNhtyYA2lDe-ykMyAgzkI-vbQfPr1hQ#scrollTo=iTNScyhQ8PLi&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Steamship Python Client Library For LangChain</title>
+      <link>/post/2023-04-16-steamship-python-client-library-for-langchain/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-steamship-python-client-library-for-langchain/</guid>
+      <description>&lt;p&gt;Steamship is the fastest way to build, ship, and use full-lifecycle language AI.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/steamship-core/steamship-langchain&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ultimate Guide to LangChain &amp; Deep Lake: Build ChatGPT to Answer Questions on Your Financial Data</title>
+      <link>/post/2023-04-16-ultimate-guide-to-langchain-deep-lake-build-chatgpt-to-answer-questions-on-your-financial-data/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-ultimate-guide-to-langchain-deep-lake-build-chatgpt-to-answer-questions-on-your-financial-data/</guid>
+      <description>&lt;p&gt;Build a question-answering tool based on financial data with LangChain &amp;amp; Deep Lake&amp;rsquo;s unified &amp;amp; streamable data store. Prototype with LangChain rapidly with no need to recompute embeddings. Train LLMs faster &amp;amp; cheaper with LangChain &amp;amp; Deep Lake.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.activeloop.ai/resources/ultimate-guide-to-lang-chain-deep-lake-build-chat-gpt-to-answer-questions-on-your-financial-data/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Use LangChain, GPT and Deep Lake to work with code base</title>
+      <link>/post/2023-04-16-use-langchain-gpt-and-deep-lake-to-work-with-code-base/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-use-langchain-gpt-and-deep-lake-to-work-with-code-base/</guid>
+      <description>&lt;p&gt;In this tutorial, we are going to use Langchain + Deep Lake with GPT to analyze the code base of the LangChain itself.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/en/latest/use_cases/code/code-analysis-deeplake.html?highlight=knowlege%20base&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vercel is the platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration</title>
+      <link>/post/2023-04-16-vercel-is-the-platform-for-frontend-developers-providing-the-speed-and-reliability-innovators-need-to-create-at-the-moment-of-inspiration/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-vercel-is-the-platform-for-frontend-developers-providing-the-speed-and-reliability-innovators-need-to-create-at-the-moment-of-inspiration/</guid>
+      <description>&lt;p&gt;Vercel is the platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vercel.com/templates&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/homanp/vercel-langchain&#34;&gt;LangChain&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Your end-to-end stack for cloud compute</title>
+      <link>/post/2023-04-16-your-end-to-end-stack-for-cloud-compute/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-16-your-end-to-end-stack-for-cloud-compute/</guid>
+      <description>&lt;p&gt;Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://modal.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Fast Library for Automated Machine Learning &amp; Tuning</title>

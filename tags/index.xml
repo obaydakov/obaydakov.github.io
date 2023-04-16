@@ -5,24 +5,42 @@
     <description>Recent content in Tags on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>libraries</title>
-      <link>/tags/libraries/</link>
-      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <title>apps</title>
+      <link>/tags/apps/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/libraries/</guid>
+      <guid>/tags/apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer-vision</title>
+      <link>/tags/computer-vision/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design</title>
+      <link>/tags/design/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nlp</title>
       <link>/tags/nlp/</link>
-      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/nlp/</guid>
       <description></description>
@@ -31,18 +49,18 @@
     <item>
       <title>tools</title>
       <link>/tags/tools/</link>
-      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/tools/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>apps</title>
-      <link>/tags/apps/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <title>libraries</title>
+      <link>/tags/libraries/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/apps/</guid>
+      <guid>/tags/libraries/</guid>
       <description></description>
     </item>
     
@@ -92,29 +110,11 @@
     </item>
     
     <item>
-      <title>computer-vision</title>
-      <link>/tags/computer-vision/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>courses</title>
       <link>/tags/courses/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>design</title>
-      <link>/tags/design/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/design/</guid>
       <description></description>
     </item>
     
