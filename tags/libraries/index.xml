@@ -5,10 +5,21 @@
     <description>Recent content in libraries on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/libraries/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Python Packages for Data Engineers</title>
+      <link>/post/2023-04-22-python-packages-for-data-engineers/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-python-packages-for-data-engineers/</guid>
+      <description>&lt;p&gt;common packages used in python while working as Data Engineers&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.devgenius.io/python-packages-for-data-engineers-a7477e551ebb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>11 Open Source Data Exploration Tools You Need to Know in 2023</title>

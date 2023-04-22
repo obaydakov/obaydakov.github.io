@@ -5,10 +5,207 @@
     <description>Recent content in AI on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/ai/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Terraform Expert - Harness the Power of ChatGPT to Generate Terraform Code</title>
+      <link>/post/2023-04-22-terraform-expert-harness-the-power-of-chatgpt-to-generate-terraform-code/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-terraform-expert-harness-the-power-of-chatgpt-to-generate-terraform-code/</guid>
+      <description>&lt;p&gt;Harness the power of ChatGPT to quickly and easily generate Terraform code for your infrastructure needs. This tutorial will walk you through the process step-by-step&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=f0RXYftI210&amp;amp;ab_channel=LondonIAC%2FDennisMcCarthy%2FAutomationEngineer&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI Collection</title>
+      <link>/post/2023-04-22-ai-collection/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-ai-collection/</guid>
+      <description>&lt;p&gt;THE GENERATIVE AI LANDSCAPE&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ai-collection/ai-collection&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI Playground</title>
+      <link>/post/2023-04-22-ai-playground/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-ai-playground/</guid>
+      <description>&lt;p&gt;AI Playground&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://play.vercel.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI Talks &#43; Streamlit</title>
+      <link>/post/2023-04-22-ai-talks-streamlit/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-ai-talks-streamlit/</guid>
+      <description>&lt;p&gt;A ChatGPT API wrapper, providing a user-friendly Streamlit web interface.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/dKosarevsky/AI-Talks&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection in Time Series using ChatGPT</title>
+      <link>/post/2023-04-22-anomaly-detection-in-time-series-using-chatgpt/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-anomaly-detection-in-time-series-using-chatgpt/</guid>
+      <description>&lt;p&gt;How to explore and evaluate a data analysis topic with an automated conversational framework?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@sztistvan/anomaly-detection-in-time-series-using-chatgpt-3fc48f958c88&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Awesome ChatGPT</title>
+      <link>/post/2023-04-22-awesome-chatgpt/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-awesome-chatgpt/</guid>
+      <description>&lt;p&gt;Curated list of resources for ChatGPT and GPT-3 from OpenAI&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/humanloop/awesome-chatgpt&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Awesome ChatGPT 2</title>
+      <link>/post/2023-04-22-awesome-chatgpt-2/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-awesome-chatgpt-2/</guid>
+      <description>&lt;p&gt;A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/eon01/awesome-chatgpt&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Awesome LLMOps</title>
+      <link>/post/2023-04-22-awesome-llmops/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-awesome-llmops/</guid>
+      <description>&lt;p&gt;An awesome &amp;amp; curated list of the best LLMOps tools for developers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/tensorchord/Awesome-LLMOps#training&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Baby AGIx Langchain</title>
+      <link>/post/2023-04-22-baby-agix-langchain/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-baby-agix-langchain/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/linuxandchill/BabyAGIxLangchain/blob/main/BabyAGIxLangchain.ipynb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT Course – Use The OpenAI API to Code 5 Projects</title>
+      <link>/post/2023-04-22-chatgpt-course-use-the-openai-api-to-code-5-projects/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-chatgpt-course-use-the-openai-api-to-code-5-projects/</guid>
+      <description>&lt;p&gt;Learn how to use the OpenAI API to create five projects, including a ChatGPT clone, a DALL-E Image Creator, and a SQL Generator. This is a dive deep into the world of the OpenAI API, exploring its diverse capabilities and potential applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cohere - Entity Extraction</title>
+      <link>/post/2023-04-22-cohere-entity-extraction/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-cohere-entity-extraction/</guid>
+      <description>&lt;p&gt;Extracting a piece of information from text is a common need in language processing systems. LLMs can at times extract entities which are harder to extract using other NLP methods (and where pre-training provides the model with some context on these entities). This is an overview of using generative LLMs to extract entities&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.cohere.com/docs/entity-extraction&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DoMore.ai</title>
+      <link>/post/2023-04-22-domore-ai/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-domore-ai/</guid>
+      <description>&lt;p&gt;Your Personalized AI Tools Catalog 12x your output: get a year’s work done in a month… or chill&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://domore.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fine-tuning BLOOM: GenerAd AI Tutorial from Building Generative AI Applications Workshop</title>
+      <link>/post/2023-04-22-fine-tuning-bloom-generad-ai-tutorial-from-building-generative-ai-applications-workshop/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-fine-tuning-bloom-generad-ai-tutorial-from-building-generative-ai-applications-workshop/</guid>
+      <description>&lt;p&gt;In this tutorial Chris Alexiuk will walk you through a sample project from the Building Generative AI Applications Workshop at FourthBrain.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Nf-b1VXD3kI&amp;amp;ab_channel=FourthBrainAI&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to create a private ChatGPT with your own data</title>
+      <link>/post/2023-04-22-how-to-create-a-private-chatgpt-with-your-own-data/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-how-to-create-a-private-chatgpt-with-your-own-data/</guid>
+      <description>&lt;p&gt;Learn the architecture and data requirements needed to create your own Q&amp;amp;A engine with ChatGPT/LLMs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Transcribe Speech to Text with ChatGPT and Notion</title>
+      <link>/post/2023-04-22-how-to-transcribe-speech-to-text-with-chatgpt-and-notion/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-how-to-transcribe-speech-to-text-with-chatgpt-and-notion/</guid>
+      <description>&lt;p&gt;Want to record voice memos, automatically transcribe and summarize them, and send the transcripts and summaries to Notion?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://thomasjfrank.com/how-to-transcribe-audio-to-text-with-chatgpt-and-notion/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LangChain Agents Deep Dive with GPT 3.5</title>
+      <link>/post/2023-04-22-langchain-agents-deep-dive-with-gpt-3-5/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-langchain-agents-deep-dive-with-gpt-3-5/</guid>
+      <description>&lt;p&gt;Large Language Models (LLMs) are incredibly powerful, yet they lack particular abilities that the &amp;ldquo;dumbest&amp;rdquo; computer programs can handle with ease. Logic, calculation, and search are examples of where computers typically excel, but LLMs struggle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jSP-gSEyVeI&amp;amp;ab_channel=JamesBriggs&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pinecone - NER-Powered Semantic Search</title>
+      <link>/post/2023-04-22-pinecone-ner-powered-semantic-search/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-pinecone-ner-powered-semantic-search/</guid>
+      <description>&lt;p&gt;This notebook shows how to use Named Entity Recognition (NER) for hybrid metadata + vector search with Pinecone.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.pinecone.io/docs/ner-search&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TrOCR — Transformer-based Optical Recognition Model</title>
+      <link>/post/2023-04-22-trocr-transformer-based-optical-recognition-model/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-trocr-transformer-based-optical-recognition-model/</guid>
+      <description>&lt;p&gt;The electronic translation of images of typed, handwritten, or printed text into machine-encoded text is known as optical character recognition (OCR). The source could be a page that has been scanned, a photo of the page, or text that has been overlaid on an image. OCR is used to convert the text from these sources into machine-readable form.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@tejpal.abhyuday/trocr-transformer-based-optical-recognition-model-811f7b3217da&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>7 ways to deploy GPT-3 APIs and LangChain Apps</title>

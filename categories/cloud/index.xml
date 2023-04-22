@@ -5,10 +5,21 @@
     <description>Recent content in cloud on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon Redshift Merge Statement – Example</title>
+      <link>/post/2023-04-22-amazon-redshift-merge-statement-example/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-04-22-amazon-redshift-merge-statement-example/</guid>
+      <description>&lt;p&gt;The MERGE command or statement in standard SQL is used to perform incremental load. i.e. load only new set of records into target table. With the help of SQL MERGE statement, you can perform UPDATE and INSERT simultaneously based on the merge condition.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dwgeek.com/amazon-redshift-merge-statement-alternative-and-example.html/#:~:text=The%20MERGE%20command%20or%20statement,based%20on%20the%20merge%20condition&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Announcing New Tools for Building with Generative AI on AWS</title>
