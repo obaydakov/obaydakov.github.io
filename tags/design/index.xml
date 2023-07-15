@@ -196,9 +196,9 @@ Their purpose is to provide guidance for technologists to develop machine learni
       <guid>/post/2021-11-14-ml-app-design/</guid>
       <description>&lt;h3 id=&#34;build-and-deploy-data-science-products--a-practical-guide-to-building-a-machine-translation-application&#34;&gt;Build and Deploy Data Science Products : A Practical Guide to Building a Machine Translation Application&lt;/h3&gt;
 &lt;p&gt;This journey is going to be a 8 steps.&lt;/p&gt;
-&lt;p&gt;In this series we will take a use case, understand the solution landscape and its evolution, 
-explore different architecture choices, look under the hood of the architecture to understand the nuts and bolts, 
-build a prototype, convert the prototype into production ready code, build an application from the production ready code 
+&lt;p&gt;In this series we will take a use case, understand the solution landscape and its evolution,
+explore different architecture choices, look under the hood of the architecture to understand the nuts and bolts,
+build a prototype, convert the prototype into production ready code, build an application from the production ready code
 and finally understand the process for deploying the application .&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;

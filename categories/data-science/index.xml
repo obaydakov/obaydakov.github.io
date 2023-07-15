@@ -5,10 +5,43 @@
     <description>Recent content in data-science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>11 Open Source Data Exploration Tools You Need to Know in 2023</title>
+      <link>/post/2023-07-15-11-open-source-data-exploration-tools-you-need-to-know-in-2023/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-11-open-source-data-exploration-tools-you-need-to-know-in-2023/</guid>
+      <description>&lt;p&gt;There are many well-known libraries and platforms for data analysis such as Pandas and Tableau, in addition to analytical databases like ClickHouse, MariaDB, Apache Druid, Apache Pinot, Google BigQuery, Amazon RedShift, etc. While machine learning frameworks and platforms like PyTorch, TensorFlow, and scikit-learn can perform data exploration well, it’s not their primary intent. There are also plenty of data visualization libraries available that can handle exploration like Plotly, matplotlib, D3, Apache ECharts, Bokeh, etc. In this article, we’re going to cover 11 data exploration tools that are specifically designed for exploration and analysis.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://odsc.medium.com/11-open-source-data-exploration-tools-you-need-to-know-in-2023-f66d212ee077&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automated Feature Engineering in Python</title>
+      <link>/post/2023-07-15-automated-feature-engineering-in-python/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-automated-feature-engineering-in-python/</guid>
+      <description>&lt;p&gt;A guide to augmenting your dataset with new and informative features using Upgini&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/automated-feature-engineering-in-python-5733426530bf&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Contextual Bandit models in large action spaces at Instacart</title>
+      <link>/post/2023-07-15-using-contextual-bandit-models-in-large-action-spaces-at-instacart/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-using-contextual-bandit-models-in-large-action-spaces-at-instacart/</guid>
+      <description>&lt;p&gt;Contextual bandit models are a popular approach for personalizing the user experience by recommending relevant products. However, these models become challenging to train and evaluate when the number of actions, or products, in the recommendation pool become large. In this blog post, we will explore the difficulties associated with using contextual bandit models in large action spaces and propose potential solutions to overcome these challenges. One of these solutions was recently launched into production at Instacart.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tech.instacart.com/using-contextual-bandit-models-in-large-action-spaces-at-instacart-cb7ab4d8fa4f&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Creating behavioral profiles of your customer</title>

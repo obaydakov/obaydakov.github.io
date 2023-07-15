@@ -5,10 +5,31 @@
     <description>Recent content in data-engineering on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MLOps Tools for NLP Projects</title>
+      <link>/post/2023-07-15-mlops-tools-for-nlp-projects/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-mlops-tools-for-nlp-projects/</guid>
+      <description>&lt;p&gt;Chatbots, summarizing apps, Siri, Alexa – these are just a few cool Natural Language Processing (NLP) projects which are already adopted at mass scale. Have you ever wondered how they’re managed, continuously improved, and maintained? This is exactly the question that we’re going to answer in this article.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://neptune.ai/blog/mlops-tools-for-nlp-projects&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>System Design Blueprint: The Ultimate Guide</title>
+      <link>/post/2023-07-15-system-design-blueprint-the-ultimate-guide/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-system-design-blueprint-the-ultimate-guide/</guid>
+      <description>&lt;p&gt;Developing a robust, scalable, and efficient system can be daunting. However, understanding the key concepts and components can make the process more manageable. In this blog post, we’ll explore essential system design components such as DNS, load balancing, API Gateway, and more, along with a concise cheat sheet that can help developers design systems of varying complexity.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Redshift Merge Statement – Example</title>

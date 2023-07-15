@@ -5,10 +5,31 @@
     <description>Recent content in development on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>System Design Blueprint: The Ultimate Guide</title>
+      <link>/post/2023-07-15-system-design-blueprint-the-ultimate-guide/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-system-design-blueprint-the-ultimate-guide/</guid>
+      <description>&lt;p&gt;Developing a robust, scalable, and efficient system can be daunting. However, understanding the key concepts and components can make the process more manageable. In this blog post, we’ll explore essential system design components such as DNS, load balancing, API Gateway, and more, along with a concise cheat sheet that can help developers design systems of varying complexity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Contextual Bandit models in large action spaces at Instacart</title>
+      <link>/post/2023-07-15-using-contextual-bandit-models-in-large-action-spaces-at-instacart/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-using-contextual-bandit-models-in-large-action-spaces-at-instacart/</guid>
+      <description>&lt;p&gt;Contextual bandit models are a popular approach for personalizing the user experience by recommending relevant products. However, these models become challenging to train and evaluate when the number of actions, or products, in the recommendation pool become large. In this blog post, we will explore the difficulties associated with using contextual bandit models in large action spaces and propose potential solutions to overcome these challenges. One of these solutions was recently launched into production at Instacart.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tech.instacart.com/using-contextual-bandit-models-in-large-action-spaces-at-instacart-cb7ab4d8fa4f&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>react-admin</title>
@@ -582,9 +603,9 @@
       <guid>/post/2021-11-14-ml-app-design/</guid>
       <description>&lt;h3 id=&#34;build-and-deploy-data-science-products--a-practical-guide-to-building-a-machine-translation-application&#34;&gt;Build and Deploy Data Science Products : A Practical Guide to Building a Machine Translation Application&lt;/h3&gt;
 &lt;p&gt;This journey is going to be a 8 steps.&lt;/p&gt;
-&lt;p&gt;In this series we will take a use case, understand the solution landscape and its evolution, 
-explore different architecture choices, look under the hood of the architecture to understand the nuts and bolts, 
-build a prototype, convert the prototype into production ready code, build an application from the production ready code 
+&lt;p&gt;In this series we will take a use case, understand the solution landscape and its evolution,
+explore different architecture choices, look under the hood of the architecture to understand the nuts and bolts,
+build a prototype, convert the prototype into production ready code, build an application from the production ready code
 and finally understand the process for deploying the application .&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;

@@ -5,10 +5,21 @@
     <description>Recent content in cloud on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using ChatGPT to extract intelligent insights from multiple documents</title>
+      <link>/post/2023-07-15-using-chatgpt-to-extract-intelligent-insights-from-multiple-documents/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-using-chatgpt-to-extract-intelligent-insights-from-multiple-documents/</guid>
+      <description>&lt;p&gt;Combining the power of Azure Search with ChatGPT allows intelligent analysis of your own text data. &lt;a href=&#34;https://github.com/Drop-Database-Cascade/chatGPT-azurefuncs.git&#34;&gt;Example Repo link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@maxfifield_82945/using-chatgpt-to-extract-intelligent-insights-from-multiple-documents-bb0a9eb4d4f6&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Redshift Merge Statement – Example</title>

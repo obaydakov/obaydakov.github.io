@@ -5,10 +5,43 @@
     <description>Recent content in deep-learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An Introduction To HuggingFace Transformers for NLP</title>
+      <link>/post/2023-07-15-an-introduction-to-huggingface-transformers-for-nlp/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-an-introduction-to-huggingface-transformers-for-nlp/</guid>
+      <description>&lt;p&gt;In this article, we will be covering what HuggingFace is, how and why it came to exist, and how to best utilize it for your machine learning workflows. We&amp;rsquo;ll also touch on the different use cases covered by the various HuggingFace packages in the ecosystem.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wandb.ai/int_pb/huggingface/reports/An-Introduction-To-HuggingFace-Transformers-for-NLP--VmlldzoyOTgzMjI5&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models</title>
+      <link>/post/2023-07-15-minigpt-4-enhancing-vision-language-understanding-with-advanced-large-language-models/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-minigpt-4-enhancing-vision-language-understanding-with-advanced-large-language-models/</guid>
+      <description>&lt;p&gt;We now provide a pretrained MiniGPT-4 aligned with Vicuna-7B! The demo GPU memory consumption now can be as low as 12GB.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Vision-CAIR/MiniGPT-4&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning from Human Feedback, InstructGPT, and ChatGPT</title>
+      <link>/post/2023-07-15-reinforcement-learning-from-human-feedback-instructgpt-and-chatgpt/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-reinforcement-learning-from-human-feedback-instructgpt-and-chatgpt/</guid>
+      <description>&lt;p&gt;In this post, we will dive into the inner workings of ChatGPT and how it is trained. However, before we get into the specifics of ChatGPT, it’s important to first review some relevant prior works and concepts to give us a strong foundation. Once we have a solid understanding of these foundations, we can move on to exploring ChatGPT in depth.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/aiguys/reinforcement-learning-from-human-feedback-instructgpt-and-chatgpt-693d00cb9c58&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Transformer, explained in detail</title>
@@ -296,6 +329,17 @@ With one goal, help accelerate their deployment.&lt;/p&gt;
     </item>
     
     <item>
+      <title>𝗗𝗦𝗣: Demonstrate–Search–Predict</title>
+      <link>/post/2023-02-04-demonstrate-search-predict/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-demonstrate-search-predict/</guid>
+      <description>&lt;p&gt;A framework for composing retrieval models and language models into powerful pipelines that tackle knowledge-intensive tasks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/stanfordnlp/dsp&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>GPT-3 Voice AI Chatbot in Python</title>
       <link>/post/2023-02-04-gpt-3-voice-ai-chatbot-in-python/</link>
       <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
@@ -436,17 +480,6 @@ With one goal, help accelerate their deployment.&lt;/p&gt;
       <guid>/post/2023-02-04-writing-a-tokenizer-with-chatgpt/</guid>
       <description>&lt;p&gt;This morning I decided to test how good ChatGPT is at generating a non-trivial piece of code. I want to write a complete interpreter along the lines of Robert Nystrom’s excellent book Crafting Interpreters.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://tagide.com/education/writing-a-tokenizer-with-chatgpt/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>𝗗𝗦𝗣: Demonstrate–Search–Predict</title>
-      <link>/post/2023-02-04-demonstrate-search-predict/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-02-04-demonstrate-search-predict/</guid>
-      <description>&lt;p&gt;A framework for composing retrieval models and language models into powerful pipelines that tackle knowledge-intensive tasks.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/stanfordnlp/dsp&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1151,7 +1184,7 @@ For Computer Science and Machine Learning&lt;/p&gt;
       <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>/post/2022-09-03-introducing-skops/</guid>
-      <description>&lt;p&gt;At Hugging Face, we are working on tackling various problems in open-source machine learning, including, hosting models securely and openly, enabling reproducibility, explainability and collaboration. 
+      <description>&lt;p&gt;At Hugging Face, we are working on tackling various problems in open-source machine learning, including, hosting models securely and openly, enabling reproducibility, explainability and collaboration.
 We are thrilled to introduce you to our new library: Skops! With Skops, you can host your scikit-learn models on the Hugging Face Hub, create model cards for model documentation and collaborate with others.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://huggingface.co/blog/skops&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -1316,8 +1349,8 @@ We are thrilled to introduce you to our new library: Skops! With Skops, you can 
       <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/post/2022-05-02-optimize-pytorch-performance-for-speed-and-memory-efficiency/</guid>
-      <description>&lt;p&gt;The training/inference processes of deep learning models are involved lots of steps. 
-The faster each experiment iteration is, the more we can optimize the whole model prediction performance given limited time and resources. 
+      <description>&lt;p&gt;The training/inference processes of deep learning models are involved lots of steps.
+The faster each experiment iteration is, the more we can optimize the whole model prediction performance given limited time and resources.
 I collected and organized several PyTorch tricks and tips to maximize the efficiency of memory usage and minimize the run time. To better leverage these tips, we also need to understand how and why they work.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/optimize-pytorch-performance-for-speed-and-memory-efficiency-2022-84f453916ea6&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -1362,7 +1395,7 @@ I collected and organized several PyTorch tricks and tips to maximize the effici
       <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/post/2022-04-09-graph-neural-networks-a-learning-journey-since-2008-graph-attention-networks/</guid>
-      <description>&lt;p&gt;Today we’ll dive into the theory and implementation of the Graph Attention Network (GAT). 
+      <description>&lt;p&gt;Today we’ll dive into the theory and implementation of the Graph Attention Network (GAT).
 In a nutshell: attention rocks, graphs rock, GAT’s authors rock!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/graph-neural-networks-a-learning-journey-since-2008-graph-attention-networks-f8c39189e7fc&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>

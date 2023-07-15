@@ -5,10 +5,54 @@
     <description>Recent content in nlp on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An Introduction To HuggingFace Transformers for NLP</title>
+      <link>/post/2023-07-15-an-introduction-to-huggingface-transformers-for-nlp/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-an-introduction-to-huggingface-transformers-for-nlp/</guid>
+      <description>&lt;p&gt;In this article, we will be covering what HuggingFace is, how and why it came to exist, and how to best utilize it for your machine learning workflows. We&amp;rsquo;ll also touch on the different use cases covered by the various HuggingFace packages in the ecosystem.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wandb.ai/int_pb/huggingface/reports/An-Introduction-To-HuggingFace-Transformers-for-NLP--VmlldzoyOTgzMjI5&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models</title>
+      <link>/post/2023-07-15-minigpt-4-enhancing-vision-language-understanding-with-advanced-large-language-models/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-minigpt-4-enhancing-vision-language-understanding-with-advanced-large-language-models/</guid>
+      <description>&lt;p&gt;We now provide a pretrained MiniGPT-4 aligned with Vicuna-7B! The demo GPU memory consumption now can be as low as 12GB.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Vision-CAIR/MiniGPT-4&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MLOps Tools for NLP Projects</title>
+      <link>/post/2023-07-15-mlops-tools-for-nlp-projects/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-mlops-tools-for-nlp-projects/</guid>
+      <description>&lt;p&gt;Chatbots, summarizing apps, Siri, Alexa – these are just a few cool Natural Language Processing (NLP) projects which are already adopted at mass scale. Have you ever wondered how they’re managed, continuously improved, and maintained? This is exactly the question that we’re going to answer in this article.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://neptune.ai/blog/mlops-tools-for-nlp-projects&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transformers: Architecture, Training &amp; Usage</title>
+      <link>/post/2023-07-15-transformers-architecture-training-usage/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-transformers-architecture-training-usage/</guid>
+      <description>&lt;p&gt;Where Transformer and self-supervised learning first triumphed&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scholar.harvard.edu/sites/scholar.harvard.edu/files/binxuw/files/mlfs_tutorial_nlp_transformer_ssl_updated.pdf&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title> Terraform Expert - Harness the Power of ChatGPT to Generate Terraform Code</title>
@@ -884,7 +928,7 @@ with the power of AI.&lt;/p&gt;
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>/post/2023-03-17-a-gentle-introduction-to-quantum-natural-language-processing/</guid>
-      <description>&lt;p&gt;In this introduction to Quantum Natural Language Processing (QNLP), we will see how words&#39; meaning is classically encoded into computers. We will then discuss the challenges representing the meaning of sentences, and present a framework to achieve it (DisCoCat). After seeing that this method benefits a quantum speedup, we will present three examples of use cases.&lt;/p&gt;
+      <description>&lt;p&gt;In this introduction to Quantum Natural Language Processing (QNLP), we will see how words&amp;rsquo; meaning is classically encoded into computers. We will then discuss the challenges representing the meaning of sentences, and present a framework to achieve it (DisCoCat). After seeing that this method benefits a quantum speedup, we will present three examples of use cases.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=SNlwVkglxwc&amp;amp;ab_channel=UPMQuantumComputingTechnology&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -1498,6 +1542,17 @@ With one goal, help accelerate their deployment.&lt;/p&gt;
     </item>
     
     <item>
+      <title>𝗗𝗦𝗣: Demonstrate–Search–Predict</title>
+      <link>/post/2023-02-04-demonstrate-search-predict/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-02-04-demonstrate-search-predict/</guid>
+      <description>&lt;p&gt;A framework for composing retrieval models and language models into powerful pipelines that tackle knowledge-intensive tasks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/stanfordnlp/dsp&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>GPT-3 Voice AI Chatbot in Python</title>
       <link>/post/2023-02-04-gpt-3-voice-ai-chatbot-in-python/</link>
       <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
@@ -1604,17 +1659,6 @@ With one goal, help accelerate their deployment.&lt;/p&gt;
       <guid>/post/2023-02-04-writing-a-tokenizer-with-chatgpt/</guid>
       <description>&lt;p&gt;This morning I decided to test how good ChatGPT is at generating a non-trivial piece of code. I want to write a complete interpreter along the lines of Robert Nystrom’s excellent book Crafting Interpreters.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://tagide.com/education/writing-a-tokenizer-with-chatgpt/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>𝗗𝗦𝗣: Demonstrate–Search–Predict</title>
-      <link>/post/2023-02-04-demonstrate-search-predict/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-02-04-demonstrate-search-predict/</guid>
-      <description>&lt;p&gt;A framework for composing retrieval models and language models into powerful pipelines that tackle knowledge-intensive tasks.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/stanfordnlp/dsp&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1896,7 +1940,7 @@ With one goal, help accelerate their deployment.&lt;/p&gt;
       <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>/post/2022-09-03-introducing-skops/</guid>
-      <description>&lt;p&gt;At Hugging Face, we are working on tackling various problems in open-source machine learning, including, hosting models securely and openly, enabling reproducibility, explainability and collaboration. 
+      <description>&lt;p&gt;At Hugging Face, we are working on tackling various problems in open-source machine learning, including, hosting models securely and openly, enabling reproducibility, explainability and collaboration.
 We are thrilled to introduce you to our new library: Skops! With Skops, you can host your scikit-learn models on the Hugging Face Hub, create model cards for model documentation and collaborate with others.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://huggingface.co/blog/skops&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>

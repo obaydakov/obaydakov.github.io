@@ -70,8 +70,8 @@
       <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/post/2022-05-02-optimize-pytorch-performance-for-speed-and-memory-efficiency/</guid>
-      <description>&lt;p&gt;The training/inference processes of deep learning models are involved lots of steps. 
-The faster each experiment iteration is, the more we can optimize the whole model prediction performance given limited time and resources. 
+      <description>&lt;p&gt;The training/inference processes of deep learning models are involved lots of steps.
+The faster each experiment iteration is, the more we can optimize the whole model prediction performance given limited time and resources.
 I collected and organized several PyTorch tricks and tips to maximize the efficiency of memory usage and minimize the run time. To better leverage these tips, we also need to understand how and why they work.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/optimize-pytorch-performance-for-speed-and-memory-efficiency-2022-84f453916ea6&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>

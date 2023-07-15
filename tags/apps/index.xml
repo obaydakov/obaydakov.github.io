@@ -860,8 +860,8 @@ With one goal, help accelerate their deployment.&lt;/p&gt;
       <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/post/2022-06-12-nestjs-microservices-full-course/</guid>
-      <description>&lt;p&gt;Learn how to create Microservices with NestJS. We learn how to create an Event-Driven Architecture with RabbitMQ. 
-There will be two Microservices Admin and Main with different databases. 
+      <description>&lt;p&gt;Learn how to create Microservices with NestJS. We learn how to create an Event-Driven Architecture with RabbitMQ.
+There will be two Microservices Admin and Main with different databases.
 We will explore how to use  NestJS with a Relational Database like MySQL and a NoSQL Database like MongoDB.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IsubcKdZPyE&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>

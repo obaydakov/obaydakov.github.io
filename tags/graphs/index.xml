@@ -103,7 +103,7 @@
       <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/post/2022-04-09-graph-neural-networks-a-learning-journey-since-2008-graph-attention-networks/</guid>
-      <description>&lt;p&gt;Today we’ll dive into the theory and implementation of the Graph Attention Network (GAT). 
+      <description>&lt;p&gt;Today we’ll dive into the theory and implementation of the Graph Attention Network (GAT).
 In a nutshell: attention rocks, graphs rock, GAT’s authors rock!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/graph-neural-networks-a-learning-journey-since-2008-graph-attention-networks-f8c39189e7fc&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>

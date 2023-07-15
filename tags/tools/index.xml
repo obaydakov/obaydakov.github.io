@@ -5,10 +5,21 @@
     <description>Recent content in tools on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automated Feature Engineering in Python</title>
+      <link>/post/2023-07-15-automated-feature-engineering-in-python/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-automated-feature-engineering-in-python/</guid>
+      <description>&lt;p&gt;A guide to augmenting your dataset with new and informative features using Upgini&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/automated-feature-engineering-in-python-5733426530bf&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Announcing New Tools for Building with Generative AI on AWS</title>

@@ -1,0 +1,204 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>llm on If you torture the data long enough, it will confess ©</title>
+    <link>/tags/llm/</link>
+    <description>Recent content in llm on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autonomous Agents &amp; Agent Simulations</title>
+      <link>/post/2023-07-15-autonomous-agents-agent-simulations/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-autonomous-agents-agent-simulations/</guid>
+      <description>&lt;p&gt;Over the past two weeks, there has been a massive increase in using LLMs in an agentic manner. Specifically, projects like AutoGPT, BabyAGI, CAMEL, and Generative Agents have popped up. The LangChain community has now implemented some parts of all of those projects in the LangChain framework. While researching and implementing these projects, we’ve tried to best understand what the differences between them are and what the novel features of each are. This blog is an explanation of what we’ve learned.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.langchain.dev/agents-round/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build a Chatbot on Your CSV Data With LangChain and OpenAI</title>
+      <link>/post/2023-07-15-build-a-chatbot-on-your-csv-data-with-langchain-and-openai/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-build-a-chatbot-on-your-csv-data-with-langchain-and-openai/</guid>
+      <description>&lt;p&gt;Chat with your CSV files with a memory chatbot🤖 | Made with Langchain🦜 and OpenAI🧠&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://betterprogramming.pub/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discover Chart-GPT: Transform Text into Stunning Charts Instantly</title>
+      <link>/post/2023-07-15-discover-chart-gpt-transform-text-into-stunning-charts-instantly/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-discover-chart-gpt-transform-text-into-stunning-charts-instantly/</guid>
+      <description>&lt;p&gt;As an AI enthusiast, I’m always on the lookout for new AI-powered tools and technologies to make my life easier. Recently, I stumbled upon Chart-GPT, a game-changing tool that transforms text into beautiful charts within seconds with the help of OpenAI’s APIs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/codingthesmartway-com-blog/discover-chart-gpt-transform-text-into-stunning-charts-instantly-79867e2e3de7&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPT-4 &amp; LangChain - Create a ChatGPT Chatbot for Your PDF Files</title>
+      <link>/post/2023-07-15-gpt-4-langchain-create-a-chatgpt-chatbot-for-your-pdf-files/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-gpt-4-langchain-create-a-chatgpt-chatbot-for-your-pdf-files/</guid>
+      <description>&lt;p&gt;Use the new GPT-4 api to build a chatGPT chatbot for multiple Large PDF files.&lt;/p&gt;
+&lt;p&gt;Tech stack used includes LangChain, Pinecone, Typescript, Openai, and Next.js. LangChain is a framework that makes it easier to build scalable AI/LLM apps and chatbots. Pinecone is a vectorstore for storing embeddings and your PDF in text to later retrieve similar docs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mayooear/gpt4-pdf-chatbot-langchain/tree/main&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to build a Chatbot with ChatGPT API and a Conversational Memory in Python</title>
+      <link>/post/2023-07-15-how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python/</guid>
+      <description>&lt;p&gt;🧠 Memory Bot 🤖 — An easy up-to-date implementation of ChatGPT API, the GPT-3.5-Turbo model, with LangChain AI&amp;rsquo;s 🦜 — ConversationChain memory module with Streamlit front-end.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@avra42/how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python-8d856cda4542&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Run Your Own LLaMA</title>
+      <link>/post/2023-07-15-how-to-run-your-own-llama/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-how-to-run-your-own-llama/</guid>
+      <description>&lt;p&gt;LLaMA model weights are available over the internet on various websites. This is not legal but I am sharing just a “How to — tutorial”&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://levelup.gitconnected.com/how-to-run-your-own-llama-550cd69b1bc9&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LlamaIndex and Deep Lake for Financial Statement Analysis</title>
+      <link>/post/2023-07-15-llamaindex-and-deep-lake-for-financial-statement-analysis/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-llamaindex-and-deep-lake-for-financial-statement-analysis/</guid>
+      <description>&lt;p&gt;Financial professionals, investors, and hobbyists need efficient ways to access, analyze, and make sense of this data to make informed decisions. Naturally, this is why building chatbots for your data tools to analyze earnings calls, financial report PDFs, or SEC filings is all the rage now.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://betterprogramming.pub/llamaindex-deep-lake-for-financial-statement-analysis-954f2b789c8e&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models</title>
+      <link>/post/2023-07-15-minigpt-4-enhancing-vision-language-understanding-with-advanced-large-language-models/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-minigpt-4-enhancing-vision-language-understanding-with-advanced-large-language-models/</guid>
+      <description>&lt;p&gt;We now provide a pretrained MiniGPT-4 aligned with Vicuna-7B! The demo GPU memory consumption now can be as low as 12GB.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Vision-CAIR/MiniGPT-4&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monetize Your Chatbot by Using OpenAI’s Function Calling and Langchain</title>
+      <link>/post/2023-07-15-monetize-your-chatbot-by-using-openai-s-function-calling-and-langchain/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-monetize-your-chatbot-by-using-openai-s-function-calling-and-langchain/</guid>
+      <description>&lt;p&gt;A Step-by-Step Tutorial for Building an AI Flight Recommendation Application&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://levelup.gitconnected.com/monetize-your-chatbot-by-using-openais-function-calling-and-langchain-157d0d97cd79&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning from Human Feedback, InstructGPT, and ChatGPT</title>
+      <link>/post/2023-07-15-reinforcement-learning-from-human-feedback-instructgpt-and-chatgpt/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-reinforcement-learning-from-human-feedback-instructgpt-and-chatgpt/</guid>
+      <description>&lt;p&gt;In this post, we will dive into the inner workings of ChatGPT and how it is trained. However, before we get into the specifics of ChatGPT, it’s important to first review some relevant prior works and concepts to give us a strong foundation. Once we have a solid understanding of these foundations, we can move on to exploring ChatGPT in depth.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/aiguys/reinforcement-learning-from-human-feedback-instructgpt-and-chatgpt-693d00cb9c58&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semantic Search With Transformers and Elasticsearch</title>
+      <link>/post/2023-07-15-semantic-search-with-transformers-and-elasticsearch/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-semantic-search-with-transformers-and-elasticsearch/</guid>
+      <description>&lt;p&gt;Semantic/Vector search is a powerful technique that can greatly improve the accuracy and relevance of search results. Unlike traditional keyword-based search methods, semantic search uses the meaning and context of words to understand the intent behind a query and deliver more accurate results. One of the most popular tools for implementing semantic search is Elasticsearch, a highly scalable and powerful search engine that can be used to index and search large volumes of data. In this article, we will explore the basics of semantic search and how it can be implemented using Elasticsearch. By the end of this article, you will have a solid understanding of how semantic search works and the practical skills to implement it in your own projects.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.gopenai.com/semantic-search-using-transformers-and-elasticsearch-6e968fdd85d5&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>StableLM-Alpha</title>
+      <link>/post/2023-07-15-stablelm-alpha/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-stablelm-alpha/</guid>
+      <description>&lt;p&gt;This notebook is designed to let you quickly generate text with the latest StableLM models (StableLM-Alpha) using Hugging Face&amp;rsquo;s transformers library&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Stability-AI/StableLM/blob/main/notebooks/stablelm-alpha.ipynb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Step by Step Auto-GPT in Google Colab: How to Make it Work for You</title>
+      <link>/post/2023-07-15-step-by-step-auto-gpt-in-google-colab-how-to-make-it-work-for-you/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-step-by-step-auto-gpt-in-google-colab-how-to-make-it-work-for-you/</guid>
+      <description>&lt;p&gt;In a world where technology continues to evolve at breakneck speed, it’s crucial to stay ahead of the curve and harness the power of AI to enhance your personal and professional life. Auto-GPT is an advanced AI tool that can help you do just that.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drlee.io/step-by-step-auto-gpt-in-google-colab-how-to-make-it-work-for-you-482a9fa6ea8b&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summarizing and Querying Multiple Research Papers with LangChain</title>
+      <link>/post/2023-07-15-summarizing-and-querying-multiple-research-papers-with-langchain/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-summarizing-and-querying-multiple-research-papers-with-langchain/</guid>
+      <description>&lt;p&gt;In this article, we’ll go through how to summarize and query multiple research papers using LangChain.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/mlearning-ai/summarizing-and-querying-multiple-research-papers-with-langchain-fe0bf310926&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Generative AI Life-cycle</title>
+      <link>/post/2023-07-15-the-generative-ai-life-cycle/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-the-generative-ai-life-cycle/</guid>
+      <description>&lt;p&gt;The common AI/ML Lifecycle consists of data collection, preparation, training, evaluation, deployment and monitoring all encompassed with an MLOps pipeline.&lt;/p&gt;
+&lt;p&gt;Generative AI (GenAI) is a transformational technology that will continue its ramifications of major industry shifts in the coming months and years. Currently, in its earlier stages it has a raised a lot of hype; a distraction to fundamental shift that underlies its promise.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dr-arsanjani.medium.com/the-generative-ai-life-cycle-fb2271a70349&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using ChatGPT to extract intelligent insights from multiple documents</title>
+      <link>/post/2023-07-15-using-chatgpt-to-extract-intelligent-insights-from-multiple-documents/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-using-chatgpt-to-extract-intelligent-insights-from-multiple-documents/</guid>
+      <description>&lt;p&gt;Combining the power of Azure Search with ChatGPT allows intelligent analysis of your own text data. &lt;a href=&#34;https://github.com/Drop-Database-Cascade/chatGPT-azurefuncs.git&#34;&gt;Example Repo link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@maxfifield_82945/using-chatgpt-to-extract-intelligent-insights-from-multiple-documents-bb0a9eb4d4f6&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vicuna-13B: Best Free ChatGPT Alternative According to GPT-4 🤯 | Tutorial (GPU)</title>
+      <link>/post/2023-07-15-vicuna-13b-best-free-chatgpt-alternative-according-to-gpt-4-tutorial-gpu/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-15-vicuna-13b-best-free-chatgpt-alternative-according-to-gpt-4-tutorial-gpu/</guid>
+      <description>&lt;p&gt;Wow, in my last article I already showed you how to set up the Vicuna model on your local computer, but the results were not as good as expected.&lt;/p&gt;
+&lt;p&gt;For this reason, I created a fork and basically merged two repositories to get the Vicuna model up and running, and what can I say, the responses and especially the quality of the responses are insane. Forget alpaca, seriously! You don’t believe me? Follow the steps in this article and convince yourself.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@martin-thissen/vicuna-13b-best-free-chatgpt-alternative-according-to-gpt-4-tutorial-gpu-ec6eb513a717&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 

@@ -33,6 +33,17 @@
     </item>
     
     <item>
+      <title>Category Theory ∩ Machine Learning</title>
+      <link>/post/2022-12-26-category-theory-machine-learning/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-26-category-theory-machine-learning/</guid>
+      <description>&lt;p&gt;Category Theory has been finding increasing applications in machine learning. This repository aims to list all of the relevant papers, grouped by fields.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/bgavran/Category_Theory_Machine_Learning&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Category Theory For Beginners</title>
       <link>/post/2022-12-26-category-theory-for-beginners/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
@@ -51,17 +62,6 @@
       <guid>/post/2022-12-26-category-theory-resources/</guid>
       <description>&lt;p&gt;A curated list of resources for studying category theory. As resources aimed at mathematicians are abundant, this list is aimed at materials whose target audience is not people with a graduate-level mathematics background.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/bgavran/Category_Theory_Resources&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Category Theory ∩ Machine Learning</title>
-      <link>/post/2022-12-26-category-theory-machine-learning/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2022-12-26-category-theory-machine-learning/</guid>
-      <description>&lt;p&gt;Category Theory has been finding increasing applications in machine learning. This repository aims to list all of the relevant papers, grouped by fields.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/bgavran/Category_Theory_Machine_Learning&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
