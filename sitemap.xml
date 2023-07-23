@@ -5,15 +5,215 @@
   
 
       <url>
-        <loc>/post/2023-07-15-11-open-source-data-exploration-tools-you-need-to-know-in-2023/</loc>
-        <lastmod>2023-07-15T00:00:00+00:00</lastmod>
+        <loc>/categories/ai/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
     </url>
     
   
   
 
       <url>
-        <loc>/categories/ai/</loc>
+        <loc>/tags/automl/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-autonomous-gpt-4-from-chatgpt-to-autogpt-agentgpt-babyagi-hugginggpt-and-beyond/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-building-and-managing-an-isolation-forest-anomaly-detection-pipeline-with-kedro/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-building-llm-applications-for-production/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-creating-gpt-driven-applications-using-langchain/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/design/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-extract-insights-from-text-data-inside-databases-using-openai-gpt-3-and-mindsdb-integration/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-finance-nlp-1-5-0-is-out/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-getting-started-with-semantic-workflows/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-integrating-neo4j-into-the-langchain-ecosystem/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-knowledge-retrieval-architecture-for-llm-s-2023/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/llm/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-llm-as-a-chatbot-service/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/machine-learning/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-ml-system-design-doc-reliable-ml/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/nlp/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-pdfgpt-io/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-semantra/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-text2diagram/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-the-practical-guides-for-large-language-models/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-23-wizardlm-an-instruction-following-llm-using-evol-instruct/</loc>
+        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2023-07-15-11-open-source-data-exploration-tools-you-need-to-know-in-2023/</loc>
         <lastmod>2023-07-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -53,14 +253,6 @@
   
 
       <url>
-        <loc>/categories/</loc>
-        <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/categories/cloud/</loc>
         <lastmod>2023-07-15T00:00:00+00:00</lastmod>
     </url>
@@ -78,14 +270,6 @@
 
       <url>
         <loc>/categories/data-science/</loc>
-        <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/</loc>
         <lastmod>2023-07-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -149,23 +333,7 @@
   
 
       <url>
-        <loc>/tags/llm/</loc>
-        <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2023-07-15-lovelyplots/</loc>
-        <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/machine-learning/</loc>
         <lastmod>2023-07-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -190,22 +358,6 @@
 
       <url>
         <loc>/post/2023-07-15-monetize-your-chatbot-by-using-openai-s-function-calling-and-langchain/</loc>
-        <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/nlp/</loc>
-        <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/post/</loc>
         <lastmod>2023-07-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -254,14 +406,6 @@
 
       <url>
         <loc>/post/2023-07-15-system-design-blueprint-the-ultimate-guide/</loc>
-        <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/</loc>
         <lastmod>2023-07-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -438,14 +582,6 @@
 
       <url>
         <loc>/post/2023-04-22-cohere-entity-extraction/</loc>
-        <lastmod>2023-04-22T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/design/</loc>
         <lastmod>2023-04-22T00:00:00+00:00</lastmod>
     </url>
     
@@ -1158,14 +1294,6 @@
 
       <url>
         <loc>/post/2023-03-19-ai-generated-stories-aws/</loc>
-        <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/automl/</loc>
         <lastmod>2023-03-19T00:00:00+00:00</lastmod>
     </url>
     

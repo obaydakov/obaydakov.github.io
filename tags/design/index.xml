@@ -5,10 +5,21 @@
     <description>Recent content in design on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/design/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ML System Design Doc - Reliable ML</title>
+      <link>/post/2023-07-23-ml-system-design-doc-reliable-ml/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-23-ml-system-design-doc-reliable-ml/</guid>
+      <description>&lt;p&gt;ML System Design Doc&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ML System Design Doc - Reliable ML</title>

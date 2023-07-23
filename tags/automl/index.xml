@@ -5,10 +5,21 @@
     <description>Recent content in automl on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/automl/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building and Managing an Isolation Forest Anomaly Detection Pipeline with Kedro</title>
+      <link>/post/2023-07-23-building-and-managing-an-isolation-forest-anomaly-detection-pipeline-with-kedro/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-23-building-and-managing-an-isolation-forest-anomaly-detection-pipeline-with-kedro/</guid>
+      <description>&lt;p&gt;Anomaly (fraud) detection pipeline on credit card transaction data using Isolation Forest machine learning model and Kedro framework&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/kennethleungty/Anomaly-Detection-Pipeline-Kedro&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>UnionML</title>

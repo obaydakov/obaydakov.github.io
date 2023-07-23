@@ -5,10 +5,21 @@
     <description>Recent content in nlp on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Extract Insights from Text Data inside Databases using OpenAI GPT-3 and MindsDB integration</title>
+      <link>/post/2023-07-23-extract-insights-from-text-data-inside-databases-using-openai-gpt-3-and-mindsdb-integration/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-23-extract-insights-from-text-data-inside-databases-using-openai-gpt-3-and-mindsdb-integration/</guid>
+      <description>&lt;p&gt;Imagine you have a lot of text data inside your database. And you want to extract insights to analyze it or perform various AI tasks on text data. In this article, you will learn how to use MindsDB to integrate your database with OpenAI GPT-3 and get insights from all your text data at once with a few SQL commands instead of making multiple individual API calls, ETL-ing and moving massive amounts of data. We&amp;rsquo;ll walk you through the process using three practical examples.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/mindsdb/extract-insights-from-text-data-inside-databases-using-openai-gpt-3-and-mindsdb-integration-29b637509467&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An Introduction To HuggingFace Transformers for NLP</title>

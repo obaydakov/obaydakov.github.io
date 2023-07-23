@@ -5,10 +5,43 @@
     <description>Recent content in Machine Learning on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building and Managing an Isolation Forest Anomaly Detection Pipeline with Kedro</title>
+      <link>/post/2023-07-23-building-and-managing-an-isolation-forest-anomaly-detection-pipeline-with-kedro/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-23-building-and-managing-an-isolation-forest-anomaly-detection-pipeline-with-kedro/</guid>
+      <description>&lt;p&gt;Anomaly (fraud) detection pipeline on credit card transaction data using Isolation Forest machine learning model and Kedro framework&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/kennethleungty/Anomaly-Detection-Pipeline-Kedro&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Extract Insights from Text Data inside Databases using OpenAI GPT-3 and MindsDB integration</title>
+      <link>/post/2023-07-23-extract-insights-from-text-data-inside-databases-using-openai-gpt-3-and-mindsdb-integration/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-23-extract-insights-from-text-data-inside-databases-using-openai-gpt-3-and-mindsdb-integration/</guid>
+      <description>&lt;p&gt;Imagine you have a lot of text data inside your database. And you want to extract insights to analyze it or perform various AI tasks on text data. In this article, you will learn how to use MindsDB to integrate your database with OpenAI GPT-3 and get insights from all your text data at once with a few SQL commands instead of making multiple individual API calls, ETL-ing and moving massive amounts of data. We&amp;rsquo;ll walk you through the process using three practical examples.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/mindsdb/extract-insights-from-text-data-inside-databases-using-openai-gpt-3-and-mindsdb-integration-29b637509467&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ML System Design Doc - Reliable ML</title>
+      <link>/post/2023-07-23-ml-system-design-doc-reliable-ml/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-07-23-ml-system-design-doc-reliable-ml/</guid>
+      <description>&lt;p&gt;ML System Design Doc&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>LovelyPlots</title>
