@@ -367,6 +367,17 @@ Mix and match our Data Loaders and Agent Tools to build custom RAG apps or use o
     </item>
     
     <item>
+      <title>WebLangChain</title>
+      <link>/post/2024-01-13-weblangchain/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-weblangchain/</guid>
+      <description>&lt;p&gt;This repo is an example of performing retrieval using the entire internet as a document store.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/langchain-ai/weblangchain/blob/main/main.py&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>YouTube Transcripts → Knowledge Graphs for RAG Applications</title>
       <link>/post/2024-01-13-youtube-transcripts-knowledge-graphs-for-rag-applications/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
