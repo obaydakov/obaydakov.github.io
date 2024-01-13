@@ -389,6 +389,17 @@ Mix and match our Data Loaders and Agent Tools to build custom RAG apps or use o
     </item>
     
     <item>
+      <title>Scaling LlamaIndex with AWS and Hugging Face</title>
+      <link>/post/2024-01-13-scaling-llamaindex-with-aws-and-hugging-face/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-scaling-llamaindex-with-aws-and-hugging-face/</guid>
+      <description>&lt;p&gt;How to deploy LlamaIndex to AWS, and create a scalable ETL pipeline for indexing my data&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.llamaindex.ai/scaling-llamaindex-with-aws-and-hugging-face-e2c71aa64716&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Streamlining AI Agent Development with Autogen and LLaVA</title>
       <link>/post/2024-01-13-streamlining-ai-agent-development-with-autogen-and-llava/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
