@@ -1,0 +1,81 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agents on If you torture the data long enough, it will confess ©</title>
+    <link>/tags/agents/</link>
+    <description>Recent content in Agents on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/agents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Auto-Generated Agent Chat: Revolutionizing Group Conversations with RAG</title>
+      <link>/post/2024-01-13-auto-generated-agent-chat-revolutionizing-group-conversations-with-rag/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-auto-generated-agent-chat-revolutionizing-group-conversations-with-rag/</guid>
+      <description>&lt;p&gt;In the ever-evolving landscape of artificial intelligence (AI) and natural language processing (NLP), researchers and developers continue to push the boundaries of what’s possible. One such groundbreaking development is the Auto Generated Agent Chat, a cutting-edge system that employs Retrieval Augmented Generation (RAG) to transform group conversations. This technology combines the strengths of both retrieval-based and generative models, offering a unique and efficient solution for enhancing communication in group settings.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ai.plainenglish.io/auto-generated-agent-chat-revolutionizing-group-conversations-with-rag-c86f8528a199&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Function Calling Is Also Available for Open Source LLMs in AutoGen</title>
+      <link>/post/2024-01-13-function-calling-is-also-available-for-open-source-llms-in-autogen/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-function-calling-is-also-available-for-open-source-llms-in-autogen/</guid>
+      <description>&lt;p&gt;In this tutorial, I am going to keep developing multi-agent LLM applications in the AutoGen framework and using decent open-source language models with function calls to see whether they can generate and execute a function task like calculation for currency exchange.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://levelup.gitconnected.com/do-you-know-function-calling-is-also-available-for-open-source-llms-in-autogen-b1d920f48b9b&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Web Scrape Wikipedia with LLM Agents</title>
+      <link>/post/2024-01-13-how-to-web-scrape-wikipedia-with-llm-agents/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-how-to-web-scrape-wikipedia-with-llm-agents/</guid>
+      <description>&lt;p&gt;Simple guide to using LangChain Agents and Tools with OpenAI’s LLMs and Function Calling for web scraping of Wikipedia&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.datadriveninvestor.com/how-to-web-scrape-wikipedia-using-llm-agents-f0dba8400692&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LlamaIndex - Building a Custom Agent</title>
+      <link>/post/2024-01-13-llamaindex-building-a-custom-agent/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-llamaindex-building-a-custom-agent/</guid>
+      <description>&lt;p&gt;We show you how to build a simple agent that adds a retry layer on top of a RouterQueryEngine, allowing it to retry queries until the task is complete. We build this on top of both a SQL tool and a vector index query tool. Even if the tool makes an error or only answers part of the question, the agent can continue retrying the question until the task is complete.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.llamaindex.ai/en/latest/examples/agent/custom_agent.html#&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LLM Agents — Intuitively and Exhaustively Explained</title>
+      <link>/post/2024-01-13-llm-agents-intuitively-and-exhaustively-explained/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-llm-agents-intuitively-and-exhaustively-explained/</guid>
+      <description>&lt;p&gt;Empowering Language Models to Reason and Act&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/llm-agents-intuitively-and-exhaustively-explained-8905858e18e2&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LLMCompiler: An LLM Compiler for Parallel Function Calling</title>
+      <link>/post/2024-01-13-llmcompiler-an-llm-compiler-for-parallel-function-calling/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-llmcompiler-an-llm-compiler-for-parallel-function-calling/</guid>
+      <description>&lt;p&gt;LLMCompiler is a framework that enables an efficient and effective orchestration of parallel function calling with LLMs, including both open-source and close-source models, by automatically identifying which tasks can be performed in parallel and which ones are interdependent.&lt;/p&gt;
+&lt;p&gt;[Link]{https://github.com/SqueezeAILab/LLMCompiler}&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/run-llama/llama-hub/blob/main/llama_hub/llama_packs/agents/llm_compiler/llm_compiler.ipynb&#34;&gt;LLM Compiler Agent Cookbook&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 

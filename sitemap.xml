@@ -5,6 +5,206 @@
   
 
       <url>
+        <loc>/post/2024-01-13-4-python-libraries-for-automated-feature-engineering-that-you-should-use-in-2023/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2024-01-13-a-cheat-sheet-and-some-recipes-for-building-advanced-rag/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/agents/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2024-01-13-auto-generated-agent-chat-revolutionizing-group-conversations-with-rag/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/aws/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2024-01-13-build-a-conversational-rag-with-mistral-7b-and-langchain/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2024-01-13-function-calling-is-also-available-for-open-source-llms-in-autogen/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/graphs/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2024-01-13-hosting-multiple-llms-on-a-single-endpoint-aws-sagemaker/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2024-01-13-how-to-web-scrape-wikipedia-with-llm-agents/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2024-01-13-intelligent-graph-knowledge-graph-intelligent-agents/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/libraries/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2024-01-13-llamaindex-building-a-custom-agent/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/llm/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2024-01-13-llm-agents-intuitively-and-exhaustively-explained/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2024-01-13-llmcompiler-an-llm-compiler-for-parallel-function-calling/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2024-01-13-multi-document-autoretrieval-with-weaviate-pack/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2024-01-13-optimizing-rag-systems-with-llamaindex-strategies-for-production-performance/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/categories/python/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/rag/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/tags/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
+        <loc>/post/2024-01-13-youtube-transcripts-knowledge-graphs-for-rag-applications/</loc>
+        <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+  
+
+      <url>
         <loc>/categories/ai/</loc>
         <lastmod>2023-07-23T00:00:00+00:00</lastmod>
     </url>
@@ -45,23 +245,7 @@
   
 
       <url>
-        <loc>/categories/</loc>
-        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2023-07-23-creating-gpt-driven-applications-using-langchain/</loc>
-        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/</loc>
         <lastmod>2023-07-23T00:00:00+00:00</lastmod>
     </url>
     
@@ -165,23 +349,7 @@
   
 
       <url>
-        <loc>/post/</loc>
-        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2023-07-23-semantra/</loc>
-        <lastmod>2023-07-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/</loc>
         <lastmod>2023-07-23T00:00:00+00:00</lastmod>
     </url>
     
@@ -629,14 +797,6 @@
   
 
       <url>
-        <loc>/tags/libraries/</loc>
-        <lastmod>2023-04-22T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
         <loc>/post/2023-04-22-ml-system-design-doc-reliable-ml/</loc>
         <lastmod>2023-04-22T00:00:00+00:00</lastmod>
     </url>
@@ -646,14 +806,6 @@
 
       <url>
         <loc>/post/2023-04-22-pinecone-ner-powered-semantic-search/</loc>
-        <lastmod>2023-04-22T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/categories/python/</loc>
         <lastmod>2023-04-22T00:00:00+00:00</lastmod>
     </url>
     
@@ -2494,14 +2646,6 @@
 
       <url>
         <loc>/post/2023-02-04-graph-machine-learning-explainability-with-pyg/</loc>
-        <lastmod>2023-02-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-  
-
-      <url>
-        <loc>/tags/graphs/</loc>
         <lastmod>2023-02-04T00:00:00+00:00</lastmod>
     </url>
     

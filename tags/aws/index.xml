@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aws on If you torture the data long enough, it will confess ©</title>
+    <link>/tags/aws/</link>
+    <description>Recent content in aws on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hosting Multiple LLMs on a Single Endpoint - AWS SageMaker</title>
+      <link>/post/2024-01-13-hosting-multiple-llms-on-a-single-endpoint-aws-sagemaker/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-hosting-multiple-llms-on-a-single-endpoint-aws-sagemaker/</guid>
+      <description>&lt;p&gt;Utilize SageMaker Inference Components to Host Flan &amp;amp; Falcon in a Cost &amp;amp; Performance Efficient Manner&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/hosting-multiple-llms-on-a-single-endpoint-32eda0201832&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 

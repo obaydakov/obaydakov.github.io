@@ -6,7 +6,145 @@
     <description>Recent content in datascienceblog.net: R for Data Science on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4 Python Libraries for Automated Feature Engineering That You Should Use in 2023</title>
+      <link>/post/2024-01-13-4-python-libraries-for-automated-feature-engineering-that-you-should-use-in-2023/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-4-python-libraries-for-automated-feature-engineering-that-you-should-use-in-2023/</guid>
+      <description>Use these frameworks to empower your machine-learning work
+Link</description>
+    </item>
+    
+    <item>
+      <title>A Cheat Sheet and Some Recipes For Building Advanced RAG</title>
+      <link>/post/2024-01-13-a-cheat-sheet-and-some-recipes-for-building-advanced-rag/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-a-cheat-sheet-and-some-recipes-for-building-advanced-rag/</guid>
+      <description>The RAG cheat sheet shared above was greatly inspired by a recent RAG survey paper (“Retrieval-Augmented Generation for Large Language Models: A Survey” Gao, Yunfan, et al. 2023).
+Link</description>
+    </item>
+    
+    <item>
+      <title>Auto-Generated Agent Chat: Revolutionizing Group Conversations with RAG</title>
+      <link>/post/2024-01-13-auto-generated-agent-chat-revolutionizing-group-conversations-with-rag/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-auto-generated-agent-chat-revolutionizing-group-conversations-with-rag/</guid>
+      <description>In the ever-evolving landscape of artificial intelligence (AI) and natural language processing (NLP), researchers and developers continue to push the boundaries of what’s possible. One such groundbreaking development is the Auto Generated Agent Chat, a cutting-edge system that employs Retrieval Augmented Generation (RAG) to transform group conversations. This technology combines the strengths of both retrieval-based and generative models, offering a unique and efficient solution for enhancing communication in group settings.</description>
+    </item>
+    
+    <item>
+      <title>Build a Conversational RAG with Mistral-7B and LangChain </title>
+      <link>/post/2024-01-13-build-a-conversational-rag-with-mistral-7b-and-langchain/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-build-a-conversational-rag-with-mistral-7b-and-langchain/</guid>
+      <description>How to store the conversation history in memory and include it within our prompt. How to transform the input question such that it retrieves the relevant information from our vector database.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Function Calling Is Also Available for Open Source LLMs in AutoGen</title>
+      <link>/post/2024-01-13-function-calling-is-also-available-for-open-source-llms-in-autogen/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-function-calling-is-also-available-for-open-source-llms-in-autogen/</guid>
+      <description>In this tutorial, I am going to keep developing multi-agent LLM applications in the AutoGen framework and using decent open-source language models with function calls to see whether they can generate and execute a function task like calculation for currency exchange.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Hosting Multiple LLMs on a Single Endpoint - AWS SageMaker</title>
+      <link>/post/2024-01-13-hosting-multiple-llms-on-a-single-endpoint-aws-sagemaker/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-hosting-multiple-llms-on-a-single-endpoint-aws-sagemaker/</guid>
+      <description>Utilize SageMaker Inference Components to Host Flan &amp;amp; Falcon in a Cost &amp;amp; Performance Efficient Manner
+Link</description>
+    </item>
+    
+    <item>
+      <title>How to Web Scrape Wikipedia with LLM Agents</title>
+      <link>/post/2024-01-13-how-to-web-scrape-wikipedia-with-llm-agents/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-how-to-web-scrape-wikipedia-with-llm-agents/</guid>
+      <description>Simple guide to using LangChain Agents and Tools with OpenAI’s LLMs and Function Calling for web scraping of Wikipedia
+Link</description>
+    </item>
+    
+    <item>
+      <title>Intelligent Graph = Knowledge Graph &#43; Intelligent Agents</title>
+      <link>/post/2024-01-13-intelligent-graph-knowledge-graph-intelligent-agents/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-intelligent-graph-knowledge-graph-intelligent-agents/</guid>
+      <description>The IntelligentGraph capability is when intelligent agents can be embedded in an RDF graph. These agents are activated only when the graph is queried for results referencing the agent.
+Link</description>
+    </item>
+    
+    <item>
+      <title>LlamaIndex - Building a Custom Agent</title>
+      <link>/post/2024-01-13-llamaindex-building-a-custom-agent/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-llamaindex-building-a-custom-agent/</guid>
+      <description>We show you how to build a simple agent that adds a retry layer on top of a RouterQueryEngine, allowing it to retry queries until the task is complete. We build this on top of both a SQL tool and a vector index query tool. Even if the tool makes an error or only answers part of the question, the agent can continue retrying the question until the task is complete.</description>
+    </item>
+    
+    <item>
+      <title>LLM Agents — Intuitively and Exhaustively Explained</title>
+      <link>/post/2024-01-13-llm-agents-intuitively-and-exhaustively-explained/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-llm-agents-intuitively-and-exhaustively-explained/</guid>
+      <description>Empowering Language Models to Reason and Act
+Link</description>
+    </item>
+    
+    <item>
+      <title>LLMCompiler: An LLM Compiler for Parallel Function Calling</title>
+      <link>/post/2024-01-13-llmcompiler-an-llm-compiler-for-parallel-function-calling/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-llmcompiler-an-llm-compiler-for-parallel-function-calling/</guid>
+      <description>LLMCompiler is a framework that enables an efficient and effective orchestration of parallel function calling with LLMs, including both open-source and close-source models, by automatically identifying which tasks can be performed in parallel and which ones are interdependent.
+[Link]{https://github.com/SqueezeAILab/LLMCompiler}
+LLM Compiler Agent Cookbook</description>
+    </item>
+    
+    <item>
+      <title>Multi-Document AutoRetrieval (with Weaviate) Pack</title>
+      <link>/post/2024-01-13-multi-document-autoretrieval-with-weaviate-pack/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-multi-document-autoretrieval-with-weaviate-pack/</guid>
+      <description>This LlamaPack implements structured hierarchical retrieval over multiple documents, using multiple @weaviate_io collections.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Optimizing RAG Systems with LlamaIndex: Strategies for Production Performance</title>
+      <link>/post/2024-01-13-optimizing-rag-systems-with-llamaindex-strategies-for-production-performance/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-optimizing-rag-systems-with-llamaindex-strategies-for-production-performance/</guid>
+      <description>Prototyping a Retrieval-Augmented Generation (RAG) application is relatively straightforward, but the challenge lies in optimizing it for performance, robustness, and scalability across vast knowledge repositories. This guide aims to provide insights, strategies, and implementations leveraging LlamaIndex to enhance the efficiency of your RAG pipeline, catering to complex datasets and ensuring accurate query responses without hallucinations.
+Link</description>
+    </item>
+    
+    <item>
+      <title>YouTube Transcripts → Knowledge Graphs for RAG Applications</title>
+      <link>/post/2024-01-13-youtube-transcripts-knowledge-graphs-for-rag-applications/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-youtube-transcripts-knowledge-graphs-for-rag-applications/</guid>
+      <description>Here we will explore how to scrape YouTube video transcripts into a knowledge graph for Retrieval Augmented Generation (RAG) applications. We will use Google Cloud Platform to store our initial transcripts, LangChain to create documents from the transcripts and a Neo4j graph database to store the resulting documents. In this example we will be creating a knowledge graph containing objective musical facts spoken by Anthony Fantano himself on a select few music genres.</description>
+    </item>
+    
     <item>
       <title>Autonomous GPT-4: From ChatGPT to AutoGPT, AgentGPT, BabyAGI, HuggingGPT, and Beyond</title>
       <link>/post/2023-07-23-autonomous-gpt-4-from-chatgpt-to-autogpt-agentgpt-babyagi-hugginggpt-and-beyond/</link>
@@ -63,143 +201,6 @@ Link</description>
       <guid>/post/2023-07-23-finance-nlp-1-5-0-is-out/</guid>
       <description>Finance NLP is a John Snow Lab’s product, launched 2022 to provide state-of-the-art, autoscalable, domain-specific NLP on top of Spark. With more than 100 models, featuring Deep Learning and Transformer-based architectures
 Link</description>
-    </item>
-    
-    <item>
-      <title>Getting started with semantic workflows</title>
-      <link>/post/2023-07-23-getting-started-with-semantic-workflows/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-getting-started-with-semantic-workflows/</guid>
-      <description>A guide on when to use small and large language models
-Link</description>
-    </item>
-    
-    <item>
-      <title>Integrating Neo4j into the LangChain ecosystem</title>
-      <link>/post/2023-07-23-integrating-neo4j-into-the-langchain-ecosystem/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-integrating-neo4j-into-the-langchain-ecosystem/</guid>
-      <description>Learn how to develop a LangChain agent that has multiple ways of interacting with the Neo4j database
-Link</description>
-    </item>
-    
-    <item>
-      <title>Knowledge Retrieval Architecture for LLM’s (2023)</title>
-      <link>/post/2023-07-23-knowledge-retrieval-architecture-for-llm-s-2023/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-knowledge-retrieval-architecture-for-llm-s-2023/</guid>
-      <description>In this guide, I share my analysis of the current architectural best practices for data-informed language model applications. This particular subdiscipline is experiencing phenomenal research interest even by the standards of large language models - in this guide, I cite 8 research papers and 4 software projects, with a median initial publication date of November 22nd, 2022.
-Link</description>
-    </item>
-    
-    <item>
-      <title>LLM as a Chatbot Service</title>
-      <link>/post/2023-07-23-llm-as-a-chatbot-service/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-llm-as-a-chatbot-service/</guid>
-      <description>The purpose of this repository is to let people to use lots of open sourced instruction-following fine-tuned LLM models as a Chatbot service. Because different models behave differently, and different models require differently formmated prompts, I made a very simple library Ping Pong for model agnostic conversation and context managements.
-Link</description>
-    </item>
-    
-    <item>
-      <title>ML System Design Doc - Reliable ML</title>
-      <link>/post/2023-07-23-ml-system-design-doc-reliable-ml/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-ml-system-design-doc-reliable-ml/</guid>
-      <description>ML System Design Doc
-Link</description>
-    </item>
-    
-    <item>
-      <title>PDFGPT.IO</title>
-      <link>/post/2023-07-23-pdfgpt-io/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-pdfgpt-io/</guid>
-      <description>PDFGPT.IO
-Link</description>
-    </item>
-    
-    <item>
-      <title>Semantra</title>
-      <link>/post/2023-07-23-semantra/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-semantra/</guid>
-      <description>Semantra is a multipurpose tool for semantically searching documents. Query by meaning rather than just by matching text.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Text2Diagram</title>
-      <link>/post/2023-07-23-text2diagram/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-text2diagram/</guid>
-      <description>Text2Diagram: Create schematic architecture diagrams, UML, flowcharts, Gnatt charts, mind maps, Sequence diagrams, User Journey and many more with natural language.
-Link</description>
-    </item>
-    
-    <item>
-      <title>The Practical Guides for Large Language Models</title>
-      <link>/post/2023-07-23-the-practical-guides-for-large-language-models/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-the-practical-guides-for-large-language-models/</guid>
-      <description>A curated (still actively updated) list of practical guide resources of LLMs. It&amp;rsquo;s based on our survey paper: Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond and efforts from @xinyadu. The survey is partially based on the second half of this Blog. We also build an evolutionary tree of modern Large Language Models (LLMs) to trace the development of language models in recent years and highlights some of the most well-known models.</description>
-    </item>
-    
-    <item>
-      <title>WizardLM: An Instruction-following LLM Using Evol-Instruct</title>
-      <link>/post/2023-07-23-wizardlm-an-instruction-following-llm-using-evol-instruct/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-wizardlm-an-instruction-following-llm-using-evol-instruct/</guid>
-      <description>At present, our core contributors are preparing the 65B version and we expect to empower WizardLM with the ability to perform instruction evolution itself, aiming to evolve your specific data at a low cost.
-Link</description>
-    </item>
-    
-    <item>
-      <title>11 Open Source Data Exploration Tools You Need to Know in 2023</title>
-      <link>/post/2023-07-15-11-open-source-data-exploration-tools-you-need-to-know-in-2023/</link>
-      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-15-11-open-source-data-exploration-tools-you-need-to-know-in-2023/</guid>
-      <description>There are many well-known libraries and platforms for data analysis such as Pandas and Tableau, in addition to analytical databases like ClickHouse, MariaDB, Apache Druid, Apache Pinot, Google BigQuery, Amazon RedShift, etc. While machine learning frameworks and platforms like PyTorch, TensorFlow, and scikit-learn can perform data exploration well, it’s not their primary intent. There are also plenty of data visualization libraries available that can handle exploration like Plotly, matplotlib, D3, Apache ECharts, Bokeh, etc.</description>
-    </item>
-    
-    <item>
-      <title>An Introduction To HuggingFace Transformers for NLP</title>
-      <link>/post/2023-07-15-an-introduction-to-huggingface-transformers-for-nlp/</link>
-      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-15-an-introduction-to-huggingface-transformers-for-nlp/</guid>
-      <description>In this article, we will be covering what HuggingFace is, how and why it came to exist, and how to best utilize it for your machine learning workflows. We&amp;rsquo;ll also touch on the different use cases covered by the various HuggingFace packages in the ecosystem.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Automated Feature Engineering in Python</title>
-      <link>/post/2023-07-15-automated-feature-engineering-in-python/</link>
-      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-15-automated-feature-engineering-in-python/</guid>
-      <description>A guide to augmenting your dataset with new and informative features using Upgini
-Link</description>
-    </item>
-    
-    <item>
-      <title>Autonomous Agents &amp; Agent Simulations</title>
-      <link>/post/2023-07-15-autonomous-agents-agent-simulations/</link>
-      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-15-autonomous-agents-agent-simulations/</guid>
-      <description>Over the past two weeks, there has been a massive increase in using LLMs in an agentic manner. Specifically, projects like AutoGPT, BabyAGI, CAMEL, and Generative Agents have popped up. The LangChain community has now implemented some parts of all of those projects in the LangChain framework. While researching and implementing these projects, we’ve tried to best understand what the differences between them are and what the novel features of each are.</description>
     </item>
     
   </channel>

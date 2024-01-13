@@ -5,10 +5,32 @@
     <description>Recent content in graphs on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/graphs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Intelligent Graph = Knowledge Graph &#43; Intelligent Agents</title>
+      <link>/post/2024-01-13-intelligent-graph-knowledge-graph-intelligent-agents/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-intelligent-graph-knowledge-graph-intelligent-agents/</guid>
+      <description>&lt;p&gt;The IntelligentGraph capability is when intelligent agents can be embedded in an RDF graph. These agents are activated only when the graph is queried for results referencing the agent.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@peter.lawrence_47665/intelligent-graph-knowledge-graph-intelligent-agents-b3952399bf8a&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>YouTube Transcripts → Knowledge Graphs for RAG Applications</title>
+      <link>/post/2024-01-13-youtube-transcripts-knowledge-graphs-for-rag-applications/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-youtube-transcripts-knowledge-graphs-for-rag-applications/</guid>
+      <description>&lt;p&gt;Here we will explore how to scrape YouTube video transcripts into a knowledge graph for Retrieval Augmented Generation (RAG) applications. We will use Google Cloud Platform to store our initial transcripts, LangChain to create documents from the transcripts and a Neo4j graph database to store the resulting documents. In this example we will be creating a knowledge graph containing objective musical facts spoken by Anthony Fantano himself on a select few music genres.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@a-gilmore/youtube-transcripts-knowledge-graphs-for-rag-applications-2cc790543d4b&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Graph Machine Learning Explainability with PyG</title>

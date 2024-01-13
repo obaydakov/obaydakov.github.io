@@ -5,10 +5,21 @@
     <description>Recent content in python on If you torture the data long enough, it will confess ©</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>4 Python Libraries for Automated Feature Engineering That You Should Use in 2023</title>
+      <link>/post/2024-01-13-4-python-libraries-for-automated-feature-engineering-that-you-should-use-in-2023/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-4-python-libraries-for-automated-feature-engineering-that-you-should-use-in-2023/</guid>
+      <description>&lt;p&gt;Use these frameworks to empower your machine-learning work&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://levelup.gitconnected.com/4-python-libraries-for-automated-feature-engineering-that-you-should-use-in-2023-54bccecb1683&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Python Packages for Data Engineers</title>

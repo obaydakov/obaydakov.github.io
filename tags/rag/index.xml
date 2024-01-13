@@ -1,0 +1,70 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RAG on If you torture the data long enough, it will confess ©</title>
+    <link>/tags/rag/</link>
+    <description>Recent content in RAG on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/rag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Cheat Sheet and Some Recipes For Building Advanced RAG</title>
+      <link>/post/2024-01-13-a-cheat-sheet-and-some-recipes-for-building-advanced-rag/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-a-cheat-sheet-and-some-recipes-for-building-advanced-rag/</guid>
+      <description>&lt;p&gt;The RAG cheat sheet shared above was greatly inspired by a recent RAG survey paper (“Retrieval-Augmented Generation for Large Language Models: A Survey” Gao, Yunfan, et al. 2023).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Auto-Generated Agent Chat: Revolutionizing Group Conversations with RAG</title>
+      <link>/post/2024-01-13-auto-generated-agent-chat-revolutionizing-group-conversations-with-rag/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-auto-generated-agent-chat-revolutionizing-group-conversations-with-rag/</guid>
+      <description>&lt;p&gt;In the ever-evolving landscape of artificial intelligence (AI) and natural language processing (NLP), researchers and developers continue to push the boundaries of what’s possible. One such groundbreaking development is the Auto Generated Agent Chat, a cutting-edge system that employs Retrieval Augmented Generation (RAG) to transform group conversations. This technology combines the strengths of both retrieval-based and generative models, offering a unique and efficient solution for enhancing communication in group settings.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ai.plainenglish.io/auto-generated-agent-chat-revolutionizing-group-conversations-with-rag-c86f8528a199&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build a Conversational RAG with Mistral-7B and LangChain </title>
+      <link>/post/2024-01-13-build-a-conversational-rag-with-mistral-7b-and-langchain/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-build-a-conversational-rag-with-mistral-7b-and-langchain/</guid>
+      <description>&lt;p&gt;How to store the conversation history in memory and include it within our prompt.
+How to transform the input question such that it retrieves the relevant information from our vector database.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@thakermadhav/part-2-build-a-conversational-rag-with-langchain-and-mistral-7b-6a4ebe497185&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Document AutoRetrieval (with Weaviate) Pack</title>
+      <link>/post/2024-01-13-multi-document-autoretrieval-with-weaviate-pack/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-multi-document-autoretrieval-with-weaviate-pack/</guid>
+      <description>&lt;p&gt;This LlamaPack implements structured hierarchical retrieval over multiple documents, using multiple @weaviate_io collections.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://llamahub.ai/l/llama_packs-multidoc_autoretrieval?from=llama_packs&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimizing RAG Systems with LlamaIndex: Strategies for Production Performance</title>
+      <link>/post/2024-01-13-optimizing-rag-systems-with-llamaindex-strategies-for-production-performance/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-optimizing-rag-systems-with-llamaindex-strategies-for-production-performance/</guid>
+      <description>&lt;p&gt;Prototyping a Retrieval-Augmented Generation (RAG) application is relatively straightforward, but the challenge lies in optimizing it for performance, robustness, and scalability across vast knowledge repositories. This guide aims to provide insights, strategies, and implementations leveraging LlamaIndex to enhance the efficiency of your RAG pipeline, catering to complex datasets and ensuring accurate query responses without hallucinations.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ai.gopubby.com/optimizing-rag-systems-with-llamaindex-strategies-for-production-performance-98628b00364c&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 
