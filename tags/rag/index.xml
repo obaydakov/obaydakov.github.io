@@ -22,6 +22,28 @@
     </item>
     
     <item>
+      <title>Advanced RAG Techniques: an Illustrated Overview</title>
+      <link>/post/2024-01-13-advanced-rag-techniques-an-illustrated-overview/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-advanced-rag-techniques-an-illustrated-overview/</guid>
+      <description>&lt;p&gt;A comprehensive study of the advanced retrieval augmented generation techniques and algorithms, systemising various approaches. The article comes with a collection of links in my knowledge base referencing various implementations and studies mentioned.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://freedium.cfd/https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advanced Retrieval with LlamaPacks: Elevating RAG in Fewer Lines of Code!</title>
+      <link>/post/2024-01-13-advanced-retrieval-with-llamapacks-elevating-rag-in-fewer-lines-of-code/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-advanced-retrieval-with-llamapacks-elevating-rag-in-fewer-lines-of-code/</guid>
+      <description>&lt;p&gt;Auto Merging Retriever Pack and Small-to-big Retrieval Pack provided by LlamaIndex perform the best for this experiment. Read on to see what went down&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.plainenglish.io/advanced-retrieval-with-llamapacks-elevating-rag-in-fewer-lines-of-code-5d0497339a3c&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Auto-Generated Agent Chat: Revolutionizing Group Conversations with RAG</title>
       <link>/post/2024-01-13-auto-generated-agent-chat-revolutionizing-group-conversations-with-rag/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>

@@ -28,6 +28,26 @@ Link</description>
     </item>
     
     <item>
+      <title>Advanced RAG Techniques: an Illustrated Overview</title>
+      <link>/post/2024-01-13-advanced-rag-techniques-an-illustrated-overview/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-advanced-rag-techniques-an-illustrated-overview/</guid>
+      <description>A comprehensive study of the advanced retrieval augmented generation techniques and algorithms, systemising various approaches. The article comes with a collection of links in my knowledge base referencing various implementations and studies mentioned.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Advanced Retrieval with LlamaPacks: Elevating RAG in Fewer Lines of Code!</title>
+      <link>/post/2024-01-13-advanced-retrieval-with-llamapacks-elevating-rag-in-fewer-lines-of-code/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-advanced-retrieval-with-llamapacks-elevating-rag-in-fewer-lines-of-code/</guid>
+      <description>Auto Merging Retriever Pack and Small-to-big Retrieval Pack provided by LlamaIndex perform the best for this experiment. Read on to see what went down
+Link</description>
+    </item>
+    
+    <item>
       <title>Applying OpenAI&#39;s RAG Strategies</title>
       <link>/post/2024-01-13-applying-openai-s-rag-strategies/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
@@ -118,6 +138,16 @@ Eden AI x LangChain: Harnessing LLMs, Embeddings, and AI</description>
     </item>
     
     <item>
+      <title>Finetune Mistral, Llama 2-5x faster with 50% less memory!</title>
+      <link>/post/2024-01-13-finetune-mistral-llama-2-5x-faster-with-50-less-memory/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-finetune-mistral-llama-2-5x-faster-with-50-less-memory/</guid>
+      <description>Finetune Mistral, Llama 2-5x faster with 50% less memory!
+Link</description>
+    </item>
+    
+    <item>
       <title>Function Calling Is Also Available for Open Source LLMs in AutoGen</title>
       <link>/post/2024-01-13-function-calling-is-also-available-for-open-source-llms-in-autogen/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
@@ -176,40 +206,6 @@ Link</description>
       
       <guid>/post/2024-01-13-intro-to-langchain-agents-with-semantic-router/</guid>
       <description>Use routes to remind agents of particular information or routes (we will do this in this notebook). Use routes to act as protective guardrails against specific types of queries.
-Link</description>
-    </item>
-    
-    <item>
-      <title>Introducing Query Pipelines</title>
-      <link>/post/2024-01-13-introducing-query-pipelines/</link>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2024-01-13-introducing-query-pipelines/</guid>
-      <description>Today we introduce Query Pipelines, a new declarative API within LlamaIndex that allows you to concisely orchestrate simple-to-advanced query workflows over your data for different use cases (RAG, structured data extraction, and more).
-Link
-Usage Pattern</description>
-    </item>
-    
-    <item>
-      <title>Langchain &#43; AWS</title>
-      <link>/post/2024-01-13-langchain-aws/</link>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2024-01-13-langchain-aws/</guid>
-      <description>Langchain + AWS
-Langchain + Amazon Textract
-Langchain + AWS DynamoDB
-Langchain + Bedrock (Knowledge Bases)
-Langchain + AWS Lambda</description>
-    </item>
-    
-    <item>
-      <title>LangChain cookbook</title>
-      <link>/post/2024-01-13-langchain-cookbook/</link>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2024-01-13-langchain-cookbook/</guid>
-      <description>Example code for building applications with LangChain, with an emphasis on more applied and end-to-end examples than contained in the main documentation.
 Link</description>
     </item>
     
