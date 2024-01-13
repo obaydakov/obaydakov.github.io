@@ -21,5 +21,19 @@
 </description>
     </item>
     
+    <item>
+      <title>Langchain &#43; AWS</title>
+      <link>/post/2024-01-13-langchain-aws/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-langchain-aws/</guid>
+      <description>&lt;p&gt;Langchain + AWS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/docs/integrations/document_loaders/amazon_textract&#34;&gt;Langchain + Amazon Textract&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/docs/integrations/memory/aws_dynamodb&#34;&gt;Langchain + AWS DynamoDB&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/docs/integrations/retrievers/bedrock&#34;&gt;Langchain + Bedrock (Knowledge Bases)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/docs/integrations/tools/awslambda&#34;&gt;Langchain + AWS Lambda&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss> 

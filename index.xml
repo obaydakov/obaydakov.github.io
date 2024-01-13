@@ -28,12 +28,51 @@ Link</description>
     </item>
     
     <item>
+      <title>Applying OpenAI&#39;s RAG Strategies</title>
+      <link>/post/2024-01-13-applying-openai-s-rag-strategies/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-applying-openai-s-rag-strategies/</guid>
+      <description>At their demo day, Open AI reported a series of RAG experiments for a customer that they worked with. While evaluation metics will depend on your specific application, it’s interesting to see what worked and what didn&amp;rsquo;t for them. Below, we expand on each method mention and show how you can implement each one for yourself. The ability to understand and these methods on your application is critical: from talking to many partners and users, there is no &amp;ldquo;one-size-fits-all&amp;rdquo; solution because different problems require different retrieval techniques.</description>
+    </item>
+    
+    <item>
       <title>Auto-Generated Agent Chat: Revolutionizing Group Conversations with RAG</title>
       <link>/post/2024-01-13-auto-generated-agent-chat-revolutionizing-group-conversations-with-rag/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>/post/2024-01-13-auto-generated-agent-chat-revolutionizing-group-conversations-with-rag/</guid>
       <description>In the ever-evolving landscape of artificial intelligence (AI) and natural language processing (NLP), researchers and developers continue to push the boundaries of what’s possible. One such groundbreaking development is the Auto Generated Agent Chat, a cutting-edge system that employs Retrieval Augmented Generation (RAG) to transform group conversations. This technology combines the strengths of both retrieval-based and generative models, offering a unique and efficient solution for enhancing communication in group settings.</description>
+    </item>
+    
+    <item>
+      <title>Awesome-LLM</title>
+      <link>/post/2024-01-13-awesome-llm/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-awesome-llm/</guid>
+      <description>Large Language Models(LLM) have taken the NLP community AI community the Whole World by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Best LLM and LLMOps Resources for 2023</title>
+      <link>/post/2024-01-13-best-llm-and-llmops-resources-for-2023/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-best-llm-and-llmops-resources-for-2023/</guid>
+      <description>Curated list of best courses, books, resources on large language model
+Link</description>
+    </item>
+    
+    <item>
+      <title>Beyond Basic Chatbots: How Semantic Router is Changing the Game</title>
+      <link>/post/2024-01-13-beyond-basic-chatbots-how-semantic-router-is-changing-the-game/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-beyond-basic-chatbots-how-semantic-router-is-changing-the-game/</guid>
+      <description>A Semantic Router is an advanced layer in the realm of chatbots and natural language processing. Think of it as a fuzzy yet deterministic interface layered over your chatbots or any system that processes natural language. Its primary function? To serve as a super-fast decision-making layer for Large Language Models (LLMs).
+Link</description>
     </item>
     
     <item>
@@ -47,6 +86,38 @@ Link</description>
     </item>
     
     <item>
+      <title>Building LLM Agents in 3 Levels of Complexity: From Scratch, OpenAI Functions &amp; LangChain</title>
+      <link>/post/2024-01-13-building-llm-agents-in-3-levels-of-complexity-from-scratch-openai-functions-langchain/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-building-llm-agents-in-3-levels-of-complexity-from-scratch-openai-functions-langchain/</guid>
+      <description>Understanding how LLM agents work by building it at 3 levels of complexity
+Link</description>
+    </item>
+    
+    <item>
+      <title>Constructing an Efficient Knowledge Graph RAG Pipeline with LlamaIndex</title>
+      <link>/post/2024-01-13-constructing-an-efficient-knowledge-graph-rag-pipeline-with-llamaindex/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-constructing-an-efficient-knowledge-graph-rag-pipeline-with-llamaindex/</guid>
+      <description>Retrieval Augmented Generation (RAG) emerges as a solution to bridge this gap, allowing LLMs to access external knowledge sources. This article delves into RAG, examines its elements, and constructs a usable RAG workflow that harnesses the potential of LlamaIndex, a knowledge graph.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Eden AI &#43; LangChain</title>
+      <link>/post/2024-01-13-eden-ai-langchain/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-eden-ai-langchain/</guid>
+      <description>Eden AI is revolutionizing the AI landscape by uniting the best AI providers, empowering users to unlock limitless possibilities and tap into the true potential of artificial intelligence. With an all-in-one comprehensive and hassle-free platform, it allows users to deploy AI features to production lightning fast, enabling effortless access to the full breadth of AI capabilities via a single API. (website: https://edenai.co/ )
+Link
+Story Generation
+Eden AI x LangChain: Harnessing LLMs, Embeddings, and AI</description>
+    </item>
+    
+    <item>
       <title>Function Calling Is Also Available for Open Source LLMs in AutoGen</title>
       <link>/post/2024-01-13-function-calling-is-also-available-for-open-source-llms-in-autogen/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
@@ -54,6 +125,18 @@ Link</description>
       <guid>/post/2024-01-13-function-calling-is-also-available-for-open-source-llms-in-autogen/</guid>
       <description>In this tutorial, I am going to keep developing multi-agent LLM applications in the AutoGen framework and using decent open-source language models with function calls to see whether they can generate and execute a function task like calculation for currency exchange.
 Link</description>
+    </item>
+    
+    <item>
+      <title>GPT Researcher - Tavily</title>
+      <link>/post/2024-01-13-gpt-researcher-tavily/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-gpt-researcher-tavily/</guid>
+      <description>The agent can produce detailed, factual and unbiased research reports, with customization options for focusing on relevant resources, outlines, and lessons. Inspired by the recent Plan-and-Solve and RAG papers, GPT Researcher addresses issues of speed, determinism and reliability, offering a more stable performance and increased speed through parallelized agent work, as opposed to synchronous operations.
+Link
+Building a Tavily Data Agent
+research-assistan</description>
     </item>
     
     <item>
@@ -87,119 +170,46 @@ Link</description>
     </item>
     
     <item>
-      <title>LlamaIndex - Building a Custom Agent</title>
-      <link>/post/2024-01-13-llamaindex-building-a-custom-agent/</link>
+      <title>Intro to LangChain Agents with Semantic Router</title>
+      <link>/post/2024-01-13-intro-to-langchain-agents-with-semantic-router/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/post/2024-01-13-llamaindex-building-a-custom-agent/</guid>
-      <description>We show you how to build a simple agent that adds a retry layer on top of a RouterQueryEngine, allowing it to retry queries until the task is complete. We build this on top of both a SQL tool and a vector index query tool. Even if the tool makes an error or only answers part of the question, the agent can continue retrying the question until the task is complete.</description>
-    </item>
-    
-    <item>
-      <title>LLM Agents — Intuitively and Exhaustively Explained</title>
-      <link>/post/2024-01-13-llm-agents-intuitively-and-exhaustively-explained/</link>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2024-01-13-llm-agents-intuitively-and-exhaustively-explained/</guid>
-      <description>Empowering Language Models to Reason and Act
+      <guid>/post/2024-01-13-intro-to-langchain-agents-with-semantic-router/</guid>
+      <description>Use routes to remind agents of particular information or routes (we will do this in this notebook). Use routes to act as protective guardrails against specific types of queries.
 Link</description>
     </item>
     
     <item>
-      <title>LLMCompiler: An LLM Compiler for Parallel Function Calling</title>
-      <link>/post/2024-01-13-llmcompiler-an-llm-compiler-for-parallel-function-calling/</link>
+      <title>Introducing Query Pipelines</title>
+      <link>/post/2024-01-13-introducing-query-pipelines/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/post/2024-01-13-llmcompiler-an-llm-compiler-for-parallel-function-calling/</guid>
-      <description>LLMCompiler is a framework that enables an efficient and effective orchestration of parallel function calling with LLMs, including both open-source and close-source models, by automatically identifying which tasks can be performed in parallel and which ones are interdependent.
-[Link]{https://github.com/SqueezeAILab/LLMCompiler}
-LLM Compiler Agent Cookbook</description>
+      <guid>/post/2024-01-13-introducing-query-pipelines/</guid>
+      <description>Today we introduce Query Pipelines, a new declarative API within LlamaIndex that allows you to concisely orchestrate simple-to-advanced query workflows over your data for different use cases (RAG, structured data extraction, and more).
+Link
+Usage Pattern</description>
     </item>
     
     <item>
-      <title>Multi-Document AutoRetrieval (with Weaviate) Pack</title>
-      <link>/post/2024-01-13-multi-document-autoretrieval-with-weaviate-pack/</link>
+      <title>Langchain &#43; AWS</title>
+      <link>/post/2024-01-13-langchain-aws/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/post/2024-01-13-multi-document-autoretrieval-with-weaviate-pack/</guid>
-      <description>This LlamaPack implements structured hierarchical retrieval over multiple documents, using multiple @weaviate_io collections.
-Link</description>
+      <guid>/post/2024-01-13-langchain-aws/</guid>
+      <description>Langchain + AWS
+Langchain + Amazon Textract
+Langchain + AWS DynamoDB
+Langchain + Bedrock (Knowledge Bases)
+Langchain + AWS Lambda</description>
     </item>
     
     <item>
-      <title>Optimizing RAG Systems with LlamaIndex: Strategies for Production Performance</title>
-      <link>/post/2024-01-13-optimizing-rag-systems-with-llamaindex-strategies-for-production-performance/</link>
+      <title>LangChain cookbook</title>
+      <link>/post/2024-01-13-langchain-cookbook/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/post/2024-01-13-optimizing-rag-systems-with-llamaindex-strategies-for-production-performance/</guid>
-      <description>Prototyping a Retrieval-Augmented Generation (RAG) application is relatively straightforward, but the challenge lies in optimizing it for performance, robustness, and scalability across vast knowledge repositories. This guide aims to provide insights, strategies, and implementations leveraging LlamaIndex to enhance the efficiency of your RAG pipeline, catering to complex datasets and ensuring accurate query responses without hallucinations.
-Link</description>
-    </item>
-    
-    <item>
-      <title>YouTube Transcripts → Knowledge Graphs for RAG Applications</title>
-      <link>/post/2024-01-13-youtube-transcripts-knowledge-graphs-for-rag-applications/</link>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2024-01-13-youtube-transcripts-knowledge-graphs-for-rag-applications/</guid>
-      <description>Here we will explore how to scrape YouTube video transcripts into a knowledge graph for Retrieval Augmented Generation (RAG) applications. We will use Google Cloud Platform to store our initial transcripts, LangChain to create documents from the transcripts and a Neo4j graph database to store the resulting documents. In this example we will be creating a knowledge graph containing objective musical facts spoken by Anthony Fantano himself on a select few music genres.</description>
-    </item>
-    
-    <item>
-      <title>Autonomous GPT-4: From ChatGPT to AutoGPT, AgentGPT, BabyAGI, HuggingGPT, and Beyond</title>
-      <link>/post/2023-07-23-autonomous-gpt-4-from-chatgpt-to-autogpt-agentgpt-babyagi-hugginggpt-and-beyond/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-autonomous-gpt-4-from-chatgpt-to-autogpt-agentgpt-babyagi-hugginggpt-and-beyond/</guid>
-      <description>Emerging task automation and AI agents with GPT-4 after LangChain and LlamaIndex integration trend
-Link</description>
-    </item>
-    
-    <item>
-      <title>Building and Managing an Isolation Forest Anomaly Detection Pipeline with Kedro</title>
-      <link>/post/2023-07-23-building-and-managing-an-isolation-forest-anomaly-detection-pipeline-with-kedro/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-building-and-managing-an-isolation-forest-anomaly-detection-pipeline-with-kedro/</guid>
-      <description>Anomaly (fraud) detection pipeline on credit card transaction data using Isolation Forest machine learning model and Kedro framework
-Link</description>
-    </item>
-    
-    <item>
-      <title>Building LLM applications for production</title>
-      <link>/post/2023-07-23-building-llm-applications-for-production/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-building-llm-applications-for-production/</guid>
-      <description>Building LLM applications for production
-Link</description>
-    </item>
-    
-    <item>
-      <title>Creating GPT-Driven Applications Using LangChain</title>
-      <link>/post/2023-07-23-creating-gpt-driven-applications-using-langchain/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-creating-gpt-driven-applications-using-langchain/</guid>
-      <description>Large Language Models (LLMs) like OpenAI ChatGPT are called foundational models because even though they are trained for a relatively small set of tasks, they work exceptionally well for multiple unseen downstream tasks. While there is still some debate on how they are so good, at a high level it is quite easy to under what they do — they just predict the next word (read tokens). And all the cool tools you see built using these models, are nothing but the smart application of this feature.</description>
-    </item>
-    
-    <item>
-      <title>Extract Insights from Text Data inside Databases using OpenAI GPT-3 and MindsDB integration</title>
-      <link>/post/2023-07-23-extract-insights-from-text-data-inside-databases-using-openai-gpt-3-and-mindsdb-integration/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-extract-insights-from-text-data-inside-databases-using-openai-gpt-3-and-mindsdb-integration/</guid>
-      <description>Imagine you have a lot of text data inside your database. And you want to extract insights to analyze it or perform various AI tasks on text data. In this article, you will learn how to use MindsDB to integrate your database with OpenAI GPT-3 and get insights from all your text data at once with a few SQL commands instead of making multiple individual API calls, ETL-ing and moving massive amounts of data.</description>
-    </item>
-    
-    <item>
-      <title>Finance NLP 1.5.0 is out!</title>
-      <link>/post/2023-07-23-finance-nlp-1-5-0-is-out/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2023-07-23-finance-nlp-1-5-0-is-out/</guid>
-      <description>Finance NLP is a John Snow Lab’s product, launched 2022 to provide state-of-the-art, autoscalable, domain-specific NLP on top of Spark. With more than 100 models, featuring Deep Learning and Transformer-based architectures
+      <guid>/post/2024-01-13-langchain-cookbook/</guid>
+      <description>Example code for building applications with LangChain, with an emphasis on more applied and end-to-end examples than contained in the main documentation.
 Link</description>
     </item>
     

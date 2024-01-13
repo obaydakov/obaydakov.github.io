@@ -22,6 +22,28 @@
     </item>
     
     <item>
+      <title>Awesome-LLM</title>
+      <link>/post/2024-01-13-awesome-llm/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-awesome-llm/</guid>
+      <description>&lt;p&gt;Large Language Models(LLM) have taken the NLP community AI community the Whole World by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#llm-training-frameworks&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best LLM and LLMOps Resources for 2023</title>
+      <link>/post/2024-01-13-best-llm-and-llmops-resources-for-2023/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-best-llm-and-llmops-resources-for-2023/</guid>
+      <description>&lt;p&gt;Curated list of best courses, books, resources on large language model&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@abonia/best-llm-and-llmops-resources-for-2023-75e96ac37feb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Python Packages for Data Engineers</title>
       <link>/post/2023-04-22-python-packages-for-data-engineers/</link>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>

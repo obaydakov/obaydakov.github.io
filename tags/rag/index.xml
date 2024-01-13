@@ -33,6 +33,17 @@
     </item>
     
     <item>
+      <title>Beyond Basic Chatbots: How Semantic Router is Changing the Game</title>
+      <link>/post/2024-01-13-beyond-basic-chatbots-how-semantic-router-is-changing-the-game/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-beyond-basic-chatbots-how-semantic-router-is-changing-the-game/</guid>
+      <description>&lt;p&gt;A Semantic Router is an advanced layer in the realm of chatbots and natural language processing. Think of it as a fuzzy yet deterministic interface layered over your chatbots or any system that processes natural language. Its primary function? To serve as a super-fast decision-making layer for Large Language Models (LLMs).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/ai-insights-cobet/beyond-basic-chatbots-how-semantic-router-is-changing-the-game-783dd959a32d&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Build a Conversational RAG with Mistral-7B and LangChain </title>
       <link>/post/2024-01-13-build-a-conversational-rag-with-mistral-7b-and-langchain/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
@@ -41,6 +52,40 @@
       <description>&lt;p&gt;How to store the conversation history in memory and include it within our prompt.
 How to transform the input question such that it retrieves the relevant information from our vector database.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://medium.com/@thakermadhav/part-2-build-a-conversational-rag-with-langchain-and-mistral-7b-6a4ebe497185&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing Query Pipelines</title>
+      <link>/post/2024-01-13-introducing-query-pipelines/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-introducing-query-pipelines/</guid>
+      <description>&lt;p&gt;Today we introduce Query Pipelines, a new declarative API within LlamaIndex that allows you to concisely orchestrate simple-to-advanced query workflows over your data for different use cases (RAG, structured data extraction, and more).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.llamaindex.ai/introducing-query-pipelines-025dc2bb0537&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.llamaindex.ai/en/latest/module_guides/querying/pipeline/usage_pattern.html#&#34;&gt;Usage Pattern&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LangChain cookbook</title>
+      <link>/post/2024-01-13-langchain-cookbook/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-langchain-cookbook/</guid>
+      <description>&lt;p&gt;Example code for building applications with LangChain, with an emphasis on more applied and end-to-end examples than contained in the main documentation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/langchain-ai/langchain/tree/master/cookbook&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mastering Chain Composition with LangChain Expression Language (LCEL) through Mixtral-8x7B-Instruct</title>
+      <link>/post/2024-01-13-mastering-chain-composition-with-langchain-expression-language-lcel-through-mixtral-8x7b-instruct/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-mastering-chain-composition-with-langchain-expression-language-lcel-through-mixtral-8x7b-instruct/</guid>
+      <description>&lt;p&gt;In the intricate landscape of modern software development, orchestrating complex sequences of actions seamlessly poses a significant challenge. Enter LangChain Expression Language (LCEL), a groundbreaking declarative approach designed to revolutionize the composition of chains within software architecture.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ai.gopubby.com/mastering-chain-composition-with-langchain-expression-language-lcel-2d5041fb0cbd&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -63,6 +108,29 @@ How to transform the input question such that it retrieves the relevant informat
       <guid>/post/2024-01-13-optimizing-rag-systems-with-llamaindex-strategies-for-production-performance/</guid>
       <description>&lt;p&gt;Prototyping a Retrieval-Augmented Generation (RAG) application is relatively straightforward, but the challenge lies in optimizing it for performance, robustness, and scalability across vast knowledge repositories. This guide aims to provide insights, strategies, and implementations leveraging LlamaIndex to enhance the efficiency of your RAG pipeline, catering to complex datasets and ensuring accurate query responses without hallucinations.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ai.gopubby.com/optimizing-rag-systems-with-llamaindex-strategies-for-production-performance-98628b00364c&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RAG Pipeline with Query Rewriting</title>
+      <link>/post/2024-01-13-rag-pipeline-with-query-rewriting/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-rag-pipeline-with-query-rewriting/</guid>
+      <description>&lt;p&gt;Here we chain together a full RAG pipeline consisting of query rewriting, retrieval, reranking, and response synthesis.&lt;/p&gt;
+&lt;p&gt;Here we can’t use chain syntax because certain modules depend on multiple inputs (for instance, response synthesis expects both the retrieved nodes and the original question). Instead we’ll construct a DAG explicitly, through add_modules and then add_link.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.llamaindex.ai/en/latest/examples/pipeline/query_pipeline.html#&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retrieval-Augmented Generation(RAG):Paradigms, Technologies, andTrends</title>
+      <link>/post/2024-01-13-retrieval-augmented-generation-rag-paradigms-technologies-andtrends/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-retrieval-augmented-generation-rag-paradigms-technologies-andtrends/</guid>
+      <description>&lt;p&gt;Retrieval-Augmented Generation(RAG):Paradigms, Technologies, andTrends&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;file:///C:/Users/ippro/Downloads/RAG_Slide_ENG.pdf&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

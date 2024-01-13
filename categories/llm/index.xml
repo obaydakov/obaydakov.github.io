@@ -22,6 +22,17 @@
     </item>
     
     <item>
+      <title>Applying OpenAI&#39;s RAG Strategies</title>
+      <link>/post/2024-01-13-applying-openai-s-rag-strategies/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-applying-openai-s-rag-strategies/</guid>
+      <description>&lt;p&gt;At their demo day, Open AI reported a series of RAG experiments for a customer that they worked with. While evaluation metics will depend on your specific application, it’s interesting to see what worked and what didn&amp;rsquo;t for them. Below, we expand on each method mention and show how you can implement each one for yourself. The ability to understand and these methods on your application is critical: from talking to many partners and users, there is no &amp;ldquo;one-size-fits-all&amp;rdquo; solution because different problems require different retrieval techniques.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.langchain.dev/applying-openai-rag/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Auto-Generated Agent Chat: Revolutionizing Group Conversations with RAG</title>
       <link>/post/2024-01-13-auto-generated-agent-chat-revolutionizing-group-conversations-with-rag/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
@@ -29,6 +40,39 @@
       <guid>/post/2024-01-13-auto-generated-agent-chat-revolutionizing-group-conversations-with-rag/</guid>
       <description>&lt;p&gt;In the ever-evolving landscape of artificial intelligence (AI) and natural language processing (NLP), researchers and developers continue to push the boundaries of what’s possible. One such groundbreaking development is the Auto Generated Agent Chat, a cutting-edge system that employs Retrieval Augmented Generation (RAG) to transform group conversations. This technology combines the strengths of both retrieval-based and generative models, offering a unique and efficient solution for enhancing communication in group settings.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ai.plainenglish.io/auto-generated-agent-chat-revolutionizing-group-conversations-with-rag-c86f8528a199&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Awesome-LLM</title>
+      <link>/post/2024-01-13-awesome-llm/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-awesome-llm/</guid>
+      <description>&lt;p&gt;Large Language Models(LLM) have taken the NLP community AI community the Whole World by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#llm-training-frameworks&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best LLM and LLMOps Resources for 2023</title>
+      <link>/post/2024-01-13-best-llm-and-llmops-resources-for-2023/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-best-llm-and-llmops-resources-for-2023/</guid>
+      <description>&lt;p&gt;Curated list of best courses, books, resources on large language model&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@abonia/best-llm-and-llmops-resources-for-2023-75e96ac37feb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond Basic Chatbots: How Semantic Router is Changing the Game</title>
+      <link>/post/2024-01-13-beyond-basic-chatbots-how-semantic-router-is-changing-the-game/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-beyond-basic-chatbots-how-semantic-router-is-changing-the-game/</guid>
+      <description>&lt;p&gt;A Semantic Router is an advanced layer in the realm of chatbots and natural language processing. Think of it as a fuzzy yet deterministic interface layered over your chatbots or any system that processes natural language. Its primary function? To serve as a super-fast decision-making layer for Large Language Models (LLMs).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/ai-insights-cobet/beyond-basic-chatbots-how-semantic-router-is-changing-the-game-783dd959a32d&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -45,6 +89,41 @@ How to transform the input question such that it retrieves the relevant informat
     </item>
     
     <item>
+      <title>Building LLM Agents in 3 Levels of Complexity: From Scratch, OpenAI Functions &amp; LangChain</title>
+      <link>/post/2024-01-13-building-llm-agents-in-3-levels-of-complexity-from-scratch-openai-functions-langchain/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-building-llm-agents-in-3-levels-of-complexity-from-scratch-openai-functions-langchain/</guid>
+      <description>&lt;p&gt;Understanding how LLM agents work by building it at 3 levels of complexity&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lucas-soares.medium.com/building-llm-agents-in-3-levels-of-complexity-from-scratch-openai-functions-langchain-bec68b451b84&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Constructing an Efficient Knowledge Graph RAG Pipeline with LlamaIndex</title>
+      <link>/post/2024-01-13-constructing-an-efficient-knowledge-graph-rag-pipeline-with-llamaindex/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-constructing-an-efficient-knowledge-graph-rag-pipeline-with-llamaindex/</guid>
+      <description>&lt;p&gt;Retrieval Augmented Generation (RAG) emerges as a solution to bridge this gap, allowing LLMs to access external knowledge sources. This article delves into RAG, examines its elements, and constructs a usable RAG workflow that harnesses the potential of LlamaIndex, a knowledge graph.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ai.gopubby.com/constructing-an-efficient-knowledge-graph-rag-pipeline-with-llamaindex-81a0a0b105b7&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eden AI &#43; LangChain</title>
+      <link>/post/2024-01-13-eden-ai-langchain/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-eden-ai-langchain/</guid>
+      <description>&lt;p&gt;Eden AI is revolutionizing the AI landscape by uniting the best AI providers, empowering users to unlock limitless possibilities and tap into the true potential of artificial intelligence. With an all-in-one comprehensive and hassle-free platform, it allows users to deploy AI features to production lightning fast, enabling effortless access to the full breadth of AI capabilities via a single API. (website: &lt;a href=&#34;https://edenai.co/&#34;&gt;https://edenai.co/&lt;/a&gt; )&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/docs/integrations/tools/edenai_tools?ref=blog.langchain.dev&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.edenai.co/post/how-to-generate-text-with-python&#34;&gt;Story Generation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.langchain.dev/eden-ai-x-langchain/&#34;&gt;Eden AI x LangChain: Harnessing LLMs, Embeddings, and AI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Function Calling Is Also Available for Open Source LLMs in AutoGen</title>
       <link>/post/2024-01-13-function-calling-is-also-available-for-open-source-llms-in-autogen/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
@@ -52,6 +131,19 @@ How to transform the input question such that it retrieves the relevant informat
       <guid>/post/2024-01-13-function-calling-is-also-available-for-open-source-llms-in-autogen/</guid>
       <description>&lt;p&gt;In this tutorial, I am going to keep developing multi-agent LLM applications in the AutoGen framework and using decent open-source language models with function calls to see whether they can generate and execute a function task like calculation for currency exchange.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://levelup.gitconnected.com/do-you-know-function-calling-is-also-available-for-open-source-llms-in-autogen-b1d920f48b9b&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPT Researcher - Tavily</title>
+      <link>/post/2024-01-13-gpt-researcher-tavily/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-gpt-researcher-tavily/</guid>
+      <description>&lt;p&gt;The agent can produce detailed, factual and unbiased research reports, with customization options for focusing on relevant resources, outlines, and lessons. Inspired by the recent Plan-and-Solve and RAG papers, GPT Researcher addresses issues of speed, determinism and reliability, offering a more stable performance and increased speed through parallelized agent work, as opposed to synchronous operations.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.tavily.com/docs/gpt-researcher/introduction&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/run-llama/llama-hub/blob/main/llama_hub/tools/notebooks/tavily.ipynb&#34;&gt;Building a Tavily Data Agent&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant&#34;&gt;research-assistan&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -89,6 +181,79 @@ How to transform the input question such that it retrieves the relevant informat
     </item>
     
     <item>
+      <title>Intro to LangChain Agents with Semantic Router</title>
+      <link>/post/2024-01-13-intro-to-langchain-agents-with-semantic-router/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-intro-to-langchain-agents-with-semantic-router/</guid>
+      <description>&lt;p&gt;Use routes to remind agents of particular information or routes (we will do this in this notebook).
+Use routes to act as protective guardrails against specific types of queries.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/aurelio-labs/semantic-router/blob/main/docs/03-basic-langchain-agent.ipynb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing Query Pipelines</title>
+      <link>/post/2024-01-13-introducing-query-pipelines/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-introducing-query-pipelines/</guid>
+      <description>&lt;p&gt;Today we introduce Query Pipelines, a new declarative API within LlamaIndex that allows you to concisely orchestrate simple-to-advanced query workflows over your data for different use cases (RAG, structured data extraction, and more).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.llamaindex.ai/introducing-query-pipelines-025dc2bb0537&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.llamaindex.ai/en/latest/module_guides/querying/pipeline/usage_pattern.html#&#34;&gt;Usage Pattern&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Langchain &#43; AWS</title>
+      <link>/post/2024-01-13-langchain-aws/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-langchain-aws/</guid>
+      <description>&lt;p&gt;Langchain + AWS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/docs/integrations/document_loaders/amazon_textract&#34;&gt;Langchain + Amazon Textract&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/docs/integrations/memory/aws_dynamodb&#34;&gt;Langchain + AWS DynamoDB&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/docs/integrations/retrievers/bedrock&#34;&gt;Langchain + Bedrock (Knowledge Bases)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/docs/integrations/tools/awslambda&#34;&gt;Langchain + AWS Lambda&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LangChain cookbook</title>
+      <link>/post/2024-01-13-langchain-cookbook/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-langchain-cookbook/</guid>
+      <description>&lt;p&gt;Example code for building applications with LangChain, with an emphasis on more applied and end-to-end examples than contained in the main documentation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/langchain-ai/langchain/tree/master/cookbook&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LangChain Templates</title>
+      <link>/post/2024-01-13-langchain-templates/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-langchain-templates/</guid>
+      <description>&lt;p&gt;LangChain Templates are the easiest and fastest way to build a production-ready LLM application. These templates serve as a set of reference architectures for a wide variety of popular LLM use cases. They are all in a standard format which make it easy to deploy them with LangServe.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://templates.langchain.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/langchain-ai/langchain/tree/master/templates&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LlamaHub</title>
+      <link>/post/2024-01-13-llamahub/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-llamahub/</guid>
+      <description>&lt;p&gt;Get your RAG application rolling in no time.
+Mix and match our Data Loaders and Agent Tools to build custom RAG apps or use our LlamaPacks as a starting point for your retrieval use cases.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://llamahub.ai/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>LlamaIndex - Building a Custom Agent</title>
       <link>/post/2024-01-13-llamaindex-building-a-custom-agent/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
@@ -96,6 +261,18 @@ How to transform the input question such that it retrieves the relevant informat
       <guid>/post/2024-01-13-llamaindex-building-a-custom-agent/</guid>
       <description>&lt;p&gt;We show you how to build a simple agent that adds a retry layer on top of a RouterQueryEngine, allowing it to retry queries until the task is complete. We build this on top of both a SQL tool and a vector index query tool. Even if the tool makes an error or only answers part of the question, the agent can continue retrying the question until the task is complete.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://docs.llamaindex.ai/en/latest/examples/agent/custom_agent.html#&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LlamaIndex - Ingestion Pipeline</title>
+      <link>/post/2024-01-13-llamaindex-ingestion-pipeline/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-llamaindex-ingestion-pipeline/</guid>
+      <description>&lt;p&gt;An IngestionPipeline uses a concept of Transformations that are applied to input data. These Transformations are applied to your input data, and the resulting nodes are either returned or inserted into a vector database (if given). Each node+transformation pair is cached, so that subsequent runs (if the cache is persisted) with the same node+transformation combination can use the cached result and save you time.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.llamaindex.ai/en/stable/module_guides/loading/ingestion_pipeline/root.html&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://llamahub.ai/l/llama_packs-redis_ingestion_pipeline?from=llama_packs&#34;&gt;LlamaPack&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -123,6 +300,17 @@ How to transform the input question such that it retrieves the relevant informat
     </item>
     
     <item>
+      <title>Mastering Chain Composition with LangChain Expression Language (LCEL) through Mixtral-8x7B-Instruct</title>
+      <link>/post/2024-01-13-mastering-chain-composition-with-langchain-expression-language-lcel-through-mixtral-8x7b-instruct/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-mastering-chain-composition-with-langchain-expression-language-lcel-through-mixtral-8x7b-instruct/</guid>
+      <description>&lt;p&gt;In the intricate landscape of modern software development, orchestrating complex sequences of actions seamlessly poses a significant challenge. Enter LangChain Expression Language (LCEL), a groundbreaking declarative approach designed to revolutionize the composition of chains within software architecture.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ai.gopubby.com/mastering-chain-composition-with-langchain-expression-language-lcel-2d5041fb0cbd&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Multi-Document AutoRetrieval (with Weaviate) Pack</title>
       <link>/post/2024-01-13-multi-document-autoretrieval-with-weaviate-pack/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
@@ -141,6 +329,40 @@ How to transform the input question such that it retrieves the relevant informat
       <guid>/post/2024-01-13-optimizing-rag-systems-with-llamaindex-strategies-for-production-performance/</guid>
       <description>&lt;p&gt;Prototyping a Retrieval-Augmented Generation (RAG) application is relatively straightforward, but the challenge lies in optimizing it for performance, robustness, and scalability across vast knowledge repositories. This guide aims to provide insights, strategies, and implementations leveraging LlamaIndex to enhance the efficiency of your RAG pipeline, catering to complex datasets and ensuring accurate query responses without hallucinations.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ai.gopubby.com/optimizing-rag-systems-with-llamaindex-strategies-for-production-performance-98628b00364c&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RAG Pipeline with Query Rewriting</title>
+      <link>/post/2024-01-13-rag-pipeline-with-query-rewriting/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-rag-pipeline-with-query-rewriting/</guid>
+      <description>&lt;p&gt;Here we chain together a full RAG pipeline consisting of query rewriting, retrieval, reranking, and response synthesis.&lt;/p&gt;
+&lt;p&gt;Here we can’t use chain syntax because certain modules depend on multiple inputs (for instance, response synthesis expects both the retrieved nodes and the original question). Instead we’ll construct a DAG explicitly, through add_modules and then add_link.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.llamaindex.ai/en/latest/examples/pipeline/query_pipeline.html#&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retrieval-Augmented Generation(RAG):Paradigms, Technologies, andTrends</title>
+      <link>/post/2024-01-13-retrieval-augmented-generation-rag-paradigms-technologies-andtrends/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-retrieval-augmented-generation-rag-paradigms-technologies-andtrends/</guid>
+      <description>&lt;p&gt;Retrieval-Augmented Generation(RAG):Paradigms, Technologies, andTrends&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;file:///C:/Users/ippro/Downloads/RAG_Slide_ENG.pdf&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Streamlining AI Agent Development with Autogen and LLaVA</title>
+      <link>/post/2024-01-13-streamlining-ai-agent-development-with-autogen-and-llava/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-streamlining-ai-agent-development-with-autogen-and-llava/</guid>
+      <description>&lt;p&gt;In this article, we’ll introduce you to the innovative world of Autogen, an AI agent that’s revolutionizing how we fine-tune and customize large multimodal models. Autogen takes the complexity out of the equation by automating and simplifying the fine-tuning process, making it accessible to developers and researchers alike. We’ll explore how Autogen collaborates seamlessly with models like LLaVA, streamlining AI agent development and opening the doors to more efficient and precise AI-driven solutions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/ai-artistry/streamlining-ai-agent-development-with-autogen-and-llava-b84fb0d25262&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

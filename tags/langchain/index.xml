@@ -1,0 +1,111 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Langchain on If you torture the data long enough, it will confess ©</title>
+    <link>/tags/langchain/</link>
+    <description>Recent content in Langchain on If you torture the data long enough, it will confess ©</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/langchain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Applying OpenAI&#39;s RAG Strategies</title>
+      <link>/post/2024-01-13-applying-openai-s-rag-strategies/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-applying-openai-s-rag-strategies/</guid>
+      <description>&lt;p&gt;At their demo day, Open AI reported a series of RAG experiments for a customer that they worked with. While evaluation metics will depend on your specific application, it’s interesting to see what worked and what didn&amp;rsquo;t for them. Below, we expand on each method mention and show how you can implement each one for yourself. The ability to understand and these methods on your application is critical: from talking to many partners and users, there is no &amp;ldquo;one-size-fits-all&amp;rdquo; solution because different problems require different retrieval techniques.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.langchain.dev/applying-openai-rag/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building LLM Agents in 3 Levels of Complexity: From Scratch, OpenAI Functions &amp; LangChain</title>
+      <link>/post/2024-01-13-building-llm-agents-in-3-levels-of-complexity-from-scratch-openai-functions-langchain/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-building-llm-agents-in-3-levels-of-complexity-from-scratch-openai-functions-langchain/</guid>
+      <description>&lt;p&gt;Understanding how LLM agents work by building it at 3 levels of complexity&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lucas-soares.medium.com/building-llm-agents-in-3-levels-of-complexity-from-scratch-openai-functions-langchain-bec68b451b84&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eden AI &#43; LangChain</title>
+      <link>/post/2024-01-13-eden-ai-langchain/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-eden-ai-langchain/</guid>
+      <description>&lt;p&gt;Eden AI is revolutionizing the AI landscape by uniting the best AI providers, empowering users to unlock limitless possibilities and tap into the true potential of artificial intelligence. With an all-in-one comprehensive and hassle-free platform, it allows users to deploy AI features to production lightning fast, enabling effortless access to the full breadth of AI capabilities via a single API. (website: &lt;a href=&#34;https://edenai.co/&#34;&gt;https://edenai.co/&lt;/a&gt; )&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/docs/integrations/tools/edenai_tools?ref=blog.langchain.dev&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.edenai.co/post/how-to-generate-text-with-python&#34;&gt;Story Generation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.langchain.dev/eden-ai-x-langchain/&#34;&gt;Eden AI x LangChain: Harnessing LLMs, Embeddings, and AI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPT Researcher - Tavily</title>
+      <link>/post/2024-01-13-gpt-researcher-tavily/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-gpt-researcher-tavily/</guid>
+      <description>&lt;p&gt;The agent can produce detailed, factual and unbiased research reports, with customization options for focusing on relevant resources, outlines, and lessons. Inspired by the recent Plan-and-Solve and RAG papers, GPT Researcher addresses issues of speed, determinism and reliability, offering a more stable performance and increased speed through parallelized agent work, as opposed to synchronous operations.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.tavily.com/docs/gpt-researcher/introduction&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/run-llama/llama-hub/blob/main/llama_hub/tools/notebooks/tavily.ipynb&#34;&gt;Building a Tavily Data Agent&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant&#34;&gt;research-assistan&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intro to LangChain Agents with Semantic Router</title>
+      <link>/post/2024-01-13-intro-to-langchain-agents-with-semantic-router/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-intro-to-langchain-agents-with-semantic-router/</guid>
+      <description>&lt;p&gt;Use routes to remind agents of particular information or routes (we will do this in this notebook).
+Use routes to act as protective guardrails against specific types of queries.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/aurelio-labs/semantic-router/blob/main/docs/03-basic-langchain-agent.ipynb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Langchain &#43; AWS</title>
+      <link>/post/2024-01-13-langchain-aws/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-langchain-aws/</guid>
+      <description>&lt;p&gt;Langchain + AWS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/docs/integrations/document_loaders/amazon_textract&#34;&gt;Langchain + Amazon Textract&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/docs/integrations/memory/aws_dynamodb&#34;&gt;Langchain + AWS DynamoDB&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/docs/integrations/retrievers/bedrock&#34;&gt;Langchain + Bedrock (Knowledge Bases)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://python.langchain.com/docs/integrations/tools/awslambda&#34;&gt;Langchain + AWS Lambda&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LangChain cookbook</title>
+      <link>/post/2024-01-13-langchain-cookbook/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-langchain-cookbook/</guid>
+      <description>&lt;p&gt;Example code for building applications with LangChain, with an emphasis on more applied and end-to-end examples than contained in the main documentation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/langchain-ai/langchain/tree/master/cookbook&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LangChain Templates</title>
+      <link>/post/2024-01-13-langchain-templates/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-langchain-templates/</guid>
+      <description>&lt;p&gt;LangChain Templates are the easiest and fastest way to build a production-ready LLM application. These templates serve as a set of reference architectures for a wide variety of popular LLM use cases. They are all in a standard format which make it easy to deploy them with LangServe.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://templates.langchain.com/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/langchain-ai/langchain/tree/master/templates&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss> 

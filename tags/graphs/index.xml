@@ -11,6 +11,17 @@
     
     
     <item>
+      <title>Constructing an Efficient Knowledge Graph RAG Pipeline with LlamaIndex</title>
+      <link>/post/2024-01-13-constructing-an-efficient-knowledge-graph-rag-pipeline-with-llamaindex/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-constructing-an-efficient-knowledge-graph-rag-pipeline-with-llamaindex/</guid>
+      <description>&lt;p&gt;Retrieval Augmented Generation (RAG) emerges as a solution to bridge this gap, allowing LLMs to access external knowledge sources. This article delves into RAG, examines its elements, and constructs a usable RAG workflow that harnesses the potential of LlamaIndex, a knowledge graph.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ai.gopubby.com/constructing-an-efficient-knowledge-graph-rag-pipeline-with-llamaindex-81a0a0b105b7&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Intelligent Graph = Knowledge Graph &#43; Intelligent Agents</title>
       <link>/post/2024-01-13-intelligent-graph-knowledge-graph-intelligent-agents/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>

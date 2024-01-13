@@ -44,6 +44,18 @@
     </item>
     
     <item>
+      <title>Intro to LangChain Agents with Semantic Router</title>
+      <link>/post/2024-01-13-intro-to-langchain-agents-with-semantic-router/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-intro-to-langchain-agents-with-semantic-router/</guid>
+      <description>&lt;p&gt;Use routes to remind agents of particular information or routes (we will do this in this notebook).
+Use routes to act as protective guardrails against specific types of queries.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/aurelio-labs/semantic-router/blob/main/docs/03-basic-langchain-agent.ipynb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>LlamaIndex - Building a Custom Agent</title>
       <link>/post/2024-01-13-llamaindex-building-a-custom-agent/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
@@ -74,6 +86,17 @@
       <description>&lt;p&gt;LLMCompiler is a framework that enables an efficient and effective orchestration of parallel function calling with LLMs, including both open-source and close-source models, by automatically identifying which tasks can be performed in parallel and which ones are interdependent.&lt;/p&gt;
 &lt;p&gt;[Link]{https://github.com/SqueezeAILab/LLMCompiler}&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/run-llama/llama-hub/blob/main/llama_hub/llama_packs/agents/llm_compiler/llm_compiler.ipynb&#34;&gt;LLM Compiler Agent Cookbook&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Streamlining AI Agent Development with Autogen and LLaVA</title>
+      <link>/post/2024-01-13-streamlining-ai-agent-development-with-autogen-and-llava/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024-01-13-streamlining-ai-agent-development-with-autogen-and-llava/</guid>
+      <description>&lt;p&gt;In this article, we’ll introduce you to the innovative world of Autogen, an AI agent that’s revolutionizing how we fine-tune and customize large multimodal models. Autogen takes the complexity out of the equation by automating and simplifying the fine-tuning process, making it accessible to developers and researchers alike. We’ll explore how Autogen collaborates seamlessly with models like LLaVA, streamlining AI agent development and opening the doors to more efficient and precise AI-driven solutions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/ai-artistry/streamlining-ai-agent-development-with-autogen-and-llava-b84fb0d25262&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
